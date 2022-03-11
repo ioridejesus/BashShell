@@ -2,23 +2,19 @@
 #Autor: Luis de Jesus
 #Generador de archivos aleatoriamente con extensiones de lenguajes de programacion
 
-#Inician las variables
+#DECLARACION DE VARIABLES
 
 nombrearchivo="extensiones.txt"
 
-stringaleatorio=$(openssl rand -hex 5)
-
-startcontador=0
-numarchivos=30
-
-for ((i=0; i<=$numarchivos; i++))
-do
-echo "numarchivos$i"
-done
+export rutaarchivosdesordenados=ArchivosDesordenados/
 
 while IFS= read line
 do
-#	touch "$stringaleatorio.$line" 
+for ((i=0; i<30; i++))
+do
+#declaramos nuestra cadena aleatoriamente
+stringaleatorio=$(openssl rand -hex 5)
+	touch "$rutaarchivosdesordenados$stringaleatorio.$line" 
 	echo "Se creo $stringaleatorio.$line"
-	
+done	
 done < $nombrearchivo
