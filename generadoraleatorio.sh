@@ -7,11 +7,14 @@
 nombrearchivo="extensiones.txt"
 holajs="console.log('Saludos Humano');"
 js="js"
+
+#Variables para dia aleatorio
+diaaleatorio = $(($RANDOM%31))
+mesaleatorio = $(($RANDOM%31))
+anioaleatorio = $(($RANDOM%2021)) 
 while IFS= read line
 do
-	if [ "$line" = `js` ]; then	
-		echo "$line Hola mundo"
-	fi
+	touch "Archivo.$line" 
+	echo "Se creo Archivo.$line"
 	
-	#echo "$line"
 done < $nombrearchivo
