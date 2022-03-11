@@ -1,1 +1,9 @@
-sh,java,sql,py,php,js,css,c,cpp
+sh
+java
+sql
+py
+php
+js
+css
+c
+cpp
