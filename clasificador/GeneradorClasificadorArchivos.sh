@@ -13,7 +13,7 @@ separador="______________________________________________"
 
 #Validando que el archivo donde se encuentran las extensiones se encuentre
 
-#Funcion GenerarArchivosAleatoriamente
+#Funcion para generar archivos aleatoriamente
 
 function GenerarArchivosAleatoriamente {
 if [ -f "$ARCHIVOEXTENSIONES" ]
@@ -48,8 +48,32 @@ else
 fi
 }
 
+# Funcion para clasificar los archivos de acuerdo a su extension
 
+function ClasificarArchivos {
+
+	while IFS= read line
+	do
+		if [ -d "$CARPETAARCHIVOSDESORDENADOS$line" ]
+		then
+			mv $CARPETAARCHIVOSDESORDENADOS*.$line $CARPETAARCHIVOSDESORDENADOS$line
+			echo "Archivos $line clasificados exitosamente"
+			echo "$separador"
+		else
+			mkdir "$CARPETAARCHIVOSDESORDENADOS$line"
+			mv $CARPETAARCHIVOSDESORDENADOS*.$line $CARPETAARCHIVOSDESORDENADOS$line
+			echo "Carpeta $line creada Exitosamente"
+			echo "Archivos $line clasificados exitosamente"
+			echo "$separador"
+		fi
+
+	done< $ARCHIVOEXTENSIONES
+
+
+}
 
 #Mandamos llamar nuestras funciones
 
 GenerarArchivosAleatoriamente
+ClasificarArchivos
+
