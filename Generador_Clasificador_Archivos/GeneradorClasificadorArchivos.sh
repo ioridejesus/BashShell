@@ -1,15 +1,16 @@
 #!/bin/bash
-########################################################################
-#
-#
-########################################################################
-
+#########################################################################
+#Aplicacion:GENERADOR Y CLASIFICADOR DE ARCHIVOS                        #
+#Nombre del shell: GeneradorClasificadorArchivos			#
+#Tipo de proceso (BATCH u ONLINE): BATCH                                #
+#Autor: Luis de Jesus Juan                                              #
+#########################################################################
 #Declaracion de Variables
 ARCHIVOEXTENSIONES="extensiones.txt"
 
 export CARPETAARCHIVOSDESORDENADOS=ArchivosDesordenados/
 
-separador="______________________________________________"
+separador="-________________________________________________________-"
 
 #Validando que el archivo donde se encuentran las extensiones se encuentre
 
@@ -19,31 +20,42 @@ function GenerarArchivosAleatoriamente {
 if [ -f "$ARCHIVOEXTENSIONES" ]
 then
 
-if [ -d "$CARPETAARCHIVOSDESORDENADOS" ]
-then
-	while IFS= read line
-	do
-		for ((i=0; i<30; i++))
-		do
+	if [ -s "$ARCHIVOEXTENSIONES" ]
+	then
 
-		#Declaramos una cadena aleatoria
-		STRINGALEATORIO=$(openssl rand -hex 5)
-		touch "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line"
-		echo "Se creo $CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line Correctamente"
-		separador="______________________________________________"
+		if [ -d "$CARPETAARCHIVOSDESORDENADOS" ]
+		then
+			while IFS= read line
+			do
+				echo "estoy dentro del while"
+				for ((i=0; i<30; i++))
+				do
 
-	done
-	done < $ARCHIVOEXTENSIONES
+				#Declaramos una cadena aleatoria
+				STRINGALEATORIO=$(openssl rand -hex 5)
+				touch "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line"
+				echo "Se creo $CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line Correctamente">>succes.txt
+				echo "$separador">>succes.txt
+
+				done
+			done < $ARCHIVOEXTENSIONES
+			
 	
-else
-	echo "No Existe el directorio $CARPETAARCHIVOSDESORDENADOS"
-	echo "$separador"
-	separador="______________________________________________"
-fi
+		else
+		echo "No Existe el directorio $CARPETAARCHIVOSDESORDENADOS">>log.txt
+		echo "$separador">>log.txt
+		exit 1
+		fi
+	else
+		echo "El fichero $ARCHIVOEXTENSIONES se encuentra vacio">>log.txt
+		echo "$separador">>log.txt
+		exit 1
+	fi
 else
 
-	echo "El fichero $ARCHIVOEXTENSIONES no existe"
-	echo "$separador"
+	echo "El fichero $ARCHIVOEXTENSIONES no existe">>log.txt
+	echo "$separador">>log.txt
+	exit 1
 
 fi
 }
@@ -57,14 +69,14 @@ function ClasificarArchivos {
 		if [ -d "$CARPETAARCHIVOSDESORDENADOS$line" ]
 		then
 			mv $CARPETAARCHIVOSDESORDENADOS*.$line $CARPETAARCHIVOSDESORDENADOS$line
-			echo "Archivos $line clasificados exitosamente"
-			echo "$separador"
+			echo "Archivos $line clasificados exitosamente">>succes.txt
+			echo "$separador">>succes.txt
 		else
 			mkdir "$CARPETAARCHIVOSDESORDENADOS$line"
 			mv $CARPETAARCHIVOSDESORDENADOS*.$line $CARPETAARCHIVOSDESORDENADOS$line
-			echo "Carpeta $line creada Exitosamente"
-			echo "Archivos $line clasificados exitosamente"
-			echo "$separador"
+			echo "Carpeta $line creada Exitosamente">>succes.txt
+			echo "Archivos $line clasificados exitosamente">>succes.txt
+			echo "$separador">>succes.txt
 		fi
 
 	done< $ARCHIVOEXTENSIONES
