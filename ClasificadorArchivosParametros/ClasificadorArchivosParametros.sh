@@ -15,15 +15,15 @@ ARCHIVOEXTENSIONES=$1
 export CARPETAARCHIVOSDESORDENADOS=$2"/"
 
 
+#########################################################################
 #Declaracion de Variables
-#ARCHIVOEXTENSIONES="extensiones.txt"
+
 ERRORES="log.txt"
 SUCCES="succes.txt"
 
-#export CARPETAARCHIVOSDESORDENADOS=ArchivosDesordenados/
-
 separador="-________________________________________________________-"
 
+#########################################################################
 function ValidarParametros {
 
 	if [[ "$1" == "" ]]
@@ -53,6 +53,10 @@ function ValidarParametros {
 #Funcion para generar archivos aleatoriamente
 
 function GenerarArchivosAleatoriamente {
+
+#Se declara una variable para identificar si hay error en alguna linea en especifico
+incrementablearchivo=0
+
 if [ -f "$ARCHIVOEXTENSIONES" ]
 then
 
@@ -63,6 +67,7 @@ then
 		then
 			while IFS= read line
 			do
+				incrementablearchivo=$((incrementablearchivo+1))
 				if [[ "$line" != "" ]]
 				then	
 					for ((i=0; i<30; i++))
@@ -73,10 +78,12 @@ then
 					touch "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line"
 					echo "Se creo $CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line Correctamente">>$SUCCES
 					echo "$separador">>$SUCCES
+					condicionales "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line" "$STRINGALEATORIO"
+					
 
 				done
 				else
-					echo "No se puede crear este archivo debido a: La linea se encuentra vacia ">>$ERRORES
+					echo "No se puede crear este archivo debido a: La linea $incrementablearchivo se encuentra vacia ">>$ERRORES
 					echo "$separador">>$ERRORES
 			fi	
 			done < $ARCHIVOEXTENSIONES
@@ -107,21 +114,52 @@ function ClasificarArchivos {
 
 	while IFS= read line
 	do
-		if [ -d "$CARPETAARCHIVOSDESORDENADOS$line" ]
-		then
-			mv $CARPETAARCHIVOSDESORDENADOS*.$line $CARPETAARCHIVOSDESORDENADOS$line
-			echo "Archivos $line clasificados exitosamente">>$SUCCES
-			echo "$separador">>$SUCCES
-		else
-			mkdir "$CARPETAARCHIVOSDESORDENADOS$line"
-			mv $CARPETAARCHIVOSDESORDENADOS*.$line $CARPETAARCHIVOSDESORDENADOS$line
-			echo "Carpeta $line creada Exitosamente">>$SUCCES
-			echo "Archivos $line clasificados exitosamente">>$SUCCES
-			echo "$separador">>$SUCCES
-		fi
+		
+		if [[ "$line" != "" ]]
+		then	
+			if [ -d "$CARPETAARCHIVOSDESORDENADOS$line" ]
+			then
 
+				mv $CARPETAARCHIVOSDESORDENADOS*.$line $CARPETAARCHIVOSDESORDENADOS$line
+				echo "Archivos $line clasificados exitosamente">>$SUCCES
+				echo "$separador">>$SUCCES
+			else
+				mkdir "$CARPETAARCHIVOSDESORDENADOS$line"
+				mv $CARPETAARCHIVOSDESORDENADOS*.$line $CARPETAARCHIVOSDESORDENADOS$line
+				echo "Carpeta $line creada Exitosamente">>$SUCCES
+				echo "Archivos $line clasificados exitosamente">>$SUCCES
+				echo "$separador">>$SUCCES
+			fi
+
+		fi
 	done< $ARCHIVOEXTENSIONES
 
+
+}
+
+# FUNCIONES PARA INSERTAR CODIGO EN NUESTROS NUEVOS FICHEROS
+
+function holaphp {
+
+	iniciophp="<?php">>$1
+	phpuno="echo Bienvenido </b>$2</b>;">>$1
+	phpdos="?>">>$1
+
+	
+
+}  
+
+# FUNCIONES DE NUESTRAS CONDICIONALES
+
+function Condicionales {
+
+	if [[ "$1" == "php" ]]
+	then
+		holaphp $1 $2
+		
+	else
+	continue			
+	fi
 
 }
 
@@ -129,5 +167,5 @@ function ClasificarArchivos {
 
 ValidarParametros $1 $2
 GenerarArchivosAleatoriamente
-#ClasificarArchivos
+ClasificarArchivos
 
