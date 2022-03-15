@@ -27,7 +27,6 @@ then
 		then
 			while IFS= read line
 			do
-				echo "estoy dentro del while"
 				for ((i=0; i<30; i++))
 				do
 
