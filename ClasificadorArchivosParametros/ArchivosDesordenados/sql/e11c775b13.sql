@@ -1,9 +1,0 @@
-CREATE DATABASE e11c775b13
-
-USE e11c775b13
-
-CREATE TABLE table_e11c775b13 (frase TEXT);
-
-INSERT INTO table_e11c775b13 VALUES ("Hola, e11c775b13.sql!");
-INSERT INTO table_e11c775b13 VALUES ("Adios, e11c775b13.sql!");
-SELECT * FROM table_e11c775b13;

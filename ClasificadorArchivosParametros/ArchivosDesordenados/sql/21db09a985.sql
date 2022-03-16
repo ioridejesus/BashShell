@@ -1,9 +1,0 @@
-CREATE DATABASE 21db09a985
-
-USE 21db09a985
-
-CREATE TABLE table_21db09a985 (frase TEXT);
-
-INSERT INTO table_21db09a985 VALUES ("Hola, 21db09a985.sql!");
-INSERT INTO table_21db09a985 VALUES ("Adios, 21db09a985.sql!");
-SELECT * FROM table_21db09a985;

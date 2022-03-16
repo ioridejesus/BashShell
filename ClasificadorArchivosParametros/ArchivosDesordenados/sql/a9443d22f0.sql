@@ -1,9 +1,0 @@
-CREATE DATABASE a9443d22f0
-
-USE a9443d22f0
-
-CREATE TABLE table_a9443d22f0 (frase TEXT);
-
-INSERT INTO table_a9443d22f0 VALUES ("Hola, a9443d22f0.sql!");
-INSERT INTO table_a9443d22f0 VALUES ("Adios, a9443d22f0.sql!");
-SELECT * FROM table_a9443d22f0;

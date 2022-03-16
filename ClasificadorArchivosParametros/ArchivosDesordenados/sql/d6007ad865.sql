@@ -1,9 +1,0 @@
-CREATE DATABASE d6007ad865
-
-USE d6007ad865
-
-CREATE TABLE table_d6007ad865 (frase TEXT);
-
-INSERT INTO table_d6007ad865 VALUES ("Hola, d6007ad865.sql!");
-INSERT INTO table_d6007ad865 VALUES ("Adios, d6007ad865.sql!");
-SELECT * FROM table_d6007ad865;

@@ -1,9 +1,0 @@
-CREATE DATABASE f8971b1a60
-
-USE f8971b1a60
-
-CREATE TABLE table_f8971b1a60 (frase TEXT);
-
-INSERT INTO table_f8971b1a60 VALUES ("Hola, f8971b1a60.sql!");
-INSERT INTO table_f8971b1a60 VALUES ("Adios, f8971b1a60.sql!");
-SELECT * FROM table_f8971b1a60;

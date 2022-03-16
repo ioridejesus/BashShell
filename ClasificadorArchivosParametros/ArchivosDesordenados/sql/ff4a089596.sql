@@ -1,9 +1,0 @@
-CREATE DATABASE ff4a089596
-
-USE ff4a089596
-
-CREATE TABLE table_ff4a089596 (frase TEXT);
-
-INSERT INTO table_ff4a089596 VALUES ("Hola, ff4a089596.sql!");
-INSERT INTO table_ff4a089596 VALUES ("Adios, ff4a089596.sql!");
-SELECT * FROM table_ff4a089596;

@@ -1,9 +1,0 @@
-CREATE DATABASE 23e2448fa2
-
-USE 23e2448fa2
-
-CREATE TABLE table_23e2448fa2 (frase TEXT);
-
-INSERT INTO table_23e2448fa2 VALUES ("Hola, 23e2448fa2.sql!");
-INSERT INTO table_23e2448fa2 VALUES ("Adios, 23e2448fa2.sql!");
-SELECT * FROM table_23e2448fa2;

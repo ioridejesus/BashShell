@@ -1,9 +1,0 @@
-CREATE DATABASE db6399894e
-
-USE db6399894e
-
-CREATE TABLE table_db6399894e (frase TEXT);
-
-INSERT INTO table_db6399894e VALUES ("Hola, db6399894e.sql!");
-INSERT INTO table_db6399894e VALUES ("Adios, db6399894e.sql!");
-SELECT * FROM table_db6399894e;

@@ -1,9 +1,0 @@
-CREATE DATABASE 30ca54548f
-
-USE 30ca54548f
-
-CREATE TABLE table_30ca54548f (frase TEXT);
-
-INSERT INTO table_30ca54548f VALUES ("Hola, 30ca54548f.sql!");
-INSERT INTO table_30ca54548f VALUES ("Adios, 30ca54548f.sql!");
-SELECT * FROM table_30ca54548f;

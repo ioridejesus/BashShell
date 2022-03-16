@@ -1,9 +1,0 @@
-CREATE DATABASE 4c2f00d886
-
-USE 4c2f00d886
-
-CREATE TABLE table_4c2f00d886 (frase TEXT);
-
-INSERT INTO table_4c2f00d886 VALUES ("Hola, 4c2f00d886.sql!");
-INSERT INTO table_4c2f00d886 VALUES ("Adios, 4c2f00d886.sql!");
-SELECT * FROM table_4c2f00d886;

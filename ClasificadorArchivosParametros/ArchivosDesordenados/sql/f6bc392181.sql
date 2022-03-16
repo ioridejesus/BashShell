@@ -1,9 +1,0 @@
-CREATE DATABASE f6bc392181
-
-USE f6bc392181
-
-CREATE TABLE table_f6bc392181 (frase TEXT);
-
-INSERT INTO table_f6bc392181 VALUES ("Hola, f6bc392181.sql!");
-INSERT INTO table_f6bc392181 VALUES ("Adios, f6bc392181.sql!");
-SELECT * FROM table_f6bc392181;

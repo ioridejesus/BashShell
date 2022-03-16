@@ -1,9 +1,0 @@
-CREATE DATABASE 9ba12634d4
-
-USE 9ba12634d4
-
-CREATE TABLE table_9ba12634d4 (frase TEXT);
-
-INSERT INTO table_9ba12634d4 VALUES ("Hola, 9ba12634d4.sql!");
-INSERT INTO table_9ba12634d4 VALUES ("Adios, 9ba12634d4.sql!");
-SELECT * FROM table_9ba12634d4;

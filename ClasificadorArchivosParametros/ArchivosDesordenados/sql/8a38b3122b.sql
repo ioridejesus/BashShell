@@ -1,9 +1,0 @@
-CREATE DATABASE 8a38b3122b
-
-USE 8a38b3122b
-
-CREATE TABLE table_8a38b3122b (frase TEXT);
-
-INSERT INTO table_8a38b3122b VALUES ("Hola, 8a38b3122b.sql!");
-INSERT INTO table_8a38b3122b VALUES ("Adios, 8a38b3122b.sql!");
-SELECT * FROM table_8a38b3122b;

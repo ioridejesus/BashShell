@@ -1,9 +1,0 @@
-CREATE DATABASE 2112fa36f5
-
-USE 2112fa36f5
-
-CREATE TABLE table_2112fa36f5 (frase TEXT);
-
-INSERT INTO table_2112fa36f5 VALUES ("Hola, 2112fa36f5.sql!");
-INSERT INTO table_2112fa36f5 VALUES ("Adios, 2112fa36f5.sql!");
-SELECT * FROM table_2112fa36f5;

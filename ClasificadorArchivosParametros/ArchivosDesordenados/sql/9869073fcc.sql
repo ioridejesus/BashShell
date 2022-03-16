@@ -1,9 +1,0 @@
-CREATE DATABASE 9869073fcc
-
-USE 9869073fcc
-
-CREATE TABLE table_9869073fcc (frase TEXT);
-
-INSERT INTO table_9869073fcc VALUES ("Hola, 9869073fcc.sql!");
-INSERT INTO table_9869073fcc VALUES ("Adios, 9869073fcc.sql!");
-SELECT * FROM table_9869073fcc;

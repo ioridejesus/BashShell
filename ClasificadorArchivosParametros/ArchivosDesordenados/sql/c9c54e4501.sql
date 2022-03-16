@@ -1,9 +1,0 @@
-CREATE DATABASE c9c54e4501
-
-USE c9c54e4501
-
-CREATE TABLE table_c9c54e4501 (frase TEXT);
-
-INSERT INTO table_c9c54e4501 VALUES ("Hola, c9c54e4501.sql!");
-INSERT INTO table_c9c54e4501 VALUES ("Adios, c9c54e4501.sql!");
-SELECT * FROM table_c9c54e4501;

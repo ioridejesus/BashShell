@@ -1,9 +1,0 @@
-CREATE DATABASE 2652ae2f88
-
-USE 2652ae2f88
-
-CREATE TABLE table_2652ae2f88 (frase TEXT);
-
-INSERT INTO table_2652ae2f88 VALUES ("Hola, 2652ae2f88.sql!");
-INSERT INTO table_2652ae2f88 VALUES ("Adios, 2652ae2f88.sql!");
-SELECT * FROM table_2652ae2f88;

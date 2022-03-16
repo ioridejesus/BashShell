@@ -1,9 +1,0 @@
-CREATE DATABASE 2e074e76e9
-
-USE 2e074e76e9
-
-CREATE TABLE table_2e074e76e9 (frase TEXT);
-
-INSERT INTO table_2e074e76e9 VALUES ("Hola, 2e074e76e9.sql!");
-INSERT INTO table_2e074e76e9 VALUES ("Adios, 2e074e76e9.sql!");
-SELECT * FROM table_2e074e76e9;

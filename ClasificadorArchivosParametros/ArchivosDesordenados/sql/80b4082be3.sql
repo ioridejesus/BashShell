@@ -1,9 +1,0 @@
-CREATE DATABASE 80b4082be3
-
-USE 80b4082be3
-
-CREATE TABLE table_80b4082be3 (frase TEXT);
-
-INSERT INTO table_80b4082be3 VALUES ("Hola, 80b4082be3.sql!");
-INSERT INTO table_80b4082be3 VALUES ("Adios, 80b4082be3.sql!");
-SELECT * FROM table_80b4082be3;

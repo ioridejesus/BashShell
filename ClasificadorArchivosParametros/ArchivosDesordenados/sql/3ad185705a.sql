@@ -1,9 +1,0 @@
-CREATE DATABASE 3ad185705a
-
-USE 3ad185705a
-
-CREATE TABLE table_3ad185705a (frase TEXT);
-
-INSERT INTO table_3ad185705a VALUES ("Hola, 3ad185705a.sql!");
-INSERT INTO table_3ad185705a VALUES ("Adios, 3ad185705a.sql!");
-SELECT * FROM table_3ad185705a;

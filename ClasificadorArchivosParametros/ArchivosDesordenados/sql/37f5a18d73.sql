@@ -1,9 +1,0 @@
-CREATE DATABASE 37f5a18d73
-
-USE 37f5a18d73
-
-CREATE TABLE table_37f5a18d73 (frase TEXT);
-
-INSERT INTO table_37f5a18d73 VALUES ("Hola, 37f5a18d73.sql!");
-INSERT INTO table_37f5a18d73 VALUES ("Adios, 37f5a18d73.sql!");
-SELECT * FROM table_37f5a18d73;

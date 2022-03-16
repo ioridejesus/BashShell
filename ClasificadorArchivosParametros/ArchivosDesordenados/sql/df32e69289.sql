@@ -1,9 +1,0 @@
-CREATE DATABASE df32e69289
-
-USE df32e69289
-
-CREATE TABLE table_df32e69289 (frase TEXT);
-
-INSERT INTO table_df32e69289 VALUES ("Hola, df32e69289.sql!");
-INSERT INTO table_df32e69289 VALUES ("Adios, df32e69289.sql!");
-SELECT * FROM table_df32e69289;

@@ -1,9 +1,0 @@
-CREATE DATABASE 3a393f141f
-
-USE 3a393f141f
-
-CREATE TABLE table_3a393f141f (frase TEXT);
-
-INSERT INTO table_3a393f141f VALUES ("Hola, 3a393f141f.sql!");
-INSERT INTO table_3a393f141f VALUES ("Adios, 3a393f141f.sql!");
-SELECT * FROM table_3a393f141f;

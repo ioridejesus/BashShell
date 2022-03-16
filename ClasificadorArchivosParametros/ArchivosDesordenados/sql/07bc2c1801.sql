@@ -1,9 +1,0 @@
-CREATE DATABASE 07bc2c1801
-
-USE 07bc2c1801
-
-CREATE TABLE table_07bc2c1801 (frase TEXT);
-
-INSERT INTO table_07bc2c1801 VALUES ("Hola, 07bc2c1801.sql!");
-INSERT INTO table_07bc2c1801 VALUES ("Adios, 07bc2c1801.sql!");
-SELECT * FROM table_07bc2c1801;

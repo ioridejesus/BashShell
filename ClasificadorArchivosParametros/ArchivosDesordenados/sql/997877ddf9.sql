@@ -1,9 +1,0 @@
-CREATE DATABASE 997877ddf9
-
-USE 997877ddf9
-
-CREATE TABLE table_997877ddf9 (frase TEXT);
-
-INSERT INTO table_997877ddf9 VALUES ("Hola, 997877ddf9.sql!");
-INSERT INTO table_997877ddf9 VALUES ("Adios, 997877ddf9.sql!");
-SELECT * FROM table_997877ddf9;

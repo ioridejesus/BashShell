@@ -1,9 +1,0 @@
-CREATE DATABASE ee93023b86
-
-USE ee93023b86
-
-CREATE TABLE table_ee93023b86 (frase TEXT);
-
-INSERT INTO table_ee93023b86 VALUES ("Hola, ee93023b86.sql!");
-INSERT INTO table_ee93023b86 VALUES ("Adios, ee93023b86.sql!");
-SELECT * FROM table_ee93023b86;

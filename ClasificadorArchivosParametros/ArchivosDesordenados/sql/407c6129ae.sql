@@ -1,9 +1,0 @@
-CREATE DATABASE 407c6129ae
-
-USE 407c6129ae
-
-CREATE TABLE table_407c6129ae (frase TEXT);
-
-INSERT INTO table_407c6129ae VALUES ("Hola, 407c6129ae.sql!");
-INSERT INTO table_407c6129ae VALUES ("Adios, 407c6129ae.sql!");
-SELECT * FROM table_407c6129ae;

@@ -1,9 +1,0 @@
-CREATE DATABASE 95393e8ec7
-
-USE 95393e8ec7
-
-CREATE TABLE table_95393e8ec7 (frase TEXT);
-
-INSERT INTO table_95393e8ec7 VALUES ("Hola, 95393e8ec7.sql!");
-INSERT INTO table_95393e8ec7 VALUES ("Adios, 95393e8ec7.sql!");
-SELECT * FROM table_95393e8ec7;

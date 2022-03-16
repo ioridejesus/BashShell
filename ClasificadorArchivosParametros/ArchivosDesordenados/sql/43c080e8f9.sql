@@ -1,9 +1,0 @@
-CREATE DATABASE 43c080e8f9
-
-USE 43c080e8f9
-
-CREATE TABLE table_43c080e8f9 (frase TEXT);
-
-INSERT INTO table_43c080e8f9 VALUES ("Hola, 43c080e8f9.sql!");
-INSERT INTO table_43c080e8f9 VALUES ("Adios, 43c080e8f9.sql!");
-SELECT * FROM table_43c080e8f9;

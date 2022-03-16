@@ -1,9 +1,0 @@
-CREATE DATABASE 133df8b659
-
-USE 133df8b659
-
-CREATE TABLE table_133df8b659 (frase TEXT);
-
-INSERT INTO table_133df8b659 VALUES ("Hola, 133df8b659.sql!");
-INSERT INTO table_133df8b659 VALUES ("Adios, 133df8b659.sql!");
-SELECT * FROM table_133df8b659;

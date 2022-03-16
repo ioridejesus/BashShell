@@ -1,9 +1,0 @@
-CREATE DATABASE 1c3b3126b9
-
-USE 1c3b3126b9
-
-CREATE TABLE table_1c3b3126b9 (frase TEXT);
-
-INSERT INTO table_1c3b3126b9 VALUES ("Hola, 1c3b3126b9.sql!");
-INSERT INTO table_1c3b3126b9 VALUES ("Adios, 1c3b3126b9.sql!");
-SELECT * FROM table_1c3b3126b9;

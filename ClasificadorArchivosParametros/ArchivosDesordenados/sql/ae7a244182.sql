@@ -1,9 +1,0 @@
-CREATE DATABASE ae7a244182
-
-USE ae7a244182
-
-CREATE TABLE table_ae7a244182 (frase TEXT);
-
-INSERT INTO table_ae7a244182 VALUES ("Hola, ae7a244182.sql!");
-INSERT INTO table_ae7a244182 VALUES ("Adios, ae7a244182.sql!");
-SELECT * FROM table_ae7a244182;

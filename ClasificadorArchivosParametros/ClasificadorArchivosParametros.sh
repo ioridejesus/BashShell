@@ -24,6 +24,8 @@ SUCCES="succes.txt"
 
 separador="-______________________________________________________________________________________________________-"
 
+FECHA_ACTUAL=`date +"%Y/%m/%d %H:%M:%s"`
+
 #########################################################################
 function ValidarParametros {
 
@@ -104,13 +106,13 @@ function Holajava {
 
     export ESCRIBIRJAVA=$1
 
-    echo "public class $4 {" >>$ESCRIBIRJAVA
-    echo "" >>ESCRIBIRJAVA
+    echo "public class $4 {">>$ESCRIBIRJAVA
+    echo "">>$ESCRIBIRJAVA
     echo "	public static void main(String[] args) {">>$ESCRIBIRJAVA
     echo "		System.out.println(\"Hola $3.\");">>$ESCRIBIRJAVA
-    echo "	}" >>$ESCRIBIRJAVA
-    echo "" >>$ESCRIBIRJAVA
-    echo "}" >>$ESCRIBIRJAVA
+    echo "	}">>$ESCRIBIRJAVA
+    echo "">>$ESCRIBIRJAVA
+    echo "}">>$ESCRIBIRJAVA
 
     echo "Sintaxis $2 escrita correctamente en el archivo $3" >>$SUCCES
     echo "$separador" >>$SUCCES
@@ -305,7 +307,12 @@ function ClasificarArchivos {
 
 #Mandamos llamar nuestras funciones
 
+echo "Inicia la bitacora: $FECHA_ACTUAL">>$SUCCES
+
 ValidarParametros $1 $2
 GenerarArchivosAleatoriamente
 ClasificarArchivos
 
+echo "Fin Bitacora">>$SUCCES 
+echo "">>$SUCCES 
+echo "">>$SUCCES 

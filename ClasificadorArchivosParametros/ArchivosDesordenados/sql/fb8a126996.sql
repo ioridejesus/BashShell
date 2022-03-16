@@ -1,9 +1,0 @@
-CREATE DATABASE fb8a126996
-
-USE fb8a126996
-
-CREATE TABLE table_fb8a126996 (frase TEXT);
-
-INSERT INTO table_fb8a126996 VALUES ("Hola, fb8a126996.sql!");
-INSERT INTO table_fb8a126996 VALUES ("Adios, fb8a126996.sql!");
-SELECT * FROM table_fb8a126996;

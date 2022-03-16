@@ -1,9 +1,0 @@
-CREATE DATABASE 15234f3eb6
-
-USE 15234f3eb6
-
-CREATE TABLE table_15234f3eb6 (frase TEXT);
-
-INSERT INTO table_15234f3eb6 VALUES ("Hola, 15234f3eb6.sql!");
-INSERT INTO table_15234f3eb6 VALUES ("Adios, 15234f3eb6.sql!");
-SELECT * FROM table_15234f3eb6;

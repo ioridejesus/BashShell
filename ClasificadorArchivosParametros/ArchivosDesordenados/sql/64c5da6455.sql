@@ -1,9 +1,0 @@
-CREATE DATABASE 64c5da6455
-
-USE 64c5da6455
-
-CREATE TABLE table_64c5da6455 (frase TEXT);
-
-INSERT INTO table_64c5da6455 VALUES ("Hola, 64c5da6455.sql!");
-INSERT INTO table_64c5da6455 VALUES ("Adios, 64c5da6455.sql!");
-SELECT * FROM table_64c5da6455;

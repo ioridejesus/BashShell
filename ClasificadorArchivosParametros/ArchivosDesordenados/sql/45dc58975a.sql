@@ -1,9 +1,0 @@
-CREATE DATABASE 45dc58975a
-
-USE 45dc58975a
-
-CREATE TABLE table_45dc58975a (frase TEXT);
-
-INSERT INTO table_45dc58975a VALUES ("Hola, 45dc58975a.sql!");
-INSERT INTO table_45dc58975a VALUES ("Adios, 45dc58975a.sql!");
-SELECT * FROM table_45dc58975a;

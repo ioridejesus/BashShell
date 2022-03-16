@@ -1,9 +1,0 @@
-CREATE DATABASE ad7254c169
-
-USE ad7254c169
-
-CREATE TABLE table_ad7254c169 (frase TEXT);
-
-INSERT INTO table_ad7254c169 VALUES ("Hola, ad7254c169.sql!");
-INSERT INTO table_ad7254c169 VALUES ("Adios, ad7254c169.sql!");
-SELECT * FROM table_ad7254c169;

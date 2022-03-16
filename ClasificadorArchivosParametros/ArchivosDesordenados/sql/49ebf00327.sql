@@ -1,9 +1,0 @@
-CREATE DATABASE 49ebf00327
-
-USE 49ebf00327
-
-CREATE TABLE table_49ebf00327 (frase TEXT);
-
-INSERT INTO table_49ebf00327 VALUES ("Hola, 49ebf00327.sql!");
-INSERT INTO table_49ebf00327 VALUES ("Adios, 49ebf00327.sql!");
-SELECT * FROM table_49ebf00327;

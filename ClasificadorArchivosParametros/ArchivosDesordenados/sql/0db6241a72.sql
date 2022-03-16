@@ -1,9 +1,0 @@
-CREATE DATABASE 0db6241a72
-
-USE 0db6241a72
-
-CREATE TABLE table_0db6241a72 (frase TEXT);
-
-INSERT INTO table_0db6241a72 VALUES ("Hola, 0db6241a72.sql!");
-INSERT INTO table_0db6241a72 VALUES ("Adios, 0db6241a72.sql!");
-SELECT * FROM table_0db6241a72;

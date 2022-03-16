@@ -1,9 +1,0 @@
-CREATE DATABASE ba8304915c
-
-USE ba8304915c
-
-CREATE TABLE table_ba8304915c (frase TEXT);
-
-INSERT INTO table_ba8304915c VALUES ("Hola, ba8304915c.sql!");
-INSERT INTO table_ba8304915c VALUES ("Adios, ba8304915c.sql!");
-SELECT * FROM table_ba8304915c;

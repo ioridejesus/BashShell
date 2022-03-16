@@ -1,9 +1,0 @@
-CREATE DATABASE 917fb548f4
-
-USE 917fb548f4
-
-CREATE TABLE table_917fb548f4 (frase TEXT);
-
-INSERT INTO table_917fb548f4 VALUES ("Hola, 917fb548f4.sql!");
-INSERT INTO table_917fb548f4 VALUES ("Adios, 917fb548f4.sql!");
-SELECT * FROM table_917fb548f4;

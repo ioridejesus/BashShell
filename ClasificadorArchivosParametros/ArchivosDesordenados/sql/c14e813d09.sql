@@ -1,9 +1,0 @@
-CREATE DATABASE c14e813d09
-
-USE c14e813d09
-
-CREATE TABLE table_c14e813d09 (frase TEXT);
-
-INSERT INTO table_c14e813d09 VALUES ("Hola, c14e813d09.sql!");
-INSERT INTO table_c14e813d09 VALUES ("Adios, c14e813d09.sql!");
-SELECT * FROM table_c14e813d09;

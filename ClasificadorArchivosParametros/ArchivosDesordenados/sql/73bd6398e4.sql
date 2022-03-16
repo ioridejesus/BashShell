@@ -1,9 +1,0 @@
-CREATE DATABASE 73bd6398e4
-
-USE 73bd6398e4
-
-CREATE TABLE table_73bd6398e4 (frase TEXT);
-
-INSERT INTO table_73bd6398e4 VALUES ("Hola, 73bd6398e4.sql!");
-INSERT INTO table_73bd6398e4 VALUES ("Adios, 73bd6398e4.sql!");
-SELECT * FROM table_73bd6398e4;

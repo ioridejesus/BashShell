@@ -1,9 +1,0 @@
-CREATE DATABASE 4a964a54e6
-
-USE 4a964a54e6
-
-CREATE TABLE table_4a964a54e6 (frase TEXT);
-
-INSERT INTO table_4a964a54e6 VALUES ("Hola, 4a964a54e6.sql!");
-INSERT INTO table_4a964a54e6 VALUES ("Adios, 4a964a54e6.sql!");
-SELECT * FROM table_4a964a54e6;

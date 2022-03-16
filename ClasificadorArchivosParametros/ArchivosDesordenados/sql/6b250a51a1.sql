@@ -1,9 +1,0 @@
-CREATE DATABASE 6b250a51a1
-
-USE 6b250a51a1
-
-CREATE TABLE table_6b250a51a1 (frase TEXT);
-
-INSERT INTO table_6b250a51a1 VALUES ("Hola, 6b250a51a1.sql!");
-INSERT INTO table_6b250a51a1 VALUES ("Adios, 6b250a51a1.sql!");
-SELECT * FROM table_6b250a51a1;
