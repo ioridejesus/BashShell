@@ -48,6 +48,31 @@ function ValidarParametros {
 
 } 
 
+# FUNCIONES PARA INSERTAR CODIGO EN NUESTROS NUEVOS FICHEROS
+
+function holaphp {
+
+	iniciophp="<?php">>$1
+	phpuno="echo Bienvenido </b>$2</b>;">>$1
+	phpdos="?>">>$1
+
+	
+
+}  
+
+# FUNCIONES DE NUESTRAS CONDICIONALES
+
+function Condicionales {
+
+
+	if [[ "$2" == "php" ]]
+	then
+	
+		return "Hola Mundo: $2" 
+	else
+		return echo "Por el momento no contamos con esta opcion"
+	fi
+}
 #Validando que el fichero donde se encuentren las extensiones EXISTA
 
 #Funcion para generar archivos aleatoriamente
@@ -78,7 +103,8 @@ then
 					touch "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line"
 					echo "Se creo $CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line Correctamente">>$SUCCES
 					echo "$separador">>$SUCCES
-					condicionales "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line" "$STRINGALEATORIO"
+					
+					echo "Salida: '$(Condicionales "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line" "$line")'"
 					
 
 				done
@@ -137,31 +163,6 @@ function ClasificarArchivos {
 
 }
 
-# FUNCIONES PARA INSERTAR CODIGO EN NUESTROS NUEVOS FICHEROS
-
-function holaphp {
-
-	iniciophp="<?php">>$1
-	phpuno="echo Bienvenido </b>$2</b>;">>$1
-	phpdos="?>">>$1
-
-	
-
-}  
-
-# FUNCIONES DE NUESTRAS CONDICIONALES
-
-function Condicionales {
-
-	if [[ "$1" == "php" ]]
-	then
-		holaphp $1 $2
-		
-	else
-	continue			
-	fi
-
-}
 
 #Mandamos llamar nuestras funciones
 
