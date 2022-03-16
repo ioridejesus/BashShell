@@ -14,6 +14,7 @@ ARCHIVOEXTENSIONES=$1
 
 export CARPETAARCHIVOSDESORDENADOS=$2"/"
 
+export NUMARCHIVOS=$3
 
 #########################################################################
 #Declaracion de Variables
@@ -21,7 +22,7 @@ export CARPETAARCHIVOSDESORDENADOS=$2"/"
 ERRORES="log.txt"
 SUCCES="succes.txt"
 
-separador="-________________________________________________________-"
+separador="-______________________________________________________________________________________________________-"
 
 #########################################################################
 function ValidarParametros {
@@ -46,16 +47,36 @@ function ValidarParametros {
 		echo "$separador">>$SUCCES
 	fi
 
+	if [[ $NUMARCHIVOS == "" ]]
+	then
+		NUMARCHIVOS=1
+		echo "EL parametro 3 viene vacio por lo tanto equivale a 1">>$SUCCES
+		echo "$separador">>$SUCCES
+
+	elif [[ $NUMARCHIVOS =~ ^[0-9] ]]
+	then
+		NUMARCHIVOS=$NUMARCHIVOS 
+		echo "Existe informacion en el parametro 3: $NUMARCHIVOS">>$SUCCES
+		echo "$separador">>$SUCCES
+	else
+		echo "Imposible continuar debido a que el parametro 3: $NUMARCHIVOS no es un NUMERO">>$ERRORES
+		echo "$separador">>$ERRORES
+		exit 1
+	fi
+
 } 
 
 # FUNCIONES PARA INSERTAR CODIGO EN NUESTROS NUEVOS FICHEROS
 
-function holaphp {
-
-	iniciophp="<?php">>$1
-	phpuno="echo Bienvenido </b>$2</b>;">>$1
-	phpdos="?>">>$1
-
+function Holaphp {
+	
+	export ESCRIBIRPHP=$1
+	echo "<?php">>$ESCRIBIRPHP
+	echo "echo \"Bienvenido Archivo: </b>$3</b>;\"">>$ESCRIBIRPHP
+	echo "?>">>$ESCRIBIRPHP
+	echo "Sintaxis $2 escrita correctamente en el archivo $3">>$SUCCES
+	echo "$separador">>$SUCCES
+	return 1 
 	
 
 }  
@@ -67,12 +88,17 @@ function Condicionales {
 
 	if [[ "$2" == "php" ]]
 	then
-	
-		return "Hola Mundo: $2" 
+		echo "Existe la funcion para: $2">>$SUCCES	
+		echo "$separador">>$SUCCES
+		$(Holaphp "$1" "$2" "$3")
+		return 1
 	else
-		return echo "Por el momento no contamos con esta opcion"
+		echo "Falta realizar una funcion para: \"$2\"">>$ERRORES
+		echo "$separador">>$ERRORES
+		return 1
 	fi
 }
+
 #Validando que el fichero donde se encuentren las extensiones EXISTA
 
 #Funcion para generar archivos aleatoriamente
@@ -95,7 +121,7 @@ then
 				incrementablearchivo=$((incrementablearchivo+1))
 				if [[ "$line" != "" ]]
 				then	
-					for ((i=0; i<30; i++))
+					for ((i=0; i<$NUMARCHIVOS; i++))
 					do
 
 					#Declaramos una cadena aleatoria
@@ -104,8 +130,7 @@ then
 					echo "Se creo $CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line Correctamente">>$SUCCES
 					echo "$separador">>$SUCCES
 					
-					echo "Salida: '$(Condicionales "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line" "$line")'"
-					
+					$(Condicionales "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line" "$line" "$STRINGALEATORIO.$line")
 
 				done
 				else
