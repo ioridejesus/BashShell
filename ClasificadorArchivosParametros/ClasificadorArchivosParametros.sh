@@ -79,7 +79,44 @@ function Holaphp {
 	return 1 
 	
 
-}  
+}
+
+function Holac {
+
+    export ESCRIBIRC=$1
+    
+    echo "#include <stdio.h>" >>$ESCRIBIRC
+    echo "" >>$ESCRIBIRC
+    echo "int main()" >>$ESCRIBIRC
+    echo "{" >>$ESCRIBIRC
+    echo "printf( \"Hola $3.\n\" );" >>$ESCRIBIRC
+
+    echo "" >>$ESCRIBIRC
+    echo "" >>$ESCRIBIRC
+    echo "return 0;" >>$ESCRIBIRC
+    echo "}" >>$ESCRIBIRC
+    echo "Sintaxis $2 escrita correctamente en el archivo $3" >>$SUCCES
+    echo "$separador" >>$SUCCES
+    return 1
+}
+
+function Holajava {
+
+    export ESCRIBIRJAVA=$1
+
+    echo "public class $4 {" >>$ESCRIBIRJAVA
+    echo "" >>ESCRIBIRJAVA
+    echo "	public static void main(String[] args) {">>$ESCRIBIRJAVA
+    echo "		System.out.println(\"Hola $3.\");">>$ESCRIBIRJAVA
+    echo "	}" >>$ESCRIBIRJAVA
+    echo "" >>$ESCRIBIRJAVA
+    echo "}" >>$ESCRIBIRJAVA
+
+    echo "Sintaxis $2 escrita correctamente en el archivo $3" >>$SUCCES
+    echo "$separador" >>$SUCCES
+    return 1
+}
+
 
 # FUNCIONES DE NUESTRAS CONDICIONALES
 
@@ -92,6 +129,21 @@ function Condicionales {
 		echo "$separador">>$SUCCES
 		$(Holaphp "$1" "$2" "$3")
 		return 1
+
+	elif [[ "$2" == "c" ]]
+	then
+		echo "Existe la funcion para: $2">>$SUCCES	
+		echo "$separador">>$SUCCES
+		$(Holac "$1" "$2" "$3")
+		return 1
+
+	elif [[ "$2" == "java" ]]
+	then
+		echo "Existe la funcion para: $2">>$SUCCES	
+		echo "$separador">>$SUCCES
+		$(Holajava "$1" "$2" "$3" "$4")
+		return 1
+
 	else
 		echo "Falta realizar una funcion para: \"$2\"">>$ERRORES
 		echo "$separador">>$ERRORES
@@ -130,7 +182,7 @@ then
 					echo "Se creo $CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line Correctamente">>$SUCCES
 					echo "$separador">>$SUCCES
 					
-					$(Condicionales "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line" "$line" "$STRINGALEATORIO.$line")
+					$(Condicionales "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line" "$line" "$STRINGALEATORIO.$line" "$STRINGALEATORIO")
 
 				done
 				else
