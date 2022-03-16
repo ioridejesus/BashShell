@@ -1,0 +1,9 @@
+CREATE DATABASE 6f13a88d06
+
+USE 6f13a88d06
+
+CREATE TABLE table_6f13a88d06 (frase TEXT);
+
+INSERT INTO table_6f13a88d06 VALUES ("Hola, 6f13a88d06.sql!");
+INSERT INTO table_6f13a88d06 VALUES ("Adios, 6f13a88d06.sql!");
+SELECT * FROM table_6f13a88d06;

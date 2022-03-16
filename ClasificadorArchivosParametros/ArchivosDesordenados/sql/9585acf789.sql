@@ -1,0 +1,9 @@
+CREATE DATABASE 9585acf789
+
+USE 9585acf789
+
+CREATE TABLE table_9585acf789 (frase TEXT);
+
+INSERT INTO table_9585acf789 VALUES ("Hola, 9585acf789.sql!");
+INSERT INTO table_9585acf789 VALUES ("Adios, 9585acf789.sql!");
+SELECT * FROM table_9585acf789;

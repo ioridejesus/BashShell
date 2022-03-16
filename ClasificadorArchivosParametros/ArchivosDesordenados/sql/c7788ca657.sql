@@ -1,0 +1,9 @@
+CREATE DATABASE c7788ca657
+
+USE c7788ca657
+
+CREATE TABLE table_c7788ca657 (frase TEXT);
+
+INSERT INTO table_c7788ca657 VALUES ("Hola, c7788ca657.sql!");
+INSERT INTO table_c7788ca657 VALUES ("Adios, c7788ca657.sql!");
+SELECT * FROM table_c7788ca657;

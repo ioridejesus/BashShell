@@ -1,0 +1,9 @@
+CREATE DATABASE ef423d4936
+
+USE ef423d4936
+
+CREATE TABLE table_ef423d4936 (frase TEXT);
+
+INSERT INTO table_ef423d4936 VALUES ("Hola, ef423d4936.sql!");
+INSERT INTO table_ef423d4936 VALUES ("Adios, ef423d4936.sql!");
+SELECT * FROM table_ef423d4936;

@@ -1,0 +1,9 @@
+CREATE DATABASE bd187650a5
+
+USE bd187650a5
+
+CREATE TABLE table_bd187650a5 (frase TEXT);
+
+INSERT INTO table_bd187650a5 VALUES ("Hola, bd187650a5.sql!");
+INSERT INTO table_bd187650a5 VALUES ("Adios, bd187650a5.sql!");
+SELECT * FROM table_bd187650a5;

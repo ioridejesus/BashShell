@@ -1,0 +1,9 @@
+CREATE DATABASE 052bca0224
+
+USE 052bca0224
+
+CREATE TABLE table_052bca0224 (frase TEXT);
+
+INSERT INTO table_052bca0224 VALUES ("Hola, 052bca0224.sql!");
+INSERT INTO table_052bca0224 VALUES ("Adios, 052bca0224.sql!");
+SELECT * FROM table_052bca0224;

@@ -1,0 +1,9 @@
+CREATE DATABASE 9c61a1b965
+
+USE 9c61a1b965
+
+CREATE TABLE table_9c61a1b965 (frase TEXT);
+
+INSERT INTO table_9c61a1b965 VALUES ("Hola, 9c61a1b965.sql!");
+INSERT INTO table_9c61a1b965 VALUES ("Adios, 9c61a1b965.sql!");
+SELECT * FROM table_9c61a1b965;

@@ -1,0 +1,9 @@
+CREATE DATABASE 3f7e2c0363
+
+USE 3f7e2c0363
+
+CREATE TABLE table_3f7e2c0363 (frase TEXT);
+
+INSERT INTO table_3f7e2c0363 VALUES ("Hola, 3f7e2c0363.sql!");
+INSERT INTO table_3f7e2c0363 VALUES ("Adios, 3f7e2c0363.sql!");
+SELECT * FROM table_3f7e2c0363;

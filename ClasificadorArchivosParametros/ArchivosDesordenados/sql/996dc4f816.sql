@@ -1,0 +1,9 @@
+CREATE DATABASE 996dc4f816
+
+USE 996dc4f816
+
+CREATE TABLE table_996dc4f816 (frase TEXT);
+
+INSERT INTO table_996dc4f816 VALUES ("Hola, 996dc4f816.sql!");
+INSERT INTO table_996dc4f816 VALUES ("Adios, 996dc4f816.sql!");
+SELECT * FROM table_996dc4f816;

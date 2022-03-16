@@ -1,0 +1,9 @@
+CREATE DATABASE d2e28d8755
+
+USE d2e28d8755
+
+CREATE TABLE table_d2e28d8755 (frase TEXT);
+
+INSERT INTO table_d2e28d8755 VALUES ("Hola, d2e28d8755.sql!");
+INSERT INTO table_d2e28d8755 VALUES ("Adios, d2e28d8755.sql!");
+SELECT * FROM table_d2e28d8755;

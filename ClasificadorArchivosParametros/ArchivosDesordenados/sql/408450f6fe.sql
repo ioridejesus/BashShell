@@ -1,0 +1,9 @@
+CREATE DATABASE 408450f6fe
+
+USE 408450f6fe
+
+CREATE TABLE table_408450f6fe (frase TEXT);
+
+INSERT INTO table_408450f6fe VALUES ("Hola, 408450f6fe.sql!");
+INSERT INTO table_408450f6fe VALUES ("Adios, 408450f6fe.sql!");
+SELECT * FROM table_408450f6fe;

@@ -1,0 +1,9 @@
+CREATE DATABASE d127058d6f
+
+USE d127058d6f
+
+CREATE TABLE table_d127058d6f (frase TEXT);
+
+INSERT INTO table_d127058d6f VALUES ("Hola, d127058d6f.sql!");
+INSERT INTO table_d127058d6f VALUES ("Adios, d127058d6f.sql!");
+SELECT * FROM table_d127058d6f;

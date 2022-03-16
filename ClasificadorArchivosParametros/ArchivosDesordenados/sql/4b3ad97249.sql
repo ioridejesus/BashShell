@@ -1,0 +1,9 @@
+CREATE DATABASE 4b3ad97249
+
+USE 4b3ad97249
+
+CREATE TABLE table_4b3ad97249 (frase TEXT);
+
+INSERT INTO table_4b3ad97249 VALUES ("Hola, 4b3ad97249.sql!");
+INSERT INTO table_4b3ad97249 VALUES ("Adios, 4b3ad97249.sql!");
+SELECT * FROM table_4b3ad97249;

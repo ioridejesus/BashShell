@@ -1,0 +1,9 @@
+CREATE DATABASE ed2d459998
+
+USE ed2d459998
+
+CREATE TABLE table_ed2d459998 (frase TEXT);
+
+INSERT INTO table_ed2d459998 VALUES ("Hola, ed2d459998.sql!");
+INSERT INTO table_ed2d459998 VALUES ("Adios, ed2d459998.sql!");
+SELECT * FROM table_ed2d459998;

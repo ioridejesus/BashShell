@@ -1,0 +1,9 @@
+CREATE DATABASE b227864cd4
+
+USE b227864cd4
+
+CREATE TABLE table_b227864cd4 (frase TEXT);
+
+INSERT INTO table_b227864cd4 VALUES ("Hola, b227864cd4.sql!");
+INSERT INTO table_b227864cd4 VALUES ("Adios, b227864cd4.sql!");
+SELECT * FROM table_b227864cd4;

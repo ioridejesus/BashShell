@@ -1,0 +1,9 @@
+CREATE DATABASE 92f01130de
+
+USE 92f01130de
+
+CREATE TABLE table_92f01130de (frase TEXT);
+
+INSERT INTO table_92f01130de VALUES ("Hola, 92f01130de.sql!");
+INSERT INTO table_92f01130de VALUES ("Adios, 92f01130de.sql!");
+SELECT * FROM table_92f01130de;

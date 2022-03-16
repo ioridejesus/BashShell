@@ -1,0 +1,9 @@
+CREATE DATABASE 2ec072b688
+
+USE 2ec072b688
+
+CREATE TABLE table_2ec072b688 (frase TEXT);
+
+INSERT INTO table_2ec072b688 VALUES ("Hola, 2ec072b688.sql!");
+INSERT INTO table_2ec072b688 VALUES ("Adios, 2ec072b688.sql!");
+SELECT * FROM table_2ec072b688;

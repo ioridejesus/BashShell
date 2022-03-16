@@ -1,0 +1,9 @@
+CREATE DATABASE 81160c7c6f
+
+USE 81160c7c6f
+
+CREATE TABLE table_81160c7c6f (frase TEXT);
+
+INSERT INTO table_81160c7c6f VALUES ("Hola, 81160c7c6f.sql!");
+INSERT INTO table_81160c7c6f VALUES ("Adios, 81160c7c6f.sql!");
+SELECT * FROM table_81160c7c6f;

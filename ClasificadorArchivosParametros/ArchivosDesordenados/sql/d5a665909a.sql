@@ -1,0 +1,9 @@
+CREATE DATABASE d5a665909a
+
+USE d5a665909a
+
+CREATE TABLE table_d5a665909a (frase TEXT);
+
+INSERT INTO table_d5a665909a VALUES ("Hola, d5a665909a.sql!");
+INSERT INTO table_d5a665909a VALUES ("Adios, d5a665909a.sql!");
+SELECT * FROM table_d5a665909a;

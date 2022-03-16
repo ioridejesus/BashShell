@@ -1,0 +1,9 @@
+CREATE DATABASE 12050b8c5d
+
+USE 12050b8c5d
+
+CREATE TABLE table_12050b8c5d (frase TEXT);
+
+INSERT INTO table_12050b8c5d VALUES ("Hola, 12050b8c5d.sql!");
+INSERT INTO table_12050b8c5d VALUES ("Adios, 12050b8c5d.sql!");
+SELECT * FROM table_12050b8c5d;

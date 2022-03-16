@@ -1,0 +1,9 @@
+CREATE DATABASE c3f390111a
+
+USE c3f390111a
+
+CREATE TABLE table_c3f390111a (frase TEXT);
+
+INSERT INTO table_c3f390111a VALUES ("Hola, c3f390111a.sql!");
+INSERT INTO table_c3f390111a VALUES ("Adios, c3f390111a.sql!");
+SELECT * FROM table_c3f390111a;

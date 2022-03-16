@@ -1,0 +1,9 @@
+CREATE DATABASE f3878e34e8
+
+USE f3878e34e8
+
+CREATE TABLE table_f3878e34e8 (frase TEXT);
+
+INSERT INTO table_f3878e34e8 VALUES ("Hola, f3878e34e8.sql!");
+INSERT INTO table_f3878e34e8 VALUES ("Adios, f3878e34e8.sql!");
+SELECT * FROM table_f3878e34e8;

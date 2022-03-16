@@ -1,0 +1,9 @@
+CREATE DATABASE e2584ba902
+
+USE e2584ba902
+
+CREATE TABLE table_e2584ba902 (frase TEXT);
+
+INSERT INTO table_e2584ba902 VALUES ("Hola, e2584ba902.sql!");
+INSERT INTO table_e2584ba902 VALUES ("Adios, e2584ba902.sql!");
+SELECT * FROM table_e2584ba902;

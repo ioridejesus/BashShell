@@ -1,0 +1,9 @@
+CREATE DATABASE 8c7010db32
+
+USE 8c7010db32
+
+CREATE TABLE table_8c7010db32 (frase TEXT);
+
+INSERT INTO table_8c7010db32 VALUES ("Hola, 8c7010db32.sql!");
+INSERT INTO table_8c7010db32 VALUES ("Adios, 8c7010db32.sql!");
+SELECT * FROM table_8c7010db32;

@@ -1,0 +1,9 @@
+CREATE DATABASE 304bc4693c
+
+USE 304bc4693c
+
+CREATE TABLE table_304bc4693c (frase TEXT);
+
+INSERT INTO table_304bc4693c VALUES ("Hola, 304bc4693c.sql!");
+INSERT INTO table_304bc4693c VALUES ("Adios, 304bc4693c.sql!");
+SELECT * FROM table_304bc4693c;

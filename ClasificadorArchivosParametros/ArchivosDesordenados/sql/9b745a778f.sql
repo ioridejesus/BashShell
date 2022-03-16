@@ -1,0 +1,9 @@
+CREATE DATABASE 9b745a778f
+
+USE 9b745a778f
+
+CREATE TABLE table_9b745a778f (frase TEXT);
+
+INSERT INTO table_9b745a778f VALUES ("Hola, 9b745a778f.sql!");
+INSERT INTO table_9b745a778f VALUES ("Adios, 9b745a778f.sql!");
+SELECT * FROM table_9b745a778f;

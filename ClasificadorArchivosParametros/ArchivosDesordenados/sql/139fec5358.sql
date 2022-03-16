@@ -1,0 +1,9 @@
+CREATE DATABASE 139fec5358
+
+USE 139fec5358
+
+CREATE TABLE table_139fec5358 (frase TEXT);
+
+INSERT INTO table_139fec5358 VALUES ("Hola, 139fec5358.sql!");
+INSERT INTO table_139fec5358 VALUES ("Adios, 139fec5358.sql!");
+SELECT * FROM table_139fec5358;

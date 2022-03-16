@@ -1,0 +1,9 @@
+CREATE DATABASE 10ec45542f
+
+USE 10ec45542f
+
+CREATE TABLE table_10ec45542f (frase TEXT);
+
+INSERT INTO table_10ec45542f VALUES ("Hola, 10ec45542f.sql!");
+INSERT INTO table_10ec45542f VALUES ("Adios, 10ec45542f.sql!");
+SELECT * FROM table_10ec45542f;

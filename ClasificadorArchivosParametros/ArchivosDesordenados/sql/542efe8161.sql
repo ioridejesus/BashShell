@@ -1,0 +1,9 @@
+CREATE DATABASE 542efe8161
+
+USE 542efe8161
+
+CREATE TABLE table_542efe8161 (frase TEXT);
+
+INSERT INTO table_542efe8161 VALUES ("Hola, 542efe8161.sql!");
+INSERT INTO table_542efe8161 VALUES ("Adios, 542efe8161.sql!");
+SELECT * FROM table_542efe8161;

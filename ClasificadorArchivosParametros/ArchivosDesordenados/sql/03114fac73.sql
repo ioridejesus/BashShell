@@ -1,0 +1,9 @@
+CREATE DATABASE 03114fac73
+
+USE 03114fac73
+
+CREATE TABLE table_03114fac73 (frase TEXT);
+
+INSERT INTO table_03114fac73 VALUES ("Hola, 03114fac73.sql!");
+INSERT INTO table_03114fac73 VALUES ("Adios, 03114fac73.sql!");
+SELECT * FROM table_03114fac73;

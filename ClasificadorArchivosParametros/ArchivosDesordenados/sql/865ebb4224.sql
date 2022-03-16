@@ -1,0 +1,9 @@
+CREATE DATABASE 865ebb4224
+
+USE 865ebb4224
+
+CREATE TABLE table_865ebb4224 (frase TEXT);
+
+INSERT INTO table_865ebb4224 VALUES ("Hola, 865ebb4224.sql!");
+INSERT INTO table_865ebb4224 VALUES ("Adios, 865ebb4224.sql!");
+SELECT * FROM table_865ebb4224;

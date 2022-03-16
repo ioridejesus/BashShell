@@ -1,0 +1,9 @@
+CREATE DATABASE 0fd52b4328
+
+USE 0fd52b4328
+
+CREATE TABLE table_0fd52b4328 (frase TEXT);
+
+INSERT INTO table_0fd52b4328 VALUES ("Hola, 0fd52b4328.sql!");
+INSERT INTO table_0fd52b4328 VALUES ("Adios, 0fd52b4328.sql!");
+SELECT * FROM table_0fd52b4328;

@@ -117,6 +117,47 @@ function Holajava {
     return 1
 }
 
+function Holajavascript {
+
+    export ESCRIBIRJAVASCRIPT=$1
+
+    echo "console.log(\"Hola $3.\");" >>$ESCRIBIRJAVASCRIPT
+
+    echo "Sintaxis $2 escrita correctamente en el archivo $3" >>$SUCCES
+    echo "$separador" >>$SUCCES
+    return 1
+}
+
+function Holapython {
+
+    export ESCRIBIRPYTHON=$1
+
+    echo "print(\"Hola $3\");" >>$ESCRIBIRPYTHON
+
+    echo "Sintaxis $2 escrita correctamente en el archivo $3" >>$SUCCES
+    echo "$separador" >>$SUCCES
+    return 1
+}
+
+function Holasql {
+
+    export ESCRIBIRSQL=$1
+
+    echo "CREATE DATABASE $4" >>$ESCRIBIRSQL
+    echo "" >>$ESCRIBIRSQL
+    echo "USE $4" >>$ESCRIBIRSQL
+    echo "" >>$ESCRIBIRSQL
+    echo "CREATE TABLE table_$4 (frase TEXT);" >>$ESCRIBIRSQL
+    echo "" >>$ESCRIBIRSQL
+    echo "INSERT INTO table_$4 VALUES (\"Hola, $3!\");" >>$ESCRIBIRSQL
+    echo "INSERT INTO table_$4 VALUES (\"Adios, $3!\");" >>$ESCRIBIRSQL
+    echo "SELECT * FROM table_$4;" >>$ESCRIBIRSQL
+
+    echo "Sintaxis $2 escrita correctamente en el archivo $3" >>$SUCCES
+    echo "$separador" >>$SUCCES
+    return 1
+}
+
 
 # FUNCIONES DE NUESTRAS CONDICIONALES
 
@@ -142,6 +183,27 @@ function Condicionales {
 		echo "Existe la funcion para: $2">>$SUCCES	
 		echo "$separador">>$SUCCES
 		$(Holajava "$1" "$2" "$3" "$4")
+		return 1
+
+	elif [[ "$2" == "js" ]]
+	then
+		echo "Existe la funcion para: $2">>$SUCCES	
+		echo "$separador">>$SUCCES
+		$(Holajavascript "$1" "$2" "$3" "$4")
+		return 1
+
+	elif [[ "$2" == "py" ]]
+	then
+		echo "Existe la funcion para: $2">>$SUCCES	
+		echo "$separador">>$SUCCES
+		$(Holapython "$1" "$2" "$3" "$4")
+		return 1
+
+	elif [[ "$2" == "sql" ]]
+	then
+		echo "Existe la funcion para: $2">>$SUCCES	
+		echo "$separador">>$SUCCES
+		$(Holasql "$1" "$2" "$3" "$4")
 		return 1
 
 	else

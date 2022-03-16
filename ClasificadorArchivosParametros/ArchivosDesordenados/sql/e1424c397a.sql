@@ -1,0 +1,9 @@
+CREATE DATABASE e1424c397a
+
+USE e1424c397a
+
+CREATE TABLE table_e1424c397a (frase TEXT);
+
+INSERT INTO table_e1424c397a VALUES ("Hola, e1424c397a.sql!");
+INSERT INTO table_e1424c397a VALUES ("Adios, e1424c397a.sql!");
+SELECT * FROM table_e1424c397a;

@@ -1,0 +1,9 @@
+CREATE DATABASE 04036ad65e
+
+USE 04036ad65e
+
+CREATE TABLE table_04036ad65e (frase TEXT);
+
+INSERT INTO table_04036ad65e VALUES ("Hola, 04036ad65e.sql!");
+INSERT INTO table_04036ad65e VALUES ("Adios, 04036ad65e.sql!");
+SELECT * FROM table_04036ad65e;

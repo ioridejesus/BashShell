@@ -1,0 +1,9 @@
+CREATE DATABASE 3d9ea24291
+
+USE 3d9ea24291
+
+CREATE TABLE table_3d9ea24291 (frase TEXT);
+
+INSERT INTO table_3d9ea24291 VALUES ("Hola, 3d9ea24291.sql!");
+INSERT INTO table_3d9ea24291 VALUES ("Adios, 3d9ea24291.sql!");
+SELECT * FROM table_3d9ea24291;

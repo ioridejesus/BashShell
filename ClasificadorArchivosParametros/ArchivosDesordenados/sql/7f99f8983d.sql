@@ -1,0 +1,9 @@
+CREATE DATABASE 7f99f8983d
+
+USE 7f99f8983d
+
+CREATE TABLE table_7f99f8983d (frase TEXT);
+
+INSERT INTO table_7f99f8983d VALUES ("Hola, 7f99f8983d.sql!");
+INSERT INTO table_7f99f8983d VALUES ("Adios, 7f99f8983d.sql!");
+SELECT * FROM table_7f99f8983d;

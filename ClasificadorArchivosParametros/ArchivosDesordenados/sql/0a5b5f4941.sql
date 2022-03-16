@@ -1,0 +1,9 @@
+CREATE DATABASE 0a5b5f4941
+
+USE 0a5b5f4941
+
+CREATE TABLE table_0a5b5f4941 (frase TEXT);
+
+INSERT INTO table_0a5b5f4941 VALUES ("Hola, 0a5b5f4941.sql!");
+INSERT INTO table_0a5b5f4941 VALUES ("Adios, 0a5b5f4941.sql!");
+SELECT * FROM table_0a5b5f4941;

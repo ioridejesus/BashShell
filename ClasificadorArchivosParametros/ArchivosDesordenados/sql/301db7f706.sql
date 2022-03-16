@@ -1,0 +1,9 @@
+CREATE DATABASE 301db7f706
+
+USE 301db7f706
+
+CREATE TABLE table_301db7f706 (frase TEXT);
+
+INSERT INTO table_301db7f706 VALUES ("Hola, 301db7f706.sql!");
+INSERT INTO table_301db7f706 VALUES ("Adios, 301db7f706.sql!");
+SELECT * FROM table_301db7f706;

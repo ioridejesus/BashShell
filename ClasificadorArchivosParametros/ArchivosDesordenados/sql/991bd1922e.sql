@@ -1,0 +1,9 @@
+CREATE DATABASE 991bd1922e
+
+USE 991bd1922e
+
+CREATE TABLE table_991bd1922e (frase TEXT);
+
+INSERT INTO table_991bd1922e VALUES ("Hola, 991bd1922e.sql!");
+INSERT INTO table_991bd1922e VALUES ("Adios, 991bd1922e.sql!");
+SELECT * FROM table_991bd1922e;

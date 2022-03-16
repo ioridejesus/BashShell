@@ -1,0 +1,9 @@
+CREATE DATABASE 962b753e9e
+
+USE 962b753e9e
+
+CREATE TABLE table_962b753e9e (frase TEXT);
+
+INSERT INTO table_962b753e9e VALUES ("Hola, 962b753e9e.sql!");
+INSERT INTO table_962b753e9e VALUES ("Adios, 962b753e9e.sql!");
+SELECT * FROM table_962b753e9e;

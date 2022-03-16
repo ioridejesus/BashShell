@@ -1,0 +1,9 @@
+CREATE DATABASE 9e4d05a845
+
+USE 9e4d05a845
+
+CREATE TABLE table_9e4d05a845 (frase TEXT);
+
+INSERT INTO table_9e4d05a845 VALUES ("Hola, 9e4d05a845.sql!");
+INSERT INTO table_9e4d05a845 VALUES ("Adios, 9e4d05a845.sql!");
+SELECT * FROM table_9e4d05a845;

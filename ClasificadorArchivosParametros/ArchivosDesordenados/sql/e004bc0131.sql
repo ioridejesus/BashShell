@@ -1,0 +1,9 @@
+CREATE DATABASE e004bc0131
+
+USE e004bc0131
+
+CREATE TABLE table_e004bc0131 (frase TEXT);
+
+INSERT INTO table_e004bc0131 VALUES ("Hola, e004bc0131.sql!");
+INSERT INTO table_e004bc0131 VALUES ("Adios, e004bc0131.sql!");
+SELECT * FROM table_e004bc0131;
