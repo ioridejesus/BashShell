@@ -1,0 +1,1003 @@
+nombre,apellidop,apellidom,telefono,sexo,estado,municipio,colonia,calle,numero
+SOFIA,HERNANDEZ,TEJEDA,3754945306,MUJER,Yucatán,Amealco de Bonfil,San Cayetano,Villa Montaña,27
+SANTIAGO,GARCIA,SOTO,9041175377,HOMBRE,Aguascalientes,Pinal de Amoles,Colinas del Rio,Villas de Don Antonio,46
+MARIA JOSE,MARTINEZ,LOERA,1644748874,MUJER,Campeche,Arroyo Seco,Olivares Santana,Los Ángeles,61
+MATEO,LOPEZ,AGUERO,5768274615,HOMBRE,Aguascalientes,Cadereyta de Montes,Las Brisas,Capittala,80
+REGINA,GONZALEZ,FRAUSTO,0107798226,MUJER,Sonora,Colón,Ramon Romo Franco,Recinto de la Macarena,44
+SEBASTIAN,PEREZ,TAMAYO,8142320409,HOMBRE,Baja California,Corregidora,Colinas de San Ignacio,La Soledad,17
+VALENTINA,RODRIGUEZ,COTA,9216710466,MUJER,Veracruz,Ezequiel Montes,La Fundición,Los Naranjos,99
+LEONARDO,SANCHEZ,VIRGEN,5425354723,HOMBRE,Tabasco,Huimilpan,Fundición II,Villa de Nuestra Señora de La Asunción Sector Guadalupe,73
+CAMILA,RAMIREZ,REA,5626326326,MUJER,Campeche,Jalpan de Serra,Los Sauces,Villa Teresa,99
+EMILIANO,CRUZ,BEDOLLA,3993660846,HOMBRE,Colima,Landa de Matamoros,Línea de Fuego,Cartagena 1947,47
+XIMENA,GOMEZ,LEIJA,6971348851,MUJER,Puebla,El Marqués,Buenos Aires,Villas de La Convención,72
+MATIAS,FLORES,REYNOSO,2735380433,HOMBRE,Zacatecas,Pedro Escobedo,Circunvalación Norte,Lomas de La Asunción,17
+VICTORIA,MORALES,BAÑOS,3807064862,MUJER,Tlaxcala,Peñamiller,Las Arboledas,Villa de Nuestra Señora de La Asunción Sector Encino,SN
+DIEGO,VAZQUEZ,VILLA,1478409911,HOMBRE,Tabasco,Querétaro,Villas de San Francisco,Villa de Nuestra Señora de La Asunción Sector Alameda,24
+RENATA,JIMENEZ,ARANA,6009145594,MUJER,Zacatecas,San Joaquín,Villas de La Universidad,San José de Pozo Bravo,58
+DANIEL,REYES,BAILON,6984919299,HOMBRE,Oaxaca,San Juan del Río,El Sol,Villa de Nuestra Señora de La Asunción Sector San Marcos,SN
+MARIA FERNANDA,DIAZ,AGUILA,2355218078,MUJER,Hidalgo,Tequisquiapan,Gremial,Villa de Nuestra Señora de La Asunción Sector Estación,44
+MIGUEL ANGEL,TORRES,PALAFOX,5274242924,HOMBRE,Chiapas,Tolimán,Industrial,Las Plazas,85
+VALERIA,GUTIERREZ,BEJARANO,3227154932,MUJER,México,Acambay de Ruíz Castañeda,Altavista,El Rosedal,57
+ALEXANDER,RUIZ,CARREÑO,5911266344,HOMBRE,Zacatecas,Acolman,Curtidores,Natura,SN
+NATALIA,MENDOZA,ZAMBRANO,3212469799,MUJER,Hidalgo,Aculco,La Concordia,Montebello Della Stanza,SN
+ALEJANDRO,AGUILAR,GUADALUPE,1600646863,HOMBRE,San Luis Potosí,Almoloya de Alquisiras,Miravalle,Villa Notre Dame,SN
+ISABELLA,MENDEZ,JULIAN,8270297489,MUJER,Morelos,Almoloya de Juárez,Panorama,Privada Guadalupe,7
+GAEL,MORENO,MERIDA,3369721485,HOMBRE,México,Almoloya del Río,Residencial Guadalupe,Rinconada Pozo Bravo,3
+ROMINA,ORTIZ,CARRASCO,8340561835,MUJER,Coahuila,Amanalco,Colinas del Poniente,Pozo Bravo Sur,86
+JESUS,JUAREZ,CASTAÑON,2997897505,HOMBRE,Tlaxcala,Amatepec,Bugambilias,Villa Loma Dorada,SN
+DANIELA,CASTILLO,CALVO,2509578333,MUJER,Jalisco,Amecameca,Del Carmen,Jardines de Montebello,SN
+ANGEL,ALVAREZ,CASIMIRO,4894063332,HOMBRE,Colima,Apaxco,La Fe,Villas del Río,24
+ALEXA,ROMERO,CANCHE,1119858365,MUJER,Yucatán,Atenco,México,El Puertecito,43
+DAVID,RAMOS,AGUILA,8360650043,HOMBRE,Guanajuato,Atizapán,Primavera,Rinconada del Puertecito,92
+ANA SOFIA,RIVERA,SIMON,4642144311,MUJER,Coahuila,Atizapán de Zaragoza,San Pablo,Bosques del Prado Norte,35
+EMMANUEL,CHAVEZ,BARRIOS,3055546633,HOMBRE,Baja California,Atlacomulco,Guadalupe,Sartenejo,94
+ANDREA,DE LA CRUZ,DE JESUS,4924735768,MUJER,Ciudad de Mexico,Atlautla,Heliodoro Garcia,Lomas del Campestre 1a Sección,94
+LUIS ANGEL,DOMINGUEZ,MIRELES,8620145030,HOMBRE,Baja California Sur,Axapusco,Gómez,Bosques del Prado Sur,50
+MARIA GUADALUPE,GUZMAN,ALEJANDRO,1845416998,MUJER,Zacatecas,Ayapango,Moderno,El Roble,1
+RODRIGO,VELAZQUEZ,ZAMARRIPA,5920831102,HOMBRE,Nuevo León,Calimaya,Valle del Rio San Pedro,Fátima,42
+MELISSA,SANTIAGO,GALVAN,6344039188,MUJER,Aguascalientes,Capulhuac,Guadalupe Posada,Independencia de México,47
+FERNANDO,HERRERA,MACEDO,6772705914,HOMBRE,Ciudad de Mexico,Coacalco de Berriozábal,San Marcos,Nueva Rinconada,69
+FERNANDA,CASTRO,ALEMAN,4468530543,MUJER,Yucatán,Coatepec Harinas,San Marcos,Primo Verdad,69
+MAXIMILIANO,VARGAS,LAZCANO,9212152110,HOMBRE,Puebla,Cocotitlán,San Marcos,San José del Arenal,28
+SAMANTHA,MEDINA,GUILLEN,6253671347,MUJER,Tlaxcala,Coyotepec,Modelo,Unidad Ganadera,SN
+DYLAN,ROJAS,LIMON,0141435208,HOMBRE,Nuevo León,Cuautitlán,Residencial del Valle I,San Xavier,72
+AITANA,MUÑOZ,FERNANDEZ,5944961490,MUJER,Baja California Sur,Chalco,Residencial del Valle II,Residencial del Real,37
+JOSE ANGEL,LUNA,DE LA ROSA,5252230213,HOMBRE,Veracruz,Chapa de Mota,La Herradura,Puerta Navarra,SN
+ELIZABETH,CONTRERAS,VITE,7116999388,MUJER,Tamaulipas,Chapultepec,Club Campestre,Residencial Campestre Club de Golf,32
+TADEO,BAUTISTA,GRANDE,5573805366,HOMBRE,Ciudad de Mexico,Chiautla,Jardines del Campestre,Palma Real,89
+YAMILETH,SALAZAR,ESPINDOLA,2699218463,MUJER,San Luis Potosí,Chicoloapan,Los Vergeles,Muralia,60
+JOSE LUIS,ORTEGA,VERA,9068659563,HOMBRE,Tamaulipas,Chiconcuac,Ciudad Universitaria,Agropecuario,SN
+GUADALUPE,GUERRERO,BETANCOURT,7867268292,MUJER,Yucatán,Chimalhuacán,Rancho San Antonio,Centro Distribuidor de Básicos,SN
+GABRIEL,ESTRADA,BAEZ,6724434661,HOMBRE,Zacatecas,Donato Guerra,Villas de Montenegro,La Rinconada,SN
+MARIANA,CORTES,PADRON,3046949279,MUJER,Baja California,Ecatepec de Morelos,Las Cavas,El Plateado,52
+EDUARDO,ESPINOZA,PUENTES,9690016014,HOMBRE,Chiapas,Ecatzingo,La Enramada,Residencial Pulgas Pandas Norte,4
+ANA VICTORIA,SOTO,PARADA,6377732068,MUJER,Chihuahua,Huehuetoca,Talamantes Ponce,Residencial Pulgas Pandas Sur,27
+JUAN PABLO,ALVARADO,LIZARRAGA,5335270542,HOMBRE,Sonora,Hueypoxtla,Granjas del Campestre,Villas del Vergel,SN
+ANA PAULA,LARA,BELLO,4787612339,MUJER,Durango,Huixquilucan,Puerto las Hadas,Cerrada San Miguel,SN
+RAFAEL,CARRILLO,POLANCO,5895502230,HOMBRE,Chihuahua,Isidro Fabela,Valle del Campestre,Las Hadas,58
+FATIMA,AVILA,HAU,3489597872,MUJER,Sinaloa,Ixtapaluca,Trojes de Oriente,Morelos,12
+ISAAC,CERVANTES,IÑIGUEZ,1219880061,HOMBRE,Morelos,Ixtapan de la Sal,Valle de las Trojes,Andrea,3
+ABIGAIL,SILVA,OTERO,5209606703,MUJER,Guanajuato,Ixtapan del Oro,Villas de San Nicolás,Los Arcos,1
+SAMUEL,RIOS,NIEVES,6724617575,HOMBRE,Tlaxcala,Ixtlahuaca,San Telmo,Industrial,52
+EMILY,SANTOS,ASCENCIO,7728080964,MUJER,Oaxaca,Xalatlaco,La Paloma,La Estrella,12
+AXEL,MARQUEZ,PALMA,3267835286,HOMBRE,Oaxaca,Jaltenco,Barrio de Santiago,Macias Arellano,6
+JULIETA,MEJIA,ABURTO,8546171154,MUJER,Veracruz,Jilotepec,Villa de las Trojes,Trento,65
+JUAN CARLOS,VEGA,JAIMES,5515290854,HOMBRE,Nuevo León,Jilotzingo,Valle de Santa Teresa,Nueva Andalucia Coto Residencial,14
+ALEJANDRA,SANDOVAL,TADEO,9484555341,MUJER,Veracruz,Jiquipilco,La Troje,Lomas del Cobano,33
+NICOLAS,DELGADO,CASTILLO,9014886372,HOMBRE,Puebla,Jocotitlán,Trojes de Alonso,Buenavista,30
+ESMERALDA,NUÑEZ,REYNA,9221278062,MUJER,Nuevo León,Joquicingo,San Telmo Residencial,C.T.M.,4
+EMILIO,IBARRA,BACA,4851470471,HOMBRE,Sonora,Juchitepec,Santa Fe,La Higuerilla,51
+VANESSA,SOLIS,MURILLO,0807143943,MUJER,Colima,Lerma,Aguascalientes 2000,Parras,SN
+JOSE MANUEL,ROSAS,SANTANA,1020530174,HOMBRE,Guanajuato,Malinalco,Las Trojes,El Cobano,80
+ESTEFANIA,LEON,CORONEL,2040835042,MUJER,Guerrero,Melchor Ocampo,Misión del Campanario,Hacienda el Cobano,22
+DAMIAN,VALDEZ,NIETO,7123352596,HOMBRE,Baja California,Metepec,Trojes de Cristal,Trojes del Cobano,SN
+EVELYN,CAMPOS,ZAMARRIPA,0164990257,MUJER,Nayarit,Mexicaltzingo,Trojes del Sol,Villas del Cobano,39
+LEONEL,FERNANDEZ,FELICIANO,0628001442,HOMBRE,Nayarit,Morelos,Residencial Santa Clara,Alianza Ferrocarrilera,91
+LUCIANA,ROSALES,GASPAR,5726374656,MUJER,Chihuahua,Naucalpan de Juárez,Misión de Santiago,Bosques del Prado Oriente,87
+ELIAS,CAMACHO,ESPINDOLA,1542262794,HOMBRE,Sinaloa,Nezahualcóyotl,Andora Residencial,Francisco Guel Jimenez,SN
+JIMENA,MALDONADO,CASANOVA,4651977667,MUJER,Colima,Nextlalpan,Cadaqués Residencial,Las Viñas INFONAVIT,SN
+RICARDO,NAVA,BRIONES,2515590229,HOMBRE,Puebla,Nicolás Romero,Valle del Campanario,Santa Anita 4a Sección,SN
+MIRANDA,VALENCIA,LUEVANO,1226991129,MUJER,Guanajuato,Nopaltepec,Las Misiones,Santa Anita,62
+ALEXIS,NAVARRO,RIOS,1169521160,HOMBRE,Guerrero,Ocoyoacac,Los Jarales,Santa Anita 2a Sección,91
+LUCIA,CABRERA,MERINO,2151137265,MUJER,Coahuila,Ocuilan,Cerrada El Molino,El Maguey,18
+ADRIAN,ACOSTA,RIVAS,1688516774,HOMBRE,Michoacán,El Oro,Valle Real,Las Cumbres,SN
+IVANNA,MIRANDA,OLMOS,2366468548,MUJER,Quintana Roo,Otumba,Terzetto,Lic Benito Juárez,SN
+MAURICIO,PEÑA,ALBINO,5967875248,HOMBRE,Ciudad de Mexico,Otzoloapan,Cerrada de La Misión,Nazario Ortiz Garza,34
+KIMBERLY,PACHECO,OLIVERA,5816497951,MUJER,Chihuahua,Otzolotepec,Cerrada del Valle,Rodolfo Landeros Gallegos,13
+ANTONIO,HUERTA,ORNELAS,2382961759,HOMBRE,Coahuila,Ozumba,Cerrada de la Mezquitera,S.T.E.M.A.,32
+ITZAYANA,TREJO,YEPEZ,7687886154,MUJER,San Luis Potosí,Papalotla,Lomas del Campestre 2a Sección,Zona Militar,33
+ALAN,DE JESUS,ALATORRE,8245484832,HOMBRE,Sonora,La Paz,Villas del Campestre,Villa Bonita,98
+SOFIA GUADALUPE,MOLINA,CEJA,0358118179,MUJER,Puebla,Polotitlán,Los Calicantos,Lic Benito Palomino Dena,47
+JONATHAN,ANTONIO,AQUINO,6245833975,HOMBRE,Hidalgo,Rayón,Jardines de la Concepción,Anexo Benito Palomino Dena (Cumbres II),11
+CAROLINA,CASTAÑEDA,DE LA CRUZ,3545510834,MUJER,Jalisco,San Antonio la Isla,Los Bosques,La Florida l,9
+FRANCISCO,SALAS,SEGUNDO,9064208074,HOMBRE,Quintana Roo,San Felipe del Progreso,Rinconada los Bosques,La Florida ll,27
+DANNA SOFIA,MEZA,NAVARRO,2339356995,MUJER,Hidalgo,San Martín de las Pirámides,La Perla Norte,Claustros Loma Dorada,68
+CARLOS,ROBLES,GRANDE,6130552588,HOMBRE,Michoacán,San Mateo Atenco,Arroyo El Molino,Cumbres III,23
+ALONDRA,FUENTES,ROBLEDO,2910694859,MUJER,Nayarit,San Simón de Guerrero,Galerías,Lomas de Bellavista,21
+ANGEL GABRIEL,RANGEL,BENITEZ,8352858623,HOMBRE,Morelos,Santo Tomás,Residencial Altaria,Lomas de las Fuentes,17
+ARANZA,PADILLA,PARTIDA,8849911841,MUJER,Guerrero,Soyaniquilpan de Juárez,Constitución,Colinas de Oriente,SN
+CRISTIAN,OROZCO,HINOJOSA,8043850393,HOMBRE,Colima,Sultepec,Libertad,Vista de las Cumbres,68
+EMMA,VALENZUELA,ANGUIANO,9880732081,MUJER,México,Tecámac,Pozo Bravo Norte,Villa Montaña,70
+JAVIER,AYALA,ENRIQUEZ,6651993788,HOMBRE,Zacatecas,Tejupilco,Soberana Convención Revolucionaria,Villas de Don Antonio,SN
+MARIA,CARDENAS,ARROYO,9724397361,MUJER,Baja California,Temamatla,San Cayetano,Los Ángeles,36
+JOSUE,ZUÑIGA,BARRIOS,2208324998,HOMBRE,Aguascalientes,Temascalapa,Colinas del Rio,Capittala,4
+PAULINA,AGUIRRE,JAVIER,7551471144,MUJER,México,Temascalcingo,Olivares Santana,Recinto de la Macarena,90
+JOSE ANTONIO,SERRANO,MEDRANO,6457446990,HOMBRE,Nayarit,Temascaltepec,Las Brisas,La Soledad,SN
+GENESIS,MORA,MARIANO,9961951818,MUJER,Nuevo León,Temoaya,Ramon Romo Franco,Los Naranjos,SN
+JOSE MIGUEL,MACIAS,ROJO,6470152486,HOMBRE,Sinaloa,Tenancingo,Colinas de San Ignacio,Villa de Nuestra Señora de La Asunción Sector Guadalupe,SN
+AYLIN,VELASCO,SUAREZ,8964924668,MUJER,Campeche,Tenango del Aire,La Fundición,Villa Teresa,71
+JULIAN,DURAN,BACA,3230210426,HOMBRE,Nuevo León,Tenango del Valle,Fundición II,Cartagena 1947,13
+ANA LUCIA,SALINAS,JARA,4134330010,MUJER,Morelos,Teoloyucan,Los Sauces,Villas de La Convención,76
+AARON,TAPIA,MORAN,6142500414,HOMBRE,Morelos,Teotihuacán,Línea de Fuego,Lomas de La Asunción,SN
+MONSERRAT,OCHOA,LICONA,6832540611,MUJER,Morelos,Tepetlaoxtoc,Buenos Aires,Villa de Nuestra Señora de La Asunción Sector Encino,SN
+LUIS FERNANDO,SANTIZ,RIVERO,1636714378,HOMBRE,Tamaulipas,Tepetlixpa,Circunvalación Norte,Villa de Nuestra Señora de La Asunción Sector Alameda,89
+ANGELA,ZAMORA,PIÑON,8278918554,MUJER,Morelos,Tepotzotlán,Las Arboledas,San José de Pozo Bravo,95
+IKER,OLVERA,CORNEJO,7198043978,HOMBRE,Coahuila,Tequixquiac,Villas de San Francisco,Villa de Nuestra Señora de La Asunción Sector San Marcos,70
+ABRIL,ARELLANO,SEGURA,5808216724,MUJER,Tamaulipas,Texcaltitlán,Villas de La Universidad,Villa de Nuestra Señora de La Asunción Sector Estación,70
+MIGUEL,ESPINOSA,PINTO,2171916838,HOMBRE,San Luis Potosí,Texcalyacac,El Sol,Las Plazas,85
+MIA,ARIAS,OLIVARES,1464587131,MUJER,Puebla,Texcoco,Gremial,El Rosedal,23
+ANDRES,CALDERON,BALBUENA,5374430285,HOMBRE,Quintana Roo,Tezoyuca,Industrial,Natura,5
+DULCE MARIA,SUAREZ,NUÑEZ,0576026893,MUJER,Guerrero,Tianguistenco,Altavista,Montebello Della Stanza,73
+LIAM,ALONSO,CARRASCO,3643200850,HOMBRE,Morelos,Timilpan,Curtidores,Villa Notre Dame,18
+LIA,MARIN,ULLOA,9618356425,MUJER,Coahuila,Tlalmanalco,La Concordia,Privada Guadalupe,20
+URIEL,GALLEGOS,LUGO,6378265192,HOMBRE,Hidalgo,Tlalnepantla de Baz,Miravalle,Rinconada Pozo Bravo,62
+ELISA,VILLEGAS,BAZAN,8603904826,MUJER,Sinaloa,Tlatlaya,Panorama,Pozo Bravo Sur,14
+MANUEL,MONTES,BENITEZ,2896258341,HOMBRE,Chiapas,Toluca,Residencial Guadalupe,Villa Loma Dorada,95
+EMILIA,BARRERA,NAVARRETE,6578841914,MUJER,Tamaulipas,Tonatico,Colinas del Poniente,Jardines de Montebello,SN
+JUAN DIEGO,ZAVALA,JAIMES,7864604391,HOMBRE,Baja California,Tultepec,Bugambilias,Villas del Río,26
+MELANY,VASQUEZ,CARRANZA,2068617131,MUJER,Campeche,Tultitlán,Del Carmen,El Puertecito,32
+ISMAEL,ESQUIVEL,AMBROCIO,3436066466,HOMBRE,Ciudad de Mexico,Valle de Bravo,La Fe,Rinconada del Puertecito,SN
+DAYANA,VILLANUEVA,OLAN,0910909848,MUJER,Tlaxcala,Villa de Allende,México,Bosques del Prado Norte,20
+JUAN,BELTRAN,MUNGUIA,2592297732,HOMBRE,Baja California Sur,Villa del Carbón,Primavera,Sartenejo,89
+NICOLE,FRANCO,MANUEL,8135413414,MUJER,Hidalgo,Villa Guerrero,San Pablo,Lomas del Campestre 1a Sección,88
+JOSE MARIA,GALVAN,VERA,0877083339,HOMBRE,San Luis Potosí,Villa Victoria,Guadalupe,Bosques del Prado Sur,SN
+ARIANA,LOZANO,VILLARREAL,3131301771,MUJER,Aguascalientes,Xonacatlán,Heliodoro Garcia,El Roble,SN
+IVAN,ANDRADE,VALERIO,5190710924,HOMBRE,Guanajuato,Zacazonapan,Gómez,Fátima,SN
+SAMARA,PONCE,SAAVEDRA,4466694313,MUJER,San Luis Potosí,Zacualpan,Moderno,Independencia de México,64
+ABRAHAM,TRUJILLO,ULLOA,7535479458,HOMBRE,México,Zinacantepec,Valle del Rio San Pedro,Nueva Rinconada,11
+GABRIELA,ROCHA,ESPARZA,4802821490,MUJER,Querétaro,Zumpahuacán,Guadalupe Posada,Primo Verdad,62
+PEDRO,CORTEZ,SEGURA,2415224545,HOMBRE,Campeche,Zumpango,San Marcos,San José del Arenal,SN
+ZOE,GALINDO,ALEGRIA,5911043377,MUJER,México,Cuautitlán Izcalli,San Marcos,Unidad Ganadera,SN
+JUAN JOSE,SOSA,NIETO,6655249108,HOMBRE,Quintana Roo,Valle de Chalco Solidaridad,San Marcos,San Xavier,43
+ALLISON,FIGUEROA,ALAMILLA,5492212798,MUJER,Tamaulipas,Luvianos,Modelo,Residencial del Real,64
+PABLO,PALACIOS,BLANCO,7660177351,HOMBRE,Nayarit,San José del Rincón,Residencial del Valle I,Puerta Navarra,49
+ELENA,CANO,QUINTANA,8445291388,MUJER,Jalisco,Tonanitla,Residencial del Valle II,Residencial Campestre Club de Golf,94
+ERICK,VILLA,FONSECA,1868562132,HOMBRE,Hidalgo,Acuitzio,La Herradura,Palma Real,76
+REBECA,CORONA,MANCILLA,4247380045,MUJER,Nuevo León,Aguililla,Club Campestre,Muralia,77
+IAN,RUBIO,VELA,9145525519,HOMBRE,Tlaxcala,Álvaro Obregón,Jardines del Campestre,Agropecuario,35
+SARA,BRAVO,GUZMAN,6212037916,MUJER,Hidalgo,Angamacutiro,Los Vergeles,Centro Distribuidor de Básicos,3
+OLIVER,PINEDA,SEVILLA,9919503026,HOMBRE,Aguascalientes,Angangueo,Ciudad Universitaria,La Rinconada,3
+FRIDA SOFIA,ESCOBAR,ZAMBRANO,8932305804,MUJER,Ciudad de Mexico,Apatzingán,Rancho San Antonio,El Plateado,89
+ROBERTO,BERNAL,ESPINO,3782430077,HOMBRE,Sonora,Aporo,Villas de Montenegro,Residencial Pulgas Pandas Norte,83
+ALISSON,OSORIO,RESENDIZ,2910869880,MUJER,Chihuahua,Aquila,Las Cavas,Residencial Pulgas Pandas Sur,41
+CARLOS DANIEL,BENITEZ,ARROYO,2175659134,HOMBRE,México,Ario,La Enramada,Villas del Vergel,86
+DIANA,CARMONA,SAMANIEGO,0192471467,MUJER,Aguascalientes,Arteaga,Talamantes Ponce,Cerrada San Miguel,SN
+GERARDO,RESENDIZ,OSUNA,9529845948,HOMBRE,Guerrero,Briseñas,Granjas del Campestre,Las Hadas,55
+PAOLA,CUEVAS,PAULINO,2226738204,MUJER,Sonora,Buenavista,Puerto las Hadas,Morelos,65
+ALONSO,MATA,VALENTE,0892991838,HOMBRE,Jalisco,Carácuaro,Valle del Campestre,Andrea,SN
+MICHELLE,MONTOYA,GABRIEL,5168861273,MUJER,Sinaloa,Coahuayana,Trojes de Oriente,Los Arcos,36
+BRAYAN,CORDOVA,CANDELARIO,8206269716,HOMBRE,Chiapas,Coalcomán de Vázquez Pallares,Valle de las Trojes,Industrial,25
+MIA ISABELLA,DE LA ROSA,PALOMINO,0542668938,MUJER,Michoacán,Coeneo,Villas de San Nicolás,La Estrella,66
+JORGE,ENRIQUEZ,ALFARO,7158279884,HOMBRE,Michoacán,Contepec,San Telmo,Macias Arellano,SN
+ADRIANA,PARRA,JACOBO,6032187897,MUJER,Guerrero,Copándaro,La Paloma,Trento,SN
+ANGEL MATEO,RIVAS,ORTIZ,4793899459,HOMBRE,Hidalgo,Cotija,Barrio de Santiago,Nueva Andalucia Coto Residencial,SN
+MARIA VICTORIA,TELLEZ,GALAN,7736380523,MUJER,Nayarit,Cuitzeo,Villa de las Trojes,Lomas del Cobano,3
+SAUL,FRANCISCO,BECERRIL,0965681106,HOMBRE,Durango,Charapan,Valle de Santa Teresa,Buenavista,11
+MARISOL,TOVAR,MAURICIO,1704588698,MUJER,Querétaro,Charo,La Troje,C.T.M.,75
+ISRAEL,BECERRA,VERDUGO,4558316041,HOMBRE,Michoacán,Chavinda,Trojes de Alonso,La Higuerilla,SN
+ALEXANDRA,LEYVA,ALMANZA,9372799323,MUJER,Nuevo León,Cherán,San Telmo Residencial,Parras,SN
+MARCO ANTONIO,CISNEROS,PADILLA,4818940638,HOMBRE,Sonora,Chilchota,Santa Fe,El Cobano,54
+ESTRELLA,ESPARZA,ESTEBAN,5213614086,MUJER,Guanajuato,Chinicuila,Aguascalientes 2000,Hacienda el Cobano,83
+JOSE,AVALOS,MOCTEZUMA,7213005365,HOMBRE,Colima,Chucándiro,Las Trojes,Trojes del Cobano,1
+EMMA SOFIA,QUINTERO,CHAPARRO,1987159374,MUJER,Colima,Churintzio,Misión del Campanario,Villas del Cobano,17
+BRUNO,GARZA,ISLAS,4983007081,HOMBRE,Colima,Churumuco,Trojes de Cristal,Alianza Ferrocarrilera,2
+KARLA,DEL ANGEL,MONTES DE OCA,0536572386,MUJER,Baja California Sur,Ecuandureo,Trojes del Sol,Bosques del Prado Oriente,72
+ARTURO,CHAN,LAGUNES,3268080202,HOMBRE,Oaxaca,Epitacio Huerta,Residencial Santa Clara,Francisco Guel Jimenez,28
+NAOMI,ARROYO,VALERIO,2682841712,MUJER,Jalisco,Erongarícuaro,Misión de Santiago,Las Viñas INFONAVIT,98
+JUAN MANUEL,DE LEON,VALENTIN,8225101483,HOMBRE,Durango,Gabriel Zamora,Andora Residencial,Santa Anita 4a Sección,94
+LILIANA,ROMAN,BAZAN,4560523794,MUJER,San Luis Potosí,Hidalgo,Cadaqués Residencial,Santa Anita,66
+OMAR,BARAJAS,RUBIO,4136544779,HOMBRE,Coahuila,La Huacana,Valle del Campanario,Santa Anita 2a Sección,42
+ALISON,FELIX,LINO,5208845429,MUJER,Campeche,Huandacareo,Las Misiones,El Maguey,24
+IAN MATEO,PERALTA,NOH,9713383127,HOMBRE,Guerrero,Huaniqueo,Los Jarales,Las Cumbres,92
+CATALINA,QUIROZ,MATA,5045916010,MUJER,Tlaxcala,Huetamo,Cerrada El Molino,Lic Benito Juárez,SN
+KEVIN,SALGADO,LIMA,4045973963,HOMBRE,Guanajuato,Huiramba,Valle Real,Nazario Ortiz Garza,95
+AURORA,ZARATE,LOZANO,6352779904,MUJER,Hidalgo,Indaparapeo,Terzetto,Rodolfo Landeros Gallegos,87
+GUSTAVO,VERA,BURGOS,0305193518,HOMBRE,Jalisco,Irimbo,Cerrada de La Misión,S.T.E.M.A.,SN
+ITZEL,MURILLO,HERMOSILLO,6576934487,MUJER,Guerrero,Ixtlán,Cerrada del Valle,Zona Militar,87
+OSCAR,GUEVARA,VALLES,1348696097,HOMBRE,México,Jacona,Cerrada de la Mezquitera,Villa Bonita,74
+LUZ MARIA,SEGURA,ZARAGOZA,6599855471,MUJER,Campeche,Jiménez,Lomas del Campestre 2a Sección,Lic Benito Palomino Dena,42
+ANGEL DANIEL,SAUCEDO,CAMACHO,8563778653,HOMBRE,Zacatecas,Jiquilpan,Villas del Campestre,Anexo Benito Palomino Dena (Cumbres II),SN
+LIZBETH,MONTIEL,SALAS,7387081114,MUJER,Sinaloa,Juárez,Los Calicantos,La Florida l,SN
+HECTOR,REYNA,BECERRA,9677649172,HOMBRE,San Luis Potosí,Jungapeo,Jardines de la Concepción,La Florida ll,SN
+JAZMIN,VENTURA,PANZO,3991212873,MUJER,San Luis Potosí,Lagunillas,Los Bosques,Claustros Loma Dorada,63
+ANGEL GAEL,OLIVARES,ARROYO,8231520596,HOMBRE,Veracruz,Madero,Rinconada los Bosques,Cumbres III,76
+ISABEL,SOLANO,PEÑALOZA,4810337170,MUJER,Ciudad de Mexico,Maravatío,La Perla Norte,Lomas de Bellavista,10
+JESUS ANTONIO,SANTANA,LANDERO,5963290947,HOMBRE,Tabasco,Marcos Castellanos,Arroyo El Molino,Lomas de las Fuentes,SN
+MIA VALENTINA,LUGO,ALEMAN,4757665432,MUJER,Veracruz,Lázaro Cárdenas,Galerías,Colinas de Oriente,SN
+ELIAN,GALLARDO,ONTIVEROS,7844777849,HOMBRE,Quintana Roo,Morelia,Residencial Altaria,Vista de las Cumbres,26
+LUCERO,VILLALOBOS,MELO,2454780880,MUJER,Tlaxcala,Morelos,Constitución,Villa Montaña,89
+MARTIN,CASTELLANOS,VEGA,5269088536,HOMBRE,Jalisco,Múgica,Libertad,Villas de Don Antonio,8
+YARETZI,ANGELES,MENDEZ,6557416824,MUJER,Zacatecas,Nahuatzen,Pozo Bravo Norte,Los Ángeles,63
+ALFREDO,ZAPATA,RIVERA,0006549609,HOMBRE,Chihuahua,Nocupétaro,Soberana Convención Revolucionaria,Capittala,62
+JENNIFER,VILLARREAL,MAR,5110782042,MUJER,Querétaro,Nuevo Parangaricutiro,San Cayetano,Recinto de la Macarena,71
+DANTE,GUILLEN,VALTIERRA,0255788505,HOMBRE,Quintana Roo,Nuevo Urecho,Colinas del Rio,La Soledad,64
+MONTSERRAT,DE LOS SANTOS,DE JESUS,7703255054,MUJER,Nayarit,Numarán,Olivares Santana,Los Naranjos,47
+ESTEBAN,NAVARRETE,BECERRA,2817759042,HOMBRE,Durango,Ocampo,Las Brisas,Villa de Nuestra Señora de La Asunción Sector Guadalupe,60
+ALEXA GUADALUPE,ARRIAGA,NEGRETE,1713947202,MUJER,Tamaulipas,Pajacuarán,Ramon Romo Franco,Villa Teresa,81
+FRANCISCO JAVIER,PAREDES,ANDRES,1527881219,HOMBRE,San Luis Potosí,Panindícuaro,Colinas de San Ignacio,Cartagena 1947,57
+PAULA,DAVILA,ALMANZA,9951442886,MUJER,Nayarit,Parácuaro,La Fundición,Villas de La Convención,48
+SALVADOR,MERCADO,JUSTO,7529877483,HOMBRE,Yucatán,Paracho,Fundición II,Lomas de La Asunción,91
+KATHERINE,ESCOBEDO,OLAN,8704090992,MUJER,Baja California Sur,Pátzcuaro,Los Sauces,Villa de Nuestra Señora de La Asunción Sector Encino,SN
+SERGIO,GUERRA,TOLEDO,6608481894,HOMBRE,Ciudad de Mexico,Penjamillo,Línea de Fuego,Villa de Nuestra Señora de La Asunción Sector Alameda,58
+ARLETH,SALDAÑA,CORONEL,7957499757,MUJER,Coahuila,Peribán,Buenos Aires,San José de Pozo Bravo,51
+BRANDON,MONDRAGON,SEVILLA,3228350762,HOMBRE,Aguascalientes,La Piedad,Circunvalación Norte,Villa de Nuestra Señora de La Asunción Sector San Marcos,SN
+MELANIE,LEAL,PARRA,1312663237,MUJER,Veracruz,Purépero,Las Arboledas,Villa de Nuestra Señora de La Asunción Sector Estación,45
+RAUL,ZEPEDA,ORDOÑEZ,0023163838,HOMBRE,Chihuahua,Puruándiro,Villas de San Francisco,Las Plazas,53
+MIA GUADALUPE,NIETO,RAMOS,5285528327,MUJER,Durango,Queréndaro,Villas de La Universidad,El Rosedal,98
+ANGEL TADEO,BARRIOS,BELTRAN,2988188479,HOMBRE,Guerrero,Quiroga,El Sol,Natura,SN
+SOFIA VALENTINA,PIÑA,COVARRUBIAS,1336932205,MUJER,Nuevo León,Cojumatlán de Régules,Gremial,Montebello Della Stanza,SN
+ANGEL DAVID,GRANADOS,MIRELES,7005127692,HOMBRE,Chiapas,Los Reyes,Industrial,Villa Notre Dame,SN
+MAYTE,MAY,PATIÑO,2109282460,MUJER,Hidalgo,Sahuayo,Altavista,Privada Guadalupe,79
+EZEQUIEL,BARRON,DZUL,3701144653,HOMBRE,Baja California Sur,San Lucas,Curtidores,Rinconada Pozo Bravo,33
+YOSELIN,YAÑEZ,ESPINOSA,0414643190,MUJER,Campeche,Santa Ana Maya,La Concordia,Pozo Bravo Sur,41
+THIAGO,BALDERAS,GASCA,2020798054,HOMBRE,Campeche,Salvador Escalante,Miravalle,Villa Loma Dorada,SN
+ANA MARIA,GODINEZ,NUÑO,2830270198,MUJER,Michoacán,Senguio,Panorama,Jardines de Montebello,SN
+JESUS TADEO,ACEVEDO,SILVANO,6724513731,HOMBRE,Ciudad de Mexico,Susupuato,Residencial Guadalupe,Villas del Río,97
+KAILANI,MAGAÑA,ARGUELLO,8111396613,MUJER,Quintana Roo,Tacámbaro,Colinas del Poniente,El Puertecito,85
+ENRIQUE,RICO,OLIVARES,3201415573,HOMBRE,Nuevo León,Tancítaro,Bugambilias,Rinconada del Puertecito,54
+HANNA,OJEDA,LIRA,2880833083,MUJER,Campeche,Tangamandapio,Del Carmen,Bosques del Prado Norte,78
+LUIS ANTONIO,BONILLA,HAU,5018700562,HOMBRE,Tamaulipas,Tangancícuaro,La Fe,Sartenejo,59
+ANTONELLA,ISLAS,JARQUIN,7751666079,MUJER,Aguascalientes,Tanhuato,México,Lomas del Campestre 1a Sección,36
+JOSE EDUARDO,PALMA,BOBADILLA,7964903738,HOMBRE,Aguascalientes,Taretan,Primavera,Bosques del Prado Sur,86
+YARELI,GIL,AMBRIZ,7189567384,MUJER,Nayarit,Tarímbaro,San Pablo,El Roble,84
+MOISES,LORENZO,MARMOLEJO,4486466158,HOMBRE,Yucatán,Tepalcatepec,Guadalupe,Fátima,46
+VICTORIA GUADALUPE,MEDRANO,PALOMINO,5516617959,MUJER,Nayarit,Tingambato,Heliodoro Garcia,Independencia de México,79
+JESUS ALEJANDRO,SALVADOR,BECERRA,9326334050,HOMBRE,Tabasco,Tingüindín,Gómez,Nueva Rinconada,22
+KENIA,PECH,ZEPEDA,6504336627,MUJER,Jalisco,Tiquicheo de Nicolás Romero,Moderno,Primo Verdad,93
+JULIO CESAR,GAMEZ,LANDERO,1883615456,HOMBRE,Quintana Roo,Tlalpujahua,Valle del Rio San Pedro,San José del Arenal,70
+MARIA ISABEL,CORONADO,ARANDA,6215333950,MUJER,Ciudad de Mexico,Tlazazalca,Guadalupe Posada,Unidad Ganadera,SN
+ALBERTO,CARRERA,CRISOSTOMO,7352804896,HOMBRE,Morelos,Tocumbo,San Marcos,San Xavier,56
+SARAHI,MONROY,BUSTILLOS,6016739438,MUJER,Nayarit,Tumbiscatío,San Marcos,Residencial del Real,10
+EMANUEL,DUARTE,SAAVEDRA,8966351226,HOMBRE,Quintana Roo,Turicato,San Marcos,Puerta Navarra,SN
+EMILY SOFIA,ALFARO,MANUEL,7722141806,MUJER,San Luis Potosí,Tuxpan,Modelo,Residencial Campestre Club de Golf,27
+CESAR,CABALLERO,BERNABE,7340971205,HOMBRE,Guerrero,Tuzantla,Residencial del Valle I,Palma Real,97
+XIMENA GUADALUPE,GALICIA,BLAS,8197930169,MUJER,Querétaro,Tzintzuntzan,Residencial del Valle II,Muralia,66
+VICTOR MANUEL,TRINIDAD,FAJARDO,7435940405,HOMBRE,Sonora,Tzitzio,La Herradura,Agropecuario,SN
+GRECIA,NAJERA,SANCHEZ,2018484699,MUJER,Tamaulipas,Uruapan,Club Campestre,Centro Distribuidor de Básicos,SN
+MARIO,BLANCO,ENCISO,1813618226,HOMBRE,Sinaloa,Venustiano Carranza,Jardines del Campestre,La Rinconada,SN
+FRIDA,ARREDONDO,GRANADOS,4159468633,MUJER,Chihuahua,Villamar,Los Vergeles,El Plateado,95
+JESUS DANIEL,URIBE,PORTILLO,4043009852,HOMBRE,Quintana Roo,Vista Hermosa,Ciudad Universitaria,Residencial Pulgas Pandas Norte,87
+YAMILET,CARRANZA,FIGUEROA,3202625347,MUJER,Coahuila,Yurécuaro,Rancho San Antonio,Residencial Pulgas Pandas Sur,19
+BENJAMIN,GARDUÑO,BRIONES,6245004445,HOMBRE,Tamaulipas,Zacapu,Villas de Montenegro,Villas del Vergel,SN
+CAMILA GUADALUPE,AMADOR,MONTIEL,3559784990,MUJER,Puebla,Zamora,Las Cavas,Cerrada San Miguel,SN
+JOSE CARLOS,ROBLERO,ZACARIAS,4354810062,HOMBRE,Guerrero,Zináparo,La Enramada,Las Hadas,24
+MARIA DEL CARMEN,ARCOS,SANTOYO,9915617581,MUJER,Campeche,Zinapécuaro,Talamantes Ponce,Morelos,72
+IAN ALEXANDER,GAYTAN,SIMON,6613487801,HOMBRE,Aguascalientes,Ziracuaretiro,Granjas del Campestre,Andrea,35
+DANNA PAOLA,AGUILERA,ALCOCER,9211921663,MUJER,Chiapas,Zitácuaro,Puerto las Hadas,Los Arcos,98
+JOSE DANIEL,BALTAZAR,CANUL,4384861830,HOMBRE,Tabasco,José Sixto Verduzco,Valle del Campestre,Industrial,58
+ALICIA,MELENDEZ,CASTAÑON,8286169043,MUJER,Quintana Roo,Amacuzac,Trojes de Oriente,La Estrella,84
+ANGEL SANTIAGO,SIERRA,JASSO,5763051352,HOMBRE,Nayarit,Atlatlahucan,Valle de las Trojes,Macias Arellano,41
+BARBARA,ARMENTA,PUENTE,9180575779,MUJER,Nayarit,Axochiapan,Villas de San Nicolás,Trento,77
+ARMANDO,BARRAGAN,VENEGAS,1244227683,HOMBRE,Baja California Sur,Ayala,San Telmo,Nueva Andalucia Coto Residencial,19
+NAHOMI,APARICIO,CANSECO,1104316798,MUJER,Coahuila,Coatlán del Río,La Paloma,Lomas del Cobano,4
+LUIS,VIDAL,ALCANTARA,6006423331,HOMBRE,Baja California Sur,Cuautla,Barrio de Santiago,Buenavista,21
+LIA VICTORIA,GALVEZ,GIL,2957223163,MUJER,Oaxaca,Cuernavaca,Villa de las Trojes,C.T.M.,43
+JOSHUA,ROMO,VILLALBA,7207593682,HOMBRE,Tabasco,Emiliano Zapata,Valle de Santa Teresa,La Higuerilla,54
+MARGARITA,CARBAJAL,GALEANA,1693411243,MUJER,Hidalgo,Huitzilac,La Troje,Parras,SN
+FABIAN,ESCALANTE,OLMOS,3010316114,HOMBRE,Zacatecas,Jantetelco,Trojes de Alonso,El Cobano,32
+ANA PAOLA,ESCAMILLA,LLAMAS,9020938466,MUJER,Michoacán,Jiutepec,San Telmo Residencial,Hacienda el Cobano,88
+IAN GAEL,RENTERIA,CANCINO,7179825978,HOMBRE,Puebla,Jojutla,Santa Fe,Trojes del Cobano,SN
+JADE,MONTALVO,DE SANTIAGO,6144623294,MUJER,Tlaxcala,Jonacatepec de Leandro Valle,Aguascalientes 2000,Villas del Cobano,45
+CRISTOPHER,ARENAS,GARAY,2431469237,HOMBRE,Yucatán,Mazatepec,Las Trojes,Alianza Ferrocarrilera,91
+MONSERRATH,MERINO,LOBATO,2506060530,MUJER,Veracruz,Miacatlán,Misión del Campanario,Bosques del Prado Oriente,88
+JESUS ADRIAN,ROQUE,LEZAMA,1860565370,HOMBRE,Jalisco,Ocuituco,Trojes de Cristal,Francisco Guel Jimenez,SN
+ARIADNA,JARAMILLO,LIRA,5056274790,MUJER,Tlaxcala,Puente de Ixtla,Trojes del Sol,Las Viñas INFONAVIT,SN
+JESUS EDUARDO,OCAMPO,VICTORIANO,7280111432,HOMBRE,Durango,Temixco,Residencial Santa Clara,Santa Anita 4a Sección,SN
+JUANA,CORREA,CANDIA,4986223359,MUJER,Morelos,Tepalcingo,Misión de Santiago,Santa Anita,63
+EDGAR,GASPAR,MEDEL,9341734891,HOMBRE,Tlaxcala,Tepoztlán,Andora Residencial,Santa Anita 2a Sección,11
+MIA SOFIA,HURTADO,CAMACHO,4752741658,MUJER,Colima,Tetecala,Cadaqués Residencial,El Maguey,77
+ISAIAS,TOLENTINO,BALLESTEROS,8985019142,HOMBRE,Quintana Roo,Tetela del Volcán,Valle del Campanario,Las Cumbres,SN
+CONSTANZA,BAEZ,CLEMENTE,7577536891,MUJER,Yucatán,Tlalnepantla,Las Misiones,Lic Benito Juárez,SN
+DILAN,MIGUEL,JIMENEZ,5028601397,HOMBRE,Quintana Roo,Tlaltizapán de Zapata,Los Jarales,Nazario Ortiz Garza,73
+ALEXA SOFIA,LAZARO,TINOCO,2916819243,MUJER,Morelos,Tlaquiltenango,Cerrada El Molino,Rodolfo Landeros Gallegos,97
+JOSE JULIAN,ARREOLA,PIMENTEL,9722493249,HOMBRE,Michoacán,Tlayacapan,Valle Real,S.T.E.M.A.,1
+ANGELICA,VENEGAS,CALVA,3667648588,MUJER,San Luis Potosí,Totolapan,Terzetto,Zona Militar,36
+ULISES,MARTIN,HURTADO,9332711281,HOMBRE,Campeche,Xochitepec,Cerrada de La Misión,Villa Bonita,67
+MARIA PAULA,VALADEZ,DAVILA,6062125445,MUJER,Tamaulipas,Yautepec,Cerrada del Valle,Lic Benito Palomino Dena,5
+CHRISTOPHER,QUEZADA,CHACON,9232701644,HOMBRE,Nuevo León,Yecapixtla,Cerrada de la Mezquitera,Anexo Benito Palomino Dena (Cumbres II),93
+LIA SOFIA,ARANDA,GRANADOS,0612987001,MUJER,Nuevo León,Zacatepec,Lomas del Campestre 2a Sección,La Florida l,51
+ADRIEL,SANTILLAN,REZA,1909682046,HOMBRE,Quintana Roo,Zacualpan de Amilpas,Villas del Campestre,La Florida ll,81
+JULIA,ALCANTARA,LEDESMA,2152722322,MUJER,Durango,Temoac,Los Calicantos,Claustros Loma Dorada,89
+JOSE GUADALUPE,MORAN,VILLEDA,8775814852,HOMBRE,Jalisco,Coatetelco,Jardines de la Concepción,Cumbres III,34
+AITANA GUADALUPE,ANAYA,COLUNGA,5838446531,MUJER,Jalisco,Xoxocotla,Los Bosques,Lomas de Bellavista,23
+LUIS ALBERTO,ZARAGOZA,CERVANTES,0342679729,HOMBRE,Baja California Sur,Hueyapan,Rinconada los Bosques,Lomas de las Fuentes,43
+DENISSE,NICOLAS,BUENDIA,3462569562,MUJER,Jalisco,Azcapotzalco,La Perla Norte,Colinas de Oriente,SN
+EDWIN,VALLE,RIZO,1078785296,HOMBRE,México,Coyoacán,Arroyo El Molino,Vista de las Cumbres,39
+REGINA GUADALUPE,CANUL,ROSALES,8711496050,MUJER,Coahuila,Cuajimalpa de Morelos,Galerías,Villa Montaña,45
+DYLAN GAEL,LIRA,MEZA,8615103667,HOMBRE,Campeche,Gustavo A. Madero,Residencial Altaria,Villas de Don Antonio,SN
+VIOLETA,VARELA,HUERTA,7319740458,MUJER,Colima,Iztacalco,Constitución,Los Ángeles,26
+LUIS DANIEL,CORDERO,OLVERA,3112074675,HOMBRE,Quintana Roo,Iztapalapa,Libertad,Capittala,53
+MARIA ALEJANDRA,COLIN,AMARO,7251495194,MUJER,Chihuahua,La Magdalena Contreras,Pozo Bravo Norte,Recinto de la Macarena,72
+ANGEL DE JESUS,CARRASCO,GIRON,4963927491,HOMBRE,Michoacán,Milpa Alta,Soberana Convención Revolucionaria,La Soledad,SN
+TANIA,ALARCON,GARRIDO,6939504672,MUJER,Quintana Roo,Álvaro Obregón,San Cayetano,Los Naranjos,SN
+CALEB,SORIANO,AYALA,7841288873,HOMBRE,Guanajuato,Tláhuac,Colinas del Rio,Villa de Nuestra Señora de La Asunción Sector Guadalupe,SN
+MILAGROS,MATEO,CELESTINO,5266028034,MUJER,Jalisco,Tlalpan,Olivares Santana,Villa Teresa,88
+CHRISTIAN,AQUINO,LEZAMA,8795955425,HOMBRE,Campeche,Xochimilco,Las Brisas,Cartagena 1947,63
+SCARLETT,CAZARES,DUARTE,5247544054,MUJER,San Luis Potosí,Benito Juárez,Ramon Romo Franco,Villas de La Convención,72
+GUILLERMO,ANGEL,ESCUDERO,0433704582,HOMBRE,Ciudad de Mexico,Cuauhtémoc,Colinas de San Ignacio,Lomas de La Asunción,SN
+BRENDA,ALTAMIRANO,AGUILAR,5098565285,MUJER,Sonora,Miguel Hidalgo,La Fundición,Villa de Nuestra Señora de La Asunción Sector Encino,SN
+JUAN ANTONIO,CARDONA,POZOS,3735651739,HOMBRE,Baja California,Venustiano Carranza,Fundición II,Villa de Nuestra Señora de La Asunción Sector Alameda,94
+ROSA,RENDON,CASILLAS,6671128822,MUJER,Chiapas,Amealco de Bonfil,Los Sauces,San José de Pozo Bravo,44
+IAN SANTIAGO,LUCAS,POLANCO,1122036752,HOMBRE,Veracruz,Pinal de Amoles,Línea de Fuego,Villa de Nuestra Señora de La Asunción Sector San Marcos,21
+DANNA,VALDES,CARDONA,8771571044,MUJER,Chiapas,Arroyo Seco,Buenos Aires,Villa de Nuestra Señora de La Asunción Sector Estación,59
+LUIS ENRIQUE,ARCE,MARCELINO,8019566407,HOMBRE,Morelos,Cadereyta de Montes,Circunvalación Norte,Las Plazas,47
+GISELLE,AVILES,GERVACIO,8505227853,MUJER,Durango,Colón,Las Arboledas,El Rosedal,33
+JOEL,LIMON,AKE,8525908870,HOMBRE,Durango,Corregidora,Villas de San Francisco,Natura,42
+EVELIN,HIDALGO,OBREGON,3630551106,MUJER,Guanajuato,Ezequiel Montes,Villas de La Universidad,Montebello Della Stanza,52
+JORGE LUIS,QUINTANA,MANRIQUEZ,1757833326,HOMBRE,Campeche,Huimilpan,El Sol,Villa Notre Dame,82
+NATALY,TOLEDO,BERNABE,9383922838,MUJER,Nayarit,Jalpan de Serra,Gremial,Privada Guadalupe,50
+JOSE DE JESUS,LUIS,ROMANO,3910441112,HOMBRE,Querétaro,Landa de Matamoros,Industrial,Rinconada Pozo Bravo,52
+CECILIA,PORTILLO,RENTERIA,6927618445,MUJER,Guanajuato,El Marqués,Altavista,Pozo Bravo Sur,59
+YAHIR,MUÑIZ,CARREÑO,5606538574,HOMBRE,Puebla,Pedro Escobedo,Curtidores,Villa Loma Dorada,22
+MIA VICTORIA,MENA,AGUILLON,6691533484,MUJER,Campeche,Peñamiller,La Concordia,Jardines de Montebello,SN
+ABDIEL,MAYA,CORTEZ,4719645947,HOMBRE,Quintana Roo,Querétaro,Miravalle,Villas del Río,44
+HELENA,SEGUNDO,CHAVEZ,9213663792,MUJER,México,San Joaquín,Panorama,El Puertecito,44
+JESUS ALEXANDER,ANGUIANO,BADILLO,7548558183,HOMBRE,Coahuila,San Juan del Río,Residencial Guadalupe,Rinconada del Puertecito,SN
+LUISA FERNANDA,DE LA TORRE,OTERO,5949843139,MUJER,Colima,Tequisquiapan,Colinas del Poniente,Bosques del Prado Norte,61
+DYLAN MATEO,MADRIGAL,DELGADO,1299326016,HOMBRE,Guerrero,Tolimán,Bugambilias,Sartenejo,53
+KARLA SOFIA,MATIAS,TEMOXTLE,5253983392,MUJER,Ciudad de Mexico,Acambay de Ruíz Castañeda,Del Carmen,Lomas del Campestre 1a Sección,92
+IKER GAEL,ORDOÑEZ,CUELLAR,8861995129,HOMBRE,San Luis Potosí,Acolman,La Fe,Bosques del Prado Sur,SN
+MARIA DE JESUS,ONTIVEROS,ALCANTAR,6515698450,MUJER,Jalisco,Aculco,México,El Roble,SN
+VALENTIN,BRIONES,CORNELIO,0206512262,HOMBRE,Chiapas,Almoloya de Alquisiras,Primavera,Fátima,SN
+ISABELA,MONTEJO,NOH,4600164218,MUJER,Morelos,Almoloya de Juárez,San Pablo,Independencia de México,50
+JESUS MANUEL,CUELLAR,BRAVO,5634396020,HOMBRE,Colima,Almoloya del Río,Guadalupe,Nueva Rinconada,82
+MARIA ELENA,BELLO,AVENDAÑO,9647434230,MUJER,Nayarit,Amanalco,Heliodoro Garcia,Primo Verdad,49
+JESUS EMMANUEL,CASILLAS,ORDOÑEZ,0343280842,HOMBRE,Veracruz,Amatepec,Gómez,San José del Arenal,SN
+LIA VALENTINA,SOTELO,PORRAS,2533372792,MUJER,Guerrero,Amecameca,Moderno,Unidad Ganadera,SN
+PATRICIO,SAAVEDRA,ALVARADO,9401737336,HOMBRE,Tamaulipas,Apaxco,Valle del Rio San Pedro,San Xavier,58
+MIRIAM,COVARRUBIAS,AMEZCUA,0185458008,MUJER,Zacatecas,Atenco,Guadalupe Posada,Residencial del Real,45
+ROGELIO,BARRIENTOS,ESCOBEDO,8026479814,HOMBRE,Tabasco,Atizapán,San Marcos,Puerta Navarra,14
+ROSA MARIA,PEDRAZA,CHIMAL,0469434670,MUJER,Puebla,Atizapán de Zaragoza,San Marcos,Residencial Campestre Club de Golf,74
+ANDRE,MONTERO,ENCARNACION,3630996642,HOMBRE,Querétaro,Atlacomulco,San Marcos,Palma Real,27
+ASHLEY,URBINA,IBAÑEZ,0701840844,MUJER,Baja California,Atlautla,Modelo,Muralia,94
+JESUS SANTIAGO,ARTEAGA,SALMERON,0673474970,HOMBRE,Puebla,Axapusco,Residencial del Valle I,Agropecuario,2
+ALEXIA,BUSTOS,OLMEDO,3481816019,MUJER,Guanajuato,Ayapango,Residencial del Valle II,Centro Distribuidor de Básicos,44
+ZAID,MELCHOR,CARMONA,5063266282,HOMBRE,Baja California Sur,Calimaya,La Herradura,La Rinconada,30
+ESTEFANY,DELGADILLO,MAGALLANES,0488545740,MUJER,Nuevo León,Capulhuac,Club Campestre,El Plateado,56
+JESUS MATEO,ORNELAS,TORRES,8083492854,HOMBRE,Guanajuato,Coacalco de Berriozábal,Jardines del Campestre,Residencial Pulgas Pandas Norte,18
+MONICA,BUSTAMANTE,JUSTO,2117552750,MUJER,Campeche,Coatepec Harinas,Los Vergeles,Residencial Pulgas Pandas Sur,49
+JOSE ALFREDO,RINCON,CARDOSO,9780841866,HOMBRE,Morelos,Cocotitlán,Ciudad Universitaria,Villas del Vergel,53
+GERALDINE,CANCHE,CEPEDA,1870951876,MUJER,Querétaro,Coyotepec,Rancho San Antonio,Cerrada San Miguel,SN
+DANIEL ALEJANDRO,VICENTE,ESCUDERO,3598871007,HOMBRE,Hidalgo,Cuautitlán,Villas de Montenegro,Las Hadas,18
+ANAHI,PRADO,ELIZALDE,1983402096,MUJER,Baja California,Chalco,Las Cavas,Morelos,54
+ANGEL EDUARDO,POOT,ALDANA,3886595809,HOMBRE,Michoacán,Chapa de Mota,La Enramada,Andrea,SN
+GRETTEL,PABLO,OCAMPO,9949316878,MUJER,Aguascalientes,Chapultepec,Talamantes Ponce,Los Arcos,87
+JESUS ALBERTO,NOLASCO,SEGOVIA,0621392833,HOMBRE,Guanajuato,Chiautla,Granjas del Campestre,Industrial,26
+MARIEL,FONSECA,ARTEAGA,6444703209,MUJER,Chiapas,Chicoloapan,Puerto las Hadas,La Estrella,25
+JOSE ALBERTO,LINARES,PORTILLO,1441857796,HOMBRE,Guanajuato,Chiconcuac,Valle del Campestre,Macias Arellano,SN
+AMAYA,PAZ,TIRADO,0879902282,MUJER,Quintana Roo,Chimalhuacán,Trojes de Oriente,Trento,SN
+JOSE EMILIANO,JAIMES,BARRON,7388005853,HOMBRE,Querétaro,Donato Guerra,Valle de las Trojes,Nueva Andalucia Coto Residencial,SN
+NOEMI,VELEZ,GARIBAY,1606741034,MUJER,Nayarit,Ecatepec de Morelos,Villas de San Nicolás,Lomas del Cobano,53
+ANGEL JESUS,ALEMAN,ALMAZAN,7381007105,HOMBRE,Chihuahua,Ecatzingo,San Telmo,Buenavista,14
+SARAI,REYNOSO,DELGADO,7113429339,MUJER,Aguascalientes,Huehuetoca,La Paloma,C.T.M.,65
+VICTOR,PUENTE,CASTAÑON,5486160279,HOMBRE,Oaxaca,Hueypoxtla,Barrio de Santiago,La Higuerilla,SN
+AITANA SOFIA,JACOBO,COLUNGA,0148949104,MUJER,Sinaloa,Huixquilucan,Villa de las Trojes,Parras,SN
+MARCOS,CARREON,ALFONSO,9425803068,HOMBRE,Tamaulipas,Isidro Fabela,Valle de Santa Teresa,El Cobano,56
+MARIA REGINA,PATIÑO,DAVALOS,1252445871,MUJER,Tabasco,Ixtapaluca,La Troje,Hacienda el Cobano,94
+ERNESTO,CANTU,OLVERA,0087361047,HOMBRE,Ciudad de Mexico,Ixtapan de la Sal,Trojes de Alonso,Trojes del Cobano,89
+YAZMIN,PULIDO,MERINO,2695621758,MUJER,Ciudad de Mexico,Ixtapan del Oro,San Telmo Residencial,Villas del Cobano,100
+MARCELO,FRIAS,LOERA,3138947185,HOMBRE,Sinaloa,Ixtlahuaca,Santa Fe,Alianza Ferrocarrilera,60
+LIZETH,CEDILLO,CHAVEZ,0328629855,MUJER,Oaxaca,Xalatlaco,Aguascalientes 2000,Bosques del Prado Oriente,24
+JESUS GAEL,GAMBOA,LEMUS,2596600493,HOMBRE,Tlaxcala,Jaltenco,Las Trojes,Francisco Guel Jimenez,91
+OLIVIA,NERI,BADILLO,4584782966,MUJER,Sinaloa,Jilotepec,Misión del Campanario,Las Viñas INFONAVIT,87
+JOAQUIN,DAMIAN,JIMENEZ,8891896668,HOMBRE,Nayarit,Jilotzingo,Trojes de Cristal,Santa Anita 4a Sección,41
+TERESA,VALLEJO,MONTES,1871822955,MUJER,Chiapas,Jiquipilco,Trojes del Sol,Santa Anita,81
+MARIANO,ZAMUDIO,AMBROSIO,1041194557,HOMBRE,Campeche,Jocotitlán,Residencial Santa Clara,Santa Anita 2a Sección,78
+VALERIA GUADALUPE,GUADARRAMA,NEVAREZ,0577027182,MUJER,Coahuila,Joquicingo,Misión de Santiago,El Maguey,63
+ALEX,MILLAN,VERGARA,3048098129,HOMBRE,Yucatán,Juchitepec,Andora Residencial,Las Cumbres,6
+ROMINA GUADALUPE,ESPINO,OCAÑA,1620065749,MUJER,Ciudad de Mexico,Lerma,Cadaqués Residencial,Lic Benito Juárez,SN
+RUBEN,AVENDAÑO,MENESES,1855516245,HOMBRE,Guanajuato,Malinalco,Valle del Campanario,Nazario Ortiz Garza,42
+YULIANA,ROBLEDO,ARRIETA,9484202663,MUJER,Chihuahua,Melchor Ocampo,Las Misiones,Rodolfo Landeros Gallegos,91
+SAID,CERON,LEDEZMA,9846214752,HOMBRE,Tamaulipas,Metepec,Los Jarales,S.T.E.M.A.,SN
+KARINA,BOLAÑOS,CASTAÑON,3772835825,MUJER,Ciudad de Mexico,Mexicaltzingo,Cerrada El Molino,Zona Militar,20
+LIAM ALEXANDER,GIRON,MANDUJANO,0614871707,HOMBRE,Michoacán,Morelos,Valle Real,Villa Bonita,72
+MELISA,ESTEBAN,BAEZA,8606325347,MUJER,Durango,Naucalpan de Juárez,Terzetto,Lic Benito Palomino Dena,33
+IAN TADEO,JASSO,MONREAL,7447611296,HOMBRE,Oaxaca,Nezahualcóyotl,Cerrada de La Misión,Anexo Benito Palomino Dena (Cumbres II),SN
+JESSICA,MOTA,IBARRA,2856936349,MUJER,Hidalgo,Nextlalpan,Cerrada del Valle,La Florida l,SN
+JOSE ALEJANDRO,MONTAÑO,VALERO,6749220855,HOMBRE,Nuevo León,Nicolás Romero,Cerrada de la Mezquitera,La Florida ll,SN
+DANAE,VALDIVIA,PEREZ,3401772252,MUJER,Coahuila,Nopaltepec,Lomas del Campestre 2a Sección,Claustros Loma Dorada,48
+MISAEL,TREVIÑO,TAPIA,4384506026,HOMBRE,Zacatecas,Ocoyoacac,Villas del Campestre,Cumbres III,35
+SOFIA VICTORIA,BARRAZA,MONTAÑEZ,1886724361,MUJER,Guanajuato,Ocuilan,Los Calicantos,Lomas de Bellavista,95
+DARIO,NEGRETE,ARREDONDO,2520010279,HOMBRE,Oaxaca,El Oro,Jardines de la Concepción,Lomas de las Fuentes,SN
+YATZIRI,CERDA,GALAVIZ,4038800065,MUJER,Nuevo León,Otumba,Los Bosques,Colinas de Oriente,SN
+DYLAN ALEXANDER,MIRELES,IÑIGUEZ,0223425928,HOMBRE,Durango,Otzoloapan,Rinconada los Bosques,Vista de las Cumbres,36
+ARACELI,ALEJANDRO,MIRAMONTES,0163647362,MUJER,Quintana Roo,Otzolotepec,La Perla Norte,Villa Montaña,88
+LIAM SANTIAGO,DZUL,CABELLO,3137378262,HOMBRE,Veracruz,Ozumba,Arroyo El Molino,Villas de Don Antonio,87
+DANIA,GARRIDO,PINTO,1597685098,MUJER,Guerrero,Papalotla,Galerías,Los Ángeles,14
+LIAM MATEO,ALEJO,CALVO,2200832503,HOMBRE,Hidalgo,La Paz,Residencial Altaria,Capittala,94
+ANA KAREN,OSUNA,LAGUNAS,2651503707,MUJER,Chihuahua,Polotitlán,Constitución,Recinto de la Macarena,68
+JOSE DAVID,JOSE,VERDUZCO,9644542522,HOMBRE,Chiapas,Rayón,Libertad,La Soledad,30
+MARIA SOFIA,ALCANTAR,TAPIA,9817144314,MUJER,Aguascalientes,San Antonio la Isla,Pozo Bravo Norte,Los Naranjos,61
+LIAM GAEL,MUNGUIA,SILVANO,6696808269,HOMBRE,Guerrero,San Felipe del Progreso,Soberana Convención Revolucionaria,Villa de Nuestra Señora de La Asunción Sector Guadalupe,1
+AMELIA,OLGUIN,REGALADO,1011227612,MUJER,Coahuila,San Martín de las Pirámides,San Cayetano,Villa Teresa,5
+LUIS EDUARDO,CAAMAL,ROA,5421574082,HOMBRE,Chiapas,San Mateo Atenco,Colinas del Rio,Cartagena 1947,70
+ARELY,ANGULO,PANIAGUA,0216720433,MUJER,Guerrero,San Simón de Guerrero,Olivares Santana,Villas de La Convención,96
+HUGO,ARAUJO,JUAN,4413386993,HOMBRE,Tamaulipas,Santo Tomás,Las Brisas,Lomas de La Asunción,8
+GIANNA,BECERRIL,CORONA,6778117088,MUJER,Guerrero,Soyaniquilpan de Juárez,Ramon Romo Franco,Villa de Nuestra Señora de La Asunción Sector Encino,SN
+IAN DANIEL,COTA,BARRERA,8163108354,HOMBRE,Tlaxcala,Sultepec,Colinas de San Ignacio,Villa de Nuestra Señora de La Asunción Sector Alameda,46
+SANDRA,CASAS,ENCARNACION,8753923618,MUJER,Tabasco,Tecámac,La Fundición,San José de Pozo Bravo,25
+CRISTOFER,HEREDIA,HARO,5892394963,HOMBRE,Yucatán,Tejupilco,Fundición II,Villa de Nuestra Señora de La Asunción Sector San Marcos,SN
+DARIANA,MENESES,CASTREJON,7186846875,MUJER,Quintana Roo,Temamatla,Los Sauces,Villa de Nuestra Señora de La Asunción Sector Estación,74
+JESUS EMILIANO,CHACON,VILLALOBOS,8162184425,HOMBRE,Jalisco,Temascalapa,Línea de Fuego,Las Plazas,45
+MIA NICOLE,OLMOS,GAYTAN,1406563296,MUJER,Aguascalientes,Temascalcingo,Buenos Aires,El Rosedal,93
+LUIS DAVID,GAONA,REMIGIO,0561643488,HOMBRE,Guanajuato,Temascaltepec,Circunvalación Norte,Natura,SN
+ALESSANDRA,LEDEZMA,BAZAN,8255684599,MUJER,Guanajuato,Temoaya,Las Arboledas,Montebello Della Stanza,SN
+YAEL,SERNA,SALMERON,9212453732,HOMBRE,Durango,Tenancingo,Villas de San Francisco,Villa Notre Dame,SN
+MILAGROS GUADALUPE,PASCUAL,LERMA,4990161147,MUJER,Morelos,Tenango del Aire,Villas de La Universidad,Privada Guadalupe,67
+IKER ALEXANDER,BANDA,GARZA,5458947644,HOMBRE,Nayarit,Tenango del Valle,El Sol,Rinconada Pozo Bravo,19
+CRISTINA,FELIPE,CALDERA,7352035776,MUJER,Quintana Roo,Teoloyucan,Gremial,Pozo Bravo Sur,94
+JOSE MATEO,CHAVARRIA,DIMAS,8010907008,HOMBRE,Coahuila,Teotihuacán,Industrial,Villa Loma Dorada,SN
+KEYLA,ALCALA,ANTONIO,2375146285,MUJER,Guerrero,Tepetlaoxtoc,Altavista,Jardines de Montebello,SN
+JOSE ARMANDO,ANDRES,BARTOLO,2270638268,HOMBRE,Aguascalientes,Tepetlixpa,Curtidores,Villas del Río,89
+SOPHIA,LEMUS,GODOY,9603260827,MUJER,Oaxaca,Tepotzotlán,La Concordia,El Puertecito,15
+AGUSTIN,NORIEGA,EUGENIO,3072059220,HOMBRE,Campeche,Tequixquiac,Miravalle,Rinconada del Puertecito,50
+KAREN,ALANIS,MORENO,2472518245,MUJER,Ciudad de Mexico,Texcaltitlán,Panorama,Bosques del Prado Norte,78
+AXEL GAEL,CORNEJO,GARNICA,5046725280,HOMBRE,Yucatán,Texcalyacac,Residencial Guadalupe,Sartenejo,89
+RENATA GUADALUPE,LOERA,ESPINDOLA,3032755454,MUJER,Chihuahua,Texcoco,Colinas del Poniente,Lomas del Campestre 1a Sección,9
+EITHAN,VERGARA,CEDILLO,5771746403,HOMBRE,México,Tezoyuca,Bugambilias,Bosques del Prado Sur,90
+AITANA VALENTINA,DIEGO,SERRATO,1663706950,MUJER,Coahuila,Tianguistenco,Del Carmen,El Roble,60
+ALVARO,BADILLO,DIMAS,3892076921,HOMBRE,Ciudad de Mexico,Timilpan,La Fe,Fátima,16
+AMANDA,MARCIAL,PABLO,2705325849,MUJER,Tamaulipas,Tlalmanalco,México,Independencia de México,43
+FRANCO,RUEDA,OSUNA,0072907122,HOMBRE,Baja California,Tlalnepantla de Baz,Primavera,Nueva Rinconada,26
+ANDREA GUADALUPE,BARCENAS,VIVEROS,1587991796,MUJER,Tamaulipas,Tlatlaya,San Pablo,Primo Verdad,59
+JOSE FRANCISCO,CHI,VENEGAS,9545751444,HOMBRE,Guerrero,Toluca,Guadalupe,San José del Arenal,77
+EMMA VICTORIA,ARAGON,DURAN,7317066474,MUJER,Guanajuato,Tonatico,Heliodoro Garcia,Unidad Ganadera,SN
+JOSE SANTIAGO,ADAME,SAENZ,0009453598,HOMBRE,Durango,Tultepec,Gómez,San Xavier,20
+MARIBEL,ALMARAZ,MILLAN,7521965665,MUJER,Colima,Tultitlán,Moderno,Residencial del Real,48
+DYLAN JESUS,MARES,LAZARO,3980986660,HOMBRE,Campeche,Valle de Bravo,Valle del Rio San Pedro,Puerta Navarra,SN
+DANIELA GUADALUPE,CEBALLOS,TOSCANO,2831216679,MUJER,Aguascalientes,Villa de Allende,Guadalupe Posada,Residencial Campestre Club de Golf,100
+JOSE TADEO,TENORIO,FALCON,5529113789,HOMBRE,Guanajuato,Villa del Carbón,San Marcos,Palma Real,4
+SOFIA ISABELLA,CAMARILLO,OLIVERA,9953841162,MUJER,Michoacán,Villa Guerrero,San Marcos,Muralia,61
+IAN JESUS,NIEVES,SAMANIEGO,4781725294,HOMBRE,Ciudad de Mexico,Villa Victoria,San Marcos,Agropecuario,SN
+HANNA SOFIA,VALERIO,PARDO,8284983368,MUJER,Querétaro,Xonacatlán,Modelo,Centro Distribuidor de Básicos,SN
+JACOB,JERONIMO,PLASCENCIA,9333143689,HOMBRE,Yucatán,Zacazonapan,Residencial del Valle I,La Rinconada,SN
+LIA FERNANDA,JUAN,VELAZQUEZ,8959331966,MUJER,Nuevo León,Zacualpan,Residencial del Valle II,El Plateado,26
+MAXIMO,PRIETO,UICAB,1955121482,HOMBRE,Puebla,Zinacantepec,La Herradura,Residencial Pulgas Pandas Norte,96
+MELANI,AGUSTIN,CARPIO,7192788963,MUJER,México,Zumpahuacán,Club Campestre,Residencial Pulgas Pandas Sur,99
+ALFONSO,CADENA,PABLO,0745824959,HOMBRE,Sinaloa,Zumpango,Jardines del Campestre,Villas del Vergel,SN
+RAQUEL,CAUICH,RINCON,0312166415,MUJER,Nuevo León,Cuautitlán Izcalli,Los Vergeles,Cerrada San Miguel,SN
+JARED,TEJEDA,PABLO,5922860617,HOMBRE,Morelos,Valle de Chalco Solidaridad,Ciudad Universitaria,Las Hadas,18
+MARIA VALENTINA,AREVALO,DE LA PAZ,8438196319,MUJER,Quintana Roo,Luvianos,Rancho San Antonio,Morelos,41
+LUIS MATEO,CHABLE,PARADA,6040675025,HOMBRE,Sinaloa,San José del Rincón,Villas de Montenegro,Andrea,69
+VERONICA,AMARO,GALICIA,6376953562,MUJER,Nayarit,Tonanitla,Las Cavas,Los Arcos,81
+IAN ALEJANDRO,VELASQUEZ,DE LA TORRE,9639765706,HOMBRE,Chihuahua,Acuitzio,La Enramada,Industrial,70
+EMILY GUADALUPE,RAMON,LINARES,5479886089,MUJER,Tabasco,Aguililla,Talamantes Ponce,La Estrella,37
+MATIAS ALEJANDRO,ORDAZ,MEZA,1259460089,HOMBRE,San Luis Potosí,Álvaro Obregón,Granjas del Campestre,Macias Arellano,65
+CAMILA SOFIA,SORIA,LICONA,4764991021,MUJER,Sinaloa,Angamacutiro,Puerto las Hadas,Trento,84
+CARLOS ALBERTO,ROLDAN,MORELOS,9245592095,HOMBRE,Zacatecas,Angangueo,Valle del Campestre,Nueva Andalucia Coto Residencial,71
+FABIOLA,BERMUDEZ,MACIAS,7176387740,MUJER,Oaxaca,Apatzingán,Trojes de Oriente,Lomas del Cobano,80
+ADAN,MANUEL,OLIVAS,1876052045,HOMBRE,Michoacán,Aporo,Valle de las Trojes,Buenavista,26
+SOFIA ELIZABETH,JAIME,POOL,6103961192,MUJER,Guerrero,Aquila,Villas de San Nicolás,C.T.M.,93
+GONZALO,SOLORZANO,ESCAMILLA,1952633877,HOMBRE,Tabasco,Ario,San Telmo,La Higuerilla,42
+KIMBERLY GUADALUPE,AMAYA,ALEJANDRE,0619948096,MUJER,Baja California Sur,Arteaga,La Paloma,Parras,SN
+JUAN DANIEL,ALMANZA,PERALTA,2546572235,HOMBRE,Baja California Sur,Briseñas,Barrio de Santiago,El Cobano,79
+MIA FERNANDA,OLIVAS,VIDALES,7572723101,MUJER,Baja California,Buenavista,Villa de las Trojes,Hacienda el Cobano,91
+ANGEL MATIAS,ZACARIAS,DUEÑAS,2759048431,HOMBRE,Querétaro,Carácuaro,Valle de Santa Teresa,Trojes del Cobano,SN
+ZOE VALENTINA,CEJA,MIGUEL,9167532538,MUJER,Tlaxcala,Coahuayana,La Troje,Villas del Cobano,96
+ANTHONY,ZAMBRANO,URIBE,4366716892,HOMBRE,Guanajuato,Coalcomán de Vázquez Pallares,Trojes de Alonso,Alianza Ferrocarrilera,75
+ROXANA,LANDEROS,TERAN,0983061342,MUJER,Tamaulipas,Coeneo,San Telmo Residencial,Bosques del Prado Oriente,67
+JOSE GAEL,RUVALCABA,VELASQUEZ,0559148644,HOMBRE,Baja California Sur,Contepec,Santa Fe,Francisco Guel Jimenez,SN
+ESPERANZA,BUSTILLOS,CAZAREZ,2336486178,MUJER,Tamaulipas,Copándaro,Aguascalientes 2000,Las Viñas INFONAVIT,SN
+ANGEL URIEL,HINOJOSA,JARAMILLO,5771797236,HOMBRE,Querétaro,Cotija,Las Trojes,Santa Anita 4a Sección,SN
+PAULA SOFIA,ELIAS,ALMARAZ,6719133304,MUJER,Tlaxcala,Cuitzeo,Misión del Campanario,Santa Anita,91
+NOE,GABRIEL,QUEVEDO,8490232195,HOMBRE,Durango,Charapan,Trojes de Cristal,Santa Anita 2a Sección,7
+BELEN,VERDUGO,ROMAN,6648199905,MUJER,Tamaulipas,Charo,Trojes del Sol,El Maguey,10
+CARLOS EDUARDO,ALBA,ZAMUDIO,7821116390,HOMBRE,Tlaxcala,Chavinda,Residencial Santa Clara,Las Cumbres,SN
+SOFIA ALEJANDRA,KU,GARRIDO,9393552586,MUJER,Querétaro,Cherán,Misión de Santiago,Lic Benito Juárez,SN
+DIEGO ALEJANDRO,TINOCO,CAMARGO,1587303915,HOMBRE,Michoacán,Chilchota,Andora Residencial,Nazario Ortiz Garza,46
+ANA VALERIA,SAENZ,TRINIDAD,3425362193,MUJER,Chihuahua,Chinicuila,Cadaqués Residencial,Rodolfo Landeros Gallegos,12
+JESUS DAVID,SIFUENTES,VENANCIO,6679895277,HOMBRE,Campeche,Chucándiro,Valle del Campanario,S.T.E.M.A.,13
+ERIKA,ACUÑA,GAYOSSO,0431373704,MUJER,Chihuahua,Churintzio,Las Misiones,Zona Militar,2
+LUCAS,MANCILLA,DOMINGUEZ,3065034055,HOMBRE,Ciudad de Mexico,Churumuco,Los Jarales,Villa Bonita,79
+ARANTZA,BAÑUELOS,SEVILLA,9753176929,MUJER,Durango,Ecuandureo,Cerrada El Molino,Lic Benito Palomino Dena,54
+GILBERTO,SARMIENTO,PUENTE,9235981499,HOMBRE,Morelos,Epitacio Huerta,Valle Real,Anexo Benito Palomino Dena (Cumbres II),33
+DANNA VICTORIA,ROJO,ZURITA,9942041101,MUJER,Durango,Erongarícuaro,Terzetto,La Florida l,84
+LUIS ALEJANDRO,BETANCOURT,VILLALOBOS,9747249297,HOMBRE,Tabasco,Gabriel Zamora,Cerrada de La Misión,La Florida ll,40
+ESTHER,CLEMENTE,MELCHOR,8803260661,MUJER,Jalisco,Hidalgo,Cerrada del Valle,Claustros Loma Dorada,10
+AXEL MATEO,CORRAL,ALMAZAN,8816615562,HOMBRE,Aguascalientes,La Huacana,Cerrada de la Mezquitera,Cumbres III,91
+BERENICE,JACINTO,JAVIER,4281296445,MUJER,Jalisco,Huandacareo,Lomas del Campestre 2a Sección,Lomas de Bellavista,47
+EFRAIN,MANZANO,PEÑALOZA,0714550477,HOMBRE,Nayarit,Huaniqueo,Villas del Campestre,Lomas de las Fuentes,59
+MARIA BELEN,LEDESMA,ALCARAZ,7887219034,MUJER,Tamaulipas,Huetamo,Los Calicantos,Colinas de Oriente,SN
+ANGEL DAMIAN,RAZO,BARBOZA,3752962661,HOMBRE,México,Huiramba,Jardines de la Concepción,Vista de las Cumbres,27
+VANESA,MARROQUIN,ARMENDARIZ,2225070102,MUJER,Sinaloa,Indaparapeo,Los Bosques,Pintores Mexicanos,71
+DIEGO ALEXANDER,TOMAS,LARIOS,4397735331,HOMBRE,Baja California Sur,Irimbo,Rinconada los Bosques,Progreso,SN
+JAQUELINE,DE LUNA,ZENTENO,5104569244,MUJER,Tamaulipas,Ixtlán,La Perla Norte,Santa Regina,52
+IKER SANTIAGO,PEDROZA,PEDRAZA,8914934742,HOMBRE,Chihuahua,Jacona,Arroyo El Molino,Cerro Alto,31
+LIA GUADALUPE,RUELAS,ORTIZ,5112138397,MUJER,México,Jiménez,Galerías,Santa Margarita,84
+LUIS MANUEL,LUCIO,OLIVERA,3296003016,HOMBRE,Sinaloa,Jiquilpan,Residencial Altaria,Del Trabajo,SN
+NAYELI,LIZARRAGA,REMIGIO,9120615087,MUJER,San Luis Potosí,Juárez,Constitución,Ferronales,SN
+NOAH,BALAM,GALEANA,3711345390,HOMBRE,Morelos,Jungapeo,Libertad,Luis Gómez Zepeda (ferronales),SN
+DIANA SOFIA,ABARCA,AVALOS,5629307047,MUJER,Oaxaca,Lagunillas,Pozo Bravo Norte,Lomas de Santa Anita,80
+OSVALDO,VELA,NUÑEZ,7701981887,HOMBRE,Durango,Madero,Soberana Convención Revolucionaria,Alameda,72
+IVANA,ESTRELLA,MONTAÑEZ,4096658563,MUJER,Ciudad de Mexico,Maravatío,San Cayetano,Rinconada de La Alameda,40
+EMIR,TELLO,BALTAZAR,5342590891,HOMBRE,Zacatecas,Marcos Castellanos,Colinas del Rio,Bosques de La Alameda,SN
+MARIA ISABELLA,CALIXTO,BEJARANO,0686785843,MUJER,Nuevo León,Lázaro Cárdenas,Olivares Santana,Nueva Alameda,SN
+CRISTOBAL,NIÑO,BARRANCO,5572565715,HOMBRE,Nayarit,Morelia,Las Brisas,Héroes,45
+JOHANA,PERALES,TORRES,6996808721,MUJER,Quintana Roo,Morelos,Ramon Romo Franco,La Hacienda,21
+LUIS SANTIAGO,VILCHIS,MEZA,1770482737,HOMBRE,Puebla,Múgica,Colinas de San Ignacio,La Mancha,36
+KEILY,HILARIO,ARCOS,0776452795,MUJER,Guerrero,Nahuatzen,La Fundición,Ojocaliente,13
+MATEO ALEXANDER,MARCOS,EK,0981513911,HOMBRE,San Luis Potosí,Nocupétaro,Fundición II,Ojocaliente INEGI,7
+ANGELA SOFIA,FABIAN,SILVA,7986821247,MUJER,Jalisco,Nuevo Parangaricutiro,Los Sauces,Solidaridad 1a Sección,89
+IKER DANIEL,GASTELUM,MENDOZA,8331386204,HOMBRE,Nuevo León,Nuevo Urecho,Línea de Fuego,Sol Naciente,11
+NATHALIA,SERVIN,CALVA,5053040657,MUJER,Veracruz,Numarán,Buenos Aires,Pintores Mexicanos,7
+JUAN JESUS,PUC,PIÑA,7303953970,HOMBRE,Chiapas,Ocampo,Circunvalación Norte,Progreso,38
+ANA LAURA,OLIVA,VILCHIS,9801364862,MUJER,Tlaxcala,Pajacuarán,Las Arboledas,Santa Regina,4
+AXEL DANIEL,QUIÑONES,REA,7611322623,HOMBRE,Sinaloa,Panindícuaro,Villas de San Francisco,Cerro Alto,33
+CITLALI,SARABIA,SILVANO,3657054963,MUJER,Veracruz,Parácuaro,Villas de La Universidad,Santa Margarita,47
+FELIPE,SEGOVIA,LEDEZMA,6816361513,HOMBRE,Tamaulipas,Paracho,El Sol,Del Trabajo,82
+LEILANI,MOSQUEDA,MACHUCA,2484686781,MUJER,Puebla,Pátzcuaro,Gremial,Ferronales,SN
+GIOVANNI,DZIB,VILLALOBOS,7121474283,HOMBRE,Baja California Sur,Penjamillo,Industrial,Luis Gómez Zepeda (ferronales),16
+CRISTAL,DORANTES,HERRERA,2105978199,MUJER,Michoacán,Peribán,Altavista,Lomas de Santa Anita,6
+IKER MATEO,LANDA,ACUÑA,7349837692,HOMBRE,Jalisco,La Piedad,Curtidores,Alameda,SN
+VANIA,CARLOS,GALINDO,8402747313,MUJER,Baja California,Purépero,La Concordia,Rinconada de La Alameda,62
+JAIME,ASCENCIO,MONSIVAIS,5184603586,HOMBRE,Hidalgo,Puruándiro,Miravalle,Bosques de La Alameda,38
+FATIMA GUADALUPE,PANTOJA,GATICA,6047663261,MUJER,Nayarit,Queréndaro,Panorama,Nueva Alameda,91
+ABEL,SALDIVAR,ALAMILLA,9260995215,HOMBRE,Baja California Sur,Quiroga,Residencial Guadalupe,Héroes,SN
+LUZ ELENA,VILLASEÑOR,SARABIA,7324756863,MUJER,Sinaloa,Cojumatlán de Régules,Colinas del Poniente,La Hacienda,SN
+DYLAN TADEO,TAMAYO,ENCARNACION,1808130984,HOMBRE,Tamaulipas,Los Reyes,Bugambilias,La Mancha,SN
+MARIA LUISA,ALDANA,DIEGO,9119573320,MUJER,Michoacán,Sahuayo,Del Carmen,Ojocaliente,73
+JOSE FERNANDO,TUN,MONTES DE OCA,8739932319,HOMBRE,Quintana Roo,San Lucas,La Fe,Ojocaliente INEGI,88
+WENDY,PLASCENCIA,AVILEZ,2229747483,MUJER,Zacatecas,Santa Ana Maya,México,Solidaridad 1a Sección,91
+ISAI,PADRON,SOLORIO,4448098124,HOMBRE,Tabasco,Salvador Escalante,Primavera,Sol Naciente,SN
+RUBI,PRECIADO,OLEA,1056998344,MUJER,Chiapas,Senguio,San Pablo,Bellavista,SN
+GAEL ALEXANDER,BOJORQUEZ,LOERA,3899116949,HOMBRE,Nuevo León,Susupuato,Guadalupe,Loma Bonita,97
+LESLY,ARMENDARIZ,CARVAJAL,5637375973,MUJER,Sinaloa,Tacámbaro,Heliodoro Garcia,Nueva Castilla,64
+ANGEL MANUEL,PAEZ,MACIAS,0614391822,HOMBRE,Querétaro,Tancítaro,Gómez,Xenia Residencial,69
+MARIAN,VIVEROS,ZAMARRIPA,6350198426,MUJER,Colima,Tangamandapio,Moderno,Vergel de la Cantera,90
+ALDO,ACEVES,ORDOÑEZ,7635620425,HOMBRE,Jalisco,Tangancícuaro,Valle del Rio San Pedro,Villas de La Cantera,40
+VALENTINA GUADALUPE,PALAFOX,FELIX,0145628638,MUJER,México,Tanhuato,Guadalupe Posada,Lic Manuel Gómez Morin,41
+JUAN ANGEL,LARIOS,PEDRO,6712885595,HOMBRE,Ciudad de Mexico,Taretan,San Marcos,Residencial San Nicolás,68
+LIA ISABELLA,PEÑALOZA,CORNEJO,1151331702,MUJER,Veracruz,Tarímbaro,San Marcos,Villas del Mediterráneo,1
+JAZIEL,AGUAYO,QUEZADA,6030459963,HOMBRE,Tamaulipas,Tepalcatepec,San Marcos,Ex Hacienda La Cantera,38
+LESLIE,ALVARO,VALDEZ,6593670201,MUJER,Tlaxcala,Tingambato,Modelo,José Vasconcelos Calderón,84
+JOSE JUAN,CHAPARRO,MOO,6518136186,HOMBRE,Nuevo León,Tingüindín,Residencial del Valle I,Porta Canteras,70
+MARIA INES,MERAZ,HERMOSILLO,9813632436,MUJER,Querétaro,Tiquicheo de Nicolás Romero,Residencial del Valle II,Veteranos de la Revolución,89
+MATEO ALEJANDRO,FIERRO,GALINDO,1554077132,HOMBRE,Guerrero,Tlalpujahua,La Herradura,Fuentes del Lago,71
+SOFIA YAMILETH,ALCARAZ,DURAN,2845171757,MUJER,México,Tlazazalca,Club Campestre,El Quelite,SN
+LEONARDO DANIEL,OROPEZA,ROMO,0146528915,HOMBRE,Guanajuato,Tocumbo,Jardines del Campestre,Olinda,71
+KARIME,CRISTOBAL,LICONA,2947219575,MUJER,Morelos,Tumbiscatío,Los Vergeles,Educación Álamos,65
+GAEL ALEJANDRO,LOZADA,FAVELA,6555959414,HOMBRE,Baja California,Turicato,Ciudad Universitaria,Nueva España,SN
+ALEXA VALENTINA,IBAÑEZ,CARO,4203836284,MUJER,Jalisco,Tuxpan,Rancho San Antonio,Lic. José López Portillo,78
+JUAN DAVID,LOMELI,BLANCO,9548413575,HOMBRE,Campeche,Tuzantla,Villas de Montenegro,La Barranquilla,28
+MARIELA,CAMARGO,COLLAZO,3538868627,MUJER,Jalisco,Tzintzuntzan,Las Cavas,Barandales de San José,62
+CARLOS MATEO,NARANJO,REA,9164497510,HOMBRE,Tabasco,Tzitzio,La Enramada,Canteras de San Javier,SN
+LUNA,EK,BAEZA,8345446154,MUJER,Puebla,Uruapan,Talamantes Ponce,Capital City,SN
+CARLOS SANTIAGO,OVANDO,ALCOCER,1013769652,HOMBRE,Ciudad de Mexico,Venustiano Carranza,Granjas del Campestre,Rinconada San José,SN
+MARTHA,SANTOYO,ROSADO,2681071212,MUJER,Sonora,Villamar,Puerto las Hadas,Canteras de San José,18
+ANGEL ANTONIO,SEBASTIAN,TOLENTINO,4474565858,HOMBRE,Yucatán,Vista Hermosa,Valle del Campestre,Circunvalación Poniente,52
+SUSANA,TIRADO,TERRAZAS,9329766011,MUJER,Querétaro,Yurécuaro,Trojes de Oriente,España,45
+ELISEO,BUENO,NARANJO,6767039381,HOMBRE,Nuevo León,Zacapu,Valle de las Trojes,La Barranca de Guadalupe,SN
+MARLEN,CENTENO,CLEMENTE,2829355811,MUJER,Zacatecas,Zamora,Villas de San Nicolás,Pirules INFONAVIT,SN
+JESUS GABRIEL,ELIZALDE,AGUERO,0277281938,HOMBRE,Yucatán,Zináparo,San Telmo,Bellavista,11
+YAMILETH GUADALUPE,CALVILLO,ALBA,0050431027,MUJER,Baja California,Zinapécuaro,La Paloma,Loma Bonita,71
+DYLAN SANTIAGO,POOL,CARREON,8885985123,HOMBRE,Guanajuato,Ziracuaretiro,Barrio de Santiago,Nueva Castilla,19
+ANA,DE LA LUZ,ARREOLA,0324798637,MUJER,Morelos,Zitácuaro,Villa de las Trojes,Xenia Residencial,53
+DAVID ALEJANDRO,BAHENA,TAPIA,7004971424,HOMBRE,Durango,José Sixto Verduzco,Valle de Santa Teresa,Vergel de la Cantera,95
+PAULETTE,TERAN,FUENTES,8413595237,MUJER,Chihuahua,Amacuzac,La Troje,Villas de La Cantera,54
+CARLOS MANUEL,LOREDO,SERRANO,6264936628,HOMBRE,Durango,Atlatlahucan,Trojes de Alonso,Lic Manuel Gómez Morin,100
+KENDRA,BERNABE,SUAREZ,5063945881,MUJER,Ciudad de Mexico,Axochiapan,San Telmo Residencial,Residencial San Nicolás,31
+ERIK,NARVAEZ,ORTIZ,5848475418,HOMBRE,Guerrero,Ayala,Santa Fe,Villas del Mediterráneo,94
+AMAIRANY,BARBOSA,ZARAGOZA,9167172995,MUJER,Chiapas,Coatlán del Río,Aguascalientes 2000,Ex Hacienda La Cantera,63
+OCTAVIO,CORONEL,PRIETO,9037229243,HOMBRE,Ciudad de Mexico,Cuautla,Las Trojes,José Vasconcelos Calderón,95
+MARINA,COLORADO,FARIAS,6239254315,MUJER,Chihuahua,Cuernavaca,Misión del Campanario,Porta Canteras,62
+ROMAN,FELICIANO,VALLES,2247403269,HOMBRE,Puebla,Emiliano Zapata,Trojes de Cristal,Veteranos de la Revolución,42
+EMMA VALENTINA,BRISEÑO,NOH,1451276967,MUJER,Veracruz,Huitzilac,Trojes del Sol,Fuentes del Lago,SN
+JOSE PABLO,MENDIOLA,CAMARGO,3753130786,HOMBRE,Baja California Sur,Jantetelco,Residencial Santa Clara,El Quelite,31
+ITZEL GUADALUPE,GREGORIO,BASILIO,8171434329,MUJER,Querétaro,Jiutepec,Misión de Santiago,Olinda,16
+ETHAN,DE SANTIAGO,PALOMO,0105855791,HOMBRE,Tamaulipas,Jojutla,Andora Residencial,Educación Álamos,SN
+LEAH,SALCEDO,PARADA,3037902418,MUJER,Nayarit,Jonacatepec de Leandro Valle,Cadaqués Residencial,Nueva España,55
+JOSE EMILIO,VALENTIN,ARANA,0643187707,HOMBRE,Chiapas,Mazatepec,Valle del Campanario,Lic. José López Portillo,80
+XIOMARA,PIMENTEL,DE DIOS,2926858652,MUJER,Tlaxcala,Miacatlán,Las Misiones,La Barranquilla,20
+JOSE EMMANUEL,ISIDRO,BARCENAS,7558152247,HOMBRE,México,Ocuituco,Los Jarales,Barandales de San José,SN
+INES,CANALES,ANGUIANO,8094034570,MUJER,Sinaloa,Puente de Ixtla,Cerrada El Molino,Canteras de San Javier,SN
+DANIEL ALEXANDER,SIMON,TUN,0650594332,HOMBRE,Colima,Temixco,Valle Real,Capital City,SN
+AMAIRANI,GORDILLO,MONTEJO,4401648878,MUJER,Nayarit,Tepalcingo,Terzetto,Rinconada San José,75
+CARLOS ANTONIO,PICHARDO,PASCUAL,5576621310,HOMBRE,Morelos,Tepoztlán,Cerrada de La Misión,Canteras de San José,43
+PATRICIA,BLAS,ALCANTAR,6038788366,MUJER,Sonora,Tetecala,Cerrada del Valle,Circunvalación Poniente,94
+ELIEL,SOLORIO,OTERO,0896738778,HOMBRE,Tlaxcala,Tetela del Volcán,Cerrada de la Mezquitera,España,SN
+MARITZA,IZQUIERDO,CANO,3295672276,MUJER,México,Tlalnepantla,Lomas del Campestre 2a Sección,La Barranca de Guadalupe,SN
+VICENTE,ARGUELLO,RESENDIZ,1189476933,HOMBRE,Michoacán,Tlaltizapán de Zapata,Villas del Campestre,Pirules INFONAVIT,66
+SARAH,GERONIMO,CORNEJO,6787292527,MUJER,Coahuila,Tlaquiltenango,Los Calicantos,Los Eucaliptos,89
+LUIS GERARDO,LIMA,LEAL,5272313193,HOMBRE,Colima,Tlayacapan,Jardines de la Concepción,San Agustín,81
+EVA,REGALADO,BARRAGAN,6752856287,MUJER,Zacatecas,Totolapan,Los Bosques,El Edén,59
+ORLANDO,VALLES,LOREDO,9518398935,HOMBRE,Oaxaca,Xochitepec,Rinconada los Bosques,Parque Industrial el Vergel,47
+LIA AITANA,DIMAS,BADILLO,6967240844,MUJER,Tlaxcala,Yautepec,La Perla Norte,Misión Juan Pablo II,79
+DIEGO ARMANDO,BURGOS,VELARDE,3244295275,HOMBRE,Aguascalientes,Yecapixtla,Arroyo El Molino,Las Flores,19
+HANNAH,ALEGRIA,FABIAN,4271479136,MUJER,Sonora,Zacatepec,Galerías,Vivienda Popular,84
+MATEO DE JESUS,GALAVIZ,ARREDONDO,1724680483,HOMBRE,Quintana Roo,Zacualpan de Amilpas,Residencial Altaria,Las Torres,62
+JACQUELINE,PEREA,ASCENCION,1451162612,MUJER,Zacatecas,Temoac,Constitución,Las Américas,78
+MATHIAS,PORRAS,PICHARDO,4309316339,HOMBRE,San Luis Potosí,Coatetelco,Libertad,Obraje,80
+YARITZA,CORRALES,ORDUÑA,0413925799,MUJER,Colima,Xoxocotla,Pozo Bravo Norte,Santa Elena,19
+JOHAN,SEPULVEDA,LEDESMA,4130817899,HOMBRE,Chiapas,Hueyapan,Soberana Convención Revolucionaria,Agricultura,2
+ALINA,CAYETANO,URIAS,2209888226,MUJER,Yucatán,Azcapotzalco,San Cayetano,El Dorado 1a Sección,SN
+JOSE ADRIAN,BARTOLO,VILLALOBOS,1844404555,HOMBRE,Veracruz,Coyoacán,Colinas del Rio,El Dorado 2a Sección,63
+MARCELA,CAMARENA,CARRIZALES,2870509046,MUJER,Yucatán,Cuajimalpa de Morelos,Olivares Santana,Valle Dorado,77
+JOSE LEONARDO,OLIVERA,OLIVARES,3729773741,HOMBRE,Querétaro,Gustavo A. Madero,Las Brisas,Villa Jardín,SN
+FERNANDA GUADALUPE,GARIBAY,PORRAS,3898372614,MUJER,Chihuahua,Iztacalco,Ramon Romo Franco,Jardines de Santa Elena,21
+MAURO,ZAZUETA,CEPEDA,5923532545,HOMBRE,Veracruz,Iztapalapa,Colinas de San Ignacio,Hermanos Carreón,35
+FERNANDA SOFIA,IGNACIO,VITE,4737174754,MUJER,Chihuahua,La Magdalena Contreras,La Fundición,Montebello,45
+SANTIAGO GAEL,BRITO,VALENTE,1642079655,HOMBRE,Tabasco,Milpa Alta,Fundición II,Santa Elena 2a Sección,SN
+MAGALI,FARIAS,TIBURCIO,5579697021,MUJER,San Luis Potosí,Álvaro Obregón,Los Sauces,La Fuente,SN
+ANGEL ALEXANDER,PATRICIO,ROSAS,4292343293,HOMBRE,Guanajuato,Tláhuac,Línea de Fuego,El Encino,SN
+LAURA,CONDE,FELICIANO,1230069723,MUJER,Michoacán,Tlalpan,Buenos Aires,El Laurel,53
+ARIEL,PALOMARES,LUEVANO,6360161145,HOMBRE,Guerrero,Xochimilco,Circunvalación Norte,La Luna,18
+ANDREA SOFIA,VICTORIA,VALTIERRA,4773817457,MUJER,Baja California,Benito Juárez,Las Arboledas,La Salud,31
+IGNACIO,MOO,ARGUELLO,4493950109,HOMBRE,Veracruz,Cuauhtémoc,Villas de San Francisco,Los Virreyes,SN
+ANTONIA,CEPEDA,ZAMORA,9121066108,MUJER,Nayarit,Miguel Hidalgo,Villas de La Universidad,El Llanito,SN
+MARIO ALBERTO,CURIEL,PRIETO,3429407868,HOMBRE,Nayarit,Venustiano Carranza,El Sol,Residencial el Encino,42
+LETICIA,LUCERO,MENDOZA,3667799844,MUJER,Yucatán,Amealco de Bonfil,Gremial,Triana,77
+EVAN,RAFAEL,CAAMAL,8699547238,HOMBRE,Tamaulipas,Pinal de Amoles,Industrial,Residencial Cosío,45
+PAMELA,BASILIO,ARANDA,1670466954,MUJER,Tamaulipas,Arroyo Seco,Altavista,Triana,50
+LIAM ALEJANDRO,MANDUJANO,TRUJILLO,9978724778,HOMBRE,Hidalgo,Cadereyta de Montes,Curtidores,San Fernando INFONAVIT,36
+AYLIN GUADALUPE,FAJARDO,BAILON,4836385926,MUJER,Chihuahua,Colón,La Concordia,Jardines de Triana,39
+ALAN MATEO,MATEOS,BAUTISTA,2423052922,HOMBRE,Puebla,Corregidora,Miravalle,Gámez,27
+LUNA SOFIA,CARRIZALES,PATRICIO,9504088097,MUJER,Jalisco,Ezequiel Montes,Panorama,Jesús Gómez Portugal,59
+DARIEL,MAURICIO,MIRELES,6595668626,HOMBRE,Tlaxcala,Huimilpan,Residencial Guadalupe,Héroes de Aguascalientes,12
+MELINA,NEVAREZ,ROQUE,8759847539,MUJER,Campeche,Jalpan de Serra,Colinas del Poniente,Jardines de La Cruz,10
+JOSE ALEXANDER,MANRIQUEZ,CLEMENTE,1979191356,HOMBRE,San Luis Potosí,Landa de Matamoros,Bugambilias,La Huerta,24
+YOLANDA,PEDRO,RAYA,1237398610,MUJER,Guerrero,El Marqués,Del Carmen,San Luis,34
+JUAN LUIS,LLAMAS,VALVERDE,8259613178,HOMBRE,Chihuahua,Pedro Escobedo,La Fe,Villas de Kristal,27
+DAFNE,MONTES DE OCA,QUIJANO,6008955986,MUJER,Sonora,Peñamiller,México,Los Eucaliptos,SN
+DYLAN ALEJANDRO,SANTAMARIA,ALBARRAN,0896481502,HOMBRE,Tabasco,Querétaro,Primavera,San Agustín,29
+CELESTE,ALBERTO,RUELAS,1331209762,MUJER,Tamaulipas,San Joaquín,San Pablo,El Edén,16
+ANGEL SEBASTIAN,OLMEDO,HILARIO,4833078069,HOMBRE,Yucatán,San Juan del Río,Guadalupe,Parque Industrial el Vergel,SN
+DAYLIN,DUEÑAS,GAYOSSO,9290731459,MUJER,Coahuila,Tequisquiapan,Heliodoro Garcia,Misión Juan Pablo II,2
+YAIR,OVIEDO,BALDERAS,9608964468,HOMBRE,Morelos,Tolimán,Gómez,Las Flores,22
+LORENA,MADRID,GUADALUPE,4136452865,MUJER,Yucatán,Acambay de Ruíz Castañeda,Moderno,Vivienda Popular,4
+ANDER,VICTORIANO,MALDONADO,2468891327,HOMBRE,México,Acolman,Valle del Rio San Pedro,Las Torres,SN
+MARIA TERESA,MACIEL,VACA,1583686572,MUJER,Aguascalientes,Aculco,Guadalupe Posada,Las Américas,SN
+JOSE GABRIEL,MARIANO,ALARCON,7353328684,HOMBRE,Aguascalientes,Almoloya de Alquisiras,San Marcos,Obraje,SN
+CARMEN,BASURTO,VALLEJO,1097245388,MUJER,Ciudad de Mexico,Almoloya de Juárez,San Marcos,Santa Elena,38
+WILLIAM,MOCTEZUMA,ALBARRAN,7815666968,HOMBRE,Tamaulipas,Almoloya del Río,San Marcos,Agricultura,21
+JUDITH,ONOFRE,BRAVO,7944157955,MUJER,Puebla,Amanalco,Modelo,El Dorado 1a Sección,47
+CARLOS DAVID,NOH,ESPINO,6518698414,HOMBRE,Oaxaca,Amatepec,Residencial del Valle I,El Dorado 2a Sección,SN
+NATALIA GUADALUPE,LERMA,ZAMUDIO,4293300493,MUJER,Tamaulipas,Amecameca,Residencial del Valle II,Valle Dorado,SN
+RIGOBERTO,MOYA,MAURICIO,8687147283,HOMBRE,Nuevo León,Apaxco,La Herradura,Villa Jardín,43
+CAMILA YAMILETH,BOTELLO,CAUICH,8355627573,MUJER,Michoacán,Atenco,Club Campestre,Jardines de Santa Elena,12
+ANGEL LEONARDO,TERRAZAS,VALENZUELA,1564126754,HOMBRE,Yucatán,Atizapán,Jardines del Campestre,Hermanos Carreón,73
+CATALEYA,SAUCEDA,CRISTOBAL,7897518351,MUJER,Yucatán,Atizapán de Zaragoza,Los Vergeles,Montebello,90
+ERICK DANIEL,GARAY,IGNACIO,6717561787,HOMBRE,Baja California,Atlacomulco,Ciudad Universitaria,Santa Elena 2a Sección,100
+GALILEA,JAVIER,VENEGAS,7136255489,MUJER,Quintana Roo,Atlautla,Rancho San Antonio,La Fuente,43
+RODOLFO,QUIÑONEZ,CEBALLOS,8441585428,HOMBRE,Quintana Roo,Axapusco,Villas de Montenegro,El Encino,66
+MARIA DEL ROSARIO,LOZA,SARABIA,5605796327,MUJER,Sonora,Ayapango,Las Cavas,El Laurel,50
+AXEL URIEL,QUEVEDO,PICAZO,2961135492,HOMBRE,Yucatán,Calimaya,La Enramada,La Luna,64
+MAITE,MAYO,CANDELARIO,1757244443,MUJER,Guerrero,Capulhuac,Talamantes Ponce,La Salud,58
+LIAM DANIEL,GRIMALDO,PAREDES,2019053339,HOMBRE,Puebla,Coacalco de Berriozábal,Granjas del Campestre,Los Virreyes,24
+MARIA RENATA,MENDIETA,VILLALPANDO,5349615488,MUJER,Chihuahua,Coatepec Harinas,Puerto las Hadas,El Llanito,98
+LUIS GAEL,ALMAZAN,ZAPATA,1849280738,HOMBRE,Tamaulipas,Cocotitlán,Valle del Campestre,Residencial el Encino,37
+NICOL,RIVERO,OJEDA,1273375770,MUJER,Jalisco,Coyotepec,Trojes de Oriente,Triana,SN
+LUIS TADEO,JAUREGUI,POOT,2537908404,HOMBRE,Colima,Cuautitlán,Valle de las Trojes,Residencial Cosío,83
+RENATA VALENTINA,VALDOVINOS,AVILA,8041388988,MUJER,Zacatecas,Chalco,Villas de San Nicolás,Triana,12
+ANGEL EMMANUEL,MEDEL,DE SANTIAGO,9986708894,HOMBRE,Chihuahua,Chapa de Mota,San Telmo,San Fernando INFONAVIT,SN
+ROSALINDA,OVALLE,CARDONA,8533894832,MUJER,Tlaxcala,Chapultepec,La Paloma,Jardines de Triana,4
+IKER TADEO,AMBROSIO,VENTURA,9666505076,HOMBRE,Jalisco,Chiautla,Barrio de Santiago,Gámez,15
+DAMARIS,VILLAGOMEZ,PERAZA,1394483488,MUJER,Baja California Sur,Chicoloapan,Villa de las Trojes,Jesús Gómez Portugal,21
+JULIO,ZAVALETA,AVIÑA,1313065555,HOMBRE,Ciudad de Mexico,Chiconcuac,Valle de Santa Teresa,Héroes de Aguascalientes,SN
+LUISA,PUGA,VIEYRA,7841730132,MUJER,Tlaxcala,Chimalhuacán,La Troje,Jardines de La Cruz,SN
+IAN EDUARDO,HIPOLITO,RESENDIZ,2321231610,HOMBRE,Quintana Roo,Donato Guerra,Trojes de Alonso,La Huerta,SN
+AMAIA,JULIAN,TERAN,9643071643,MUJER,San Luis Potosí,Ecatepec de Morelos,San Telmo Residencial,San Luis,40
+LIAM TADEO,ALBARRAN,ROLDAN,4072853529,HOMBRE,Guanajuato,Ecatzingo,Santa Fe,Villas de Kristal,80
+KARLA GUADALUPE,MARCELINO,JULIAN,0568216573,MUJER,Yucatán,Huehuetoca,Aguascalientes 2000,Agua Clara,20
+TOMAS,MEDELLIN,CERON,3461228277,HOMBRE,Aguascalientes,Hueypoxtla,Las Trojes,Balcones de Ojocaliente,SN
+NANCY,ORTA,ROBLES,7052672695,MUJER,Veracruz,Huixquilucan,Misión del Campanario,Cielo Claro,SN
+JORGE ALBERTO,BOCANEGRA,PORRAS,6452789249,HOMBRE,Nuevo León,Isidro Fabela,Trojes de Cristal,Lomas del Chapulín,5
+ARELI,CASTAÑON,CANALES,6585172098,MUJER,Morelos,Ixtapaluca,Trojes del Sol,Ojo de Agua de Palmitas,6
+JUAN FRANCISCO,MONTELONGO,BAZAN,6762686839,HOMBRE,Hidalgo,Ixtapan de la Sal,Residencial Santa Clara,Salto de Ojocaliente,11
+EVELYN GUADALUPE,ELIZONDO,BARRON,1037992500,MUJER,Chiapas,Ixtapan del Oro,Misión de Santiago,Solidaridad 2a Sección,48
+ANGEL IVAN,CORDOBA,SERRANO,4301933967,HOMBRE,Ciudad de Mexico,Ixtlahuaca,Andora Residencial,Solidaridad 3a Sección,63
+ALEXA YAMILETH,PARTIDA,URIBE,1790886585,MUJER,Chiapas,Xalatlaco,Cadaqués Residencial,Tierra Buena,58
+MATTEO,BENITO,PASTRANA,0795400009,HOMBRE,Guanajuato,Jaltenco,Valle del Campanario,Rinconada San Antonio I,1
+ANA LUISA,ULLOA,CHUC,8634563996,MUJER,México,Jilotepec,Las Misiones,Cima del Chapulín,73
+ANGEL EMILIANO,BAEZA,FRANCISCO,0718873822,HOMBRE,Tlaxcala,Jilotzingo,Los Jarales,Cobano de Palmitas,1
+AINHOA,PALOMO,MACIAS,5515335502,MUJER,Michoacán,Jiquipilco,Cerrada El Molino,San Jorge,96
+AXEL SANTIAGO,AKE,SALCEDO,2448664965,HOMBRE,Sinaloa,Jocotitlán,Valle Real,La Lomita,77
+HANNIA,BARBA,BASURTO,1223925886,MUJER,Puebla,Joquicingo,Terzetto,Morelos INFONAVIT,62
+HUMBERTO,ABURTO,CARREON,7406169873,HOMBRE,Baja California,Juchitepec,Cerrada de La Misión,Vista del Sol 2a Sección,61
+KATIA,CARVAJAL,CORONADO,1222447789,MUJER,Colima,Lerma,Cerrada del Valle,Vista del Sol 3a Sección,SN
+JOSE MATIAS,DE DIOS,ARCOS,4095509191,HOMBRE,México,Malinalco,Cerrada de la Mezquitera,Ojo de Agua INFONAVIT,6
+ESTRELLA GUADALUPE,FALCON,GUILLEN,0083495269,MUJER,Aguascalientes,Melchor Ocampo,Lomas del Campestre 2a Sección,Jardines del Sol,92
+ANGEL ADRIAN,ARVIZU,ESTRELLA,1193705977,HOMBRE,Chihuahua,Metepec,Villas del Campestre,La Cruz,SN
+MARIA EMILIA,LUCIANO,DE SANTIAGO,5801730465,MUJER,Querétaro,Mexicaltzingo,Los Calicantos,Misión de Santa Fe,86
+ALAN GAEL,VELAZCO,MARIANO,0045157165,HOMBRE,Morelos,Morelos,Jardines de la Concepción,Vista del Sol 1a Sección,70
+ANA REGINA,CALVO,ARROYO,0297714950,MUJER,Sinaloa,Naucalpan de Juárez,Los Bosques,S.T.E.M.A.,60
+LORENZO,URIAS,SEGOVIA,6870170558,HOMBRE,Oaxaca,Nezahualcóyotl,Rinconada los Bosques,Jardines de La Convención,SN
+NATHALY,ARAIZA,REGALADO,7865305509,MUJER,Chihuahua,Nextlalpan,La Perla Norte,Ojo de Agua FOVISSSTE 1a Sección,SN
+ADOLFO,MANZO,ORDOÑEZ,2820598950,HOMBRE,Tlaxcala,Nicolás Romero,Arroyo El Molino,Lic Primo Verdad INEGI,SN
+ANGELA GUADALUPE,DOLORES,APOLINAR,1081261726,MUJER,Sonora,Nopaltepec,Galerías,Fuentes de La Asunción,4
+DYLAN ALEXIS,LAGUNA,BORJA,5793248924,HOMBRE,Nuevo León,Ocoyoacac,Residencial Altaria,Jardines de La Luz,64
+ROSARIO,CAN,MAYO,2409399296,MUJER,Quintana Roo,Ocuilan,Constitución,Mesonero,25
+MANUEL ALEJANDRO,FERRER,COBOS,1810101753,HOMBRE,Zacatecas,El Oro,Libertad,Agua Clara,SN
+ALEXA NICOLE,LAZCANO,HIDALGO,2318183391,MUJER,Baja California,Otumba,Pozo Bravo Norte,Balcones de Ojocaliente,SN
+RAMIRO,PLATA,BARRETO,1923695913,HOMBRE,Michoacán,Otzoloapan,Soberana Convención Revolucionaria,Cielo Claro,62
+GLORIA,LEZAMA,ACEVES,2510184004,MUJER,Hidalgo,Otzolotepec,San Cayetano,Lomas del Chapulín,79
+EDER,GUDIÑO,MANJARREZ,7425601996,HOMBRE,Colima,Ozumba,Colinas del Rio,Ojo de Agua de Palmitas,11
+MEREDITH,GARNICA,PUGA,3361702456,MUJER,Sonora,Papalotla,Olivares Santana,Salto de Ojocaliente,84
+JESUS ALEXIS,LECHUGA,BAUTISTA,9184171065,HOMBRE,Morelos,La Paz,Las Brisas,Solidaridad 2a Sección,38
+SHERLYN,MARISCAL,ASCENCION,0031193791,MUJER,Nayarit,Polotitlán,Ramon Romo Franco,Solidaridad 3a Sección,63
+JESUS IVAN,IÑIGUEZ,HIPOLITO,5018165946,HOMBRE,México,Rayón,Colinas de San Ignacio,Tierra Buena,72
+CLAUDIA,AMBRIZ,VICTORIANO,2289163641,MUJER,Michoacán,San Antonio la Isla,La Fundición,Rinconada San Antonio I,73
+JESUS ENRIQUE,FRAGOSO,VALERO,7652503457,HOMBRE,Campeche,San Felipe del Progreso,Fundición II,Cima del Chapulín,91
+LEILANY,TUZ,VERGARA,2988774810,MUJER,México,San Martín de las Pirámides,Los Sauces,Cobano de Palmitas,42
+SANTIAGO DE JESUS,PALOMINO,QUIÑONEZ,0362496472,HOMBRE,Nayarit,San Mateo Atenco,Línea de Fuego,San Jorge,75
+YESENIA,OCAÑA,CRESPO,2461576960,MUJER,Sonora,San Simón de Guerrero,Buenos Aires,La Lomita,93
+BRAULIO,ARGUELLES,DAMIAN,8112100281,HOMBRE,Oaxaca,Santo Tomás,Circunvalación Norte,Morelos INFONAVIT,80
+ZOE GUADALUPE,MELO,LOZANO,4050670374,MUJER,Tlaxcala,Soyaniquilpan de Juárez,Las Arboledas,Vista del Sol 2a Sección,SN
+CARLOS GAEL,PATISHTAN,BRISEÑO,8524860703,HOMBRE,Nuevo León,Sultepec,Villas de San Francisco,Vista del Sol 3a Sección,76
+ADILENE,TORIBIO,ZAVALA,0598318803,MUJER,Aguascalientes,Tecámac,Villas de La Universidad,Ojo de Agua INFONAVIT,83
+LUIS MIGUEL,GUADALUPE,VIRGEN,9946317296,HOMBRE,Nayarit,Tejupilco,El Sol,Jardines del Sol,SN
+FRANCISCA,GALEANA,CHI,3255610799,MUJER,Sonora,Temamatla,Gremial,La Cruz,50
+JUAN DE DIOS,OLAN,MENESES,1260240794,HOMBRE,Chiapas,Temascalapa,Industrial,Misión de Santa Fe,9
+PERLA,DIONICIO,ABARCA,9007489022,MUJER,Veracruz,Temascalcingo,Altavista,Vista del Sol 1a Sección,63
+ANGEL YAEL,DAVALOS,LIMON,8512599411,HOMBRE,Querétaro,Temascaltepec,Curtidores,S.T.E.M.A.,SN
+BRIANA,PANIAGUA,PAREDES,0290185068,MUJER,Tamaulipas,Temoaya,La Concordia,Jardines de La Convención,SN
+BERNARDO,ALMEIDA,PIMENTEL,3109817175,HOMBRE,Quintana Roo,Tenancingo,Miravalle,Ojo de Agua FOVISSSTE 1a Sección,SN
+JULIANA,HIGUERA,ROMANO,8673589578,MUJER,Nayarit,Tenango del Aire,Panorama,Lic Primo Verdad INEGI,2
+IAN EMMANUEL,SEVILLA,VALENZUELA,8691144624,HOMBRE,Nuevo León,Tenango del Valle,Residencial Guadalupe,Fuentes de La Asunción,5
+MELANY GUADALUPE,BALLESTEROS,GALICIA,0254496125,MUJER,San Luis Potosí,Teoloyucan,Colinas del Poniente,Jardines de La Luz,29
+CARLOS ADRIAN,ECHEVERRIA,CALLEJAS,5363997436,HOMBRE,Quintana Roo,Teotihuacán,Bugambilias,Mesonero,SN
+VICTORIA SOFIA,ALONZO,BONILLA,4751463427,MUJER,Guerrero,Tepetlaoxtoc,Del Carmen,Parque Industrial Siglo XXI,SN
+ERICK SANTIAGO,CID,FONSECA,1876862270,HOMBRE,Colima,Tepetlixpa,La Fe,Parque Industrial Siglo XXI (Ampliación),11
+AITANA NICOLE,ZAMARRIPA,CALVA,5978197944,MUJER,Quintana Roo,Tepotzotlán,México,La Estancia,82
+MATIAS ALEXANDER,ALCOCER,MIRANDA,3842918555,HOMBRE,Campeche,Tequixquiac,Primavera,INFONAVIT Potreros del Oeste,98
+LUCIA FERNANDA,MOJICA,HAU,5842197445,MUJER,Baja California Sur,Texcaltitlán,San Pablo,Villas de Santa Rosa,70
+JESUS ANGEL,AVIÑA,OSORIO,5797022555,HOMBRE,Aguascalientes,Texcalyacac,Guadalupe,Villas del Oeste,69
+RUTH,BENAVIDES,PEÑALOZA,5306043054,MUJER,Zacatecas,Texcoco,Heliodoro Garcia,Vistas del Sur,70
+JESUS GUADALUPE,PAT,DE LOS SANTOS,3863188726,HOMBRE,México,Tezoyuca,Gómez,Rinconada del Sur,35
+SOFIA NICOLE,ESCALONA,AKE,9496019159,MUJER,Tamaulipas,Tianguistenco,Moderno,Villas del Encino,91
+DEREK,GASCA,RASCON,8079848550,HOMBRE,Tabasco,Timilpan,Valle del Rio San Pedro,La Casita,72
+TAMARA,ROSADO,SERNA,7402720719,MUJER,Jalisco,Tlalmanalco,Guadalupe Posada,Versalles 1a Sección,58
+LEO,INFANTE,FALCON,0003141918,HOMBRE,Querétaro,Tlalnepantla de Baz,San Marcos,Versalles 2a Sección,18
+RENATA SOFIA,AMEZCUA,MARCELINO,0098042159,MUJER,Baja California Sur,Tlatlaya,San Marcos,Bosque Real,88
+CAMILO,ENCARNACION,QUIRINO,5291985363,HOMBRE,Colima,Toluca,San Marcos,Rancho Santa Mónica,84
+EMMA LUCIA,LOYA,GABRIEL,4844898827,MUJER,Hidalgo,Tonatico,Modelo,Vicente Guerrero,SN
+IAN ALEXIS,SALMERON,FIERRO,5852110431,HOMBRE,Tabasco,Tultepec,Residencial del Valle I,Villas del Pilar 1a Sección,48
+JANETH,CALZADA,LUNA,7430575276,MUJER,Nayarit,Tultitlán,Residencial del Valle II,Barlovento,1
+IAN DAVID,RIZO,MARISCAL,7404336208,HOMBRE,México,Valle de Bravo,La Herradura,Abadía,SN
+MANUELA,ARANA,MAGAÑA,8683825974,MUJER,México,Villa de Allende,Club Campestre,Mangata,73
+JOSE DAMIAN,CORNELIO,AGUILLON,7696639196,HOMBRE,San Luis Potosí,Villa del Carbón,Jardines del Campestre,Villas San Antonio,46
+MIA ALEJANDRA,ZURITA,MOCTEZUMA,2104271418,MUJER,Oaxaca,Villa Guerrero,Los Vergeles,Villa Capri,53
+LIAM JESUS,LUJAN,GUERRA,0846290677,HOMBRE,San Luis Potosí,Villa Victoria,Ciudad Universitaria,Providencia,SN
+ALEXA FERNANDA,CATALAN,GALARZA,4059908496,MUJER,Veracruz,Xonacatlán,Rancho San Antonio,Rinconada Santa Mónica,SN
+RAMON,APOLINAR,ESPINOZA,0780183852,HOMBRE,Yucatán,Zacazonapan,Villas de Montenegro,Paseos de Santa Mónica,SN
+ARIADNE,COBOS,LUCAS,3173547887,MUJER,Aguascalientes,Zacualpan,Las Cavas,Insurgentes,86
+AXEL GABRIEL,HARO,LANDA,1725851220,HOMBRE,Morelos,Zinacantepec,La Enramada,Bulevares 1a. Sección,44
+CARLA,GURROLA,CARREON,4566406430,MUJER,Yucatán,Zumpahuacán,Talamantes Ponce,Parque Industrial Siglo XXI,20
+CARLOS DAMIAN,RASCON,CUEVAS,3743600915,HOMBRE,Nuevo León,Zumpango,Granjas del Campestre,Parque Industrial Siglo XXI (Ampliación),SN
+ARLETTE,JARA,SANABRIA,4372380553,MUJER,México,Cuautitlán Izcalli,Puerto las Hadas,La Estancia,SN
+IKER ALEJANDRO,MONTAÑEZ,JURADO,4118019218,HOMBRE,Oaxaca,Valle de Chalco Solidaridad,Valle del Campestre,INFONAVIT Potreros del Oeste,80
+JOSEFINA,CASTREJON,GUILLEN,9422185506,MUJER,Nayarit,Luvianos,Trojes de Oriente,Villas de Santa Rosa,96
+ANGEL ALEJANDRO,CELIS,BALAM,4677808092,HOMBRE,Jalisco,San José del Rincón,Valle de las Trojes,Villas del Oeste,85
+MAGALY,EUAN,ROSARIO,4618945665,MUJER,Querétaro,Tonanitla,Villas de San Nicolás,Vistas del Sur,17
+MATEO EMILIANO,CALIHUA,ALVA,4492534442,HOMBRE,Nayarit,Acuitzio,San Telmo,Rinconada del Sur,56
+NAOMI GUADALUPE,OTERO,MAY,8665875396,MUJER,Campeche,Aguililla,La Paloma,Villas del Encino,4
+GERMAN,CANSECO,JOSE,3122251283,HOMBRE,Veracruz,Álvaro Obregón,Barrio de Santiago,La Casita,19
+NICOLE GUADALUPE,LAGUNAS,ALCANTARA,9685004691,MUJER,Puebla,Angamacutiro,Villa de las Trojes,Versalles 1a Sección,97
+LUIS CARLOS,BLANCAS,BRICEÑO,9534852828,HOMBRE,Coahuila,Angangueo,Valle de Santa Teresa,Versalles 2a Sección,15
+DALIA,FAVELA,PERAZA,5293059340,MUJER,Guerrero,Apatzingán,La Troje,Bosque Real,1
+AXEL TADEO,VILLALBA,GRACIA,4965968884,HOMBRE,Guanajuato,Aporo,Trojes de Alonso,Rancho Santa Mónica,43
+MIA ELIZABETH,ZAMORANO,CRESPO,2358743359,MUJER,Coahuila,Aquila,San Telmo Residencial,Vicente Guerrero,75
+LUIS ALEXANDER,DEL RIO,DE ANDA,4939906946,HOMBRE,México,Ario,Santa Fe,Villas del Pilar 1a Sección,23
+MIA YAMILETH,HOLGUIN,SAMANIEGO,1398346300,MUJER,Veracruz,Arteaga,Aguascalientes 2000,Barlovento,SN
+MATEO NICOLAS,UGALDE,PALAFOX,5442586562,HOMBRE,México,Briseñas,Las Trojes,Abadía,4
+SOFIA ABIGAIL,CARDOSO,AGUILERA,5612791822,MUJER,Coahuila,Buenavista,Misión del Campanario,Mangata,70
+IAN YAEL,ALVA,NIEVES,9374025750,HOMBRE,Sinaloa,Carácuaro,Trojes de Cristal,Villas San Antonio,SN
+SOFIA FERNANDA,MURRIETA,FERNANDEZ,2302714771,MUJER,San Luis Potosí,Coahuayana,Trojes del Sol,Villa Capri,63
+IKER JESUS,UICAB,ROSADO,7259709329,HOMBRE,Veracruz,Coalcomán de Vázquez Pallares,Residencial Santa Clara,Providencia,1
+ARISBETH,REZA,AMBROCIO,3802789384,MUJER,Yucatán,Coeneo,Misión de Santiago,Rinconada Santa Mónica,88
+ERICK ALEXANDER,GONGORA,VELARDE,1063029368,HOMBRE,Quintana Roo,Contepec,Andora Residencial,Paseos de Santa Mónica,SN
+IVANNA SOFIA,VALLADARES,BAHENA,9777708111,MUJER,Ciudad de Mexico,Copándaro,Cadaqués Residencial,Insurgentes,SN
+JOAN,SILVERIO,VERA,6561299516,HOMBRE,Morelos,Cotija,Valle del Campanario,Bulevares 1a. Sección,SN
+SOFIA LEILANY,VIZCARRA,LEZAMA,8062595577,MUJER,Ciudad de Mexico,Cuitzeo,Las Misiones,Emiliano Zapata,16
+ALAN DANIEL,BACA,MELENDEZ,1478839147,HOMBRE,México,Charapan,Los Jarales,Morelos I,89
+AMAYRANI,CHUC,MORAN,1466011333,MUJER,Veracruz,Charo,Cerrada El Molino,Morelos 2a Sección,86
+JOSE ENRIQUE,SAN JUAN,VEGA,8840806699,HOMBRE,Tabasco,Chavinda,Valle Real,Solidaridad 4a Sección,SN
+DANIELA SOFIA,BUCIO,VALDIVIA,9741129042,MUJER,Querétaro,Cherán,Terzetto,Residencial Hacienda San Martín,SN
+LUCIANO,GALAN,GAMBOA,3189069616,HOMBRE,Nayarit,Chilchota,Cerrada de La Misión,Viñedos del Sur,33
+DALEYZA,MONCADA,MALDONADO,6623939092,MUJER,Nayarit,Chinicuila,Cerrada del Valle,Reserva Villa Sur,45
+DIEGO GAEL,CEN,MORELOS,3542381420,HOMBRE,Chiapas,Chucándiro,Cerrada de la Mezquitera,Villas de Ajedrez,48
+MARIA ELIZABETH,COLLI,DZUL,5314613734,MUJER,Chihuahua,Churintzio,Lomas del Campestre 2a Sección,Lomas de Vistabella,95
+DYLAN EDUARDO,GUAJARDO,ALATORRE,6143253238,HOMBRE,Puebla,Churumuco,Villas del Campestre,San Sebastián,30
+XIMENA SOFIA,MONREAL,CORONA,0132306017,MUJER,Coahuila,Ecuandureo,Los Calicantos,Lomas del Sur,90
+ELEAZAR,MAYORGA,RENTERIA,4664185302,HOMBRE,Chihuahua,Epitacio Huerta,Jardines de la Concepción,Lomas de Nueva York,95
+BEATRIZ,OLEA,TREJO,7279145737,MUJER,Veracruz,Erongarícuaro,Los Bosques,Laureles del Sur,73
+TADEO DE JESUS,PANZO,CORONA,9997893836,HOMBRE,Aguascalientes,Gabriel Zamora,Rinconada los Bosques,Lomas del Mirador,91
+LIA RENATA,ALFONSO,PAEZ,9292743678,MUJER,Michoacán,Hidalgo,La Perla Norte,Misión de Santa Lucía,81
+LEON,MIRAMONTES,ZAMORA,3119881992,HOMBRE,Colima,La Huacana,Arroyo El Molino,Lomas de Vistabella 2a. Sección,83
+PALOMA,VERDUZCO,MIRANDA,9478076825,MUJER,Querétaro,Huandacareo,Galerías,Lotes de Arellano,47
+MATIAS EMILIANO,CHAVIRA,DANIEL,1121765771,HOMBRE,Aguascalientes,Huaniqueo,Residencial Altaria,Condominio La terraza,35
+ANA CAMILA,AHUMADA,RUIZ,1128704066,MUJER,Ciudad de Mexico,Huetamo,Constitución,Emiliano Zapata,SN
+LUCA,ARZATE,VALADEZ,3418556365,HOMBRE,Quintana Roo,Huiramba,Libertad,Morelos I,69
+ELIZA,MAGDALENO,ALONSO,2398652972,MUJER,Coahuila,Indaparapeo,Pozo Bravo Norte,Morelos 2a Sección,36
+NATANAEL,LEIJA,GARRIDO,0004103402,HOMBRE,Colima,Irimbo,Soberana Convención Revolucionaria,Solidaridad 4a Sección,SN
+AILYN,MACEDO,BARBA,9258727256,MUJER,Hidalgo,Ixtlán,San Cayetano,Residencial Hacienda San Martín,66
+SANTIAGO DANIEL,FRAUSTO,MANJARREZ,8593846855,HOMBRE,Tlaxcala,Jacona,Colinas del Rio,Viñedos del Sur,98
+ANA CRISTINA,GUARDADO,RAZO,3557600997,MUJER,Baja California,Jiménez,Olivares Santana,Reserva Villa Sur,53
+ANGEL ALEXIS,PIÑON,LAZCANO,5020456504,HOMBRE,Guerrero,Jiquilpan,Las Brisas,Villas de Ajedrez,SN
+DAYANA GUADALUPE,CABELLO,FERNANDEZ,2079326004,MUJER,Nayarit,Juárez,Ramon Romo Franco,Lomas de Vistabella,SN
+LUIS MARIO,JURADO,KU,0399110049,HOMBRE,Chihuahua,Jungapeo,Colinas de San Ignacio,San Sebastián,SN
+MADISON,CHINO,ALEMAN,6407776250,MUJER,Tabasco,Lagunillas,La Fundición,Lomas del Sur,55
+DAMIAN ALEJANDRO,MARMOLEJO,AGUILAR,3075041335,HOMBRE,Guerrero,Madero,Fundición II,Lomas de Nueva York,73
+MICAELA,PARDO,GOMEZ,0530075027,MUJER,Coahuila,Maravatío,Los Sauces,Laureles del Sur,49
+IRVING,LICONA,BARCENAS,2476282835,HOMBRE,Hidalgo,Marcos Castellanos,Línea de Fuego,Lomas del Mirador,SN
+VICTORIA VALENTINA,CARPIO,BAILON,0432324289,MUJER,Aguascalientes,Lázaro Cárdenas,Buenos Aires,Misión de Santa Lucía,SN
+JESUS SEBASTIAN,DE LA O,COVARRUBIAS,3928467399,HOMBRE,Guanajuato,Morelia,Circunvalación Norte,Lomas de Vistabella 2a. Sección,20
+ALISSON GUADALUPE,ARIZMENDI,MENA,5342501763,MUJER,Coahuila,Morelos,Las Arboledas,Lotes de Arellano,66
+JOSE ROBERTO,VILLALPANDO,ABARCA,6588626083,HOMBRE,Baja California Sur,Múgica,Villas de San Francisco,Condominio La terraza,58
+ANA BRENDA,CANCINO,ESCOBEDO,1192585263,MUJER,Baja California,Nahuatzen,Villas de La Universidad,Cerrada San Francisco,7
+JOSE MARTIN,ESPINDOLA,BADILLO,8213464386,HOMBRE,Puebla,Nocupétaro,El Sol,Fracción de la Trinidad II,59
+ANA GUADALUPE,LUEVANO,VILLALPANDO,6849072113,MUJER,Nayarit,Nuevo Parangaricutiro,Gremial,La Escondida (El Salero),98
+LEONARDO GAEL,TALAVERA,LERMA,5140780850,HOMBRE,Baja California,Nuevo Urecho,Industrial,Monserrat,15
+MARIA DE LOS ANGELES,PERAZA,LANDERO,0287476469,MUJER,Michoacán,Numarán,Altavista,San José del Barranco,15
+ANGEL ALBERTO,OLIVO,INFANTE,8471104805,HOMBRE,Yucatán,Ocampo,Curtidores,San Juan,28
+ALICE,TEMOXTLE,DAVILA,2229382249,MUJER,Oaxaca,Pajacuarán,La Concordia,28 de Abril,72
+JOSE ANDRES,BARBOZA,JACINTO,2015748046,HOMBRE,México,Panindícuaro,Miravalle,Santa Bárbara,86
+EDITH,CASTELAN,PARTIDA,2059438213,MUJER,Baja California Sur,Parácuaro,Panorama,El Cardonal,99
+CARLOS TADEO,COLLAZO,GONZALEZ,3208759761,HOMBRE,Puebla,Paracho,Residencial Guadalupe,Santa Fe,60
+EMILY VALENTINA,ALBINO,SEPULVEDA,4544751896,MUJER,Querétaro,Pátzcuaro,Colinas del Poniente,El Barranco,SN
+DANILO,GODOY,ALDANA,1767447347,HOMBRE,Puebla,Penjamillo,Bugambilias,El Gigante,27
+LIA ROMINA,MONSIVAIS,CANTU,8715928826,MUJER,Oaxaca,Peribán,Del Carmen,El Refugio,54
+JUAN MATEO,VACA,VASQUEZ,2641472599,HOMBRE,Oaxaca,La Piedad,La Fe,Los Negritos,SN
+ANAYELI,VALTIERRA,MARMOLEJO,0980624551,MUJER,Chiapas,Purépero,México,Coyotes,72
+LUIS ARMANDO,CHAIREZ,LICONA,3583138493,HOMBRE,San Luis Potosí,Puruándiro,Primavera,Viñedos Valle Redondo,26
+MARICRUZ,EVANGELISTA,MATEO,5097242654,MUJER,Campeche,Queréndaro,San Pablo,La Loma de los Negritos,8
+CARLOS IVAN,LAUREANO,MOLINA,8438070032,HOMBRE,Sonora,Quiroga,Guadalupe,Viñedos San Felipe,SN
+MAGDALENA,BRUNO,JACINTO,6556644298,MUJER,Tlaxcala,Cojumatlán de Régules,Heliodoro Garcia,Cuauhtémoc (Las Palomas),SN
+MATEO SEBASTIAN,MAGALLANES,CASTAÑON,9086288788,HOMBRE,Nuevo León,Los Reyes,Gómez,Hacienda Nueva,SN
+ROSA ISELA,ZERMEÑO,MARCIAL,0179530558,MUJER,Puebla,Sahuayo,Moderno,El Cariñán,61
+SANTIAGO ALEXANDER,ENCISO,MAGDALENO,7902676916,HOMBRE,Campeche,San Lucas,Valle del Rio San Pedro,Santa Cruz de la Presa,23
+SAMANTHA GUADALUPE,SILVESTRE,ESTEBAN,4096765501,MUJER,Baja California Sur,Santa Ana Maya,Guadalupe Posada,Lomas del Picacho,7
+ALAN JESUS,DOMINGO,AMARO,6929801138,HOMBRE,Nayarit,Salvador Escalante,San Marcos,CERESO (Para Varones y Mujeres),SN
+ALEJANDRA GUADALUPE,PUENTES,GODINEZ,8246497999,MUJER,Sonora,Senguio,San Marcos,Estación Cañada Honda,SN
+PABLO EMILIO,CORIA,DIONICIO,3191169772,HOMBRE,Coahuila,Susupuato,San Marcos,General José María Morelos y Pavón (Cañada Honda),59
+ALEXA MICHELLE,DE LA FUENTE,ALCANTARA,5620354921,MUJER,Sinaloa,Tacámbaro,Modelo,Los Negritos,32
+RENE,BEJARANO,LEDESMA,5743759098,HOMBRE,México,Tancítaro,Residencial del Valle I,Coyotes,23
+ROBERTA,SERRATO,BAILON,5543545654,MUJER,Durango,Tangamandapio,Residencial del Valle II,Viñedos Valle Redondo,15
+DIEGO ANTONIO,VELARDE,CASANOVA,9690825858,HOMBRE,Colima,Tangancícuaro,La Herradura,La Loma de los Negritos,25
+SILVIA,CARBALLO,VAZQUEZ,4955792801,MUJER,Chihuahua,Tanhuato,Club Campestre,Viñedos San Felipe,11
+CARLOS ALEJANDRO,CAVAZOS,BAHENA,0781807896,HOMBRE,Zacatecas,Taretan,Jardines del Campestre,Cuauhtémoc (Las Palomas),56
+MARLENE,HAU,CUAUTLE,9601681664,MUJER,Yucatán,Tarímbaro,Los Vergeles,Hacienda Nueva,31
+LUIS ADRIAN,BUENDIA,ASCENCION,6658362008,HOMBRE,Ciudad de Mexico,Tepalcatepec,Ciudad Universitaria,El Cariñán,97
+VIRIDIANA,ANASTACIO,ONOFRE,0459507460,MUJER,Querétaro,Tingambato,Rancho San Antonio,Santa Cruz de la Presa,88
+ANGEL FERNANDO,CARO,CHI,7044137274,HOMBRE,San Luis Potosí,Tingüindín,Villas de Montenegro,Lomas del Picacho,29
+CAMILA VICTORIA,NUÑO,CORDOVA,9788254345,MUJER,Chihuahua,Tiquicheo de Nicolás Romero,Las Cavas,CERESO (Para Varones y Mujeres),90
+ANGEL ZAID,PELAYO,MONTIEL,1873437765,HOMBRE,Michoacán,Tlalpujahua,La Enramada,Estación Cañada Honda,52
+DANNA GUADALUPE,CELESTINO,MARCIAL,8097636642,MUJER,Yucatán,Tlazazalca,Talamantes Ponce,General José María Morelos y Pavón (Cañada Honda),SN
+VICTOR HUGO,OBREGON,OLAN,9980914484,HOMBRE,Nuevo León,Tocumbo,Granjas del Campestre,,13
+GRISELDA,YAM,BENAVIDES,6489302754,MUJER,San Luis Potosí,Tumbiscatío,Puerto las Hadas,,16
+DIEGO ALONSO,BARRANCO,MATEO,7351082912,HOMBRE,Colima,Turicato,Valle del Campestre,,SN
+MAYRA,GARFIAS,POZOS,9224735212,MUJER,Tamaulipas,Tuxpan,Trojes de Oriente,,71
+IAN SEBASTIAN,CASIMIRO,GAMBOA,5505555070,HOMBRE,Yucatán,Tuzantla,Valle de las Trojes,,64
+ANGELA VICTORIA,DURON,SILVESTRE,6301127576,MUJER,Campeche,Tzintzuntzan,Villas de San Nicolás,,26
+MIGUEL ALEJANDRO,POSADAS,RIZO,7220887983,HOMBRE,Sonora,Tzitzio,San Telmo,,SN
+ARLET,PASTRANA,POOT,0338960760,MUJER,Tabasco,Uruapan,La Paloma,,SN
+ROLANDO,TADEO,CARREÑO,6196531148,HOMBRE,Guanajuato,Venustiano Carranza,Barrio de Santiago,,SN
+ROCIO,CAUDILLO,QUINTERO,4794319319,MUJER,Tlaxcala,Villamar,Villa de las Trojes,,85
+JORGE ANTONIO,DE ANDA,IBAÑEZ,5830066399,HOMBRE,Quintana Roo,Vista Hermosa,Valle de Santa Teresa,,33
+VICTORIA ELIZABETH,URBANO,CORONADO,2154031275,MUJER,Sinaloa,Yurécuaro,La Troje,,62
+ALAN SANTIAGO,ALMAGUER,GABRIEL,5202651653,HOMBRE,Aguascalientes,Zacapu,Trojes de Alonso,,SN
+LIA NICOLE,SALCIDO,AGUAYO,5254077970,MUJER,Quintana Roo,Zamora,San Telmo Residencial,,SN
+AXEL JESUS,ZEFERINO,AMBROSIO,0280264143,HOMBRE,Campeche,Zináparo,Santa Fe,,79
+SAMANTA,AVILEZ,BLANCO,8287759886,MUJER,Tabasco,Zinapécuaro,Aguascalientes 2000,,38
+SANTIAGO ALEJANDRO,ROSARIO,POZOS,2434516198,HOMBRE,San Luis Potosí,Ziracuaretiro,Las Trojes,,66
+BELINDA,VIRGEN,OLAN,9073839726,MUJER,Guanajuato,Zitácuaro,Misión del Campanario,,100
+SANTIAGO EMMANUEL,ZENTENO,GAONA,1627228786,HOMBRE,Guerrero,José Sixto Verduzco,Trojes de Cristal,,56
+ALISON GUADALUPE,BALBUENA,VILCHIS,2491758577,MUJER,Aguascalientes,Amacuzac,Trojes del Sol,,98
+ANGEL RAFAEL,BALCAZAR,ESCOBEDO,8708473935,HOMBRE,Chihuahua,Atlatlahucan,Residencial Santa Clara,,37
+AMBAR,VITE,EUGENIO,5742926554,MUJER,Aguascalientes,Axochiapan,Misión de Santiago,,12
+CRISTIAN GAEL,CARREÑO,JAIME,9696274785,HOMBRE,Jalisco,Ayala,Andora Residencial,,26
+GEORGINA,AGUILA,DIONICIO,7968400206,MUJER,Veracruz,Coatlán del Río,Cadaqués Residencial,,2
+ANGEL ISAAC,HERMOSILLO,VENTURA,0875882030,HOMBRE,Coahuila,Cuautla,Valle del Campanario,,52
+MARIANA GUADALUPE,BERNARDINO,PERALES,8801002709,MUJER,Zacatecas,Cuernavaca,Las Misiones,,70
+DILAN GAEL,CANDELARIO,ROBLERO,3469180844,HOMBRE,Yucatán,Emiliano Zapata,Los Jarales,,87
+SOFIA ESMERALDA,GAXIOLA,CHAN,2929210487,MUJER,San Luis Potosí,Huitzilac,Cerrada El Molino,,SN
+JESUS FERNANDO,BARRETO,LICONA,9726002228,HOMBRE,Michoacán,Jantetelco,Valle Real,,78
+SOFIA MICHELLE,COLUNGA,CALDERA,1152890821,MUJER,Sonora,Jiutepec,Terzetto,,79
+JESUS ALFREDO,AMBROCIO,SERRANO,0907205639,HOMBRE,Guerrero,Jojutla,Cerrada de La Misión,,SN
+AITANA YAMILETH,CRESPO,DEL RIO,0328021084,MUJER,Tabasco,Jonacatepec de Leandro Valle,Cerrada del Valle,,65
+JORGE ALEJANDRO,SANABRIA,SANTANA,1504943326,HOMBRE,Quintana Roo,Mazatepec,Cerrada de la Mezquitera,,38
+ARIANNA,SAMANIEGO,GARIBAY,8570111211,MUJER,Puebla,Miacatlán,Lomas del Campestre 2a Sección,,70
+ANGEL SAID,GERARDO,IBAÑEZ,3015302912,HOMBRE,Veracruz,Ocuituco,Villas del Campestre,,SN
+CAMILA NICOLE,GOVEA,MELCHOR,7518093270,MUJER,Jalisco,Puente de Ixtla,Los Calicantos,,SN
+DIEGO ALBERTO,GUILLERMO,VALVERDE,4471091130,HOMBRE,Quintana Roo,Temixco,Jardines de la Concepción,,SN
+GENESIS GUADALUPE,GRANDE,GUARDADO,9548637042,MUJER,Yucatán,Tepalcingo,Los Bosques,,11
+JERONIMO,BUENROSTRO,HARO,7337590739,HOMBRE,Ciudad de Mexico,Tepoztlán,Rinconada los Bosques,,56
+SARA SOFIA,MERIDA,LEDEZMA,9328956313,MUJER,Michoacán,Tetecala,La Perla Norte,,59
+LIAM SEBASTIAN,RAYA,QUINTERO,6449270888,HOMBRE,Querétaro,Tetela del Volcán,Arroyo El Molino,,SN
+IRENE,MAR,ZACARIAS,1620467089,MUJER,Campeche,Tlalnepantla,Galerías,,SN
+NATHAN,POZOS,BUENDIA,4168473357,HOMBRE,Nuevo León,Tlaltizapán de Zapata,Residencial Altaria,,83
+ANA FERNANDA,MORELOS,CORDOBA,3797914712,MUJER,Durango,Tlaquiltenango,Constitución,,59
+JESUS ABRAHAM,VILLEDA,SANTIAGO,4153785227,HOMBRE,Sonora,Tlayacapan,Libertad,,16
+ASTRID,POLANCO,VEGA,7006463111,MUJER,Jalisco,Totolapan,Pozo Bravo Norte,,100
+DYLAN ANTONIO,SANTES,BENITO,1396663584,HOMBRE,México,Xochitepec,Soberana Convención Revolucionaria,,71
+JOSELIN,CAMPUZANO,ALBINO,1796139246,MUJER,Tamaulipas,Yautepec,San Cayetano,,84
+JORDAN,VIEYRA,VILLALPANDO,9803013429,HOMBRE,Veracruz,Yecapixtla,Colinas del Rio,,10
+QUETZALLI,CANDIA,BURGOS,3979425981,MUJER,Michoacán,Zacatepec,Olivares Santana,,46
+JAVIER ALEJANDRO,AGUILLON,GARCIA,5291287079,HOMBRE,Tlaxcala,Zacualpan de Amilpas,Las Brisas,,18
+ANA GABRIELA,CRISOSTOMO,SEPULVEDA,2821221277,MUJER,Quintana Roo,Temoac,Ramon Romo Franco,,56
+JESUS DAMIAN,PAULINO,SIMON,8777577325,HOMBRE,Morelos,Coatetelco,Colinas de San Ignacio,,87
+JOCELYN,VALVERDE,CORDOBA,4100424462,MUJER,Tlaxcala,Xoxocotla,La Fundición,,78
+JOSE RICARDO,ARREGUIN,LOZA,4273070539,HOMBRE,Chihuahua,Hueyapan,Fundición II,,52
+KENIA GUADALUPE,MARCELO,CERON,6564793775,MUJER,Yucatán,Azcapotzalco,Los Sauces,,SN
+LIAM DAVID,AGUERO,PASTRANA,4330270504,HOMBRE,Sinaloa,Coyoacán,Línea de Fuego,,46
+INGRID,ARRIETA,DE LA CRUZ,7463560171,MUJER,Baja California,Cuajimalpa de Morelos,Buenos Aires,,3
+LIAM EDUARDO,BEDOLLA,BOJORQUEZ,1400736122,HOMBRE,Aguascalientes,Gustavo A. Madero,Circunvalación Norte,,SN
+REGINA ISABELLA,CASANOVA,BOLAÑOS,9522572713,MUJER,Aguascalientes,Iztacalco,Las Arboledas,,61
+LUIS FELIPE,PAYAN,MANDUJANO,7604542170,HOMBRE,Chiapas,Iztapalapa,Villas de San Francisco,,60
+REGINA SOFIA,GATICA,ZARCO,2549796998,MUJER,Tamaulipas,La Magdalena Contreras,Villas de La Universidad,,87
+AXEL EDUARDO,LOBATO,PIMENTEL,4839418868,HOMBRE,Guerrero,Milpa Alta,El Sol,,SN
+SOFIA ISABEL,CALDERA,SEVILLA,1546346578,MUJER,Jalisco,Álvaro Obregón,Gremial,,SN
+DAVID ALEXANDER,TINAJERO,ESCOBEDO,5019932172,HOMBRE,Veracruz,Tláhuac,Industrial,,SN
+YANELI,BAILON,ROSADO,8564563404,MUJER,Guerrero,Tlalpan,Altavista,,58
+GABRIEL ALEJANDRO,MURO,PEDRO,4317655013,HOMBRE,Baja California Sur,Xochimilco,Curtidores,,45
+BRIANNA,ROMANO,TIRADO,2718863776,MUJER,Durango,Benito Juárez,La Concordia,,60
+IAN EMILIANO,LEOS,SAAVEDRA,9503346851,HOMBRE,Durango,Cuauhtémoc,Miravalle,,SN
+JOSELYN,PARADA,GOVEA,8660868478,MUJER,Hidalgo,Miguel Hidalgo,Panorama,,SN
+JESUS MIGUEL,PINTO,ARTEAGA,0742155203,HOMBRE,Ciudad de Mexico,Venustiano Carranza,Residencial Guadalupe,,91
+LIA REGINA,LAGUNES,DEL RIO,2193335026,MUJER,Campeche,Amealco de Bonfil,Colinas del Poniente,,99
+GADIEL,REA,GAXIOLA,1346590118,HOMBRE,Tabasco,Pinal de Amoles,Bugambilias,,45
+MIA RENATA,MANJARREZ,CALVA,1438971163,MUJER,Sinaloa,Arroyo Seco,Del Carmen,,47
+HERNAN,CALLEJAS,TIRADO,6648223263,HOMBRE,Chihuahua,Cadereyta de Montes,La Fe,,58
+DANNA MICHELLE,DEL VALLE,CARO,8585062404,MUJER,Baja California Sur,Colón,México,,55
+JESUS EMANUEL,VENANCIO,ESPINO,4837002485,HOMBRE,Aguascalientes,Corregidora,Primavera,,8
+EVELYN SOFIA,ATILANO,OROPEZA,6189256187,MUJER,San Luis Potosí,Ezequiel Montes,San Pablo,,53
+LIAM EMMANUEL,BAZAN,PANZO,9859997729,HOMBRE,Yucatán,Huimilpan,Guadalupe,,91
+VICTORIA ISABELLA,TIBURCIO,ROJAS,7029344168,MUJER,Aguascalientes,Jalpan de Serra,Heliodoro Garcia,,33
+LIAN,ANTUNEZ,HAU,5865200821,HOMBRE,Nuevo León,Landa de Matamoros,Gómez,,36
+VIRGINIA,CONSTANTINO,SEBASTIAN,0438667412,MUJER,Baja California Sur,El Marqués,Moderno,,75
+BRYAN,DANIEL,JARAMILLO,6291952548,HOMBRE,Jalisco,Pedro Escobedo,Valle del Rio San Pedro,,46
+ALLISON GUADALUPE,GAMA,MARCELINO,7254643784,MUJER,Durango,Peñamiller,Guadalupe Posada,,SN
+IKER ANTONIO,ALEJANDRE,MAR,1018371402,HOMBRE,Chiapas,Querétaro,San Marcos,,10
+MARIA MAGDALENA,RODARTE,PARRA,0554619173,MUJER,Michoacán,San Joaquín,San Marcos,,69
+IVAN ALEJANDRO,CALVARIO,BECERRA,0054632405,HOMBRE,Hidalgo,San Juan del Río,San Marcos,,SN
+MARICELA,COUOH,ESTRADA,4672271548,MUJER,Colima,Tequisquiapan,Modelo,,28
+JUAN ALBERTO,CUAUTLE,DOMINGUEZ,8088559186,HOMBRE,Querétaro,Tolimán,Residencial del Valle I,,10
+REYNA,YEPEZ,TEJEDA,5136464084,MUJER,Jalisco,Acambay de Ruíz Castañeda,Residencial del Valle II,,70
+LOGAN,ALATORRE,SANTOYO,2165446560,HOMBRE,Morelos,Acolman,La Herradura,,SN
+ESTEFANI,PICAZO,LIMON,5306197177,MUJER,San Luis Potosí,Aculco,Club Campestre,,SN
+ALAN TADEO,QUINTANILLA,COLORADO,6852857572,HOMBRE,Michoacán,Almoloya de Alquisiras,Jardines del Campestre,,SN
+LIDIA,VILLAVICENCIO,ISLAS,8517743166,MUJER,Nayarit,Almoloya de Juárez,Los Vergeles,,29
+CRISTIAN DANIEL,BRICEÑO,ELIZONDO,6007118036,HOMBRE,Morelos,Almoloya del Río,Ciudad Universitaria,,82
+MILA,COCOM,ONOFRE,5427489376,MUJER,Baja California,Amanalco,Rancho San Antonio,,60
+ELIAN GAEL,FLORENTINO,FRANCISCO,0034325089,HOMBRE,Tamaulipas,Amatepec,Villas de Montenegro,,SN
+SOFIA VALERIA,REMIGIO,JAIMES,3124605389,MUJER,Sonora,Amecameca,Las Cavas,,SN
+JESUS ARMANDO,ZETINA,ANTONIO,3225232029,HOMBRE,Michoacán,Apaxco,La Enramada,,57
+VICTORIA ALEJANDRA,NOYOLA,ESTEBAN,0576833831,MUJER,Veracruz,Atenco,Talamantes Ponce,,22
+DYLAN DANIEL,AVELINO,OTERO,0794558907,HOMBRE,Querétaro,Atizapán,Granjas del Campestre,,30
+AMALIA,JARQUIN,APARICIO,3702642715,MUJER,Veracruz,Atizapán de Zaragoza,Puerto las Hadas,,96
+HENRY,OSORNIO,GARRIDO,5239402603,HOMBRE,México,Atlacomulco,Valle del Campestre,,82
+AZUL,TOSCANO,HIPOLITO,8207250812,MUJER,Jalisco,Atlautla,Trojes de Oriente,,80
+TADEO ALEXANDER,MAZARIEGOS,TOMAS,7010392380,HOMBRE,Guanajuato,Axapusco,Valle de las Trojes,,9
+CYNTHIA,ZARCO,OSORNIO,0606089759,MUJER,Tamaulipas,Ayapango,Villas de San Nicolás,,48
+CARLOS ENRIQUE,BAÑOS,CEBALLOS,7644861531,HOMBRE,Tabasco,Calimaya,San Telmo,,45
+EMMA ISABELLA,BASTIDA,ZAMARRIPA,8482848601,MUJER,Hidalgo,Capulhuac,La Paloma,,85
+ERICK MATEO,BORJA,MURILLO,2987176829,HOMBRE,Yucatán,Coacalco de Berriozábal,Barrio de Santiago,,76
+LUCIA GUADALUPE,CHIMAL,CORONADO,7456911243,MUJER,México,Coatepec Harinas,Villa de las Trojes,,97
+VICTOR DANIEL,BOBADILLA,MEJIA,6724085044,HOMBRE,Durango,Cocotitlán,Valle de Santa Teresa,,73
+ANA ISABEL,LANDERO,MONTALVO,2908942770,MUJER,Sonora,Coyotepec,La Troje,,SN
+DIEGO EMILIANO,ORDUÑA,DOMINGUEZ,1264373630,HOMBRE,Tamaulipas,Cuautitlán,Trojes de Alonso,,24
+ROMINA ISABELLA,SAMANO,MUÑOZ,1266529800,MUJER,Guerrero,Chalco,San Telmo Residencial,,72
+FRANCISCO GAEL,AMADO,VASQUEZ,4533559831,HOMBRE,Baja California,Chapa de Mota,Santa Fe,,SN
+ALESSA,CAZAREZ,DE SANTIAGO,6165910150,MUJER,Michoacán,Chapultepec,Aguascalientes 2000,,73
+JOSE ELIAS,VALENTE,ELIZONDO,3836273947,HOMBRE,Baja California Sur,Chiautla,Las Trojes,,68
+ANDREA VALENTINA,ASTORGA,GODOY,9017546175,MUJER,Quintana Roo,Chicoloapan,Misión del Campanario,,4
+JOSE JAVIER,CHE,CHAVARRIA,0745716576,HOMBRE,Coahuila,Chiconcuac,Trojes de Cristal,,SN
+ANNA VICTORIA,DE LA PAZ,TRUJILLO,7989820961,MUJER,Baja California Sur,Chimalhuacán,Trojes del Sol,,SN
+LUIS GABRIEL,GALARZA,MONTOYA,8326204681,HOMBRE,Nuevo León,Donato Guerra,Residencial Santa Clara,,SN
+GENESIS SOFIA,GRIJALVA,OLEA,0881197824,MUJER,Guanajuato,Ecatepec de Morelos,Misión de Santiago,,8
+ANGEL YAHIR,HUITRON,MILLAN,7652654960,HOMBRE,Veracruz,Ecatzingo,Andora Residencial,,41
+JOHANNA,AYON,DE LEON,3419402869,MUJER,Quintana Roo,Huehuetoca,Cadaqués Residencial,,17
+CARLOS GABRIEL,ROA,AYON,6450235647,HOMBRE,Coahuila,Hueypoxtla,Valle del Campanario,,SN
+MAILEN,CALVA,AGUILAR,2844865585,MUJER,Michoacán,Huixquilucan,Las Misiones,,SN
+FELIX,MACHADO,MONTEJO,8618236414,HOMBRE,Tlaxcala,Isidro Fabela,Los Jarales,,8
+MICHELLE GUADALUPE,EUGENIO,FRANCO,1059437395,MUJER,Nuevo León,Ixtapaluca,Cerrada El Molino,,85
+ISIDRO,VIDALES,CAMACHO,7149937783,HOMBRE,Veracruz,Ixtapan de la Sal,Valle Real,,64
+STEPHANIE,GERVACIO,ALVA,1180760808,MUJER,Sonora,Ixtapan del Oro,Terzetto,,38
+LEANDRO,QUIJANO,MENDEZ,6662472784,HOMBRE,Morelos,Ixtlahuaca,Cerrada de La Misión,,86
+AITANA ISABELLA,GAYOSSO,ROJO,9625781579,MUJER,Nayarit,Xalatlaco,Cerrada del Valle,,58
+OSCAR DANIEL,CASARRUBIAS,ARANA,0197960190,HOMBRE,Michoacán,Jaltenco,Cerrada de la Mezquitera,,99
+DIANA LAURA,QUIRINO,VALTIERRA,9529678168,MUJER,Baja California,Jilotepec,Lomas del Campestre 2a Sección,,15
+ALDAIR,JUSTO,BARRIENTOS,8774495520,HOMBRE,México,Jilotzingo,Villas del Campestre,,41
+ALEXA VICTORIA,MACHUCA,LARIOS,6321443820,MUJER,Guanajuato,Jiquipilco,Los Calicantos,,13
+IAN FERNANDO,ESCUDERO,POZOS,1710871801,HOMBRE,Michoacán,Jocotitlán,Jardines de la Concepción,,6
+CAMILA ALEJANDRA,ALAMILLA,VILLEDA,1873416944,MUJER,Guerrero,Joquicingo,Los Bosques,,74
+JESUS MATIAS,JOAQUIN,BALDERAS,0552217907,HOMBRE,Querétaro,Juchitepec,Rinconada los Bosques,,38
+ISABELLA GUADALUPE,VALERO,YAÑEZ,8415183172,MUJER,Durango,Lerma,La Perla Norte,,SN
+LUCIO,ASCENCION,URIBE,9678550396,HOMBRE,Durango,Malinalco,Arroyo El Molino,,89
+SAORI,GRACIA,RIVERA,7877914904,MUJER,Veracruz,Melchor Ocampo,Galerías,,23
+JOSE ARTURO,ARCINIEGA,CARRILLO,2462876503,HOMBRE,Yucatán,Metepec,Residencial Altaria,,SN
+ANGELES,ESCALERA,VARGAS,7418927595,MUJER,Sinaloa,Mexicaltzingo,Constitución,,78
+IAN GABRIEL,LINO,GASTELUM,2521465514,HOMBRE,Sinaloa,Morelos,Libertad,,31
+ARANZA GUADALUPE,SILVANO,AGUILAR,3999602084,MUJER,Baja California Sur,Naucalpan de Juárez,Pozo Bravo Norte,,54
+JOSE RODRIGO,HERNANDEZ,GASCA,6373338256,HOMBRE,Jalisco,Nezahualcóyotl,Soberana Convención Revolucionaria,,SN
+IRINA,GARCIA,MAYO,9818118897,MUJER,Quintana Roo,Nextlalpan,Jardines de la Concepción,,SN
+LUIS EMILIANO,MARTINEZ,SOTO,5712608069,HOMBRE,Coahuila,Nicolás Romero,Los Bosques,,SN
