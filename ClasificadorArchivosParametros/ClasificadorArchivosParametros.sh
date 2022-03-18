@@ -1,51 +1,54 @@
 #!/bin/bash
 #########################################################################
 #Aplicacion:GENERADOR Y CLASIFICADOR DE ARCHIVOS                        #
-#Nombre del shell: GeneradorClasificadorArchivos			#
+#Nombre del shell: GeneradorClasificadorArchivos						#
 #Tipo de proceso (BATCH u ONLINE): BATCH                                #
 #Autor: Luis de Jesus Juan                                              #
 #########################################################################
 
 #RECEPCION DE PARAMETROS
 
-#Recibir ruta y nombre del archivo Y Ruta donde se encuentran los archivos desordenados 
+#Ruta y Nombre del archivo donde se encuentran almacenados nuestras extensiones
  
-ARCHIVOEXTENSIONES=$1
+export ARCHIVOEXTENSIONES=$1
+
+# Ruta de la carpeta donde se generan y clasifican nuestros ficheros
 
 export CARPETAARCHIVOSDESORDENADOS=$2"/"
 
+# Numero de veces que queremos crear un archivo
 export NUMARCHIVOS=$3
 
 #########################################################################
 #Declaracion de Variables
 
-ERRORES="log.txt"
-SUCCES="succes.txt"
+export ERRORES="log.txt"
+export SUCCES="succes.txt"
 
 separador="-______________________________________________________________________________________________________-"
 
-FECHA_ACTUAL=`date +"%Y/%m/%d %H:%M:%s"`
+FECHA_ACTUAL=`date +"%d/%m/%Y %H:%M"`
 
 #########################################################################
 function ValidarParametros {
 
-	if [[ "$1" == "" ]]
+	if [[ "$ARCHIVOEXTENSIONES" == "" ]]
 	then
-		echo "Imposible continuar debido a que el parametro 1 es obligatorio">>$ERRORES
+		echo "Parametro 1 obligatorio \"Ruta y nombre del achivo\"">>$ERRORES
 		echo "$separador">>$ERRORES
 		exit 1
 	else
-		echo "Existe informacion en el parametro 1: $1">>$SUCCES
+		echo "Existe informacion en el parametro 1: \"$ARCHIVOEXTENSIONES\"">>$SUCCES
 		echo "$separador">>$SUCCES
 	fi
-
+	#Como tal no coloco el nombre de la varible ya que se realiza un concatenacion y no pasaria esta validacion
 	if [[ "$2" == "" ]]
 	then
-		echo "Imposible continuar debido a que el parametro 2 es obligatorio">>$ERRORES
+		echo "Parametro 2 obligatorio \"Ruta donde se crearan los archivos y carpetas\"">>$ERRORES
 		echo "$separador">>$ERRORES
 		exit 1
 	else
-		echo "Existe informacion en el parametro 2: $2">>$SUCCES
+		echo "Existe informacion en el parametro 2: \"$2\"">>$SUCCES
 		echo "$separador">>$SUCCES
 	fi
 
@@ -58,10 +61,10 @@ function ValidarParametros {
 	elif [[ $NUMARCHIVOS =~ ^[0-9] ]]
 	then
 		NUMARCHIVOS=$NUMARCHIVOS 
-		echo "Existe informacion en el parametro 3: $NUMARCHIVOS">>$SUCCES
+		echo "Existe informacion en el parametro 3: \"$NUMARCHIVOS\"">>$SUCCES
 		echo "$separador">>$SUCCES
 	else
-		echo "Imposible continuar debido a que el parametro 3: $NUMARCHIVOS no es un NUMERO">>$ERRORES
+		echo "Imposible continuar debido a que el parametro 3: \"$NUMARCHIVOS\" no es un NUMERO">>$ERRORES
 		echo "$separador">>$ERRORES
 		exit 1
 	fi
@@ -224,12 +227,13 @@ function GenerarArchivosAleatoriamente {
 #Se declara una variable para identificar si hay error en alguna linea en especifico
 incrementablearchivo=0
 
+#Comprobar que el archivo donde se encuentran almacenadas las extenciones exista
 if [ -f "$ARCHIVOEXTENSIONES" ]
 then
-
+	#Comprobar que el fichero no este vacio
 	if [ -s "$ARCHIVOEXTENSIONES" ]
 	then
-
+		#Comprobar que exista el directorio donde se crearan los ficheros y directorios para su posterior clasificacion
 		if [ -d "$CARPETAARCHIVOSDESORDENADOS" ]
 		then
 			while IFS= read line
@@ -246,7 +250,9 @@ then
 					echo "Se creo $CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line Correctamente">>$SUCCES
 					echo "$separador">>$SUCCES
 					
-					$(Condicionales "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line" "$line" "$STRINGALEATORIO.$line" "$STRINGALEATORIO")
+					#$(Condicionales "$CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line" "$line" "$STRINGALEATORIO.$line" "$STRINGALEATORIO")
+
+					Condicionales $CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line $line $STRINGALEATORIO.$line $STRINGALEATORIO
 
 				done
 				else
@@ -308,11 +314,15 @@ function ClasificarArchivos {
 #Mandamos llamar nuestras funciones
 
 echo "Inicia la bitacora: $FECHA_ACTUAL">>$SUCCES
+echo "Inicia la bitacora: $FECHA_ACTUAL">>$ERRORES
 
 ValidarParametros $1 $2
 GenerarArchivosAleatoriamente
 ClasificarArchivos
 
 echo "Fin Bitacora">>$SUCCES 
+echo "Fin Bitacora">>$ERRORES
 echo "">>$SUCCES 
+echo "">>$ERRORES
 echo "">>$SUCCES 
+echo "">>$ERRORES
