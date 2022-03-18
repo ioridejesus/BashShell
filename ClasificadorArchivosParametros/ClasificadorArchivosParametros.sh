@@ -316,7 +316,7 @@ function ClasificarArchivos {
 echo "Inicia la bitacora: $FECHA_ACTUAL">>$SUCCES
 echo "Inicia la bitacora: $FECHA_ACTUAL">>$ERRORES
 
-ValidarParametros $1 $2
+ValidarParametros $1 $2 $ARCHIVOEXTENSIONES
 GenerarArchivosAleatoriamente
 ClasificarArchivos
 

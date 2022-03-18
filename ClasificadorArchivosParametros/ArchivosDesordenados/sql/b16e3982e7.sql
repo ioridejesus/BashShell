@@ -1,0 +1,9 @@
+CREATE DATABASE b16e3982e7
+
+USE b16e3982e7
+
+CREATE TABLE table_b16e3982e7 (frase TEXT);
+
+INSERT INTO table_b16e3982e7 VALUES ("Hola, b16e3982e7.sql!");
+INSERT INTO table_b16e3982e7 VALUES ("Adios, b16e3982e7.sql!");
+SELECT * FROM table_b16e3982e7;
