@@ -15,3 +15,555 @@ Inicia la bitacora: 22/03/2022 11:42
 Fin Bitacora
 
 
+Inicia la bitacora: 22/03/2022 12:23
+No se puede continuar debido a:
+El Archivo donde se definen los encabezados "Personas.csv" contiene "1003" encabezados
+Y
+El Archivo a analizar "encabezados.txt" contiene "1" encabezados
+-______________________________________________________________________________________________________-
+Inicia la bitacora: 22/03/2022 12:25
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:27
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:28
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:29
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:30
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:36
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:37
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:38
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:41
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:42
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:43
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:43
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:44
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:45
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:46
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:47
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:47
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:48
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:49
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:05
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:05
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:06
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:07
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:07
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:08
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:08
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:10
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:12
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:12
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:13
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:13
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:14
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:14
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:15
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:16
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:16
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:18
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:18
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:20
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:20
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:20
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:21
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:24
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:25
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:27
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:27
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:28
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:28
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:30
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:30
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:32
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:32
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:33
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:33
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:33
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:34
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:35
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:36
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:38
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:39
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:39
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:39
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:40
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:41
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:41
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:42
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:43
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:46
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:47
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:48
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:48
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:49
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:50
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:53
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:55
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:55
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:56
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:58
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:59
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 14:00
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 14:05
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 14:07
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:44
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:44
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:44
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:48
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:50
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:50
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:51
+123 NO es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:53
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:54
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:55
+123 NO es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:56
+123 NO es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:00
+123 NO es un numero 10 no cumple con un parametro valido 
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:01
+"123" NO es un numero o "10" no cumple con un parametro valido 
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:03
+Debe de contener "10" caracteres 
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:04
+Debe de contener "10" caracteres 
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:05
+"123" NO es un numero o
+Debe de contener "10" caracteres 
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:06
+"123" NO es un numero o
+"123" Debe de contener "10" caracteres 
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:06
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:07
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:07
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:07
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:07
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:07
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:22
+W NO es un parametro valido
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:23
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:23
+"1234567890" NO es un numero o
+"1234567890" Debe de contener "12" caracteres 
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:30
+"1234567890" NO es un numero o
+"1234567890" Debe de contener "12" caracteres 
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:37
+"1234567890" NO es un numero o
+"1234567890" Debe de contener "12" caracteres 
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:41
+"1234567890" NO es un numero o
+"1234567890" Debe de contener "12" caracteres 
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:42
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:42
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:43
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:46
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:53
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:56
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:58
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:58
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:01
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:02
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:05
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:06
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:06
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:15
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:22
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:22
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:25
+Fin Bitacora
+
+

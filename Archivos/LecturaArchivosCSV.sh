@@ -94,6 +94,16 @@ function ValidarEncabezados {
 		echo "El Archivo donde se definen los encabezados \"$1\" contiene \"$NUMENCABEZADOSMASTER\" encabezados">>$SUCCES
 		echo "El Archivo a analizar \"$2\" contiene \"$NUMENCABEZADOSESLAVE\" encabezados">>$SUCCES
 		echo "$separador">>$SUCCES
+
+		for ((i=1; i<$NUMENCABEZADOSMASTER; i++))
+		do
+		       	export ok=$i
+			compositor=$(head -1 $2 | awk 'BEGIN {FS=","};{print $apuntador}' apuntador="$ok")
+			echo "===============> $compositor"
+			#crearcomando=$($compositor) 
+			#crearcomando=$(head -n1 $2 | awk -F',' | '{ $($hola)}') 
+			 
+		done
 	else
 		echo "No se puede continuar debido a:">>$ERRORES
 		echo "El Archivo donde se definen los encabezados \"$1\" contiene \"$NUMENCABEZADOSMASTER\" encabezados">>$ERRORES
@@ -105,8 +115,59 @@ function ValidarEncabezados {
 	fi		
 }
 
+function ValidarNombresEncabezados {
 
+	incrementablearchivo=0
 
+#	while IFS= read line 
+#	do
+		#if [[ 
+#	done< $ENCABEZADOSARCHIVO
+
+}
+
+function ValidarNumero {
+
+	if [[ $2 == "" || $2 == 0 ]]
+	then
+		if [[ $1 =~ ^[0-9] ]]
+		then
+			echo "$1 es un numero">>$SUCCES
+			echo "$separador">>$SUCCES
+		else
+			echo "$1 NO es un numero">>$ERRORES
+			echo "$separador">>$ERRORES
+		fi
+	else
+		if [[ $2 =~ ^[0-9] ]]
+		then
+			if [[ $1 =~ ^[0-9]{$2} ]]
+			then
+				echo "$1 es un numero">>$SUCCES
+				echo "$separador">>$SUCCES
+
+			else
+				echo "\"$1\" NO es un numero o">>$ERRORES
+		       		echo "\"$1\" Debe de contener \"$2\" caracteres ">>$ERRORES
+				echo "$separador">>$ERRORES
+			fi
+		else
+			echo "$2 NO es un parametro valido">>$ERRORES
+			echo "$separador">>$ERRORES
+		fi
+	fi
+}
+
+function ValidarCadena {
+	
+	if [[ $1 =~ ^[A-Za-ZÁÉÍÓÚáéíóúñÑ] ]]
+	then
+		echo "Cadena Valida"
+	else
+		echo "Cadena invalida"
+	fi
+
+} 
 
 #Mandamos llamar nuestras funciones
 
@@ -117,6 +178,11 @@ ValidarParametros "$NOMBREARCHIVO" "1" "nombre y ruta del archivo CSV"
 ValidarParametros "$ENCABEZADOSARCHIVO" "2" "encabezados del archivo" 
 
 ValidarEncabezados "$ENCABEZADOSARCHIVO" "$NOMBREARCHIVO"
+
+#ValidarNumero 1234567890 12
+
+#ValidarCadena "ÁCENTO eñe ácento eÑE "
+
 
 echo "Fin Bitacora">>$SUCCES 
 echo "Fin Bitacora">>$ERRORES

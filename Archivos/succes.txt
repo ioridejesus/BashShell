@@ -42,3 +42,1873 @@ El Archivo a analizar "Personas.csv" contiene "13" encabezados
 Fin Bitacora
 
 
+Inicia la bitacora: 22/03/2022 12:23
+Existe informacion en el parametro 1: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "Personas.csv "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "Personas.csv "
+-______________________________________________________________________________________________________-
+Inicia la bitacora: 22/03/2022 12:25
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:27
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:28
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:29
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:30
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:36
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:37
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:38
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:41
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:42
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:43
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:43
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:44
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:45
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:46
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:47
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:47
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:48
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 12:49
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:05
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:05
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:06
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:07
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:07
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:08
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:08
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:10
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:12
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:12
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:13
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:13
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:14
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:14
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:15
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:16
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:16
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:18
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:18
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:20
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:20
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:20
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:21
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:24
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:25
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:27
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:27
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:28
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:28
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:30
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:30
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:32
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:32
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:33
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:33
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:33
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:34
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:35
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:36
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:38
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:39
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:39
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:39
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:40
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:41
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:41
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:42
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:43
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:46
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:47
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:48
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:48
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:49
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:50
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:53
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:55
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:55
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:56
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:58
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 13:59
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 14:00
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 14:05
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 14:07
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:44
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:44
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:44
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:48
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:50
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+123 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:50
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+123 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:51
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:53
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+123 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:54
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+123 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:55
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 15:56
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:00
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:01
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:03
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:04
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:05
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:06
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:06
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+1234567890 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:07
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+1234567890 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:07
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+1234567890 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:07
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+1234567890 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:07
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+1234567890 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:07
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+1234567890 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:22
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:23
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+1234567890 es un numero
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:23
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:30
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:37
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:41
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:42
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:42
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:43
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:46
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:53
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:56
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:58
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 16:58
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:01
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:02
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:05
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:06
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:06
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:15
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:22
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:22
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:25
+Existe informacion en el parametro 1: "Personas.csv"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt"
+-______________________________________________________________________________________________________-
+Existe informacion en el parametro 2: "encabezados.txt "
+-______________________________________________________________________________________________________-
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "13" encabezados
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+
