@@ -31,7 +31,7 @@ FECHA_ACTUAL=`date +"%d/%m/%Y %H:%M"`
 #Validamos la entrada de parametros y validamos que existan y tengan informacion
 
 function ValidarParametros {
-
+	
 	if [[ "$1" == "" ]]
 	then
 
@@ -44,7 +44,7 @@ function ValidarParametros {
 		if [[ -f "$1" ]]
 		then
 
-			if [[ -s $1 ]]
+			if [[ -s "$1" ]]
 			then
 	
 				echo "Existe informacion en el parametro $2: \"$1\"">>$SUCCES
@@ -80,20 +80,30 @@ function ValidarParametros {
 }
 
 
-#Inicia La lectura del Archivo
+#Validar que el archivo CSV y el archivo con los encabezados contengan el mismo numero de encabezados
 
-#head -n1 | awk -F',' '{print $1}' Personas.csv 
+function ValidarEncabezados {
 
+	#Verificamos que el numero de encabezados de nuestro archivo encabezados tenga el mismo numero de encavezados del archivo a analizar
 
+	NUMENCABEZADOSMASTER=$(wc $1 | awk '{print $1 + 1}')
+	NUMENCABEZADOSESLAVE=$(head -n1 $2 | awk -F',' '{print NF}') 
 
+	if [[ $NUMENCABEZADOSMASTER = $NUMENCABEZADOSESLAVE ]]
+	then
+		echo "El Archivo donde se definen los encabezados \"$1\" contiene \"$NUMENCABEZADOSMASTER\" encabezados">>$SUCCES
+		echo "El Archivo a analizar \"$2\" contiene \"$NUMENCABEZADOSESLAVE\" encabezados">>$SUCCES
+		echo "$separador">>$SUCCES
+	else
+		echo "No se puede continuar debido a:">>$ERRORES
+		echo "El Archivo donde se definen los encabezados \"$1\" contiene \"$NUMENCABEZADOSMASTER\" encabezados">>$ERRORES
+		echo "Y">>$ERRORES
+		echo "El Archivo a analizar \"$2\" contiene \"$NUMENCABEZADOSESLAVE\" encabezados">>$ERRORES
+		echo "$separador">>$ERRORES
 
-
-
-
-
-
-
-
+		exit 1
+	fi		
+}
 
 
 
@@ -103,8 +113,10 @@ function ValidarParametros {
 echo "Inicia la bitacora: $FECHA_ACTUAL">>$SUCCES
 echo "Inicia la bitacora: $FECHA_ACTUAL">>$ERRORES
 
-ValidarParametros $NOMBREARCHIVO 1 "nombre y ruta del archivo CSV" 
-ValidarParametros $ENCABEZADOSARCHIVO 2 "encabezados del archivo" 
+ValidarParametros "$NOMBREARCHIVO" "1" "nombre y ruta del archivo CSV" 
+ValidarParametros "$ENCABEZADOSARCHIVO" "2" "encabezados del archivo" 
+
+ValidarEncabezados "$ENCABEZADOSARCHIVO" "$NOMBREARCHIVO"
 
 echo "Fin Bitacora">>$SUCCES 
 echo "Fin Bitacora">>$ERRORES

@@ -1,0 +1,17 @@
+Inicia la bitacora: 22/03/2022 11:40
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 11:41
+No se puede continuar debido a:
+El Archivo donde se definen los encabezados "encabezados.txt" contiene "14" encabezados
+Y
+El Archivo a analizar "Personas.csv" contiene "13" encabezados
+-______________________________________________________________________________________________________-
+Inicia la bitacora: 22/03/2022 11:42
+El fichero "encabezados.txt" se encuentra vacio
+-______________________________________________________________________________________________________-
+Inicia la bitacora: 22/03/2022 11:42
+Fin Bitacora
+
+
