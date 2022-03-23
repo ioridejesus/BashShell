@@ -1,9 +1,0 @@
-CREATE DATABASE 4dcd361335
-
-USE 4dcd361335
-
-CREATE TABLE table_4dcd361335 (frase TEXT);
-
-INSERT INTO table_4dcd361335 VALUES ("Hola, 4dcd361335.sql!");
-INSERT INTO table_4dcd361335 VALUES ("Adios, 4dcd361335.sql!");
-SELECT * FROM table_4dcd361335;

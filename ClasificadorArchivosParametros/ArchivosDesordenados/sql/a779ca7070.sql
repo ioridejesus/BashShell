@@ -1,9 +1,0 @@
-CREATE DATABASE a779ca7070
-
-USE a779ca7070
-
-CREATE TABLE table_a779ca7070 (frase TEXT);
-
-INSERT INTO table_a779ca7070 VALUES ("Hola, a779ca7070.sql!");
-INSERT INTO table_a779ca7070 VALUES ("Adios, a779ca7070.sql!");
-SELECT * FROM table_a779ca7070;

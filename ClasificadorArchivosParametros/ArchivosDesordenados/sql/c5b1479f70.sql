@@ -1,9 +1,0 @@
-CREATE DATABASE c5b1479f70
-
-USE c5b1479f70
-
-CREATE TABLE table_c5b1479f70 (frase TEXT);
-
-INSERT INTO table_c5b1479f70 VALUES ("Hola, c5b1479f70.sql!");
-INSERT INTO table_c5b1479f70 VALUES ("Adios, c5b1479f70.sql!");
-SELECT * FROM table_c5b1479f70;

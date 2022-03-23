@@ -1,9 +1,0 @@
-CREATE DATABASE 9be13715f5
-
-USE 9be13715f5
-
-CREATE TABLE table_9be13715f5 (frase TEXT);
-
-INSERT INTO table_9be13715f5 VALUES ("Hola, 9be13715f5.sql!");
-INSERT INTO table_9be13715f5 VALUES ("Adios, 9be13715f5.sql!");
-SELECT * FROM table_9be13715f5;

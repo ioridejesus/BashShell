@@ -80,6 +80,8 @@ function ValidarParametros {
 }
 
 
+
+
 #Validar que el archivo CSV y el archivo con los encabezados contengan el mismo numero de encabezados
 
 function ValidarEncabezados {
@@ -89,7 +91,7 @@ function ValidarEncabezados {
 	NUMENCABEZADOSMASTER=$(wc $1 | awk '{print $1 + 1}')
 
 	#Contamos los encabezados del archivo CSV
-	NUMENCABEZADOSESLAVE=$(head -n1 $2 | awk -F',' '{print NF}') 
+	export NUMENCABEZADOSESLAVE=$(head -n1 $2 | awk -F',' '{print NF}') 
 
 	if [[ $NUMENCABEZADOSMASTER = $NUMENCABEZADOSESLAVE ]]
 	then
@@ -126,8 +128,9 @@ function ValidarEncabezados {
 
 			if [[ "$compositor" == "${ARREGLO[$menosmenos]}" ]]
 			then
-				echo "\"$1\"->\"${ARREGLO[$menosmenos]}\" VS \"$2\"->\"$separador\" Adelante">>$SUCCES
+				echo "\"$1\"->\"${ARREGLO[$menosmenos]}\" VS \"$2\"->\"$compositor\" Adelante">>$SUCCES
 				echo "$separador">>$SUCCES
+
 			else
 				
 				echo "No se puede continuar debido a: En la linea \"$ok\" los encabezados no coinciden">>$ERRORES
@@ -159,37 +162,99 @@ function ValidarNumero {
 		else
 			echo "$1 NO es un numero">>$ERRORES
 			echo "$separador">>$ERRORES
+			exit 1
 		fi
 	else
 		if [[ $2 =~ ^[0-9] ]]
 		then
-			if [[ $1 =~ ^[0-9]{$2} ]]
+			if [[ $1 =~ ^[0-9]{$2,$2}$ ]]
 			then
 				echo "$1 es un numero">>$SUCCES
 				echo "$separador">>$SUCCES
 
 			else
+				NUMCARACTERES=$(echo $1 | awk '{print length($0)}')
 				echo "\"$1\" NO es un numero o">>$ERRORES
-		       		echo "\"$1\" Debe de contener \"$2\" caracteres ">>$ERRORES
+		       		echo "\"$1\" Debe de contener \"$2\" caracteres y tienes $NUMCARACTERES caracteres">>$ERRORES
 				echo "$separador">>$ERRORES
+				exit 1
 			fi
 		else
 			echo "$2 NO es un parametro valido">>$ERRORES
 			echo "$separador">>$ERRORES
+			exit 1
 		fi
 	fi
 }
 
 function ValidarCadena {
 	
-	if [[ $1 =~ ^[A-Za-ZÁÉÍÓÚáéíóúñÑ] ]]
+	if [[ $1 =~ ^[a-zA-ZñÑáéíóúÁÉÍÓÚi] ]]
 	then
-		echo "Cadena Valida"
+		echo "$1 es una cadena valida">>$SUCCES
+		echo "$separador">>$SUCCES
 	else
-		echo "Cadena invalida"
+
+		echo "$1 cadena no valida solo letras minusculas o mayusculas alfabeto con acento">>$ERRORES
+		echo "$separador">>$ERRORES
+		exit 1
 	fi
 
-} 
+}
+
+function ValidarFecha {
+	
+	if [[ $1 =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]
+	then
+		echo "Fecha $1 Aceptada">>$SUCCES
+		echo "$separador">>$SUCCES
+	else
+
+		echo "El formato para la fecha es: YYYY-MM-DD">>$ERRORES
+		echo "$separador">>$ERRORES
+		exit 1
+	fi
+}
+
+function ValidarColumnasArchivo {
+
+	NOMBREARCHIVO=$1
+
+	for (( j=1; j<=$NUMENCABEZADOSESLAVE; j++ ))
+	do
+		export NUMEROCOLUMNA=$j
+		echo "El numero de columna a analizar es: $NUMEROCOLUMNA"
+
+		OBTENERCOLUMNA=( $(cat $NOMBREARCHIVO | awk 'BEGIN {FS=","};NR>1{print $apuntadorcolumna}' apuntadorcolumna="$NUMEROCOLUMNA") )
+
+		for i in "${OBTENERCOLUMNA[@]}"
+		do
+			if [[ $NUMEROCOLUMNA == 1 || $NUMEROCOLUMNA == 2 || $NUMEROCOLUMNA == 3 || $NUMEROCOLUMNA == 5 || $NUMEROCOLUMNA == 6 || $NUMEROCOLUMNA == 9 || $NUMEROCOLUMNA == 10 ]]
+			then
+				ValidarCadena $i
+
+			elif [[ $NUMEROCOLUMNA == 4 ]]
+			then
+				ValidarFecha $i
+
+			elif [[ $NUMEROCOLUMNA == 7 ]]
+			then
+				ValidarNumero $i 
+
+			elif [[ $NUMEROCOLUMNA == 8 ]]
+			then
+				ValidarNumero $i 10
+
+			elif [[ $NUMEROCOLUMNA == 11 || $NUMEROCOLUMNA == 12 || $NUMEROCOLUMNA == 13 ]]
+			then
+				ValidarAlfanumerico $i
+			else
+				echo "No existe la columna: \"$NUMEROCOLUMNA\"">>$ERRORES
+				echo "$separador">>$ERRORES
+			fi
+		done	
+	done
+}
 
 #Mandamos llamar nuestras funciones
 
@@ -201,10 +266,11 @@ ValidarParametros "$ENCABEZADOSARCHIVO" "2" "encabezados del archivo"
 
 ValidarEncabezados "$ENCABEZADOSARCHIVO" "$NOMBREARCHIVO"
 
-#ValidarNumero 1234567890 12
+#ValidarNumero 1239875834 10
 
-#ValidarCadena "ÁCENTO eñe ácento eÑE "
+#ValidarCadena "áéíóú hola mundo" 
 
+ValidarColumnasArchivo $NOMBREARCHIVO
 
 echo "Fin Bitacora">>$SUCCES 
 echo "Fin Bitacora">>$ERRORES
