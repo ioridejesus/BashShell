@@ -567,3 +567,135 @@ Inicia la bitacora: 22/03/2022 17:25
 Fin Bitacora
 
 
+Inicia la bitacora: 22/03/2022 17:32
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 17:33
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:00
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:01
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:03
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:07
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:10
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:16
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:17
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:32
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:33
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:35
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:36
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:40
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:41
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:41
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:42
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:47
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:53
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:54
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:54
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 18:57
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 19:00
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 19:00
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 19:02
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 19:03
+Fin Bitacora
+
+
+Inicia la bitacora: 22/03/2022 19:15
+El encabezado de nuestro achivo csv "apellido_paterno" es diferente del encabezado del txt "apellidopaternohola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "apellido_materno" es diferente del encabezado del txt "apellidomaternohola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "nombre" es diferente del encabezado del txt "nombreshola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "fecha_nacimiento" es diferente del encabezado del txt "fecha_nacimientohola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "sexo" es diferente del encabezado del txt "sexohola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "producto" es diferente del encabezado del txt "productohola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "saldo" es diferente del encabezado del txt "saldohola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "telefono" es diferente del encabezado del txt "telefonohola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "estado" es diferente del encabezado del txt "estadohola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "municipio" es diferente del encabezado del txt "municipiohola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "colonia" es diferente del encabezado del txt "coloniahola
+-______________________________________________________________________________________________________-
+El encabezado de nuestro achivo csv "calle" es diferente del encabezado del txt "callehola
+-______________________________________________________________________________________________________-
+Fin Bitacora
+
+

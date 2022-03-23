@@ -85,24 +85,61 @@ function ValidarParametros {
 function ValidarEncabezados {
 
 	#Verificamos que el numero de encabezados de nuestro archivo encabezados tenga el mismo numero de encavezados del archivo a analizar
-
+	#Contamos el numero de lineas que contiene el archivo txt que contiene los encabezados
 	NUMENCABEZADOSMASTER=$(wc $1 | awk '{print $1 + 1}')
+
+	#Contamos los encabezados del archivo CSV
 	NUMENCABEZADOSESLAVE=$(head -n1 $2 | awk -F',' '{print NF}') 
 
 	if [[ $NUMENCABEZADOSMASTER = $NUMENCABEZADOSESLAVE ]]
 	then
+		#Al confirmar que el archivo csv y el archivo txt contienen el mismo numero de encabezados
+		#enviamos mensaje a la bitacora donde efectivamente coinciden el numero de encabezados esto
+	      	#no significa que los encabezados coincidan en el nombre
+
 		echo "El Archivo donde se definen los encabezados \"$1\" contiene \"$NUMENCABEZADOSMASTER\" encabezados">>$SUCCES
 		echo "El Archivo a analizar \"$2\" contiene \"$NUMENCABEZADOSESLAVE\" encabezados">>$SUCCES
 		echo "$separador">>$SUCCES
 
+		#Declaramos un array para almacenar cada linea de los encabezados en un arreglo
+		ARREGLO=()
+		#Leemos el archivo que contiene el orden de los encabezados
+
+		while FS= read line
+		do
+			echo "###$line###"
+			ARREGLO+=($line)
+		done< $1
+		
+		
+		#A continuacion Leemos los encabezados de nuestro csv y aprovecharemos ese ciclo for para hacer la 
+		#comparacion con nuestro array para verificar que esten en la posicion indicada
+		menosmenos=0
 		for ((i=1; i<$NUMENCABEZADOSMASTER; i++))
 		do
+
 		       	export ok=$i
+			menosmenos=$(($i -1))
 			compositor=$(head -1 $2 | awk 'BEGIN {FS=","};{print $apuntador}' apuntador="$ok")
-			echo "===============> $compositor"
-			#crearcomando=$($compositor) 
-			#crearcomando=$(head -n1 $2 | awk -F',' | '{ $($hola)}') 
-			 
+			echo "=>txt<===============>${ARREGLO[$menosmenos]}" 
+			echo "=>csv<===============>$compositor" 
+
+			if [[ "$compositor" == "${ARREGLO[$menosmenos]}" ]]
+			then
+				echo "El encabezado de nuestro achivo csv \"$compositor\" coincide con el encabezado del txt \"${ARREGLO[$menosmenos]}">>$SUCCES
+				
+		echo "$separador">>$SUCCES
+
+			else
+				
+				echo "El encabezado de nuestro achivo csv \"$compositor\" es diferente del encabezado del txt \"${ARREGLO[$menosmenos]}">>$ERRORES
+				echo "$separador">>$ERRORES
+
+				
+
+			fi
+
+
 		done
 	else
 		echo "No se puede continuar debido a:">>$ERRORES
