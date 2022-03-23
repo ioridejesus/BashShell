@@ -1,0 +1,9 @@
+CREATE DATABASE 1928a19df8
+
+USE 1928a19df8
+
+CREATE TABLE table_1928a19df8 (frase TEXT);
+
+INSERT INTO table_1928a19df8 VALUES ("Hola, 1928a19df8.sql!");
+INSERT INTO table_1928a19df8 VALUES ("Adios, 1928a19df8.sql!");
+SELECT * FROM table_1928a19df8;

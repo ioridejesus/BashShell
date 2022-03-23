@@ -1,0 +1,9 @@
+CREATE DATABASE 8e75d3205e
+
+USE 8e75d3205e
+
+CREATE TABLE table_8e75d3205e (frase TEXT);
+
+INSERT INTO table_8e75d3205e VALUES ("Hola, 8e75d3205e.sql!");
+INSERT INTO table_8e75d3205e VALUES ("Adios, 8e75d3205e.sql!");
+SELECT * FROM table_8e75d3205e;

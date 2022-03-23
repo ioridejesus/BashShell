@@ -1,0 +1,9 @@
+CREATE DATABASE c54c2d6086
+
+USE c54c2d6086
+
+CREATE TABLE table_c54c2d6086 (frase TEXT);
+
+INSERT INTO table_c54c2d6086 VALUES ("Hola, c54c2d6086.sql!");
+INSERT INTO table_c54c2d6086 VALUES ("Adios, c54c2d6086.sql!");
+SELECT * FROM table_c54c2d6086;

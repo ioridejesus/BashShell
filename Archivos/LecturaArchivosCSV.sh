@@ -121,25 +121,20 @@ function ValidarEncabezados {
 		       	export ok=$i
 			menosmenos=$(($i -1))
 			compositor=$(head -1 $2 | awk 'BEGIN {FS=","};{print $apuntador}' apuntador="$ok")
-			echo "=>txt<===============>${ARREGLO[$menosmenos]}" 
-			echo "=>csv<===============>$compositor" 
+#			echo "=>txt<===============>${ARREGLO[$menosmenos]}" 
+#			echo "=>csv<===============>$compositor" 
 
 			if [[ "$compositor" == "${ARREGLO[$menosmenos]}" ]]
 			then
-				echo "El encabezado de nuestro achivo csv \"$compositor\" coincide con el encabezado del txt \"${ARREGLO[$menosmenos]}">>$SUCCES
-				
-		echo "$separador">>$SUCCES
-
+				echo "\"$1\"->\"${ARREGLO[$menosmenos]}\" VS \"$2\"->\"$separador\" Adelante">>$SUCCES
+				echo "$separador">>$SUCCES
 			else
 				
-				echo "El encabezado de nuestro achivo csv \"$compositor\" es diferente del encabezado del txt \"${ARREGLO[$menosmenos]}">>$ERRORES
+				echo "No se puede continuar debido a: En la linea \"$ok\" los encabezados no coinciden">>$ERRORES
+			      	echo "\"${ARREGLO[$menosmenos]} VS \"$compositor\"">>$ERRORES
 				echo "$separador">>$ERRORES
-
-				
-
+				exit 1
 			fi
-
-
 		done
 	else
 		echo "No se puede continuar debido a:">>$ERRORES
@@ -152,16 +147,6 @@ function ValidarEncabezados {
 	fi		
 }
 
-function ValidarNombresEncabezados {
-
-	incrementablearchivo=0
-
-#	while IFS= read line 
-#	do
-		#if [[ 
-#	done< $ENCABEZADOSARCHIVO
-
-}
 
 function ValidarNumero {
 

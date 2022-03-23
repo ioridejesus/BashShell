@@ -1,0 +1,9 @@
+CREATE DATABASE ceb2956714
+
+USE ceb2956714
+
+CREATE TABLE table_ceb2956714 (frase TEXT);
+
+INSERT INTO table_ceb2956714 VALUES ("Hola, ceb2956714.sql!");
+INSERT INTO table_ceb2956714 VALUES ("Adios, ceb2956714.sql!");
+SELECT * FROM table_ceb2956714;
