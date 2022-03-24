@@ -19,7 +19,6 @@ export ENCABEZADOSARCHIVO=$2
 #Declaracion de Variables
 
 export ERRORES="log.txt"
-export SUCCES="succes.txt"
 
 separador="-______________________________________________________________________________________________________-"
 
@@ -34,48 +33,26 @@ function ValidarParametros {
 	
 	if [[ "$1" == "" ]]
 	then
-
-		echo "Parametro $2 obligatorio \"$3\"">>$ERRORES
+		echo "Parametro ->$2<- obligatorio ->$3<-">>$ERRORES
 		echo "$separador">>$ERRORES
 		exit 1
-		
 	else
-
 		if [[ -f "$1" ]]
 		then
-
 			if [[ -s "$1" ]]
 			then
-	
-				echo "Existe informacion en el parametro $2: \"$1\"">>$SUCCES
-				echo "$separador">>$SUCCES
-
+				echo "Existe informacion en el parametro $2: ->$1<-"
 			else
 
-				echo "El fichero \"$1\" se encuentra vacio">>$ERRORES
+				echo "El fichero ->$1<- se encuentra vacio">>$ERRORES
 				echo "$separador">>$ERRORES
 				exit 1
-				
 			fi
 		else
-
-			echo "El fichero \" $1 \" no existe">>$ERRORES
+			echo "El fichero ->$1<- no existe">>$ERRORES
 			echo "$separador">>$ERRORES
 			exit 1
 		fi	
-
-	fi
-
-	if [[ $ENCABEZADOSARCHIVO == "" ]]
-	then
-
-		echo "Parametro 2 obligatorio \"Ruta y nombre del achivo que contiene los encabezados\"">>$ERRORES
-		echo "$separador">>$ERRORES
-		exit 1
-	else
-		echo "Existe informacion en el parametro 2: \"$ENCABEZADOSARCHIVO \"">>$SUCCES
-		echo "$separador">>$SUCCES
-
 	fi
 }
 
@@ -99,9 +76,8 @@ function ValidarEncabezados {
 		#enviamos mensaje a la bitacora donde efectivamente coinciden el numero de encabezados esto
 	      	#no significa que los encabezados coincidan en el nombre
 
-		echo "El Archivo donde se definen los encabezados \"$1\" contiene \"$NUMENCABEZADOSMASTER\" encabezados">>$SUCCES
-		echo "El Archivo a analizar \"$2\" contiene \"$NUMENCABEZADOSESLAVE\" encabezados">>$SUCCES
-		echo "$separador">>$SUCCES
+		echo "El Archivo donde se definen los encabezados \"$1\" contiene \"$NUMENCABEZADOSMASTER\" encabezados"
+		echo "El Archivo a analizar \"$2\" contiene \"$NUMENCABEZADOSESLAVE\" encabezados"
 
 		#Declaramos un array para almacenar cada linea de los encabezados en un arreglo
 		ARREGLO=()
@@ -109,7 +85,6 @@ function ValidarEncabezados {
 
 		while FS= read line
 		do
-			echo "###$line###"
 			ARREGLO+=($line)
 		done< $1
 		
@@ -123,27 +98,24 @@ function ValidarEncabezados {
 		       	export ok=$i
 			menosmenos=$(($i -1))
 			compositor=$(head -1 $2 | awk 'BEGIN {FS=","};{print $apuntador}' apuntador="$ok")
-#			echo "=>txt<===============>${ARREGLO[$menosmenos]}" 
-#			echo "=>csv<===============>$compositor" 
 
 			if [[ "$compositor" == "${ARREGLO[$menosmenos]}" ]]
 			then
-				echo "\"$1\"->\"${ARREGLO[$menosmenos]}\" VS \"$2\"->\"$compositor\" Adelante">>$SUCCES
-				echo "$separador">>$SUCCES
+				echo "\"$1\"->\"${ARREGLO[$menosmenos]}\" VS \"$2\"->\"$compositor\" Adelante"
 
 			else
 				
-				echo "No se puede continuar debido a: En la linea \"$ok\" los encabezados no coinciden">>$ERRORES
-			      	echo "\"${ARREGLO[$menosmenos]} VS \"$compositor\"">>$ERRORES
+				echo "No se puede continuar debido a: En la linea ->$ok<- los encabezados no coinciden">>$ERRORES
+			      	echo "->${ARREGLO[$menosmenos]}<- VS ->$compositor<-">>$ERRORES
 				echo "$separador">>$ERRORES
 				exit 1
 			fi
 		done
 	else
 		echo "No se puede continuar debido a:">>$ERRORES
-		echo "El Archivo donde se definen los encabezados \"$1\" contiene \"$NUMENCABEZADOSMASTER\" encabezados">>$ERRORES
+		echo "El Archivo donde se definen los encabezados ->$1<- contiene ->$NUMENCABEZADOSMASTER<- encabezados">>$ERRORES
 		echo "Y">>$ERRORES
-		echo "El Archivo a analizar \"$2\" contiene \"$NUMENCABEZADOSESLAVE\" encabezados">>$ERRORES
+		echo "El Archivo a analizar ->$2<- contiene ->$NUMENCABEZADOSESLAVE<- encabezados">>$ERRORES
 		echo "$separador">>$ERRORES
 
 		exit 1
@@ -157,10 +129,9 @@ function ValidarNumero {
 	then
 		if [[ $1 =~ ^[0-9] ]]
 		then
-			echo "$1 es un numero">>$SUCCES
-			echo "$separador">>$SUCCES
+			echo "->$1<- es un numero"
 		else
-			echo "$1 NO es un numero">>$ERRORES
+			echo "->$1<- NO es un numero">>$ERRORES
 			echo "$separador">>$ERRORES
 			exit 1
 		fi
@@ -169,18 +140,16 @@ function ValidarNumero {
 		then
 			if [[ $1 =~ ^[0-9]{$2,$2}$ ]]
 			then
-				echo "$1 es un numero">>$SUCCES
-				echo "$separador">>$SUCCES
-
+				echo "$1 es un numero"
 			else
 				NUMCARACTERES=$(echo $1 | awk '{print length($0)}')
-				echo "\"$1\" NO es un numero o">>$ERRORES
-		       		echo "\"$1\" Debe de contener \"$2\" caracteres y tienes $NUMCARACTERES caracteres">>$ERRORES
+				echo "->$1<- NO es un numero o">>$ERRORES
+		       		echo "->$1<- Debe de contener ->$2<- caracteres y tienes ->$NUMCARACTERES<- caracteres">>$ERRORES
 				echo "$separador">>$ERRORES
 				exit 1
 			fi
 		else
-			echo "$2 NO es un parametro valido">>$ERRORES
+			echo "->$2<- NO es un parametro valido">>$ERRORES
 			echo "$separador">>$ERRORES
 			exit 1
 		fi
@@ -189,13 +158,12 @@ function ValidarNumero {
 
 function ValidarCadena {
 	
-	if [[ $1 =~ ^[a-zA-ZñÑáéíóúÁÉÍÓÚi] ]]
+	if [[ $1 =~ ^[A-Za-zñÑ] ]]
 	then
-		echo "$1 es una cadena valida">>$SUCCES
-		echo "$separador">>$SUCCES
+		echo "$1 es una cadena valida"
 	else
 
-		echo "$1 cadena no valida solo letras minusculas o mayusculas alfabeto con acento">>$ERRORES
+		echo "->$1<- cadena no valida solo letras minusculas o mayusculas alfabeto con acento">>$ERRORES
 		echo "$separador">>$ERRORES
 		exit 1
 	fi
@@ -206,14 +174,27 @@ function ValidarFecha {
 	
 	if [[ $1 =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]
 	then
-		echo "Fecha $1 Aceptada">>$SUCCES
-		echo "$separador">>$SUCCES
+		echo "Fecha $1 Aceptada"
 	else
 
 		echo "El formato para la fecha es: YYYY-MM-DD">>$ERRORES
 		echo "$separador">>$ERRORES
 		exit 1
 	fi
+}
+
+function ValidarAlfanumerico {
+	
+	if [[ $1 =~ ^[a-zA-Z0-9ñÑáéíóúÁÉÍÓÚitrnvf\(] ]]
+	then
+		echo "$1 es una cadena alfanumerica valida"
+	else
+
+		echo "->$1<- cadena alfanumerica  no valida">>$ERRORES
+		echo "$separador">>$ERRORES
+		exit 1
+	fi
+
 }
 
 function ValidarColumnasArchivo {
@@ -249,33 +230,74 @@ function ValidarColumnasArchivo {
 			then
 				ValidarAlfanumerico $i
 			else
-				echo "No existe la columna: \"$NUMEROCOLUMNA\"">>$ERRORES
+				echo "No existe la columna: ->$NUMEROCOLUMNA<-">>$ERRORES
 				echo "$separador">>$ERRORES
 			fi
 		done	
 	done
 }
 
+function Ordenamiento {
+	
+	ORDENARCOLUMNA=$1
+	TIPOORDENAMIENTO=$2
+	VALORESORDENADOS="ArchivosOrdenados.txt"
+
+	
+
+	if [[ $1 == "" || $1 == 0 ]]
+	then 
+		echo "Error para la columna ->$ORDENARCOLUMNA<-">>$ERRORES
+		echo "$separador">>$ERRORES
+	else
+		if (( $ORDENARCOLUMNA >= 1 || $ORDENARCOLUMNA <= $NUMENCABEZADOSESLAVE ))
+		then
+			if [[ $TIPOORDENAMIENTO == 2 ]]
+			then
+				Salida=( $(sort -r -k $1 -t , $NOMBREARCHIVO) )
+				
+				for k in "${Salida[@]}"
+				do
+					echo $k>>$VALORESORDENADOS
+				done
+			else
+				#Salida=( $(sort -k $1 -t , $NOMBREARCHIVO) )
+				export Salida=$(cat $NOMBREARCHIVO | sort -k $1 -t ,)
+				
+				echo $Salida>$VALORESORDENADOS
+			
+				for l in "${Salida[@]}"
+				do
+					echo $l>>$VALORESORDENADOS
+				done
+			fi
+		else
+			echo "No existe la columna ->$ORDENARCOLUMNA<-">>$ERRORES
+			echo "$separador">>$ERRORES
+		fi
+	fi
+}
 #Mandamos llamar nuestras funciones
 
-echo "Inicia la bitacora: $FECHA_ACTUAL">>$SUCCES
+echo "">>$ERRORES
 echo "Inicia la bitacora: $FECHA_ACTUAL">>$ERRORES
+echo "">>$ERRORES
 
-ValidarParametros "$NOMBREARCHIVO" "1" "nombre y ruta del archivo CSV" 
+ValidarParametros "$NOMBREARCHIVO" "1" "nombre y ruta del archivo CSV"
+echo "Validacion del archivo ->$NOMBREARCHIVO<- CORRECTAMENTE">>$ERRORES
+
 ValidarParametros "$ENCABEZADOSARCHIVO" "2" "encabezados del archivo" 
+echo "Validacion del archivo ->$ENCABEZADOSARCHIVO<- CORRECTAMENTE">>$ERRORES
 
 ValidarEncabezados "$ENCABEZADOSARCHIVO" "$NOMBREARCHIVO"
-
-#ValidarNumero 1239875834 10
-
-#ValidarCadena "áéíóú hola mundo" 
+echo "Validacion de encabezados: ->$NOMBREARCHIVO<- Y ->$ENCABEZADOSARCHIVO<- CORRECTAMENTE">>$ERRORES
 
 ValidarColumnasArchivo $NOMBREARCHIVO
+echo "Validacion de Columnas del archivo ->$NOMBREARCHIVO<- CORRECTAMENTE">>$ERRORES
 
-echo "Fin Bitacora">>$SUCCES 
-echo "Fin Bitacora">>$ERRORES
-echo "">>$SUCCES 
-echo "">>$ERRORES
-echo "">>$SUCCES 
+Ordenamiento 1 1
+
+FECHA_FIN=`date +"%d/%m/%Y %H:%M"`
+echo "Fin Bitacora: $FECHA_FIN">>$ERRORES
 echo "">>$ERRORES
 
