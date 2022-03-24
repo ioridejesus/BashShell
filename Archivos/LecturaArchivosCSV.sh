@@ -5,25 +5,35 @@
 #Tipo de proceso (BATCH u ONLINE): BATCH                                #
 #Autor: Luis de Jesus Juan                                              #
 #########################################################################
+
+#Fecha en la que inicia nuestro Shell
+export FECHA_ACTUAL=`date +"%d/%m/%Y %H:%M:%S"`
+#########################################################################
+
 #Recepcion de Parametros
 
-#Ruta y Nombre del Archivo a analizar
+#Ruta y Nombre del Archivo a analizar (CSV)
 
 export NOMBREARCHIVO=$1
 
-#Ruta y Nombre de los encabezados del archivo
+#Ruta y Nombre de los encabezados del archivo (TXT) informacion en lista
 
 export ENCABEZADOSARCHIVO=$2
 
+#Numero de Columna para ordenar debe de ser >= 1 y <= Numero de Columnas del archivo CSV
+
+export ORDENARCOLUMNA=$3
+
+#Tipo de ordenamiento 1 Ascendente 2 Desdendente
+export TIPOORDENAMIENTO=$4
 #########################################################################
 #Declaracion de Variables
 
+#Nombre del archivo donde se guardaran los logs
 export ERRORES="log.txt"
 
+#Linea que separa los Errores que ocurran
 separador="-______________________________________________________________________________________________________-"
-
-FECHA_ACTUAL=`date +"%d/%m/%Y %H:%M"`
-
 
 #########################################################################
 
@@ -238,20 +248,26 @@ function ValidarColumnasArchivo {
 }
 
 function Ordenamiento {
-	
+
+	#Recepcion de parametros Columna a ordenar, tipo de ordenamiento (Ascendente, Descendente)	
 	ORDENARCOLUMNA=$1
 	TIPOORDENAMIENTO=$2
-	VALORESORDENADOS="ArchivosOrdenados.txt"
 
 	
 
-	if [[ $1 == "" || $1 == 0 ]]
+	if [[ $ORDENARCOLUMNA == "" || $ORDENARCOLUMNA == 0 ]]
 	then 
-		echo "Error para la columna ->$ORDENARCOLUMNA<-">>$ERRORES
+		echo "No hay nada que ordenar ->$ORDENARCOLUMNA<-">>$ERRORES
 		echo "$separador">>$ERRORES
 	else
 		if (( $ORDENARCOLUMNA >= 1 || $ORDENARCOLUMNA <= $NUMENCABEZADOSESLAVE ))
 		then
+
+
+			#Contamos las lineas que vamos a ordenar excluyendo el encabezado
+			TOTALFILAS=$(wc -l $NOMBREARCHIVO | awk '{print $1}')
+
+
 			if [[ $TIPOORDENAMIENTO == 2 ]]
 			then
 				Salida=( $(sort -r -k $1 -t , $NOMBREARCHIVO) )
@@ -261,15 +277,17 @@ function Ordenamiento {
 					echo $k>>$VALORESORDENADOS
 				done
 			else
-				#Salida=( $(sort -k $1 -t , $NOMBREARCHIVO) )
-				export Salida=$(cat $NOMBREARCHIVO | sort -k $1 -t ,)
+
+				#Le Asignamos un nuevo nombre a nuestro archivo con un nombre,nombre columna y fecha
+				NombreColumna=$(head -1 $NOMBREARCHIVO  | awk 'BEGIN {FS=","};{print $newcolumna}' newcolumna="$ORDENARCOLUMNA")
+				Fecha_Archivo=`date +"%d-%m-%Y-%H-%M-%S"`
+				VALORESORDENADOS="AscendentePor$NombreColumna$Fecha_Archivo.csv"
+
+				#Primero enviamos al archivo los encabezados
+				Encabezado=$(head -1 $NOMBREARCHIVO >>$VALORESORDENADOS)
+				#Leemos a partir de la segunda linea, ordenamos y enviamos el resultado al archivo			
+				Salida=$(tail -$TOTALFILAS $NOMBREARCHIVO | sort -k $ORDENARCOLUMNA -t ,>>$VALORESORDENADOS)
 				
-				echo $Salida>$VALORESORDENADOS
-			
-				for l in "${Salida[@]}"
-				do
-					echo $l>>$VALORESORDENADOS
-				done
 			fi
 		else
 			echo "No existe la columna ->$ORDENARCOLUMNA<-">>$ERRORES
@@ -295,9 +313,9 @@ echo "Validacion de encabezados: ->$NOMBREARCHIVO<- Y ->$ENCABEZADOSARCHIVO<- CO
 ValidarColumnasArchivo $NOMBREARCHIVO
 echo "Validacion de Columnas del archivo ->$NOMBREARCHIVO<- CORRECTAMENTE">>$ERRORES
 
-Ordenamiento 1 1
+Ordenamiento 2 1
 
-FECHA_FIN=`date +"%d/%m/%Y %H:%M"`
+FECHA_FIN=`date +"%d/%m/%Y %H:%M:%S"`
 echo "Fin Bitacora: $FECHA_FIN">>$ERRORES
 echo "">>$ERRORES
 
