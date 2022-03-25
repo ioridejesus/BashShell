@@ -1,0 +1,139 @@
+
+Inicia la bitacora: 24/03/2022 18:06:10
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno24-03-2022-18-06-14.csv<- Generado Exitosamente
+Fin Bitacora: 24/03/2022 18:06:14
+
+
+Inicia la bitacora: 24/03/2022 18:12:03
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_materno24-03-2022-18-12-07.csv<- Generado Exitosamente
+Fin Bitacora: 24/03/2022 18:12:07
+
+
+Inicia la bitacora: 24/03/2022 18:14:46
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_nombre24-03-2022-18-14-50.csv<- Generado Exitosamente
+Fin Bitacora: 24/03/2022 18:14:50
+
+
+Inicia la bitacora: 24/03/2022 18:16:54
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_fecha_nacimiento24-03-2022-18-16-58.csv<- Generado Exitosamente
+Fin Bitacora: 24/03/2022 18:16:58
+
+
+Inicia la bitacora: 24/03/2022 18:19:03
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_sexo24-03-2022-18-19-08.csv<- Generado Exitosamente
+Fin Bitacora: 24/03/2022 18:19:08
+
+
+Inicia la bitacora: 24/03/2022 18:21:04
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_saldo24-03-2022-18-21-08.csv<- Generado Exitosamente
+Fin Bitacora: 24/03/2022 18:21:08
+
+
+Inicia la bitacora: 24/03/2022 18:22:32
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_numero24-03-2022-18-22-36.csv<- Generado Exitosamente
+Fin Bitacora: 24/03/2022 18:22:36
+
+
+Inicia la bitacora: 24/03/2022 18:23:34
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+No existe la columna ->14<-
+-______________________________________________________________________________________________________-
+
+Inicia la bitacora: 24/03/2022 18:24:17
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+No existe la codicion ->1<-
+Opcion ->1<- Ascendente
+Opcion ->2<- Descendente
+-______________________________________________________________________________________________________-
+
+Inicia la bitacora: 24/03/2022 18:24:35
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+No existe la codicion ->1<-
+Opcion ->1<- Ascendente
+Opcion ->2<- Descendente
+-______________________________________________________________________________________________________-
+
+Inicia la bitacora: 24/03/2022 18:24:43
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+->r<- NO es un numero
+-______________________________________________________________________________________________________-
+
+Inicia la bitacora: 24/03/2022 18:25:01
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+-><- NO es un numero
+-______________________________________________________________________________________________________-
+
+Inicia la bitacora: 24/03/2022 18:25:41
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Descendente_apellido_paterno24-03-2022-18-25-45.csv<- Generado Exitosamente
+Fin Bitacora: 24/03/2022 18:25:45
+
+
+Inicia la bitacora: 24/03/2022 18:27:22
+
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Descendente_saldo24-03-2022-18-27-27.csv<- Generado Exitosamente
+Fin Bitacora: 24/03/2022 18:27:27
+

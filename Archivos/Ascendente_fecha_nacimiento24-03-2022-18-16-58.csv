@@ -1,0 +1,1003 @@
+apellido_paterno,apellido_materno,nombre,fecha_nacimiento,sexo,producto,saldo,telefono,estado,municipio,colonia,calle,numero
+PALAFOX,FELIX,VALENTINA GUADALUPE,1957-01-02,MUJER,credito,16847,0145628638,México,Tanhuato,Guadalupe Posada,Lic Manuel Gómez Morin,37
+SAUCEDA,CRISTOBAL,CATALEYA,1957-01-17,MUJER,credito,18832,7897518351,Yucatán,Atizapán de Zaragoza,Los Vergeles,Montebello,78
+COLIN,AMARO,MARIA ALEJANDRA,1957-01-22,MUJER,credito refaccionario,68135,7251495194,Chihuahua,La Magdalena Contreras,Pozo Bravo Norte,Recinto de la Macarena,52
+ATILANO,OROPEZA,EVELYN SOFIA,1957-01-23,MUJER,credito nomina,4765,6189256187,San Luis Potosí,Ezequiel Montes,San Pablo,Las Plazas,60
+AYON,DE LEON,JOHANNA,1957-02-23,MUJER,credito nomina,2451,3419402869,Quintana Roo,Huehuetoca,Cadaqués Residencial,Nueva Andalucia Coto Residencial,83
+ANDRES,BARTOLO,JOSE ARMANDO,1957-03-21,HOMBRE,credito hipotecario,145589,2270638268,Aguascalientes,Tepetlixpa,Curtidores,Villas del Río,23
+PALMA,BOBADILLA,JOSE EDUARDO,1957-03-28,HOMBRE,credito avio,150848,7964903738,Aguascalientes,Taretan,Primavera,Bosques del Prado Sur,54
+TIBURCIO,ROJAS,VICTORIA ISABELLA,1957-03-29,MUJER,credito nomina,3165,7029344168,Aguascalientes,Jalpan de Serra,Heliodoro Garcia,Natura,65
+IZQUIERDO,CANO,MARITZA,1957-04-14,MUJER,credito refaccionario,74798,3295672276,México,Tlalnepantla,Lomas del Campestre 2a Sección,La Barranca de Guadalupe,SN
+ARCINIEGA,CARRILLO,JOSE ARTURO,1957-04-15,HOMBRE,credito avio,186572,2462876503,Yucatán,Metepec,Residencial Altaria,Lic Benito Juárez,SN
+ROA,AYON,CARLOS GABRIEL,1957-04-16,HOMBRE,credito departamental,6100,6450235647,Coahuila,Hueypoxtla,Valle del Campanario,Lomas del Cobano,SN
+PAEZ,MACIAS,ANGEL MANUEL,1957-04-18,HOMBRE,debito,8576,0614391822,Querétaro,Tancítaro,Gómez,Xenia Residencial,6
+MATEO,CELESTINO,MILAGROS,1957-06-30,MUJER,credito,18470,5266028034,Jalisco,Tlalpan,Olivares Santana,Villa Teresa,4
+COVARRUBIAS,AMEZCUA,MIRIAM,1957-07-01,MUJER,prestamo personal,9921,0185458008,Zacatecas,Atenco,Guadalupe Posada,Residencial del Real,10
+PECH,ZEPEDA,KENIA,1957-08-04,MUJER,credito,17827,6504336627,Jalisco,Tiquicheo de Nicolás Romero,Moderno,Primo Verdad,35
+CAAMAL,ROA,LUIS EDUARDO,1957-08-08,HOMBRE,credito nomina,4071,5421574082,Chiapas,San Mateo Atenco,Colinas del Rio,Cartagena 1947,77
+DIEGO,SERRATO,AITANA VALENTINA,1957-08-11,MUJER,prestamo personal,9713,1663706950,Coahuila,Tianguistenco,Del Carmen,El Roble,68
+BARBA,BASURTO,HANNIA,1957-08-14,MUJER,credito avio,242989,1223925886,Puebla,Joquicingo,Terzetto,Morelos INFONAVIT,93
+SIFUENTES,VENANCIO,JESUS DAVID,1957-08-18,HOMBRE,credito,17276,6679895277,Campeche,Chucándiro,Valle del Campanario,S.T.E.M.A.,16
+MONCADA,MALDONADO,DALEYZA,1957-08-26,MUJER,credito,15495,6623939092,Nayarit,Chinicuila,Cerrada del Valle,Reserva Villa Sur,27
+MARQUEZ,PALMA,AXEL,1957-09-12,HOMBRE,prestamo personal,2117,3267835286,Oaxaca,Jaltenco,Barrio de Santiago,Macias Arellano,34
+MAGAÑA,ARGUELLO,KAILANI,1957-09-13,MUJER,credito nomina,3210,8111396613,Quintana Roo,Tacámbaro,Colinas del Poniente,El Puertecito,44
+CEBALLOS,TOSCANO,DANIELA GUADALUPE,1957-09-13,MUJER,debito,10507,2831216679,Aguascalientes,Villa de Allende,Guadalupe Posada,Residencial Campestre Club de Golf,17
+REYES,BAILON,DANIEL,1957-09-26,HOMBRE,credito departamental,6880,6984919299,Oaxaca,San Juan del Río,El Sol,Villa de Nuestra Señora de La Asunción Sector San Marcos,SN
+VALDEZ,NIETO,DAMIAN,1957-10-28,HOMBRE,credito hipotecario,937779,7123352596,Baja California,Metepec,Trojes de Cristal,Trojes del Cobano,SN
+ONOFRE,BRAVO,JUDITH,1957-11-21,MUJER,credito departamental,9715,7944157955,Puebla,Amanalco,Modelo,El Dorado 1a Sección,87
+VEGA,JAIMES,JUAN CARLOS,1958-01-27,HOMBRE,credito departamental,6599,5515290854,Nuevo León,Jilotzingo,Valle de Santa Teresa,Nueva Andalucia Coto Residencial,75
+BAZAN,PANZO,LIAM EMMANUEL,1958-02-04,HOMBRE,prestamo personal,7689,9859997729,Yucatán,Huimilpan,Guadalupe,El Rosedal,91
+AGUILA,DIONICIO,GEORGINA,1958-02-15,MUJER,credito avio,85408,7968400206,Veracruz,Coatlán del Río,Cadaqués Residencial,Laureles del Sur,64
+MORA,MARIANO,GENESIS,1958-03-04,MUJER,credito avio,188430,9961951818,Nuevo León,Temoaya,Ramon Romo Franco,Los Naranjos,SN
+MORELOS,CORDOBA,ANA FERNANDA,1958-03-25,MUJER,credito avio,201523,3797914712,Durango,Tlaquiltenango,Constitución,Coyotes,99
+BARRIOS,BELTRAN,ANGEL TADEO,1958-04-16,HOMBRE,credito,18617,2988188479,Guerrero,Quiroga,El Sol,Natura,SN
+FALCON,GUILLEN,ESTRELLA GUADALUPE,1958-05-07,MUJER,credito avio,189166,0083495269,Aguascalientes,Melchor Ocampo,Lomas del Campestre 2a Sección,Jardines del Sol,28
+MOTA,IBARRA,JESSICA,1958-05-26,MUJER,credito,21106,2856936349,Hidalgo,Nextlalpan,Cerrada del Valle,La Florida l,SN
+AGUILAR,GUADALUPE,ALEJANDRO,1958-05-28,HOMBRE,credito,15941,1600646863,San Luis Potosí,Almoloya de Alquisiras,Miravalle,Villa Notre Dame,SN
+AVIÑA,OSORIO,JESUS ANGEL,1958-06-18,HOMBRE,credito refaccionario,96440,5797022555,Aguascalientes,Texcalyacac,Guadalupe,Villas del Oeste,1
+CAZARES,DUARTE,SCARLETT,1958-07-12,MUJER,credito hipotecario,793168,5247544054,San Luis Potosí,Benito Juárez,Ramon Romo Franco,Villas de La Convención,49
+MONTOYA,GABRIEL,MICHELLE,1958-07-21,MUJER,debito,3891,5168861273,Sinaloa,Coahuayana,Trojes de Oriente,Los Arcos,16
+CASARRUBIAS,ARANA,OSCAR DANIEL,1958-07-29,HOMBRE,credito,16643,0197960190,Michoacán,Jaltenco,Cerrada de la Mezquitera,Villas del Cobano,5
+SALDIVAR,ALAMILLA,ABEL,1958-08-04,HOMBRE,credito refaccionario,60141,9260995215,Baja California Sur,Quiroga,Residencial Guadalupe,Héroes,SN
+LOZADA,FAVELA,GAEL ALEJANDRO,1958-09-07,HOMBRE,credito nomina,4010,6555959414,Baja California,Turicato,Ciudad Universitaria,Nueva España,SN
+SANTIAGO,GALVAN,MELISSA,1958-09-17,MUJER,credito departamental,2305,6344039188,Aguascalientes,Capulhuac,Guadalupe Posada,Independencia de México,51
+MONSIVAIS,CANTU,LIA ROMINA,1958-09-26,MUJER,credito avio,89132,8715928826,Oaxaca,Peribán,Del Carmen,El Refugio,34
+VILLALPANDO,ABARCA,JOSE ROBERTO,1958-10-17,HOMBRE,credito refaccionario,61958,6588626083,Baja California Sur,Múgica,Villas de San Francisco,Condominio La terraza,55
+ROLDAN,MORELOS,CARLOS ALBERTO,1958-11-02,HOMBRE,prestamo personal,8553,9245592095,Zacatecas,Angangueo,Valle del Campestre,Nueva Andalucia Coto Residencial,63
+OVALLE,CARDONA,ROSALINDA,1958-12-08,MUJER,credito hipotecario,308635,8533894832,Tlaxcala,Chapultepec,La Paloma,Jardines de Triana,96
+VALLE,RIZO,EDWIN,1959-01-22,HOMBRE,prestamo personal,9287,1078785296,México,Coyoacán,Arroyo El Molino,Vista de las Cumbres,99
+DZIB,VILLALOBOS,GIOVANNI,1959-02-24,HOMBRE,credito refaccionario,52858,7121474283,Baja California Sur,Penjamillo,Industrial,Luis Gómez Zepeda (ferronales),60
+AMARO,GALICIA,VERONICA,1959-03-26,MUJER,debito,4443,6376953562,Nayarit,Tonanitla,Las Cavas,Los Arcos,87
+AGUERO,PASTRANA,LIAM DAVID,1959-05-28,HOMBRE,credito refaccionario,66089,4330270504,Sinaloa,Coyoacán,Línea de Fuego,Coyotes,73
+TINOCO,CAMARGO,DIEGO ALEJANDRO,1959-06-07,HOMBRE,credito,15109,1587303915,Michoacán,Chilchota,Andora Residencial,Nazario Ortiz Garza,88
+PASCUAL,LERMA,MILAGROS GUADALUPE,1959-07-12,MUJER,debito,1701,4990161147,Morelos,Tenango del Aire,Villas de La Universidad,Privada Guadalupe,28
+BRIONES,CORNELIO,VALENTIN,1959-07-24,HOMBRE,credito refaccionario,75379,0206512262,Chiapas,Almoloya de Alquisiras,Primavera,Fátima,SN
+SEGURA,ZARAGOZA,LUZ MARIA,1959-08-15,MUJER,credito hipotecario,489576,6599855471,Campeche,Jiménez,Lomas del Campestre 2a Sección,Lic Benito Palomino Dena,72
+RUBIO,VELA,IAN,1959-08-24,HOMBRE,credito nomina,1218,9145525519,Tlaxcala,Álvaro Obregón,Jardines del Campestre,Agropecuario,67
+SILVERIO,VERA,JOAN,1959-10-29,HOMBRE,credito departamental,7353,6561299516,Morelos,Cotija,Valle del Campanario,Bulevares 1a. Sección,SN
+PAULINO,SIMON,JESUS DAMIAN,1959-11-02,HOMBRE,credito nomina,4689,8777577325,Morelos,Coatetelco,Colinas de San Ignacio,CERESO (Para Varones y Mujeres),15
+ESCUDERO,POZOS,IAN FERNANDO,1959-11-15,HOMBRE,credito hipotecario,113831,1710871801,Michoacán,Jocotitlán,Jardines de la Concepción,Las Viñas INFONAVIT,80
+CALVA,AGUILAR,MAILEN,1959-11-23,MUJER,credito hipotecario,892490,2844865585,Michoacán,Huixquilucan,Las Misiones,Buenavista,SN
+ZAMORA,PIÑON,ANGELA,1959-12-08,MUJER,credito avio,108225,8278918554,Morelos,Tepotzotlán,Las Arboledas,San José de Pozo Bravo,70
+GAONA,REMIGIO,LUIS DAVID,1959-12-15,HOMBRE,credito refaccionario,76799,0561643488,Guanajuato,Temascaltepec,Circunvalación Norte,Natura,SN
+VENEGAS,CALVA,ANGELICA,1959-12-18,MUJER,credito hipotecario,221883,3667648588,San Luis Potosí,Totolapan,Terzetto,Zona Militar,47
+CHAVEZ,BARRIOS,EMMANUEL,1959-12-21,HOMBRE,credito departamental,7536,3055546633,Baja California,Atlacomulco,Guadalupe,Sartenejo,88
+MONTAÑEZ,JURADO,IKER ALEJANDRO,1959-12-30,HOMBRE,credito avio,241612,4118019218,Oaxaca,Valle de Chalco Solidaridad,Valle del Campestre,INFONAVIT Potreros del Oeste,31
+PANTOJA,GATICA,FATIMA GUADALUPE,1960-01-31,MUJER,credito departamental,2894,6047663261,Nayarit,Queréndaro,Panorama,Nueva Alameda,3
+MIRELES,IÑIGUEZ,DYLAN ALEXANDER,1960-04-07,HOMBRE,credito refaccionario,97868,0223425928,Durango,Otzoloapan,Rinconada los Bosques,Vista de las Cumbres,64
+ZAMARRIPA,CALVA,AITANA NICOLE,1960-05-05,MUJER,credito nomina,2127,5978197944,Quintana Roo,Tepotzotlán,México,La Estancia,28
+OCHOA,LICONA,MONSERRAT,1960-05-08,MUJER,credito nomina,3409,6832540611,Morelos,Tepetlaoxtoc,Buenos Aires,Villa de Nuestra Señora de La Asunción Sector Encino,SN
+CHE,CHAVARRIA,JOSE JAVIER,1960-06-03,HOMBRE,credito nomina,4981,0745716576,Coahuila,Chiconcuac,Trojes de Cristal,Los Arcos,SN
+BUSTILLOS,CAZAREZ,ESPERANZA,1960-06-07,MUJER,credito avio,193118,2336486178,Tamaulipas,Copándaro,Aguascalientes 2000,Las Viñas INFONAVIT,SN
+LERMA,ZAMUDIO,NATALIA GUADALUPE,1960-06-15,MUJER,credito,17164,4293300493,Tamaulipas,Amecameca,Residencial del Valle II,Valle Dorado,SN
+MAGALLANES,CASTAÑON,MATEO SEBASTIAN,1960-07-26,HOMBRE,prestamo personal,1500,9086288788,Nuevo León,Los Reyes,Gómez,Hacienda Nueva,SN
+BARCENAS,VIVEROS,ANDREA GUADALUPE,1960-07-29,MUJER,credito hipotecario,757492,1587991796,Tamaulipas,Tlatlaya,San Pablo,Primo Verdad,99
+ESCALONA,AKE,SOFIA NICOLE,1960-08-02,MUJER,credito nomina,2247,9496019159,Tamaulipas,Tianguistenco,Moderno,Villas del Encino,76
+ASCENCIO,MONSIVAIS,JAIME,1960-09-06,HOMBRE,debito,7001,5184603586,Hidalgo,Puruándiro,Miravalle,Bosques de La Alameda,28
+TOMAS,LARIOS,DIEGO ALEXANDER,1960-09-08,HOMBRE,credito nomina,2595,4397735331,Baja California Sur,Irimbo,Rinconada los Bosques,Progreso,SN
+LOZANO,VILLARREAL,ARIANA,1960-09-17,MUJER,credito nomina,4166,3131301771,Aguascalientes,Xonacatlán,Heliodoro Garcia,El Roble,SN
+MARTIN,HURTADO,ULISES,1960-09-19,HOMBRE,prestamo personal,4533,9332711281,Campeche,Xochitepec,Cerrada de La Misión,Villa Bonita,40
+MEZA,NAVARRO,DANNA SOFIA,1960-09-28,MUJER,credito avio,212013,2339356995,Hidalgo,San Martín de las Pirámides,La Perla Norte,Claustros Loma Dorada,26
+GALLEGOS,LUGO,URIEL,1960-10-10,HOMBRE,credito avio,200994,6378265192,Hidalgo,Tlalnepantla de Baz,Miravalle,Rinconada Pozo Bravo,21
+GUERRERO,BETANCOURT,GUADALUPE,1960-10-31,MUJER,credito refaccionario,65655,7867268292,Yucatán,Chimalhuacán,Rancho San Antonio,Centro Distribuidor de Básicos,SN
+CORONA,MANCILLA,REBECA,1960-11-05,MUJER,credito,15265,4247380045,Nuevo León,Aguililla,Club Campestre,Muralia,58
+ARIZMENDI,MENA,ALISSON GUADALUPE,1960-11-14,MUJER,credito avio,221924,5342501763,Coahuila,Morelos,Las Arboledas,Lotes de Arellano,53
+VENANCIO,ESPINO,JESUS EMANUEL,1960-11-16,HOMBRE,credito departamental,9820,4837002485,Aguascalientes,Corregidora,Primavera,Villa de Nuestra Señora de La Asunción Sector Estación,74
+BALDERAS,GASCA,THIAGO,1960-11-25,HOMBRE,credito departamental,3625,2020798054,Campeche,Salvador Escalante,Miravalle,Villa Loma Dorada,SN
+DE LUNA,ZENTENO,JAQUELINE,1960-12-13,MUJER,credito refaccionario,74211,5104569244,Tamaulipas,Ixtlán,La Perla Norte,Santa Regina,70
+RODARTE,PARRA,MARIA MAGDALENA,1960-12-19,MUJER,credito refaccionario,56457,0554619173,Michoacán,San Joaquín,San Marcos,Villa Loma Dorada,62
+MAYA,CORTEZ,ABDIEL,1960-12-31,HOMBRE,credito departamental,9910,4719645947,Quintana Roo,Querétaro,Miravalle,Villas del Río,8
+SERRANO,MEDRANO,JOSE ANTONIO,1961-01-03,HOMBRE,prestamo personal,9570,6457446990,Nayarit,Temascaltepec,Las Brisas,La Soledad,SN
+MENESES,CASTREJON,DARIANA,1961-01-26,MUJER,credito hipotecario,116283,7186846875,Quintana Roo,Temamatla,Los Sauces,Villa de Nuestra Señora de La Asunción Sector Estación,46
+CANTU,OLVERA,ERNESTO,1961-02-15,HOMBRE,credito refaccionario,77547,0087361047,Ciudad de Mexico,Ixtapan de la Sal,Trojes de Alonso,Trojes del Cobano,41
+BOJORQUEZ,LOERA,GAEL ALEXANDER,1961-03-01,HOMBRE,credito refaccionario,63190,3899116949,Nuevo León,Susupuato,Guadalupe,Loma Bonita,68
+CAUICH,RINCON,RAQUEL,1961-03-05,MUJER,credito nomina,2153,0312166415,Nuevo León,Cuautitlán Izcalli,Los Vergeles,Cerrada San Miguel,SN
+MOSQUEDA,MACHUCA,LEILANI,1961-03-07,MUJER,credito avio,132202,2484686781,Puebla,Pátzcuaro,Gremial,Ferronales,SN
+ZARCO,OSORNIO,CYNTHIA,1961-03-08,MUJER,credito avio,215940,0606089759,Tamaulipas,Ayapango,Villas de San Nicolás,Palma Real,42
+SOLORIO,OTERO,ELIEL,1961-03-09,HOMBRE,credito refaccionario,50257,0896738778,Tlaxcala,Tetela del Volcán,Cerrada de la Mezquitera,España,SN
+RIOS,NIEVES,SAMUEL,1961-03-24,HOMBRE,credito avio,254649,6724617575,Tlaxcala,Ixtlahuaca,San Telmo,Industrial,43
+VALENZUELA,ANGUIANO,EMMA,1961-03-26,MUJER,credito refaccionario,82678,9880732081,México,Tecámac,Pozo Bravo Norte,Villa Montaña,94
+RESENDIZ,OSUNA,GERARDO,1961-04-01,HOMBRE,debito,6245,9529845948,Guerrero,Briseñas,Granjas del Campestre,Las Hadas,35
+ENCARNACION,QUIRINO,CAMILO,1961-04-11,HOMBRE,credito nomina,1965,5291985363,Colima,Toluca,San Marcos,Rancho Santa Mónica,60
+AYALA,ENRIQUEZ,JAVIER,1961-05-15,HOMBRE,credito,21101,6651993788,Zacatecas,Tejupilco,Soberana Convención Revolucionaria,Villas de Don Antonio,SN
+BOCANEGRA,PORRAS,JORGE ALBERTO,1961-05-16,HOMBRE,credito avio,281214,6452789249,Nuevo León,Isidro Fabela,Trojes de Cristal,Lomas del Chapulín,5
+VELA,NUÑEZ,OSVALDO,1961-06-13,HOMBRE,prestamo personal,7405,7701981887,Durango,Madero,Soberana Convención Revolucionaria,Alameda,25
+ARANA,MAGAÑA,MANUELA,1961-06-25,MUJER,credito avio,145998,8683825974,México,Villa de Allende,Club Campestre,Mangata,88
+ZENTENO,GAONA,SANTIAGO EMMANUEL,1961-07-01,HOMBRE,prestamo personal,5299,1627228786,Guerrero,José Sixto Verduzco,Trojes de Cristal,Villas de Ajedrez,85
+AGUSTIN,CARPIO,MELANI,1961-07-01,MUJER,credito hipotecario,374738,7192788963,México,Zumpahuacán,Club Campestre,Residencial Pulgas Pandas Sur,57
+VIEYRA,VILLALPANDO,JORDAN,1961-07-05,HOMBRE,credito refaccionario,89770,9803013429,Veracruz,Yecapixtla,Colinas del Rio,Hacienda Nueva,13
+AKE,SALCEDO,AXEL SANTIAGO,1961-07-07,HOMBRE,credito nomina,3910,2448664965,Sinaloa,Jocotitlán,Valle Real,La Lomita,96
+DURAN,BACA,JULIAN,1961-07-08,HOMBRE,credito nomina,1963,3230210426,Nuevo León,Tenango del Valle,Fundición II,Cartagena 1947,94
+HINOJOSA,JARAMILLO,ANGEL URIEL,1961-07-17,HOMBRE,credito hipotecario,325607,5771797236,Querétaro,Cotija,Las Trojes,Santa Anita 4a Sección,SN
+VILLANUEVA,OLAN,DAYANA,1961-07-21,MUJER,credito hipotecario,490793,0910909848,Tlaxcala,Villa de Allende,México,Bosques del Prado Norte,26
+MAZARIEGOS,TOMAS,TADEO ALEXANDER,1961-07-28,HOMBRE,credito departamental,4326,7010392380,Guanajuato,Axapusco,Valle de las Trojes,Residencial Campestre Club de Golf,32
+NARANJO,REA,CARLOS MATEO,1961-07-31,HOMBRE,credito nomina,2571,9164497510,Tabasco,Tzitzio,La Enramada,Canteras de San Javier,SN
+NOYOLA,ESTEBAN,VICTORIA ALEJANDRA,1961-08-08,MUJER,credito refaccionario,96444,0576833831,Veracruz,Atenco,Talamantes Ponce,San José del Arenal,34
+VALADEZ,DAVILA,MARIA PAULA,1961-08-22,MUJER,credito hipotecario,599301,6062125445,Tamaulipas,Yautepec,Cerrada del Valle,Lic Benito Palomino Dena,50
+VILLEDA,SANTIAGO,JESUS ABRAHAM,1961-08-30,HOMBRE,credito departamental,2571,4153785227,Sonora,Tlayacapan,Libertad,Viñedos Valle Redondo,22
+TOLENTINO,BALLESTEROS,ISAIAS,1961-09-13,HOMBRE,credito refaccionario,72992,8985019142,Quintana Roo,Tetela del Volcán,Valle del Campanario,Las Cumbres,SN
+ESPINOZA,PUENTES,EDUARDO,1961-10-10,HOMBRE,credito hipotecario,229728,9690016014,Chiapas,Ecatzingo,La Enramada,Residencial Pulgas Pandas Norte,53
+GAMBOA,LEMUS,JESUS GAEL,1961-12-02,HOMBRE,prestamo personal,5390,2596600493,Tlaxcala,Jaltenco,Las Trojes,Francisco Guel Jimenez,81
+CALLEJAS,TIRADO,HERNAN,1961-12-04,HOMBRE,credito departamental,2145,6648223263,Chihuahua,Cadereyta de Montes,La Fe,San José de Pozo Bravo,41
+SANTANA,LANDERO,JESUS ANTONIO,1961-12-15,HOMBRE,credito avio,97125,5963290947,Tabasco,Marcos Castellanos,Arroyo El Molino,Lomas de las Fuentes,SN
+SALMERON,FIERRO,IAN ALEXIS,1961-12-15,HOMBRE,credito,18813,5852110431,Tabasco,Tultepec,Residencial del Valle I,Villas del Pilar 1a Sección,90
+LOPEZ,AGUERO,MATEO,1961-12-19,HOMBRE,debito,11833,5768274615,Aguascalientes,Cadereyta de Montes,Las Brisas,Capittala,23
+BAÑOS,CEBALLOS,CARLOS ENRIQUE,1962-01-12,HOMBRE,credito avio,81232,7644861531,Tabasco,Calimaya,San Telmo,Muralia,15
+TRUJILLO,ULLOA,ABRAHAM,1962-02-09,HOMBRE,credito nomina,2556,7535479458,México,Zinacantepec,Valle del Rio San Pedro,Nueva Rinconada,12
+FAJARDO,BAILON,AYLIN GUADALUPE,1962-03-07,MUJER,prestamo personal,6041,4836385926,Chihuahua,Colón,La Concordia,Jardines de Triana,86
+ORTEGA,VERA,JOSE LUIS,1962-04-04,HOMBRE,debito,6938,9068659563,Tamaulipas,Chiconcuac,Ciudad Universitaria,Agropecuario,SN
+ANTONIO,AQUINO,JONATHAN,1962-04-11,HOMBRE,prestamo personal,7410,6245833975,Hidalgo,Rayón,Jardines de la Concepción,Anexo Benito Palomino Dena (Cumbres II),47
+ROMAN,BAZAN,LILIANA,1962-05-29,MUJER,credito nomina,2505,4560523794,San Luis Potosí,Hidalgo,Cadaqués Residencial,Santa Anita,17
+FABIAN,SILVA,ANGELA SOFIA,1962-05-31,MUJER,credito refaccionario,96830,7986821247,Jalisco,Nuevo Parangaricutiro,Los Sauces,Solidaridad 1a Sección,97
+SAN JUAN,VEGA,JOSE ENRIQUE,1962-06-01,HOMBRE,credito,16843,8840806699,Tabasco,Chavinda,Valle Real,Solidaridad 4a Sección,SN
+ALCALA,ANTONIO,KEYLA,1962-06-04,MUJER,debito,8847,2375146285,Guerrero,Tepetlaoxtoc,Altavista,Jardines de Montebello,SN
+ZERMEÑO,MARCIAL,ROSA ISELA,1962-06-18,MUJER,credito,15290,0179530558,Puebla,Sahuayo,Moderno,El Cariñán,76
+SANDOVAL,TADEO,ALEJANDRA,1962-06-22,MUJER,prestamo personal,6489,9484555341,Veracruz,Jiquipilco,La Troje,Lomas del Cobano,97
+BAEZA,FRANCISCO,ANGEL EMILIANO,1962-08-18,HOMBRE,credito hipotecario,525973,0718873822,Tlaxcala,Jilotzingo,Los Jarales,Cobano de Palmitas,40
+REZA,AMBROCIO,ARISBETH,1962-09-21,MUJER,debito,6858,3802789384,Yucatán,Coeneo,Misión de Santiago,Rinconada Santa Mónica,80
+MAY,PATIÑO,MAYTE,1962-10-01,MUJER,credito departamental,4902,2109282460,Hidalgo,Sahuayo,Altavista,Privada Guadalupe,36
+MONTELONGO,BAZAN,JUAN FRANCISCO,1962-10-05,HOMBRE,credito,19726,6762686839,Hidalgo,Ixtapan de la Sal,Residencial Santa Clara,Salto de Ojocaliente,44
+LEDESMA,ALCARAZ,MARIA BELEN,1962-12-05,MUJER,credito avio,222632,7887219034,Tamaulipas,Huetamo,Los Calicantos,Colinas de Oriente,SN
+PALOMARES,LUEVANO,ARIEL,1962-12-31,HOMBRE,credito avio,87475,6360161145,Guerrero,Xochimilco,Circunvalación Norte,La Luna,65
+HARO,LANDA,AXEL GABRIEL,1963-01-09,HOMBRE,credito refaccionario,67616,1725851220,Morelos,Zinacantepec,La Enramada,Bulevares 1a. Sección,34
+DAMIAN,JIMENEZ,JOAQUIN,1963-01-17,HOMBRE,credito departamental,2544,8891896668,Nayarit,Jilotzingo,Trojes de Cristal,Santa Anita 4a Sección,96
+CLEMENTE,MELCHOR,ESTHER,1963-02-22,MUJER,credito hipotecario,533635,8803260661,Jalisco,Hidalgo,Cerrada del Valle,Claustros Loma Dorada,16
+OLIVO,INFANTE,ANGEL ALBERTO,1963-03-28,HOMBRE,credito avio,198446,8471104805,Yucatán,Ocampo,Curtidores,San Juan,99
+PICAZO,LIMON,ESTEFANI,1963-04-21,MUJER,credito avio,223229,5306197177,San Luis Potosí,Aculco,Club Campestre,Sartenejo,SN
+CALIXTO,BEJARANO,MARIA ISABELLA,1963-05-12,MUJER,credito avio,157150,0686785843,Nuevo León,Lázaro Cárdenas,Olivares Santana,Nueva Alameda,SN
+ALFONSO,PAEZ,LIA RENATA,1963-06-22,MUJER,credito,23188,9292743678,Michoacán,Hidalgo,La Perla Norte,Misión de Santa Lucía,93
+ALAMILLA,VILLEDA,CAMILA ALEJANDRA,1963-06-25,MUJER,debito,2172,1873416944,Guerrero,Joquicingo,Los Bosques,Santa Anita 4a Sección,36
+APOLINAR,ESPINOZA,RAMON,1963-07-02,HOMBRE,credito,24298,0780183852,Yucatán,Zacazonapan,Villas de Montenegro,Paseos de Santa Mónica,SN
+CORIA,DIONICIO,PABLO EMILIO,1963-07-14,HOMBRE,credito avio,198541,3191169772,Coahuila,Susupuato,San Marcos,General José María Morelos y Pavón (Cañada Honda),51
+PLATA,BARRETO,RAMIRO,1963-07-24,HOMBRE,prestamo personal,7170,1923695913,Michoacán,Otzoloapan,Soberana Convención Revolucionaria,Cielo Claro,34
+BORJA,MURILLO,ERICK MATEO,1963-07-25,HOMBRE,debito,7506,2987176829,Yucatán,Coacalco de Berriozábal,Barrio de Santiago,Centro Distribuidor de Básicos,5
+MARES,LAZARO,DYLAN JESUS,1963-08-12,HOMBRE,credito hipotecario,368248,3980986660,Campeche,Valle de Bravo,Valle del Rio San Pedro,Puerta Navarra,SN
+PEDRO,RAYA,YOLANDA,1963-08-16,MUJER,credito,17558,1237398610,Guerrero,El Marqués,Del Carmen,San Luis,32
+GARCIA,MAYO,IRINA,1963-10-02,MUJER,credito refaccionario,53889,9818118897,Quintana Roo,Nextlalpan,Jardines de la Concepción,Villa Bonita,SN
+SOTELO,PORRAS,LIA VALENTINA,1963-11-07,MUJER,credito,24158,2533372792,Guerrero,Amecameca,Moderno,Unidad Ganadera,SN
+BELTRAN,MUNGUIA,JUAN,1963-12-06,HOMBRE,credito departamental,4720,2592297732,Baja California Sur,Villa del Carbón,Primavera,Sartenejo,36
+COCOM,ONOFRE,MILA,1963-12-06,MUJER,credito departamental,3035,5427489376,Baja California,Amanalco,Rancho San Antonio,Fátima,89
+ORNELAS,TORRES,JESUS MATEO,1963-12-09,HOMBRE,credito avio,149671,8083492854,Guanajuato,Coacalco de Berriozábal,Jardines del Campestre,Residencial Pulgas Pandas Norte,12
+BERMUDEZ,MACIAS,FABIOLA,1963-12-28,MUJER,credito nomina,3018,7176387740,Oaxaca,Apatzingán,Trojes de Oriente,Lomas del Cobano,65
+CANUL,ROSALES,REGINA GUADALUPE,1964-01-13,MUJER,credito departamental,9162,8711496050,Coahuila,Cuajimalpa de Morelos,Galerías,Villa Montaña,87
+COLLAZO,GONZALEZ,CARLOS TADEO,1964-02-23,HOMBRE,credito nomina,4239,3208759761,Puebla,Paracho,Residencial Guadalupe,Santa Fe,1
+SALAS,SEGUNDO,FRANCISCO,1964-04-02,HOMBRE,prestamo personal,6904,9064208074,Quintana Roo,San Felipe del Progreso,Rinconada los Bosques,La Florida ll,29
+GARDUÑO,BRIONES,BENJAMIN,1964-04-23,HOMBRE,credito hipotecario,511289,6245004445,Tamaulipas,Zacapu,Villas de Montenegro,Villas del Vergel,SN
+CERVANTES,IÑIGUEZ,ISAAC,1964-04-29,HOMBRE,credito hipotecario,982131,1219880061,Morelos,Ixtapan de la Sal,Valle de las Trojes,Andrea,11
+MONDRAGON,SEVILLA,BRANDON,1964-05-01,HOMBRE,credito refaccionario,82668,3228350762,Aguascalientes,La Piedad,Circunvalación Norte,Villa de Nuestra Señora de La Asunción Sector San Marcos,SN
+BASURTO,VALLEJO,CARMEN,1964-05-20,MUJER,credito hipotecario,121939,1097245388,Ciudad de Mexico,Almoloya de Juárez,San Marcos,Santa Elena,59
+GALEANA,CHI,FRANCISCA,1964-06-14,MUJER,credito,19535,3255610799,Sonora,Temamatla,Gremial,La Cruz,9
+ANASTACIO,ONOFRE,VIRIDIANA,1964-06-14,MUJER,credito,23941,0459507460,Querétaro,Tingambato,Rancho San Antonio,Santa Cruz de la Presa,19
+MACIAS,ROJO,JOSE MIGUEL,1964-06-28,HOMBRE,debito,10176,6470152486,Sinaloa,Tenancingo,Colinas de San Ignacio,Villa de Nuestra Señora de La Asunción Sector Guadalupe,SN
+DE SANTIAGO,PALOMO,ETHAN,1964-07-02,HOMBRE,credito,19086,0105855791,Tamaulipas,Jojutla,Andora Residencial,Educación Álamos,SN
+MENDIOLA,CAMARGO,JOSE PABLO,1964-07-03,HOMBRE,credito refaccionario,89982,3753130786,Baja California Sur,Jantetelco,Residencial Santa Clara,El Quelite,16
+KU,GARRIDO,SOFIA ALEJANDRA,1964-07-24,MUJER,credito nomina,4163,9393552586,Querétaro,Cherán,Misión de Santiago,Lic Benito Juárez,SN
+MILLAN,VERGARA,ALEX,1964-08-06,HOMBRE,credito nomina,1281,3048098129,Yucatán,Juchitepec,Andora Residencial,Las Cumbres,3
+CABALLERO,BERNABE,CESAR,1964-08-18,HOMBRE,credito refaccionario,71197,7340971205,Guerrero,Tuzantla,Residencial del Valle I,Palma Real,76
+TAPIA,MORAN,AARON,1964-10-03,HOMBRE,debito,1710,6142500414,Morelos,Teotihuacán,Línea de Fuego,Lomas de La Asunción,SN
+VERGARA,CEDILLO,EITHAN,1964-10-09,HOMBRE,credito hipotecario,731643,5771746403,México,Tezoyuca,Bugambilias,Bosques del Prado Sur,20
+RINCON,CARDOSO,JOSE ALFREDO,1964-10-11,HOMBRE,credito nomina,2208,9780841866,Morelos,Cocotitlán,Ciudad Universitaria,Villas del Vergel,95
+BRITO,VALENTE,SANTIAGO GAEL,1964-10-14,HOMBRE,credito hipotecario,574680,1642079655,Tabasco,Milpa Alta,Fundición II,Santa Elena 2a Sección,SN
+INFANTE,FALCON,LEO,1964-10-23,HOMBRE,credito nomina,3258,0003141918,Querétaro,Tlalnepantla de Baz,San Marcos,Versalles 2a Sección,57
+ALCOCER,MIRANDA,MATIAS ALEXANDER,1964-10-30,HOMBRE,credito nomina,3651,3842918555,Campeche,Tequixquiac,Primavera,INFONAVIT Potreros del Oeste,10
+ARCE,MARCELINO,LUIS ENRIQUE,1964-11-14,HOMBRE,credito refaccionario,95167,8019566407,Morelos,Cadereyta de Montes,Circunvalación Norte,Las Plazas,45
+CASILLAS,ORDOÑEZ,JESUS EMMANUEL,1964-11-23,HOMBRE,credito nomina,2295,0343280842,Veracruz,Amatepec,Gómez,San José del Arenal,SN
+ARZATE,VALADEZ,LUCA,1964-11-25,HOMBRE,prestamo personal,1937,3418556365,Quintana Roo,Huiramba,Libertad,Morelos I,37
+ZAVALA,JAIMES,JUAN DIEGO,1964-12-01,HOMBRE,credito departamental,7325,7864604391,Baja California,Tultepec,Bugambilias,Villas del Río,86
+VELEZ,GARIBAY,NOEMI,1964-12-25,MUJER,credito departamental,3724,1606741034,Nayarit,Ecatepec de Morelos,Villas de San Nicolás,Lomas del Cobano,10
+CAMARENA,CARRIZALES,MARCELA,1965-02-05,MUJER,credito,18495,2870509046,Yucatán,Cuajimalpa de Morelos,Olivares Santana,Valle Dorado,42
+PARRA,JACOBO,ADRIANA,1965-03-10,MUJER,debito,1425,6032187897,Guerrero,Copándaro,La Paloma,Trento,SN
+SOTO,PARADA,ANA VICTORIA,1965-04-16,MUJER,credito avio,201156,6377732068,Chihuahua,Huehuetoca,Talamantes Ponce,Residencial Pulgas Pandas Sur,59
+GUDIÑO,MANJARREZ,EDER,1965-04-20,HOMBRE,prestamo personal,8139,7425601996,Colima,Ozumba,Colinas del Rio,Ojo de Agua de Palmitas,78
+ZARATE,LOZANO,AURORA,1965-05-02,MUJER,credito,17969,6352779904,Hidalgo,Indaparapeo,Terzetto,Rodolfo Landeros Gallegos,54
+ALDANA,DIEGO,MARIA LUISA,1965-05-03,MUJER,credito hipotecario,132971,9119573320,Michoacán,Sahuayo,Del Carmen,Ojocaliente,41
+LOBATO,PIMENTEL,AXEL EDUARDO,1965-05-12,HOMBRE,credito departamental,6962,4839418868,Guerrero,Milpa Alta,El Sol,El Cariñán,SN
+GALVAN,VERA,JOSE MARIA,1965-06-02,HOMBRE,credito refaccionario,86974,0877083339,San Luis Potosí,Villa Victoria,Guadalupe,Bosques del Prado Sur,SN
+CAVAZOS,BAHENA,CARLOS ALEJANDRO,1965-06-13,HOMBRE,prestamo personal,9646,0781807896,Zacatecas,Taretan,Jardines del Campestre,Cuauhtémoc (Las Palomas),61
+CEPEDA,ZAMORA,ANTONIA,1965-06-19,MUJER,credito,16500,9121066108,Nayarit,Miguel Hidalgo,Villas de La Universidad,El Llanito,SN
+SANTAMARIA,ALBARRAN,DYLAN ALEJANDRO,1965-07-25,HOMBRE,debito,5335,0896481502,Tabasco,Querétaro,Primavera,San Agustín,57
+CARBAJAL,GALEANA,MARGARITA,1965-09-04,MUJER,credito,18704,1693411243,Hidalgo,Huitzilac,La Troje,Parras,SN
+CHIMAL,CORONADO,LUCIA GUADALUPE,1965-09-12,MUJER,credito avio,183092,7456911243,México,Coatepec Harinas,Villa de las Trojes,La Rinconada,83
+PUENTES,GODINEZ,ALEJANDRA GUADALUPE,1965-09-24,MUJER,credito,16047,8246497999,Sonora,Senguio,San Marcos,Estación Cañada Honda,SN
+NORIEGA,EUGENIO,AGUSTIN,1965-11-22,HOMBRE,debito,5397,3072059220,Campeche,Tequixquiac,Miravalle,Rinconada del Puertecito,98
+DELGADILLO,MAGALLANES,ESTEFANY,1966-01-13,MUJER,debito,4249,0488545740,Nuevo León,Capulhuac,Club Campestre,El Plateado,75
+ESPINO,OCAÑA,ROMINA GUADALUPE,1966-02-01,MUJER,credito refaccionario,65045,1620065749,Ciudad de Mexico,Lerma,Cadaqués Residencial,Lic Benito Juárez,SN
+MAURICIO,MIRELES,DARIEL,1966-02-15,HOMBRE,debito,6429,6595668626,Tlaxcala,Huimilpan,Residencial Guadalupe,Héroes de Aguascalientes,70
+HILARIO,ARCOS,KEILY,1966-03-13,MUJER,credito departamental,5479,0776452795,Guerrero,Nahuatzen,La Fundición,Ojocaliente,22
+LUCERO,MENDOZA,LETICIA,1966-03-28,MUJER,credito refaccionario,94427,3667799844,Yucatán,Amealco de Bonfil,Gremial,Triana,72
+SALVADOR,BECERRA,JESUS ALEJANDRO,1966-04-01,HOMBRE,credito avio,68263,9326334050,Tabasco,Tingüindín,Gómez,Nueva Rinconada,25
+VELAZCO,MARIANO,ALAN GAEL,1966-04-05,HOMBRE,credito avio,68437,0045157165,Morelos,Morelos,Jardines de la Concepción,Vista del Sol 1a Sección,86
+HERNANDEZ,TEJEDA,SOFIA,1966-04-16,MUJER,credito refaccionario,54581,3754945306,Yucatán,Amealco de Bonfil,San Cayetano,Villa Montaña,93
+LARA,BELLO,ANA PAULA,1966-04-18,MUJER,debito,11867,4787612339,Durango,Huixquilucan,Puerto las Hadas,Cerrada San Miguel,SN
+VELASCO,SUAREZ,AYLIN,1966-04-29,MUJER,credito hipotecario,849731,8964924668,Campeche,Tenango del Aire,La Fundición,Villa Teresa,50
+GARZA,ISLAS,BRUNO,1966-05-24,HOMBRE,credito avio,289465,4983007081,Colima,Churumuco,Trojes de Cristal,Alianza Ferrocarrilera,8
+MEDELLIN,CERON,TOMAS,1966-06-30,HOMBRE,credito departamental,4032,3461228277,Aguascalientes,Hueypoxtla,Las Trojes,Balcones de Ojocaliente,SN
+ESCAMILLA,LLAMAS,ANA PAOLA,1966-07-03,MUJER,credito,18698,9020938466,Michoacán,Jiutepec,San Telmo Residencial,Hacienda el Cobano,17
+TEJEDA,PABLO,JARED,1966-07-09,HOMBRE,credito hipotecario,358379,5922860617,Morelos,Valle de Chalco Solidaridad,Ciudad Universitaria,Las Hadas,27
+MONTES,BENITEZ,MANUEL,1966-07-25,HOMBRE,credito refaccionario,97210,2896258341,Chiapas,Toluca,Residencial Guadalupe,Villa Loma Dorada,34
+TORIBIO,ZAVALA,ADILENE,1966-08-21,MUJER,credito nomina,3652,0598318803,Aguascalientes,Tecámac,Villas de La Universidad,Ojo de Agua INFONAVIT,55
+CARPIO,BAILON,VICTORIA VALENTINA,1966-09-02,MUJER,credito,18491,0432324289,Aguascalientes,Lázaro Cárdenas,Buenos Aires,Misión de Santa Lucía,SN
+POOL,CARREON,DYLAN SANTIAGO,1966-09-11,HOMBRE,credito nomina,2593,8885985123,Guanajuato,Ziracuaretiro,Barrio de Santiago,Nueva Castilla,86
+HIPOLITO,RESENDIZ,IAN EDUARDO,1966-09-26,HOMBRE,debito,10936,2321231610,Quintana Roo,Donato Guerra,Trojes de Alonso,La Huerta,SN
+RANGEL,BENITEZ,ANGEL GABRIEL,1966-10-02,HOMBRE,credito refaccionario,50929,8352858623,Morelos,Santo Tomás,Residencial Altaria,Lomas de las Fuentes,37
+PIMENTEL,DE DIOS,XIOMARA,1966-10-04,MUJER,credito hipotecario,378394,2926858652,Tlaxcala,Miacatlán,Las Misiones,La Barranquilla,63
+ALEGRIA,FABIAN,HANNAH,1966-10-08,MUJER,prestamo personal,4237,4271479136,Sonora,Zacatepec,Galerías,Vivienda Popular,11
+LIRA,MEZA,DYLAN GAEL,1966-10-17,HOMBRE,credito,15284,8615103667,Campeche,Gustavo A. Madero,Residencial Altaria,Villas de Don Antonio,SN
+PEÑALOZA,CORNEJO,LIA ISABELLA,1966-11-07,MUJER,debito,8222,1151331702,Veracruz,Tarímbaro,San Marcos,Villas del Mediterráneo,23
+PORTILLO,RENTERIA,CECILIA,1966-12-08,MUJER,credito,21750,6927618445,Guanajuato,El Marqués,Altavista,Pozo Bravo Sur,73
+CANALES,ANGUIANO,INES,1966-12-30,MUJER,debito,4845,8094034570,Sinaloa,Puente de Ixtla,Cerrada El Molino,Canteras de San Javier,SN
+JUAN,VELAZQUEZ,LIA FERNANDA,1967-01-09,MUJER,credito hipotecario,499969,8959331966,Nuevo León,Zacualpan,Residencial del Valle II,El Plateado,58
+VALENCIA,LUEVANO,MIRANDA,1967-01-20,MUJER,credito nomina,3863,1226991129,Guanajuato,Nopaltepec,Las Misiones,Santa Anita,81
+GUADARRAMA,NEVAREZ,VALERIA GUADALUPE,1967-02-15,MUJER,credito avio,250736,0577027182,Coahuila,Joquicingo,Misión de Santiago,El Maguey,48
+SANTIZ,RIVERO,LUIS FERNANDO,1967-03-19,HOMBRE,credito refaccionario,52091,1636714378,Tamaulipas,Tepetlixpa,Circunvalación Norte,Villa de Nuestra Señora de La Asunción Sector Alameda,34
+RENDON,CASILLAS,ROSA,1967-03-30,MUJER,credito nomina,2736,6671128822,Chiapas,Amealco de Bonfil,Los Sauces,San José de Pozo Bravo,21
+TERRAZAS,VALENZUELA,ANGEL LEONARDO,1967-04-14,HOMBRE,credito,18197,1564126754,Yucatán,Atizapán,Jardines del Campestre,Hermanos Carreón,66
+FLORES,REYNOSO,MATIAS,1967-04-17,HOMBRE,credito refaccionario,85905,2735380433,Zacatecas,Pedro Escobedo,Circunvalación Norte,Lomas de La Asunción,3
+VALDOVINOS,AVILA,RENATA VALENTINA,1967-05-03,MUJER,credito,18602,8041388988,Zacatecas,Chalco,Villas de San Nicolás,Triana,48
+ELIAS,ALMARAZ,PAULA SOFIA,1967-06-19,MUJER,credito hipotecario,257382,6719133304,Tlaxcala,Cuitzeo,Misión del Campanario,Santa Anita,75
+SEGOVIA,LEDEZMA,FELIPE,1967-07-09,HOMBRE,prestamo personal,2800,6816361513,Tamaulipas,Paracho,El Sol,Del Trabajo,9
+GUERRA,TOLEDO,SERGIO,1967-07-16,HOMBRE,prestamo personal,9770,6608481894,Ciudad de Mexico,Penjamillo,Línea de Fuego,Villa de Nuestra Señora de La Asunción Sector Alameda,90
+VILCHIS,MEZA,LUIS SANTIAGO,1967-07-31,HOMBRE,credito nomina,3175,1770482737,Puebla,Múgica,Colinas de San Ignacio,La Mancha,74
+ROJAS,LIMON,DYLAN,1967-08-02,HOMBRE,credito avio,233599,0141435208,Nuevo León,Cuautitlán,Residencial del Valle I,San Xavier,98
+ESCALERA,VARGAS,ANGELES,1967-08-02,MUJER,credito avio,209685,7418927595,Sinaloa,Mexicaltzingo,Constitución,Nazario Ortiz Garza,6
+PONCE,SAAVEDRA,SAMARA,1967-09-17,MUJER,credito departamental,4435,4466694313,San Luis Potosí,Zacualpan,Moderno,Independencia de México,57
+CHAVIRA,DANIEL,MATIAS EMILIANO,1967-09-24,HOMBRE,debito,4520,1121765771,Aguascalientes,Huaniqueo,Residencial Altaria,Condominio La terraza,61
+PASTRANA,POOT,ARLET,1967-10-03,MUJER,credito refaccionario,75355,0338960760,Tabasco,Uruapan,La Paloma,Estación Cañada Honda,SN
+ARENAS,GARAY,CRISTOPHER,1967-10-07,HOMBRE,debito,8960,2431469237,Yucatán,Mazatepec,Las Trojes,Alianza Ferrocarrilera,20
+FRANCO,MANUEL,NICOLE,1967-10-23,MUJER,credito departamental,3652,8135413414,Hidalgo,Villa Guerrero,San Pablo,Lomas del Campestre 1a Sección,97
+SARMIENTO,PUENTE,GILBERTO,1967-10-24,HOMBRE,credito refaccionario,52992,9235981499,Morelos,Epitacio Huerta,Valle Real,Anexo Benito Palomino Dena (Cumbres II),85
+GAXIOLA,CHAN,SOFIA ESMERALDA,1967-11-08,MUJER,credito avio,294001,2929210487,San Luis Potosí,Huitzilac,Cerrada El Molino,Lotes de Arellano,SN
+AVILES,GERVACIO,GISELLE,1967-12-26,MUJER,credito avio,114316,8505227853,Durango,Colón,Las Arboledas,El Rosedal,3
+BUCIO,VALDIVIA,DANIELA SOFIA,1967-12-28,MUJER,credito avio,173627,9741129042,Querétaro,Cherán,Terzetto,Residencial Hacienda San Martín,SN
+OJEDA,LIRA,HANNA,1968-01-05,MUJER,credito departamental,4498,2880833083,Campeche,Tangamandapio,Del Carmen,Bosques del Prado Norte,18
+RAMOS,AGUILA,DAVID,1968-01-06,HOMBRE,credito nomina,4802,8360650043,Guanajuato,Atizapán,Primavera,Rinconada del Puertecito,39
+MENDIETA,VILLALPANDO,MARIA RENATA,1968-01-06,MUJER,debito,6093,5349615488,Chihuahua,Coatepec Harinas,Puerto las Hadas,El Llanito,83
+ESQUIVEL,AMBROCIO,ISMAEL,1968-01-24,HOMBRE,credito,17895,3436066466,Ciudad de Mexico,Valle de Bravo,La Fe,Rinconada del Puertecito,SN
+VILLALOBOS,MELO,LUCERO,1968-01-27,MUJER,debito,2820,2454780880,Tlaxcala,Morelos,Constitución,Villa Montaña,37
+VILLA,FONSECA,ERICK,1968-03-07,HOMBRE,credito hipotecario,442153,1868562132,Hidalgo,Acuitzio,La Herradura,Palma Real,61
+OSUNA,LAGUNAS,ANA KAREN,1968-03-14,MUJER,credito hipotecario,714627,2651503707,Chihuahua,Polotitlán,Constitución,Recinto de la Macarena,11
+VERDUZCO,MIRANDA,PALOMA,1968-03-21,MUJER,credito hipotecario,329063,9478076825,Querétaro,Huandacareo,Galerías,Lotes de Arellano,68
+DANIEL,JARAMILLO,BRYAN,1968-04-02,HOMBRE,credito departamental,9839,6291952548,Jalisco,Pedro Escobedo,Valle del Rio San Pedro,Privada Guadalupe,38
+QUIÑONES,REA,AXEL DANIEL,1968-04-25,HOMBRE,credito nomina,1706,7611322623,Sinaloa,Panindícuaro,Villas de San Francisco,Cerro Alto,66
+PUC,PIÑA,JUAN JESUS,1968-04-26,HOMBRE,debito,5571,7303953970,Chiapas,Ocampo,Circunvalación Norte,Progreso,89
+PUGA,VIEYRA,LUISA,1968-05-28,MUJER,credito avio,262357,7841730132,Tlaxcala,Chimalhuacán,La Troje,Jardines de La Cruz,SN
+OLEA,TREJO,BEATRIZ,1968-06-17,MUJER,credito refaccionario,82051,7279145737,Veracruz,Erongarícuaro,Los Bosques,Laureles del Sur,67
+MACIEL,VACA,MARIA TERESA,1968-06-24,MUJER,credito hipotecario,209304,1583686572,Aguascalientes,Aculco,Guadalupe Posada,Las Américas,SN
+CAMARGO,COLLAZO,MARIELA,1968-07-17,MUJER,credito hipotecario,183154,3538868627,Jalisco,Tzintzuntzan,Las Cavas,Barandales de San José,40
+LEYVA,ALMANZA,ALEXANDRA,1968-08-14,MUJER,credito avio,230709,9372799323,Nuevo León,Cherán,San Telmo Residencial,Parras,SN
+TIRADO,TERRAZAS,SUSANA,1968-10-13,MUJER,debito,3039,9329766011,Querétaro,Yurécuaro,Trojes de Oriente,España,35
+RIVERA,SIMON,ANA SOFIA,1968-10-14,MUJER,credito refaccionario,65279,4642144311,Coahuila,Atizapán de Zaragoza,San Pablo,Bosques del Prado Norte,14
+ALTAMIRANO,AGUILAR,BRENDA,1968-10-27,MUJER,credito,17717,5098565285,Sonora,Miguel Hidalgo,La Fundición,Villa de Nuestra Señora de La Asunción Sector Encino,SN
+NOH,ESPINO,CARLOS DAVID,1968-11-03,HOMBRE,credito nomina,2590,6518698414,Oaxaca,Amatepec,Residencial del Valle I,El Dorado 2a Sección,SN
+CHAPARRO,MOO,JOSE JUAN,1968-12-28,HOMBRE,prestamo personal,8665,6518136186,Nuevo León,Tingüindín,Residencial del Valle I,Porta Canteras,27
+JOAQUIN,BALDERAS,JESUS MATIAS,1969-02-07,HOMBRE,credito avio,52691,0552217907,Querétaro,Juchitepec,Rinconada los Bosques,Santa Anita,74
+NEGRETE,ARREDONDO,DARIO,1969-03-01,HOMBRE,credito refaccionario,79825,2520010279,Oaxaca,El Oro,Jardines de la Concepción,Lomas de las Fuentes,SN
+NAJERA,SANCHEZ,GRECIA,1969-03-31,MUJER,credito hipotecario,355266,2018484699,Tamaulipas,Uruapan,Club Campestre,Centro Distribuidor de Básicos,SN
+HAU,CUAUTLE,MARLENE,1969-04-06,MUJER,debito,11475,9601681664,Yucatán,Tarímbaro,Los Vergeles,Hacienda Nueva,53
+ZAPATA,RIVERA,ALFREDO,1969-04-18,HOMBRE,credito refaccionario,56932,0006549609,Chihuahua,Nocupétaro,Soberana Convención Revolucionaria,Capittala,79
+SERRATO,BAILON,ROBERTA,1969-07-27,MUJER,credito avio,182387,5543545654,Durango,Tangamandapio,Residencial del Valle II,Viñedos Valle Redondo,53
+GRANADOS,MIRELES,ANGEL DAVID,1969-09-20,HOMBRE,credito avio,207429,7005127692,Chiapas,Los Reyes,Industrial,Villa Notre Dame,SN
+SANTES,BENITO,DYLAN ANTONIO,1969-10-11,HOMBRE,prestamo personal,6760,1396663584,México,Xochitepec,Soberana Convención Revolucionaria,Viñedos San Felipe,12
+ARREGUIN,LOZA,JOSE RICARDO,1969-10-13,HOMBRE,debito,9680,4273070539,Chihuahua,Hueyapan,Fundición II,General José María Morelos y Pavón (Cañada Honda),72
+JOSE,VERDUZCO,JOSE DAVID,1969-10-14,HOMBRE,debito,1798,9644542522,Chiapas,Rayón,Libertad,La Soledad,34
+OROZCO,HINOJOSA,CRISTIAN,1969-11-06,HOMBRE,credito avio,172104,8043850393,Colima,Sultepec,Libertad,Vista de las Cumbres,62
+SEVILLA,VALENZUELA,IAN EMMANUEL,1969-11-09,HOMBRE,credito departamental,3606,8691144624,Nuevo León,Tenango del Valle,Residencial Guadalupe,Fuentes de La Asunción,53
+VERA,BURGOS,GUSTAVO,1969-11-15,HOMBRE,credito avio,251297,0305193518,Jalisco,Irimbo,Cerrada de La Misión,S.T.E.M.A.,SN
+PARDO,GOMEZ,MICAELA,1969-11-25,MUJER,credito hipotecario,601240,0530075027,Coahuila,Maravatío,Los Sauces,Laureles del Sur,42
+QUEZADA,CHACON,CHRISTOPHER,1969-12-02,HOMBRE,credito nomina,2156,9232701644,Nuevo León,Yecapixtla,Cerrada de la Mezquitera,Anexo Benito Palomino Dena (Cumbres II),67
+BALCAZAR,ESCOBEDO,ANGEL RAFAEL,1969-12-02,HOMBRE,credito nomina,2914,8708473935,Chihuahua,Atlatlahucan,Residencial Santa Clara,San Sebastián,67
+ESCALANTE,OLMOS,FABIAN,1969-12-10,HOMBRE,prestamo personal,1986,3010316114,Zacatecas,Jantetelco,Trojes de Alonso,El Cobano,85
+CHAN,LAGUNES,ARTURO,1969-12-22,HOMBRE,prestamo personal,5655,3268080202,Oaxaca,Epitacio Huerta,Residencial Santa Clara,Francisco Guel Jimenez,98
+ORTIZ,CARRASCO,ROMINA,1970-01-10,MUJER,credito nomina,1077,8340561835,Coahuila,Amanalco,Colinas del Poniente,Pozo Bravo Sur,24
+LOMELI,BLANCO,JUAN DAVID,1970-02-13,HOMBRE,credito departamental,7060,9548413575,Campeche,Tuzantla,Villas de Montenegro,La Barranquilla,70
+LAGUNAS,ALCANTARA,NICOLE GUADALUPE,1970-03-23,MUJER,prestamo personal,7251,9685004691,Puebla,Angamacutiro,Villa de las Trojes,Versalles 1a Sección,35
+ROMO,VILLALBA,JOSHUA,1970-03-29,HOMBRE,credito departamental,5353,7207593682,Tabasco,Emiliano Zapata,Valle de Santa Teresa,La Higuerilla,31
+DE LEON,VALENTIN,JUAN MANUEL,1970-04-26,HOMBRE,credito hipotecario,675360,8225101483,Durango,Gabriel Zamora,Andora Residencial,Santa Anita 4a Sección,17
+ORDOÑEZ,CUELLAR,IKER GAEL,1970-04-30,HOMBRE,credito hipotecario,796717,8861995129,San Luis Potosí,Acolman,La Fe,Bosques del Prado Sur,SN
+SORIA,LICONA,CAMILA SOFIA,1970-05-13,MUJER,credito refaccionario,61307,4764991021,Sinaloa,Angamacutiro,Puerto las Hadas,Trento,12
+CORRALES,ORDUÑA,YARITZA,1970-05-19,MUJER,debito,3085,0413925799,Colima,Xoxocotla,Pozo Bravo Norte,Santa Elena,12
+DEL ANGEL,MONTES DE OCA,KARLA,1970-06-12,MUJER,credito avio,59294,0536572386,Baja California Sur,Ecuandureo,Trojes del Sol,Bosques del Prado Oriente,40
+CALDERA,SEVILLA,SOFIA ISABEL,1970-06-24,MUJER,credito,17371,1546346578,Jalisco,Álvaro Obregón,Gremial,Santa Cruz de la Presa,SN
+PANZO,CORONA,TADEO DE JESUS,1970-07-20,HOMBRE,credito nomina,1192,9997893836,Aguascalientes,Gabriel Zamora,Rinconada los Bosques,Lomas del Mirador,1
+GARIBAY,PORRAS,FERNANDA GUADALUPE,1970-08-03,MUJER,credito hipotecario,501141,3898372614,Chihuahua,Iztacalco,Ramon Romo Franco,Jardines de Santa Elena,25
+PLASCENCIA,AVILEZ,WENDY,1970-10-25,MUJER,credito avio,94285,2229747483,Zacatecas,Santa Ana Maya,México,Solidaridad 1a Sección,15
+MONTES DE OCA,QUIJANO,DAFNE,1970-11-22,MUJER,debito,2153,6008955986,Sonora,Peñamiller,México,Los Eucaliptos,SN
+ALMARAZ,MILLAN,MARIBEL,1970-12-04,MUJER,debito,4417,7521965665,Colima,Tultitlán,Moderno,Residencial del Real,99
+LINARES,PORTILLO,JOSE ALBERTO,1971-01-17,HOMBRE,prestamo personal,2108,1441857796,Guanajuato,Chiconcuac,Valle del Campestre,Macias Arellano,SN
+ZURITA,MOCTEZUMA,MIA ALEJANDRA,1971-01-27,MUJER,credito nomina,4939,2104271418,Oaxaca,Villa Guerrero,Los Vergeles,Villa Capri,17
+CASTELLANOS,VEGA,MARTIN,1971-03-04,HOMBRE,credito departamental,6540,5269088536,Jalisco,Múgica,Libertad,Villas de Don Antonio,89
+CUEVAS,PAULINO,PAOLA,1971-04-05,MUJER,credito avio,129419,2226738204,Sonora,Buenavista,Puerto las Hadas,Morelos,87
+SOLANO,PEÑALOZA,ISABEL,1971-04-12,MUJER,credito nomina,4029,4810337170,Ciudad de Mexico,Maravatío,La Perla Norte,Lomas de Bellavista,81
+SORIANO,AYALA,CALEB,1971-05-01,HOMBRE,credito departamental,7325,7841288873,Guanajuato,Tláhuac,Colinas del Rio,Villa de Nuestra Señora de La Asunción Sector Guadalupe,SN
+ALMEIDA,PIMENTEL,BERNARDO,1971-05-04,HOMBRE,credito nomina,1354,3109817175,Quintana Roo,Tenancingo,Miravalle,Ojo de Agua FOVISSSTE 1a Sección,SN
+ORDUÑA,DOMINGUEZ,DIEGO EMILIANO,1971-05-10,HOMBRE,credito refaccionario,63561,1264373630,Tamaulipas,Cuautitlán,Trojes de Alonso,Residencial Pulgas Pandas Sur,63
+GOVEA,MELCHOR,CAMILA NICOLE,1971-05-16,MUJER,credito refaccionario,75521,7518093270,Jalisco,Puente de Ixtla,Los Calicantos,28 de Abril,SN
+TUZ,VERGARA,LEILANY,1971-06-25,MUJER,debito,4995,2988774810,México,San Martín de las Pirámides,Los Sauces,Cobano de Palmitas,9
+GASTELUM,MENDOZA,IKER DANIEL,1971-07-01,HOMBRE,credito avio,137516,8331386204,Nuevo León,Nuevo Urecho,Línea de Fuego,Sol Naciente,93
+ZETINA,ANTONIO,JESUS ARMANDO,1971-07-01,HOMBRE,debito,5895,3225232029,Michoacán,Apaxco,La Enramada,Primo Verdad,40
+UGALDE,PALAFOX,MATEO NICOLAS,1971-07-21,HOMBRE,credito departamental,3659,5442586562,México,Briseñas,Las Trojes,Abadía,20
+GERVACIO,ALVA,STEPHANIE,1971-09-10,MUJER,credito refaccionario,60514,1180760808,Sonora,Ixtapan del Oro,Terzetto,El Cobano,37
+CABRERA,MERINO,LUCIA,1971-09-22,MUJER,credito hipotecario,561619,2151137265,Coahuila,Ocuilan,Cerrada El Molino,El Maguey,73
+AGUAYO,QUEZADA,JAZIEL,1971-09-25,HOMBRE,prestamo personal,8141,6030459963,Tamaulipas,Tepalcatepec,San Marcos,Ex Hacienda La Cantera,19
+RIVERO,OJEDA,NICOL,1971-09-29,MUJER,credito,22313,1273375770,Jalisco,Coyotepec,Trojes de Oriente,Triana,SN
+JACINTO,JAVIER,BERENICE,1971-12-03,MUJER,credito avio,144367,4281296445,Jalisco,Huandacareo,Lomas del Campestre 2a Sección,Lomas de Bellavista,22
+GALAN,GAMBOA,LUCIANO,1972-01-17,HOMBRE,credito refaccionario,78043,3189069616,Nayarit,Chilchota,Cerrada de La Misión,Viñedos del Sur,23
+LUCIO,OLIVERA,LUIS MANUEL,1972-02-05,HOMBRE,credito hipotecario,599434,3296003016,Sinaloa,Jiquilpan,Residencial Altaria,Del Trabajo,SN
+BASTIDA,ZAMARRIPA,EMMA ISABELLA,1972-02-16,MUJER,credito hipotecario,738297,8482848601,Hidalgo,Capulhuac,La Paloma,Agropecuario,11
+ALCANTARA,LEDESMA,JULIA,1972-03-22,MUJER,credito departamental,8252,2152722322,Durango,Temoac,Los Calicantos,Claustros Loma Dorada,53
+VASQUEZ,CARRANZA,MELANY,1972-04-04,MUJER,credito avio,139065,2068617131,Campeche,Tultitlán,Del Carmen,El Puertecito,33
+NIEVES,SAMANIEGO,IAN JESUS,1972-04-22,HOMBRE,credito departamental,3888,4781725294,Ciudad de Mexico,Villa Victoria,San Marcos,Agropecuario,SN
+ARIAS,OLIVARES,MIA,1972-05-11,MUJER,credito,17716,1464587131,Puebla,Texcoco,Gremial,El Rosedal,50
+AVELINO,OTERO,DYLAN DANIEL,1972-06-04,HOMBRE,prestamo personal,6373,0794558907,Querétaro,Atizapán,Granjas del Campestre,Unidad Ganadera,18
+GALLARDO,ONTIVEROS,ELIAN,1972-06-16,HOMBRE,prestamo personal,3704,7844777849,Quintana Roo,Morelia,Residencial Altaria,Vista de las Cumbres,65
+LUGO,ALEMAN,MIA VALENTINA,1972-06-29,MUJER,credito,18809,4757665432,Veracruz,Lázaro Cárdenas,Galerías,Colinas de Oriente,SN
+CHINO,ALEMAN,MADISON,1972-07-03,MUJER,credito hipotecario,282800,6407776250,Tabasco,Lagunillas,La Fundición,Lomas del Sur,96
+JIMENEZ,ARANA,RENATA,1972-07-09,MUJER,credito avio,195301,6009145594,Zacatecas,San Joaquín,Villas de La Universidad,San José de Pozo Bravo,98
+VILLASEÑOR,SARABIA,LUZ ELENA,1972-07-10,MUJER,credito,19839,7324756863,Sinaloa,Cojumatlán de Régules,Colinas del Poniente,La Hacienda,SN
+FRAUSTO,MANJARREZ,SANTIAGO DANIEL,1972-08-24,HOMBRE,credito nomina,1972,8593846855,Tlaxcala,Jacona,Colinas del Rio,Viñedos del Sur,75
+GARAY,IGNACIO,ERICK DANIEL,1972-09-10,HOMBRE,credito,16582,6717561787,Baja California,Atlacomulco,Ciudad Universitaria,Santa Elena 2a Sección,71
+FAVELA,PERAZA,DALIA,1972-10-06,MUJER,credito departamental,6028,5293059340,Guerrero,Apatzingán,La Troje,Bosque Real,34
+IBARRA,BACA,EMILIO,1972-11-23,HOMBRE,debito,9794,4851470471,Sonora,Juchitepec,Santa Fe,La Higuerilla,41
+GRIJALVA,OLEA,GENESIS SOFIA,1972-12-14,MUJER,credito refaccionario,75655,0881197824,Guanajuato,Ecatepec de Morelos,Misión de Santiago,Macias Arellano,16
+MOO,ARGUELLO,IGNACIO,1973-01-03,HOMBRE,credito nomina,2886,4493950109,Veracruz,Cuauhtémoc,Villas de San Francisco,Los Virreyes,SN
+PINTO,ARTEAGA,JESUS MIGUEL,1973-01-15,HOMBRE,debito,11042,0742155203,Ciudad de Mexico,Venustiano Carranza,Residencial Guadalupe,Hacienda Nueva,54
+RICO,OLIVARES,ENRIQUE,1973-01-27,HOMBRE,credito avio,75020,3201415573,Nuevo León,Tancítaro,Bugambilias,Rinconada del Puertecito,70
+LEMUS,GODOY,SOPHIA,1973-02-27,MUJER,credito refaccionario,95183,9603260827,Oaxaca,Tepotzotlán,La Concordia,El Puertecito,73
+MANDUJANO,TRUJILLO,LIAM ALEJANDRO,1973-03-13,HOMBRE,credito departamental,4499,9978724778,Hidalgo,Cadereyta de Montes,Curtidores,San Fernando INFONAVIT,87
+CARRANZA,FIGUEROA,YAMILET,1973-04-07,MUJER,credito departamental,7204,3202625347,Coahuila,Yurécuaro,Rancho San Antonio,Residencial Pulgas Pandas Sur,54
+NUÑEZ,REYNA,ESMERALDA,1973-04-12,MUJER,prestamo personal,5423,9221278062,Nuevo León,Joquicingo,San Telmo Residencial,C.T.M.,24
+ARMENDARIZ,CARVAJAL,LESLY,1973-04-28,MUJER,credito hipotecario,800681,5637375973,Sinaloa,Tacámbaro,Heliodoro Garcia,Nueva Castilla,74
+BERNAL,ESPINO,ROBERTO,1973-05-03,HOMBRE,credito hipotecario,467125,3782430077,Sonora,Aporo,Villas de Montenegro,Residencial Pulgas Pandas Norte,14
+GRIMALDO,PAREDES,LIAM DANIEL,1973-05-15,HOMBRE,credito refaccionario,55185,2019053339,Puebla,Coacalco de Berriozábal,Granjas del Campestre,Los Virreyes,19
+CORONADO,ARANDA,MARIA ISABEL,1973-05-16,MUJER,credito departamental,3876,6215333950,Ciudad de Mexico,Tlazazalca,Guadalupe Posada,Unidad Ganadera,SN
+MONTAÑO,VALERO,JOSE ALEJANDRO,1973-05-19,HOMBRE,credito avio,102161,6749220855,Nuevo León,Nicolás Romero,Cerrada de la Mezquitera,La Florida ll,SN
+NIÑO,BARRANCO,CRISTOBAL,1973-05-26,HOMBRE,credito nomina,4187,5572565715,Nayarit,Morelia,Las Brisas,Héroes,100
+JUAREZ,CASTAÑON,JESUS,1973-06-02,HOMBRE,credito hipotecario,353951,2997897505,Tlaxcala,Amatepec,Bugambilias,Villa Loma Dorada,SN
+JARAMILLO,LIRA,ARIADNA,1973-06-12,MUJER,credito refaccionario,93621,5056274790,Tlaxcala,Puente de Ixtla,Trojes del Sol,Las Viñas INFONAVIT,SN
+CAMACHO,ESPINDOLA,ELIAS,1973-06-14,HOMBRE,credito refaccionario,73980,1542262794,Sinaloa,Nezahualcóyotl,Andora Residencial,Francisco Guel Jimenez,SN
+PAZ,TIRADO,AMAYA,1973-08-07,MUJER,debito,4359,0879902282,Quintana Roo,Chimalhuacán,Trojes de Oriente,Trento,SN
+CELIS,BALAM,ANGEL ALEJANDRO,1973-08-18,HOMBRE,prestamo personal,1689,4677808092,Jalisco,San José del Rincón,Valle de las Trojes,Villas del Oeste,74
+RUELAS,ORTIZ,LIA GUADALUPE,1973-08-26,MUJER,credito,19934,5112138397,México,Jiménez,Galerías,Santa Margarita,21
+GALINDO,ALEGRIA,ZOE,1973-09-17,MUJER,credito refaccionario,60531,5911043377,México,Cuautitlán Izcalli,San Marcos,Unidad Ganadera,SN
+BARRANCO,MATEO,DIEGO ALONSO,1973-09-20,HOMBRE,credito avio,157607,7351082912,Colima,Turicato,Valle del Campestre,Hacienda Nueva,SN
+CARDONA,POZOS,JUAN ANTONIO,1973-09-24,HOMBRE,credito avio,217683,3735651739,Baja California,Venustiano Carranza,Fundición II,Villa de Nuestra Señora de La Asunción Sector Alameda,86
+CAMARILLO,OLIVERA,SOFIA ISABELLA,1973-09-28,MUJER,credito hipotecario,373949,9953841162,Michoacán,Villa Guerrero,San Marcos,Muralia,90
+NAVA,BRIONES,RICARDO,1973-10-02,HOMBRE,credito,24542,2515590229,Puebla,Nicolás Romero,Valle del Campanario,Santa Anita 4a Sección,SN
+MATIAS,TEMOXTLE,KARLA SOFIA,1973-10-05,MUJER,credito hipotecario,208904,5253983392,Ciudad de Mexico,Acambay de Ruíz Castañeda,Del Carmen,Lomas del Campestre 1a Sección,70
+ZAVALETA,AVIÑA,JULIO,1973-10-24,HOMBRE,credito avio,175629,1313065555,Ciudad de Mexico,Chiconcuac,Valle de Santa Teresa,Héroes de Aguascalientes,SN
+DAVILA,ALMANZA,PAULA,1973-11-17,MUJER,credito refaccionario,92946,9951442886,Nayarit,Parácuaro,La Fundición,Villas de La Convención,76
+RIVAS,ORTIZ,ANGEL MATEO,1973-11-24,HOMBRE,credito avio,87429,4793899459,Hidalgo,Cotija,Barrio de Santiago,Nueva Andalucia Coto Residencial,SN
+JUSTO,BARRIENTOS,ALDAIR,1974-02-15,HOMBRE,debito,7601,8774495520,México,Jilotzingo,Villas del Campestre,Bosques del Prado Oriente,89
+JARQUIN,APARICIO,AMALIA,1974-03-01,MUJER,credito hipotecario,431043,3702642715,Veracruz,Atizapán de Zaragoza,Puerto las Hadas,San Xavier,4
+SEPULVEDA,LEDESMA,JOHAN,1974-03-05,HOMBRE,credito hipotecario,928557,4130817899,Chiapas,Hueyapan,Soberana Convención Revolucionaria,Agricultura,41
+DZUL,CABELLO,LIAM SANTIAGO,1974-03-09,HOMBRE,credito refaccionario,52856,3137378262,Veracruz,Ozumba,Arroyo El Molino,Villas de Don Antonio,55
+YAÑEZ,ESPINOSA,YOSELIN,1974-03-19,MUJER,credito nomina,4644,0414643190,Campeche,Santa Ana Maya,La Concordia,Pozo Bravo Sur,24
+POLANCO,VEGA,ASTRID,1974-03-30,MUJER,credito,21167,7006463111,Jalisco,Totolapan,Pozo Bravo Norte,La Loma de los Negritos,48
+ARROYO,VALERIO,NAOMI,1974-04-17,MUJER,credito nomina,3711,2682841712,Jalisco,Erongarícuaro,Misión de Santiago,Las Viñas INFONAVIT,6
+GAMEZ,LANDERO,JULIO CESAR,1974-04-22,HOMBRE,credito avio,143659,1883615456,Quintana Roo,Tlalpujahua,Valle del Rio San Pedro,San José del Arenal,53
+HERNANDEZ,GASCA,JOSE RODRIGO,1974-04-24,HOMBRE,credito hipotecario,918621,6373338256,Jalisco,Nezahualcóyotl,Soberana Convención Revolucionaria,Zona Militar,SN
+CARVAJAL,CORONADO,KATIA,1974-05-11,MUJER,credito avio,127296,1222447789,Colima,Lerma,Cerrada del Valle,Vista del Sol 3a Sección,SN
+AVENDAÑO,MENESES,RUBEN,1974-05-24,HOMBRE,credito nomina,2415,1855516245,Guanajuato,Malinalco,Valle del Campanario,Nazario Ortiz Garza,43
+ARREDONDO,GRANADOS,FRIDA,1974-05-24,MUJER,credito avio,267181,4159468633,Chihuahua,Villamar,Los Vergeles,El Plateado,87
+MONTALVO,DE SANTIAGO,JADE,1974-06-19,MUJER,credito hipotecario,749894,6144623294,Tlaxcala,Jonacatepec de Leandro Valle,Aguascalientes 2000,Villas del Cobano,70
+HUERTA,ORNELAS,ANTONIO,1974-06-27,HOMBRE,credito avio,171124,2382961759,Coahuila,Ozumba,Cerrada de la Mezquitera,S.T.E.M.A.,76
+BUENO,NARANJO,ELISEO,1974-07-07,HOMBRE,credito nomina,4876,6767039381,Nuevo León,Zacapu,Valle de las Trojes,La Barranca de Guadalupe,SN
+RAFAEL,CAAMAL,EVAN,1974-07-27,HOMBRE,credito avio,254388,8699547238,Tamaulipas,Pinal de Amoles,Industrial,Residencial Cosío,50
+MEDRANO,PALOMINO,VICTORIA GUADALUPE,1974-08-16,MUJER,prestamo personal,4229,5516617959,Nayarit,Tingambato,Heliodoro Garcia,Independencia de México,12
+ISLAS,JARQUIN,ANTONELLA,1974-09-01,MUJER,prestamo personal,5910,7751666079,Aguascalientes,Tanhuato,México,Lomas del Campestre 1a Sección,99
+BAÑUELOS,SEVILLA,ARANTZA,1974-09-18,MUJER,credito refaccionario,89268,9753176929,Durango,Ecuandureo,Cerrada El Molino,Lic Benito Palomino Dena,11
+VALLES,LOREDO,ORLANDO,1974-09-24,HOMBRE,credito nomina,1789,9518398935,Oaxaca,Xochitepec,Rinconada los Bosques,Parque Industrial el Vergel,16
+BACA,MELENDEZ,ALAN DANIEL,1974-10-28,HOMBRE,prestamo personal,9168,1478839147,México,Charapan,Los Jarales,Morelos I,61
+FRANCISCO,BECERRIL,SAUL,1974-10-29,HOMBRE,credito,19412,0965681106,Durango,Charapan,Valle de Santa Teresa,Buenavista,1
+BADILLO,DIMAS,ALVARO,1974-12-08,HOMBRE,debito,4267,3892076921,Ciudad de Mexico,Timilpan,La Fe,Fátima,7
+MANRIQUEZ,CLEMENTE,JOSE ALEXANDER,1974-12-11,HOMBRE,credito refaccionario,76688,1979191356,San Luis Potosí,Landa de Matamoros,Bugambilias,La Huerta,68
+PARADA,GOVEA,JOSELYN,1975-01-23,MUJER,credito refaccionario,85019,8660868478,Hidalgo,Miguel Hidalgo,Panorama,Cuauhtémoc (Las Palomas),SN
+BOBADILLA,MEJIA,VICTOR DANIEL,1975-02-28,HOMBRE,credito departamental,3966,6724085044,Durango,Cocotitlán,Valle de Santa Teresa,El Plateado,36
+VENTURA,PANZO,JAZMIN,1975-03-17,MUJER,debito,6883,3991212873,San Luis Potosí,Lagunillas,Los Bosques,Claustros Loma Dorada,85
+CORONEL,PRIETO,OCTAVIO,1975-06-03,HOMBRE,credito departamental,2275,9037229243,Ciudad de Mexico,Cuautla,Las Trojes,José Vasconcelos Calderón,2
+AMAYA,ALEJANDRE,KIMBERLY GUADALUPE,1975-06-09,MUJER,debito,8010,0619948096,Baja California Sur,Arteaga,La Paloma,Parras,SN
+BARRON,DZUL,EZEQUIEL,1975-07-10,HOMBRE,prestamo personal,2205,3701144653,Baja California Sur,San Lucas,Curtidores,Rinconada Pozo Bravo,57
+CALZADA,LUNA,JANETH,1975-07-28,MUJER,prestamo personal,4445,7430575276,Nayarit,Tultitlán,Residencial del Valle II,Barlovento,84
+MALDONADO,CASANOVA,JIMENA,1975-08-28,MUJER,credito hipotecario,634596,4651977667,Colima,Nextlalpan,Cadaqués Residencial,Las Viñas INFONAVIT,SN
+DURON,SILVESTRE,ANGELA VICTORIA,1975-09-03,MUJER,credito departamental,7893,6301127576,Campeche,Tzintzuntzan,Villas de San Nicolás,Lomas del Picacho,17
+ALMANZA,PERALTA,JUAN DANIEL,1975-09-25,HOMBRE,prestamo personal,2364,2546572235,Baja California Sur,Briseñas,Barrio de Santiago,El Cobano,38
+GRACIA,RIVERA,SAORI,1975-11-04,MUJER,credito refaccionario,98731,7877914904,Veracruz,Melchor Ocampo,Galerías,Las Cumbres,64
+GUILLERMO,VALVERDE,DIEGO ALBERTO,1975-12-07,HOMBRE,credito departamental,3006,4471091130,Quintana Roo,Temixco,Jardines de la Concepción,Santa Bárbara,SN
+TERAN,FUENTES,PAULETTE,1976-02-01,MUJER,prestamo personal,8136,8413595237,Chihuahua,Amacuzac,La Troje,Villas de La Cantera,31
+SILVA,OTERO,ABIGAIL,1976-02-25,MUJER,credito refaccionario,86592,5209606703,Guanajuato,Ixtapan del Oro,Villas de San Nicolás,Los Arcos,11
+VALDIVIA,PEREZ,DANAE,1976-04-07,MUJER,credito nomina,3275,3401772252,Coahuila,Nopaltepec,Lomas del Campestre 2a Sección,Claustros Loma Dorada,79
+VELAZQUEZ,ZAMARRIPA,RODRIGO,1976-04-11,HOMBRE,credito refaccionario,77253,5920831102,Nuevo León,Calimaya,Valle del Rio San Pedro,Fátima,88
+CARRASCO,GIRON,ANGEL DE JESUS,1976-04-15,HOMBRE,debito,2860,4963927491,Michoacán,Milpa Alta,Soberana Convención Revolucionaria,La Soledad,SN
+SIERRA,JASSO,ANGEL SANTIAGO,1976-04-23,HOMBRE,credito nomina,2153,5763051352,Nayarit,Atlatlahucan,Valle de las Trojes,Macias Arellano,97
+ORDAZ,MEZA,MATIAS ALEJANDRO,1976-05-12,HOMBRE,credito nomina,1010,1259460089,San Luis Potosí,Álvaro Obregón,Granjas del Campestre,Macias Arellano,59
+AVILA,HAU,FATIMA,1976-05-13,MUJER,credito,16667,3489597872,Sinaloa,Ixtapaluca,Trojes de Oriente,Morelos,5
+ALATORRE,SANTOYO,LOGAN,1976-05-17,HOMBRE,prestamo personal,3540,2165446560,Morelos,Acolman,La Herradura,Bosques del Prado Norte,SN
+COLUNGA,CALDERA,SOFIA MICHELLE,1976-06-02,MUJER,credito,17787,1152890821,Sonora,Jiutepec,Terzetto,Cerrada San Francisco,51
+PRIETO,UICAB,MAXIMO,1976-06-23,HOMBRE,credito refaccionario,52507,1955121482,Puebla,Zinacantepec,La Herradura,Residencial Pulgas Pandas Norte,72
+MEDEL,DE SANTIAGO,ANGEL EMMANUEL,1976-07-04,HOMBRE,credito refaccionario,79726,9986708894,Chihuahua,Chapa de Mota,San Telmo,San Fernando INFONAVIT,SN
+CADENA,PABLO,ALFONSO,1976-09-02,HOMBRE,credito hipotecario,409475,0745824959,Sinaloa,Zumpango,Jardines del Campestre,Villas del Vergel,SN
+DIAZ,AGUILA,MARIA FERNANDA,1976-09-04,MUJER,credito hipotecario,778655,2355218078,Hidalgo,Tequisquiapan,Gremial,Villa de Nuestra Señora de La Asunción Sector Estación,6
+BECERRA,VERDUGO,ISRAEL,1976-09-05,HOMBRE,credito nomina,3401,4558316041,Michoacán,Chavinda,Trojes de Alonso,La Higuerilla,SN
+ZAMORANO,CRESPO,MIA ELIZABETH,1976-09-10,MUJER,prestamo personal,8451,2358743359,Coahuila,Aquila,San Telmo Residencial,Vicente Guerrero,70
+BRUNO,JACINTO,MAGDALENA,1976-09-14,MUJER,credito nomina,2464,6556644298,Tlaxcala,Cojumatlán de Régules,Heliodoro Garcia,Cuauhtémoc (Las Palomas),SN
+TADEO,CARREÑO,ROLANDO,1976-09-17,HOMBRE,debito,4529,6196531148,Guanajuato,Venustiano Carranza,Barrio de Santiago,General José María Morelos y Pavón (Cañada Honda),SN
+ALVARO,VALDEZ,LESLIE,1976-09-28,MUJER,prestamo personal,3399,6593670201,Tlaxcala,Tingambato,Modelo,José Vasconcelos Calderón,22
+MAYORGA,RENTERIA,ELEAZAR,1976-10-27,HOMBRE,credito departamental,3705,4664185302,Chihuahua,Epitacio Huerta,Jardines de la Concepción,Lomas de Nueva York,85
+PEÑA,ALBINO,MAURICIO,1976-10-28,HOMBRE,credito nomina,1203,5967875248,Ciudad de Mexico,Otzoloapan,Cerrada de La Misión,Nazario Ortiz Garza,4
+URBANO,CORONADO,VICTORIA ELIZABETH,1976-11-25,MUJER,credito avio,248534,2154031275,Sinaloa,Yurécuaro,La Troje,Emiliano Zapata,16
+CARMONA,SAMANIEGO,DIANA,1976-12-09,MUJER,credito refaccionario,90599,0192471467,Aguascalientes,Arteaga,Talamantes Ponce,Cerrada San Miguel,SN
+ECHEVERRIA,CALLEJAS,CARLOS ADRIAN,1976-12-18,HOMBRE,credito,22541,5363997436,Quintana Roo,Teotihuacán,Bugambilias,Mesonero,SN
+CASANOVA,BOLAÑOS,REGINA ISABELLA,1977-01-12,MUJER,credito,23284,9522572713,Aguascalientes,Iztacalco,Las Arboledas,Viñedos San Felipe,19
+EUGENIO,FRANCO,MICHELLE GUADALUPE,1977-01-18,MUJER,credito hipotecario,359279,1059437395,Nuevo León,Ixtapaluca,Cerrada El Molino,La Higuerilla,84
+ONTIVEROS,ALCANTAR,MARIA DE JESUS,1977-01-19,MUJER,credito hipotecario,421480,6515698450,Jalisco,Aculco,México,El Roble,SN
+DE LA FUENTE,ALCANTARA,ALEXA MICHELLE,1977-01-29,MUJER,debito,10183,5620354921,Sinaloa,Tacámbaro,Modelo,Los Negritos,64
+ROBLERO,ZACARIAS,JOSE CARLOS,1977-02-13,HOMBRE,credito refaccionario,99072,4354810062,Guerrero,Zináparo,La Enramada,Las Hadas,17
+GRANDE,GUARDADO,GENESIS GUADALUPE,1977-02-25,MUJER,credito hipotecario,898097,9548637042,Yucatán,Tepalcingo,Los Bosques,El Cardonal,39
+GUILLEN,VALTIERRA,DANTE,1977-03-03,HOMBRE,credito nomina,1188,0255788505,Quintana Roo,Nuevo Urecho,Colinas del Rio,La Soledad,75
+ENCISO,MAGDALENO,SANTIAGO ALEXANDER,1977-05-08,HOMBRE,credito refaccionario,97896,7902676916,Campeche,San Lucas,Valle del Rio San Pedro,Santa Cruz de la Presa,80
+ANDRADE,VALERIO,IVAN,1977-06-13,HOMBRE,credito,22530,5190710924,Guanajuato,Zacazonapan,Gómez,Fátima,SN
+OSORNIO,GARRIDO,HENRY,1977-06-28,HOMBRE,debito,9064,5239402603,México,Atlacomulco,Valle del Campestre,Residencial del Real,76
+VIDAL,ALCANTARA,LUIS,1977-07-08,HOMBRE,credito hipotecario,412056,6006423331,Baja California Sur,Cuautla,Barrio de Santiago,Buenavista,42
+CARRIZALES,PATRICIO,LUNA SOFIA,1977-07-24,MUJER,credito departamental,3140,9504088097,Jalisco,Ezequiel Montes,Panorama,Jesús Gómez Portugal,46
+AGUILLON,GARCIA,JAVIER ALEJANDRO,1977-08-25,HOMBRE,debito,10184,5291287079,Tlaxcala,Zacualpan de Amilpas,Las Brisas,Santa Cruz de la Presa,56
+CENTENO,CLEMENTE,MARLEN,1977-10-19,MUJER,credito nomina,3373,2829355811,Zacatecas,Zamora,Villas de San Nicolás,Pirules INFONAVIT,SN
+GONZALEZ,FRAUSTO,REGINA,1977-10-19,MUJER,prestamo personal,8734,0107798226,Sonora,Colón,Ramon Romo Franco,Recinto de la Macarena,7
+MACHADO,MONTEJO,FELIX,1977-10-31,HOMBRE,credito departamental,6133,8618236414,Tlaxcala,Isidro Fabela,Los Jarales,C.T.M.,55
+AVILEZ,BLANCO,SAMANTA,1977-11-01,MUJER,credito,15512,8287759886,Tabasco,Zinapécuaro,Aguascalientes 2000,Residencial Hacienda San Martín,14
+CORRAL,ALMAZAN,AXEL MATEO,1977-11-23,HOMBRE,credito avio,126787,8816615562,Aguascalientes,La Huacana,Cerrada de la Mezquitera,Cumbres III,53
+BAILON,ROSADO,YANELI,1977-11-23,MUJER,credito avio,179863,8564563404,Guerrero,Tlalpan,Altavista,CERESO (Para Varones y Mujeres),74
+CURIEL,PRIETO,MARIO ALBERTO,1977-11-26,HOMBRE,debito,7503,3429407868,Nayarit,Venustiano Carranza,El Sol,Residencial el Encino,26
+AMADOR,MONTIEL,CAMILA GUADALUPE,1977-12-07,MUJER,debito,1294,3559784990,Puebla,Zamora,Las Cavas,Cerrada San Miguel,SN
+RAZO,BARBOZA,ANGEL DAMIAN,1977-12-30,HOMBRE,credito hipotecario,522901,3752962661,México,Huiramba,Jardines de la Concepción,Vista de las Cumbres,38
+BARRIENTOS,ESCOBEDO,ROGELIO,1978-01-01,HOMBRE,credito avio,91620,8026479814,Tabasco,Atizapán,San Marcos,Puerta Navarra,53
+BEJARANO,LEDESMA,RENE,1978-01-05,HOMBRE,credito hipotecario,230203,5743759098,México,Tancítaro,Residencial del Valle I,Coyotes,7
+DUARTE,SAAVEDRA,EMANUEL,1978-01-07,HOMBRE,credito refaccionario,91210,8966351226,Quintana Roo,Turicato,San Marcos,Puerta Navarra,SN
+BELLO,AVENDAÑO,MARIA ELENA,1978-01-09,MUJER,credito,15104,9647434230,Nayarit,Amanalco,Heliodoro Garcia,Primo Verdad,36
+GUAJARDO,ALATORRE,DYLAN EDUARDO,1978-01-21,HOMBRE,credito hipotecario,558929,6143253238,Puebla,Churumuco,Villas del Campestre,San Sebastián,52
+VILLAVICENCIO,ISLAS,LIDIA,1978-01-23,MUJER,prestamo personal,3558,8517743166,Nayarit,Almoloya de Juárez,Los Vergeles,Bosques del Prado Sur,38
+CANDIA,BURGOS,QUETZALLI,1978-03-16,MUJER,debito,2804,3979425981,Michoacán,Zacatepec,Olivares Santana,El Cariñán,38
+PATISHTAN,BRISEÑO,CARLOS GAEL,1978-03-22,HOMBRE,credito nomina,1332,8524860703,Nuevo León,Sultepec,Villas de San Francisco,Vista del Sol 3a Sección,89
+ESPINDOLA,BADILLO,JOSE MARTIN,1978-03-25,HOMBRE,credito nomina,3456,8213464386,Puebla,Nocupétaro,El Sol,Fracción de la Trinidad II,70
+LAGUNES,DEL RIO,LIA REGINA,1978-06-16,MUJER,credito departamental,7084,2193335026,Campeche,Amealco de Bonfil,Colinas del Poniente,Lomas de La Asunción,62
+LEAL,PARRA,MELANIE,1978-06-20,MUJER,debito,9120,1312663237,Veracruz,Purépero,Las Arboledas,Villa de Nuestra Señora de La Asunción Sector Estación,93
+BALTAZAR,CANUL,JOSE DANIEL,1978-07-08,HOMBRE,credito nomina,1224,4384861830,Tabasco,José Sixto Verduzco,Valle del Campestre,Industrial,8
+CEJA,MIGUEL,ZOE VALENTINA,1978-08-12,MUJER,debito,9302,9167532538,Tlaxcala,Coahuayana,La Troje,Villas del Cobano,31
+BARRETO,LICONA,JESUS FERNANDO,1978-10-18,HOMBRE,prestamo personal,2664,9726002228,Michoacán,Jantetelco,Valle Real,Condominio La terraza,39
+PADILLA,PARTIDA,ARANZA,1978-10-27,MUJER,credito refaccionario,69279,8849911841,Guerrero,Soyaniquilpan de Juárez,Constitución,Colinas de Oriente,SN
+MARCELO,CERON,KENIA GUADALUPE,1978-11-17,MUJER,prestamo personal,6956,6564793775,Yucatán,Azcapotzalco,Los Sauces,Los Negritos,SN
+CAN,MAYO,ROSARIO,1978-11-20,MUJER,credito avio,229432,2409399296,Quintana Roo,Ocuilan,Constitución,Mesonero,70
+AVALOS,MOCTEZUMA,JOSE,1978-11-28,HOMBRE,credito refaccionario,77154,7213005365,Colima,Chucándiro,Las Trojes,Trojes del Cobano,79
+CHUC,MORAN,AMAYRANI,1978-12-19,MUJER,credito avio,224126,1466011333,Veracruz,Charo,Cerrada El Molino,Morelos 2a Sección,11
+ULLOA,CHUC,ANA LUISA,1978-12-22,MUJER,credito refaccionario,98916,8634563996,México,Jilotepec,Las Misiones,Cima del Chapulín,12
+CANDELARIO,ROBLERO,DILAN GAEL,1978-12-26,HOMBRE,prestamo personal,4990,3469180844,Yucatán,Emiliano Zapata,Los Jarales,Lomas de Vistabella 2a. Sección,7
+PERAZA,LANDERO,MARIA DE LOS ANGELES,1979-01-24,MUJER,prestamo personal,8042,0287476469,Michoacán,Numarán,Altavista,San José del Barranco,49
+VICTORIANO,MALDONADO,ANDER,1979-01-31,HOMBRE,credito hipotecario,911589,2468891327,México,Acolman,Valle del Rio San Pedro,Las Torres,SN
+ALCARAZ,DURAN,SOFIA YAMILETH,1979-02-19,MUJER,credito hipotecario,541565,2845171757,México,Tlazazalca,Club Campestre,El Quelite,SN
+BERNABE,SUAREZ,KENDRA,1979-03-21,MUJER,credito departamental,9923,5063945881,Ciudad de Mexico,Axochiapan,San Telmo Residencial,Residencial San Nicolás,42
+LARIOS,PEDRO,JUAN ANGEL,1979-04-08,HOMBRE,credito departamental,4638,6712885595,Ciudad de Mexico,Taretan,San Marcos,Residencial San Nicolás,30
+MATEOS,BAUTISTA,ALAN MATEO,1979-05-27,HOMBRE,credito hipotecario,812789,2423052922,Puebla,Corregidora,Miravalle,Gámez,5
+COLLI,DZUL,MARIA ELIZABETH,1979-06-11,MUJER,credito,21729,5314613734,Chihuahua,Churintzio,Lomas del Campestre 2a Sección,Lomas de Vistabella,65
+NARVAEZ,ORTIZ,ERIK,1979-06-23,HOMBRE,debito,7606,5848475418,Guerrero,Ayala,Santa Fe,Villas del Mediterráneo,1
+ALEJANDRO,MIRAMONTES,ARACELI,1979-06-25,MUJER,credito hipotecario,415166,0163647362,Quintana Roo,Otzolotepec,La Perla Norte,Villa Montaña,71
+GREGORIO,BASILIO,ITZEL GUADALUPE,1979-07-11,MUJER,credito refaccionario,61157,8171434329,Querétaro,Jiutepec,Misión de Santiago,Olinda,82
+ARREOLA,PIMENTEL,JOSE JULIAN,1979-07-19,HOMBRE,credito refaccionario,88003,9722493249,Michoacán,Tlayacapan,Valle Real,S.T.E.M.A.,98
+CORNELIO,AGUILLON,JOSE DAMIAN,1979-07-24,HOMBRE,credito,17118,7696639196,San Luis Potosí,Villa del Carbón,Jardines del Campestre,Villas San Antonio,41
+CANCINO,ESCOBEDO,ANA BRENDA,1979-08-21,MUJER,credito,15983,1192585263,Baja California,Nahuatzen,Villas de La Universidad,Cerrada San Francisco,73
+POZOS,BUENDIA,NATHAN,1979-09-13,HOMBRE,credito nomina,3886,4168473357,Nuevo León,Tlaltizapán de Zapata,Residencial Altaria,Los Negritos,48
+RUEDA,OSUNA,FRANCO,1979-11-26,HOMBRE,credito nomina,3372,0072907122,Baja California,Tlalnepantla de Baz,Primavera,Nueva Rinconada,20
+POSADAS,RIZO,MIGUEL ALEJANDRO,1979-12-05,HOMBRE,credito refaccionario,65802,7220887983,Sonora,Tzitzio,San Telmo,CERESO (Para Varones y Mujeres),SN
+PEDROZA,PEDRAZA,IKER SANTIAGO,1980-01-02,HOMBRE,debito,9030,8914934742,Chihuahua,Jacona,Arroyo El Molino,Cerro Alto,54
+ARRIETA,DE LA CRUZ,INGRID,1980-01-10,MUJER,credito,15324,7463560171,Baja California,Cuajimalpa de Morelos,Buenos Aires,Viñedos Valle Redondo,69
+SAENZ,TRINIDAD,ANA VALERIA,1980-01-20,MUJER,credito nomina,1057,3425362193,Chihuahua,Chinicuila,Cadaqués Residencial,Rodolfo Landeros Gallegos,14
+GONGORA,VELARDE,ERICK ALEXANDER,1980-01-31,HOMBRE,credito refaccionario,76587,1063029368,Quintana Roo,Contepec,Andora Residencial,Paseos de Santa Mónica,SN
+CRISOSTOMO,SEPULVEDA,ANA GABRIELA,1980-02-03,MUJER,credito hipotecario,617951,2821221277,Quintana Roo,Temoac,Ramon Romo Franco,Lomas del Picacho,94
+PALOMINO,QUIÑONEZ,SANTIAGO DE JESUS,1980-02-06,HOMBRE,credito departamental,3851,0362496472,Nayarit,San Mateo Atenco,Línea de Fuego,San Jorge,59
+BRISEÑO,NOH,EMMA VALENTINA,1980-03-01,MUJER,credito hipotecario,152066,1451276967,Veracruz,Huitzilac,Trojes del Sol,Fuentes del Lago,SN
+ALVARADO,LIZARRAGA,JUAN PABLO,1980-03-03,HOMBRE,credito nomina,2394,5335270542,Sonora,Hueypoxtla,Granjas del Campestre,Villas del Vergel,SN
+DE LA LUZ,ARREOLA,ANA,1980-03-30,MUJER,credito hipotecario,342862,0324798637,Morelos,Zitácuaro,Villa de las Trojes,Xenia Residencial,21
+VALTIERRA,MARMOLEJO,ANAYELI,1980-04-02,MUJER,debito,9950,0980624551,Chiapas,Purépero,México,Coyotes,77
+SANTILLAN,REZA,ADRIEL,1980-04-25,HOMBRE,credito nomina,3506,1909682046,Quintana Roo,Zacualpan de Amilpas,Villas del Campestre,La Florida ll,46
+DOLORES,APOLINAR,ANGELA GUADALUPE,1980-06-01,MUJER,credito refaccionario,86869,1081261726,Sonora,Nopaltepec,Galerías,Fuentes de La Asunción,76
+AMEZCUA,MARCELINO,RENATA SOFIA,1980-07-21,MUJER,credito hipotecario,729734,0098042159,Baja California Sur,Tlatlaya,San Marcos,Bosque Real,38
+MATA,VALENTE,ALONSO,1980-08-18,HOMBRE,debito,3091,0892991838,Jalisco,Carácuaro,Valle del Campestre,Andrea,SN
+COTA,BARRERA,IAN DANIEL,1980-10-08,HOMBRE,credito refaccionario,90614,8163108354,Tlaxcala,Sultepec,Colinas de San Ignacio,Villa de Nuestra Señora de La Asunción Sector Alameda,99
+LANDERO,MONTALVO,ANA ISABEL,1980-11-10,MUJER,credito avio,112640,2908942770,Sonora,Coyotepec,La Troje,Residencial Pulgas Pandas Norte,SN
+OTERO,MAY,NAOMI GUADALUPE,1980-11-19,MUJER,debito,11197,8665875396,Campeche,Aguililla,La Paloma,Villas del Encino,1
+QUINTERO,CHAPARRO,EMMA SOFIA,1980-12-29,MUJER,credito hipotecario,282806,1987159374,Colima,Churintzio,Misión del Campanario,Villas del Cobano,43
+LIZARRAGA,REMIGIO,NAYELI,1981-01-07,MUJER,credito nomina,2225,9120615087,San Luis Potosí,Juárez,Constitución,Ferronales,SN
+LEOS,SAAVEDRA,IAN EMILIANO,1981-01-22,HOMBRE,credito hipotecario,640653,9503346851,Durango,Cuauhtémoc,Miravalle,Viñedos San Felipe,SN
+MANZANO,PEÑALOZA,EFRAIN,1981-01-23,HOMBRE,credito departamental,8708,0714550477,Nayarit,Huaniqueo,Villas del Campestre,Lomas de las Fuentes,91
+MEJIA,ABURTO,JULIETA,1981-02-04,MUJER,credito avio,175165,8546171154,Veracruz,Jilotepec,Villa de las Trojes,Trento,86
+BOTELLO,CAUICH,CAMILA YAMILETH,1981-02-08,MUJER,credito departamental,7621,8355627573,Michoacán,Atenco,Club Campestre,Jardines de Santa Elena,29
+ARCOS,SANTOYO,MARIA DEL CARMEN,1981-02-09,MUJER,credito,24317,9915617581,Campeche,Zinapécuaro,Talamantes Ponce,Morelos,12
+HUITRON,MILLAN,ANGEL YAHIR,1981-02-12,HOMBRE,credito refaccionario,79464,7652654960,Veracruz,Ecatzingo,Andora Residencial,Trento,89
+VELASQUEZ,DE LA TORRE,IAN ALEJANDRO,1981-02-19,HOMBRE,credito avio,184699,9639765706,Chihuahua,Acuitzio,La Enramada,Industrial,8
+MUNGUIA,SILVANO,LIAM GAEL,1981-03-10,HOMBRE,credito hipotecario,237263,6696808269,Guerrero,San Felipe del Progreso,Soberana Convención Revolucionaria,Villa de Nuestra Señora de La Asunción Sector Guadalupe,59
+SALGADO,LIMA,KEVIN,1981-03-31,HOMBRE,credito refaccionario,62772,4045973963,Guanajuato,Huiramba,Valle Real,Nazario Ortiz Garza,44
+TELLEZ,GALAN,MARIA VICTORIA,1981-04-17,MUJER,credito refaccionario,69194,7736380523,Nayarit,Cuitzeo,Villa de las Trojes,Lomas del Cobano,60
+ABURTO,CARREON,HUMBERTO,1981-04-20,HOMBRE,credito departamental,8953,7406169873,Baja California,Juchitepec,Cerrada de La Misión,Vista del Sol 2a Sección,92
+FONSECA,ARTEAGA,MARIEL,1981-04-30,MUJER,credito departamental,6029,6444703209,Chiapas,Chicoloapan,Puerto las Hadas,La Estrella,9
+PERALES,TORRES,JOHANA,1981-05-14,MUJER,prestamo personal,2153,6996808721,Quintana Roo,Morelos,Ramon Romo Franco,La Hacienda,65
+PORRAS,PICHARDO,MATHIAS,1981-05-17,HOMBRE,credito nomina,2187,4309316339,San Luis Potosí,Coatetelco,Libertad,Obraje,36
+VILLALBA,GRACIA,AXEL TADEO,1981-07-18,HOMBRE,credito avio,101857,4965968884,Guanajuato,Aporo,Trojes de Alonso,Rancho Santa Mónica,87
+ALBARRAN,ROLDAN,LIAM TADEO,1981-08-02,HOMBRE,credito nomina,3934,4072853529,Guanajuato,Ecatzingo,Santa Fe,Villas de Kristal,43
+DELGADO,CASTILLO,NICOLAS,1981-08-04,HOMBRE,credito refaccionario,77929,9014886372,Puebla,Jocotitlán,Trojes de Alonso,Buenavista,18
+OROPEZA,ROMO,LEONARDO DANIEL,1981-08-31,HOMBRE,credito hipotecario,223715,0146528915,Guanajuato,Tocumbo,Jardines del Campestre,Olinda,8
+GIRON,MANDUJANO,LIAM ALEXANDER,1981-09-02,HOMBRE,prestamo personal,3021,0614871707,Michoacán,Morelos,Valle Real,Villa Bonita,61
+PIÑA,COVARRUBIAS,SOFIA VALENTINA,1981-10-06,MUJER,credito,24347,1336932205,Nuevo León,Cojumatlán de Régules,Gremial,Montebello Della Stanza,SN
+CORTEZ,SEGURA,PEDRO,1981-10-24,HOMBRE,credito departamental,8001,2415224545,Campeche,Zumpango,San Marcos,San José del Arenal,SN
+SERNA,SALMERON,YAEL,1981-11-30,HOMBRE,credito avio,238344,9212453732,Durango,Tenancingo,Villas de San Francisco,Villa Notre Dame,SN
+LOREDO,SERRANO,CARLOS MANUEL,1981-12-02,HOMBRE,credito departamental,2215,6264936628,Durango,Atlatlahucan,Trojes de Alonso,Lic Manuel Gómez Morin,60
+YEPEZ,TEJEDA,REYNA,1981-12-10,MUJER,credito avio,188106,5136464084,Jalisco,Acambay de Ruíz Castañeda,Residencial del Valle II,Rinconada del Puertecito,39
+TREJO,YEPEZ,ITZAYANA,1981-12-11,MUJER,credito hipotecario,657346,7687886154,San Luis Potosí,Papalotla,Lomas del Campestre 2a Sección,Zona Militar,41
+IGNACIO,VITE,FERNANDA SOFIA,1982-02-14,MUJER,prestamo personal,1157,4737174754,Chihuahua,La Magdalena Contreras,La Fundición,Montebello,96
+ALBINO,SEPULVEDA,EMILY VALENTINA,1982-02-21,MUJER,debito,11687,4544751896,Querétaro,Pátzcuaro,Colinas del Poniente,El Barranco,SN
+VILLAGOMEZ,PERAZA,DAMARIS,1982-03-02,MUJER,credito departamental,5865,1394483488,Baja California Sur,Chicoloapan,Villa de las Trojes,Jesús Gómez Portugal,59
+ALONZO,BONILLA,VICTORIA SOFIA,1982-04-02,MUJER,credito avio,167706,4751463427,Guerrero,Tepetlaoxtoc,Del Carmen,Parque Industrial Siglo XXI,SN
+DE JESUS,ALATORRE,ALAN,1982-04-13,HOMBRE,credito refaccionario,79408,8245484832,Sonora,La Paz,Villas del Campestre,Villa Bonita,11
+MOLINA,CEJA,SOFIA GUADALUPE,1982-04-29,MUJER,credito nomina,1981,0358118179,Puebla,Polotitlán,Los Calicantos,Lic Benito Palomino Dena,47
+CASAS,ENCARNACION,SANDRA,1982-05-06,MUJER,credito,24518,8753923618,Tabasco,Tecámac,La Fundición,San José de Pozo Bravo,44
+CORTES,PADRON,MARIANA,1982-05-08,MUJER,debito,3170,3046949279,Baja California,Ecatepec de Morelos,Las Cavas,El Plateado,60
+PAREDES,ANDRES,FRANCISCO JAVIER,1982-05-26,HOMBRE,credito nomina,1200,1527881219,San Luis Potosí,Panindícuaro,Colinas de San Ignacio,Cartagena 1947,37
+JASSO,MONREAL,IAN TADEO,1982-05-29,HOMBRE,credito,20776,7447611296,Oaxaca,Nezahualcóyotl,Cerrada de La Misión,Anexo Benito Palomino Dena (Cumbres II),SN
+ALONSO,CARRASCO,LIAM,1982-06-16,HOMBRE,credito,16877,3643200850,Morelos,Timilpan,Curtidores,Villa Notre Dame,53
+BLAS,ALCANTAR,PATRICIA,1982-07-11,MUJER,credito avio,158322,6038788366,Sonora,Tetecala,Cerrada del Valle,Circunvalación Poniente,94
+LORENZO,MARMOLEJO,MOISES,1982-07-19,HOMBRE,credito hipotecario,842705,4486466158,Yucatán,Tepalcatepec,Guadalupe,Fátima,64
+LIMA,LEAL,LUIS GERARDO,1982-07-21,HOMBRE,credito refaccionario,62971,5272313193,Colima,Tlayacapan,Jardines de la Concepción,San Agustín,49
+MURRIETA,FERNANDEZ,SOFIA FERNANDA,1982-08-07,MUJER,prestamo personal,4371,2302714771,San Luis Potosí,Coahuayana,Trojes del Sol,Villa Capri,33
+MELCHOR,CARMONA,ZAID,1982-09-02,HOMBRE,credito departamental,4620,5063266282,Baja California Sur,Calimaya,La Herradura,La Rinconada,61
+DE LA TORRE,OTERO,LUISA FERNANDA,1982-09-27,MUJER,credito,17507,5949843139,Colima,Tequisquiapan,Colinas del Poniente,Bosques del Prado Norte,66
+JAVIER,VENEGAS,GALILEA,1982-11-14,MUJER,credito nomina,3006,7136255489,Quintana Roo,Atlautla,Rancho San Antonio,La Fuente,57
+ZAMBRANO,URIBE,ANTHONY,1982-11-26,HOMBRE,credito refaccionario,97570,4366716892,Guanajuato,Coalcomán de Vázquez Pallares,Trojes de Alonso,Alianza Ferrocarrilera,60
+REYNA,BECERRA,HECTOR,1982-12-27,HOMBRE,credito departamental,5923,9677649172,San Luis Potosí,Jungapeo,Jardines de la Concepción,La Florida ll,SN
+TEMOXTLE,DAVILA,ALICE,1983-01-24,MUJER,credito refaccionario,70175,2229382249,Oaxaca,Pajacuarán,La Concordia,28 de Abril,16
+VILLARREAL,MAR,JENNIFER,1983-01-27,MUJER,credito nomina,4000,5110782042,Querétaro,Nuevo Parangaricutiro,San Cayetano,Recinto de la Macarena,64
+CAMPUZANO,ALBINO,JOSELIN,1983-04-13,MUJER,credito departamental,9211,1796139246,Tamaulipas,Yautepec,San Cayetano,Cuauhtémoc (Las Palomas),64
+CAMPOS,ZAMARRIPA,EVELYN,1983-06-12,MUJER,prestamo personal,7198,0164990257,Nayarit,Mexicaltzingo,Trojes del Sol,Villas del Cobano,50
+MANCILLA,DOMINGUEZ,LUCAS,1983-07-02,HOMBRE,debito,3385,3065034055,Ciudad de Mexico,Churumuco,Los Jarales,Villa Bonita,89
+DE ANDA,IBAÑEZ,JORGE ANTONIO,1983-07-17,HOMBRE,credito avio,153319,5830066399,Quintana Roo,Vista Hermosa,Valle de Santa Teresa,Condominio La terraza,42
+AGUILERA,ALCOCER,DANNA PAOLA,1983-08-08,MUJER,credito refaccionario,83491,9211921663,Chiapas,Zitácuaro,Puerto las Hadas,Los Arcos,22
+MURILLO,HERMOSILLO,ITZEL,1983-08-12,MUJER,credito hipotecario,106818,6576934487,Guerrero,Ixtlán,Cerrada del Valle,Zona Militar,98
+BURGOS,VELARDE,DIEGO ARMANDO,1983-08-14,HOMBRE,credito avio,228157,3244295275,Aguascalientes,Yecapixtla,Arroyo El Molino,Las Flores,87
+LAUREANO,MOLINA,CARLOS IVAN,1983-08-19,HOMBRE,credito hipotecario,987035,8438070032,Sonora,Quiroga,Guadalupe,Viñedos San Felipe,SN
+ZUÑIGA,BARRIOS,JOSUE,1983-08-22,HOMBRE,prestamo personal,3013,2208324998,Aguascalientes,Temascalapa,Colinas del Rio,Capittala,50
+ABARCA,AVALOS,DIANA SOFIA,1983-08-31,MUJER,credito avio,249858,5629307047,Oaxaca,Lagunillas,Pozo Bravo Norte,Lomas de Santa Anita,12
+ROSARIO,POZOS,SANTIAGO ALEJANDRO,1983-09-02,HOMBRE,credito departamental,7777,2434516198,San Luis Potosí,Ziracuaretiro,Las Trojes,Viñedos del Sur,10
+MIRAMONTES,ZAMORA,LEON,1983-09-07,HOMBRE,credito,16395,3119881992,Colima,La Huacana,Arroyo El Molino,Lomas de Vistabella 2a. Sección,78
+ALMAZAN,ZAPATA,LUIS GAEL,1983-09-08,HOMBRE,debito,3610,1849280738,Tamaulipas,Cocotitlán,Valle del Campestre,Residencial el Encino,95
+TELLO,BALTAZAR,EMIR,1983-09-10,HOMBRE,credito,24754,5342590891,Zacatecas,Marcos Castellanos,Colinas del Rio,Bosques de La Alameda,SN
+BUSTOS,OLMEDO,ALEXIA,1983-09-12,MUJER,credito nomina,1424,3481816019,Guanajuato,Ayapango,Residencial del Valle II,Centro Distribuidor de Básicos,91
+SALCEDO,PARADA,LEAH,1983-09-29,MUJER,prestamo personal,3666,3037902418,Nayarit,Jonacatepec de Leandro Valle,Cadaqués Residencial,Nueva España,84
+IBAÑEZ,CARO,ALEXA VALENTINA,1983-10-05,MUJER,credito avio,150788,4203836284,Jalisco,Tuxpan,Rancho San Antonio,Lic. José López Portillo,17
+MADRIGAL,DELGADO,DYLAN MATEO,1983-11-09,HOMBRE,credito nomina,4908,1299326016,Guerrero,Tolimán,Bugambilias,Sartenejo,77
+ASTORGA,GODOY,ANDREA VALENTINA,1983-11-27,MUJER,prestamo personal,8126,9017546175,Quintana Roo,Chicoloapan,Misión del Campanario,Andrea,58
+NOLASCO,SEGOVIA,JESUS ALBERTO,1983-11-28,HOMBRE,prestamo personal,1891,0621392833,Guanajuato,Chiautla,Granjas del Campestre,Industrial,7
+SOSA,NIETO,JUAN JOSE,1983-12-22,HOMBRE,debito,11857,6655249108,Quintana Roo,Valle de Chalco Solidaridad,San Marcos,San Xavier,22
+FERNANDEZ,FELICIANO,LEONEL,1984-01-22,HOMBRE,credito hipotecario,539988,0628001442,Nayarit,Morelos,Residencial Santa Clara,Alianza Ferrocarrilera,35
+LLAMAS,VALVERDE,JUAN LUIS,1984-01-27,HOMBRE,debito,6209,8259613178,Chihuahua,Pedro Escobedo,La Fe,Villas de Kristal,4
+BUENROSTRO,HARO,JERONIMO,1984-03-03,HOMBRE,credito departamental,2497,7337590739,Ciudad de Mexico,Tepoztlán,Rinconada los Bosques,Santa Fe,18
+MOCTEZUMA,ALBARRAN,WILLIAM,1984-03-14,HOMBRE,credito refaccionario,84175,7815666968,Tamaulipas,Almoloya del Río,San Marcos,Agricultura,66
+COBOS,LUCAS,ARIADNE,1984-05-06,MUJER,credito nomina,1845,3173547887,Aguascalientes,Zacualpan,Las Cavas,Insurgentes,48
+URIBE,PORTILLO,JESUS DANIEL,1984-05-07,HOMBRE,credito hipotecario,896446,4043009852,Quintana Roo,Vista Hermosa,Ciudad Universitaria,Residencial Pulgas Pandas Norte,72
+ALVA,NIEVES,IAN YAEL,1984-06-05,HOMBRE,credito avio,93309,9374025750,Sinaloa,Carácuaro,Trojes de Cristal,Villas San Antonio,SN
+GUARDADO,RAZO,ANA CRISTINA,1984-06-27,MUJER,credito nomina,3293,3557600997,Baja California,Jiménez,Olivares Santana,Reserva Villa Sur,88
+PAYAN,MANDUJANO,LUIS FELIPE,1984-07-06,HOMBRE,credito avio,137077,7604542170,Chiapas,Iztapalapa,Villas de San Francisco,Cuauhtémoc (Las Palomas),62
+GAYTAN,SIMON,IAN ALEXANDER,1984-07-26,HOMBRE,credito hipotecario,204603,6613487801,Aguascalientes,Ziracuaretiro,Granjas del Campestre,Andrea,74
+SAMANIEGO,GARIBAY,ARIANNA,1984-08-01,MUJER,credito,16752,8570111211,Puebla,Miacatlán,Lomas del Campestre 2a Sección,San José del Barranco,43
+SALDAÑA,CORONEL,ARLETH,1984-09-08,MUJER,credito,23595,7957499757,Coahuila,Peribán,Buenos Aires,San José de Pozo Bravo,78
+AMBROCIO,SERRANO,JESUS ALFREDO,1984-10-03,HOMBRE,credito hipotecario,402501,0907205639,Guerrero,Jojutla,Cerrada de La Misión,Fracción de la Trinidad II,SN
+ALCANTAR,TAPIA,MARIA SOFIA,1984-11-30,MUJER,credito departamental,9364,9817144314,Aguascalientes,San Antonio la Isla,Pozo Bravo Norte,Los Naranjos,56
+NUÑO,CORDOVA,CAMILA VICTORIA,1985-01-06,MUJER,credito,20341,9788254345,Chihuahua,Tiquicheo de Nicolás Romero,Las Cavas,CERESO (Para Varones y Mujeres),23
+PULIDO,MERINO,YAZMIN,1985-01-15,MUJER,prestamo personal,8558,2695621758,Ciudad de Mexico,Ixtapan del Oro,San Telmo Residencial,Villas del Cobano,85
+ZAZUETA,CEPEDA,MAURO,1985-01-24,HOMBRE,credito nomina,1677,5923532545,Veracruz,Iztapalapa,Colinas de San Ignacio,Hermanos Carreón,81
+MARROQUIN,ARMENDARIZ,VANESA,1985-02-04,MUJER,credito avio,131248,2225070102,Sinaloa,Indaparapeo,Los Bosques,Pintores Mexicanos,91
+GORDILLO,MONTEJO,AMAIRANI,1985-02-08,MUJER,credito nomina,1852,4401648878,Nayarit,Tepalcingo,Terzetto,Rinconada San José,9
+AGUIRRE,JAVIER,PAULINA,1985-02-12,MUJER,debito,6997,7551471144,México,Temascalcingo,Olivares Santana,Recinto de la Macarena,20
+GUTIERREZ,BEJARANO,VALERIA,1985-02-28,MUJER,credito nomina,3250,3227154932,México,Acambay de Ruíz Castañeda,Altavista,El Rosedal,89
+OBREGON,OLAN,VICTOR HUGO,1985-05-19,HOMBRE,credito nomina,4497,9980914484,Nuevo León,Tocumbo,Granjas del Campestre,Viñedos San Felipe,44
+IÑIGUEZ,HIPOLITO,JESUS IVAN,1985-06-01,HOMBRE,credito avio,154437,5018165946,México,Rayón,Colinas de San Ignacio,Tierra Buena,27
+MAYO,CANDELARIO,MAITE,1985-06-19,MUJER,credito departamental,8374,1757244443,Guerrero,Capulhuac,Talamantes Ponce,La Salud,26
+SANABRIA,SANTANA,JORGE ALEJANDRO,1985-07-07,HOMBRE,prestamo personal,8612,1504943326,Quintana Roo,Mazatepec,Cerrada de la Mezquitera,Monserrat,8
+BENAVIDES,PEÑALOZA,RUTH,1985-07-24,MUJER,prestamo personal,1640,5306043054,Zacatecas,Texcoco,Heliodoro Garcia,Vistas del Sur,68
+ALMAGUER,GABRIEL,ALAN SANTIAGO,1985-08-04,HOMBRE,credito hipotecario,690951,5202651653,Aguascalientes,Zacapu,Trojes de Alonso,Morelos I,SN
+LEIJA,GARRIDO,NATANAEL,1985-09-05,HOMBRE,debito,10445,0004103402,Colima,Irimbo,Soberana Convención Revolucionaria,Solidaridad 4a Sección,SN
+MARMOLEJO,AGUILAR,DAMIAN ALEJANDRO,1985-09-23,HOMBRE,credito nomina,4311,3075041335,Guerrero,Madero,Fundición II,Lomas de Nueva York,26
+PATIÑO,DAVALOS,MARIA REGINA,1985-10-17,MUJER,credito,16597,1252445871,Tabasco,Ixtapaluca,La Troje,Hacienda el Cobano,93
+DIONICIO,ABARCA,PERLA,1985-10-21,MUJER,prestamo personal,6745,9007489022,Veracruz,Temascalcingo,Altavista,Vista del Sol 1a Sección,21
+PADRON,SOLORIO,ISAI,1985-10-28,HOMBRE,prestamo personal,5784,4448098124,Tabasco,Salvador Escalante,Primavera,Sol Naciente,SN
+CARDOSO,AGUILERA,SOFIA ABIGAIL,1985-10-28,MUJER,prestamo personal,8490,5612791822,Coahuila,Buenavista,Misión del Campanario,Mangata,10
+TOVAR,MAURICIO,MARISOL,1985-11-05,MUJER,credito nomina,1556,1704588698,Querétaro,Charo,La Troje,C.T.M.,43
+GARRIDO,PINTO,DANIA,1985-11-29,MUJER,credito hipotecario,179621,1597685098,Guerrero,Papalotla,Galerías,Los Ángeles,74
+GALICIA,BLAS,XIMENA GUADALUPE,1985-12-23,MUJER,credito hipotecario,832679,8197930169,Querétaro,Tzintzuntzan,Residencial del Valle II,Muralia,76
+AMBRIZ,VICTORIANO,CLAUDIA,1985-12-27,MUJER,credito avio,222748,2289163641,Michoacán,San Antonio la Isla,La Fundición,Rinconada San Antonio I,55
+CRESPO,DEL RIO,AITANA YAMILETH,1986-01-18,MUJER,credito avio,81046,0328021084,Tabasco,Jonacatepec de Leandro Valle,Cerrada del Valle,La Escondida (El Salero),3
+LOYA,GABRIEL,EMMA LUCIA,1986-02-15,MUJER,prestamo personal,5139,4844898827,Hidalgo,Tonatico,Modelo,Vicente Guerrero,SN
+ACEVES,ORDOÑEZ,ALDO,1986-03-02,HOMBRE,credito refaccionario,99921,7635620425,Jalisco,Tangancícuaro,Valle del Rio San Pedro,Villas de La Cantera,69
+CEN,MORELOS,DIEGO GAEL,1986-03-14,HOMBRE,credito hipotecario,373247,3542381420,Chiapas,Chucándiro,Cerrada de la Mezquitera,Villas de Ajedrez,39
+MURO,PEDRO,GABRIEL ALEJANDRO,1986-03-24,HOMBRE,credito departamental,2974,4317655013,Baja California Sur,Xochimilco,Curtidores,Estación Cañada Honda,2
+GALARZA,MONTOYA,LUIS GABRIEL,1986-04-09,HOMBRE,credito avio,237110,8326204681,Nuevo León,Donato Guerra,Residencial Santa Clara,La Estrella,SN
+BARBOZA,JACINTO,JOSE ANDRES,1986-05-01,HOMBRE,prestamo personal,9052,2015748046,México,Panindícuaro,Miravalle,Santa Bárbara,99
+CAUDILLO,QUINTERO,ROCIO,1986-05-15,MUJER,credito hipotecario,798954,4794319319,Tlaxcala,Villamar,Villa de las Trojes,Lotes de Arellano,15
+ARANDA,GRANADOS,LIA SOFIA,1986-06-03,MUJER,credito avio,260234,0612987001,Nuevo León,Zacatepec,Lomas del Campestre 2a Sección,La Florida l,27
+DEL VALLE,CARO,DANNA MICHELLE,1986-06-17,MUJER,credito avio,183932,8585062404,Baja California Sur,Colón,México,Villa de Nuestra Señora de La Asunción Sector San Marcos,45
+ANGUIANO,BADILLO,JESUS ALEXANDER,1986-07-04,HOMBRE,credito departamental,7780,7548558183,Coahuila,San Juan del Río,Residencial Guadalupe,Rinconada del Puertecito,SN
+CARO,CHI,ANGEL FERNANDO,1986-07-13,HOMBRE,credito departamental,9780,7044137274,San Luis Potosí,Tingüindín,Villas de Montenegro,Lomas del Picacho,2
+BAEZ,CLEMENTE,CONSTANZA,1986-07-23,MUJER,credito avio,221773,7577536891,Yucatán,Tlalnepantla,Las Misiones,Lic Benito Juárez,SN
+MENA,AGUILLON,MIA VICTORIA,1986-07-28,MUJER,prestamo personal,8516,6691533484,Campeche,Peñamiller,La Concordia,Jardines de Montebello,SN
+LANDEROS,TERAN,ROXANA,1986-08-20,MUJER,prestamo personal,3379,0983061342,Tamaulipas,Coeneo,San Telmo Residencial,Bosques del Prado Oriente,23
+GARCIA,SOTO,SANTIAGO,1986-08-24,HOMBRE,prestamo personal,4759,9041175377,Aguascalientes,Pinal de Amoles,Colinas del Rio,Villas de Don Antonio,89
+VARELA,HUERTA,VIOLETA,1986-08-31,MUJER,credito hipotecario,746152,7319740458,Colima,Iztacalco,Constitución,Los Ángeles,81
+BANDA,GARZA,IKER ALEXANDER,1986-09-09,HOMBRE,credito departamental,9939,5458947644,Nayarit,Tenango del Valle,El Sol,Rinconada Pozo Bravo,85
+VICTORIA,VALTIERRA,ANDREA SOFIA,1986-09-21,MUJER,credito hipotecario,287657,4773817457,Baja California,Benito Juárez,Las Arboledas,La Salud,80
+CASTELAN,PARTIDA,EDITH,1986-10-05,MUJER,credito nomina,2847,2059438213,Baja California Sur,Parácuaro,Panorama,El Cardonal,22
+PAT,DE LOS SANTOS,JESUS GUADALUPE,1986-10-10,HOMBRE,prestamo personal,2036,3863188726,México,Tezoyuca,Gómez,Rinconada del Sur,44
+LANDA,ACUÑA,IKER MATEO,1986-10-24,HOMBRE,credito refaccionario,65631,7349837692,Jalisco,La Piedad,Curtidores,Alameda,SN
+GUEVARA,VALLES,OSCAR,1986-11-11,HOMBRE,credito refaccionario,71136,1348696097,México,Jacona,Cerrada de la Mezquitera,Villa Bonita,60
+CASTRO,ALEMAN,FERNANDA,1986-12-07,MUJER,prestamo personal,2503,4468530543,Yucatán,Coatepec Harinas,San Marcos,Primo Verdad,27
+FARIAS,TIBURCIO,MAGALI,1986-12-11,MUJER,credito nomina,4420,5579697021,San Luis Potosí,Álvaro Obregón,Los Sauces,La Fuente,SN
+VELARDE,CASANOVA,DIEGO ANTONIO,1986-12-25,HOMBRE,credito nomina,1414,9690825858,Colima,Tangancícuaro,La Herradura,La Loma de los Negritos,89
+OLGUIN,REGALADO,AMELIA,1987-01-14,MUJER,credito,22500,1011227612,Coahuila,San Martín de las Pirámides,San Cayetano,Villa Teresa,42
+PALOMO,MACIAS,AINHOA,1987-01-24,MUJER,credito nomina,3689,5515335502,Michoacán,Jiquipilco,Cerrada El Molino,San Jorge,71
+ACUÑA,GAYOSSO,ERIKA,1987-02-01,MUJER,credito hipotecario,937824,0431373704,Chihuahua,Churintzio,Las Misiones,Zona Militar,37
+MADRID,GUADALUPE,LORENA,1987-02-19,MUJER,credito hipotecario,519362,4136452865,Yucatán,Acambay de Ruíz Castañeda,Moderno,Vivienda Popular,12
+LEDEZMA,BAZAN,ALESSANDRA,1987-02-22,MUJER,credito,19992,8255684599,Guanajuato,Temoaya,Las Arboledas,Montebello Della Stanza,SN
+PELAYO,MONTIEL,ANGEL ZAID,1987-02-23,HOMBRE,credito refaccionario,60904,1873437765,Michoacán,Tlalpujahua,La Enramada,Estación Cañada Honda,48
+MERINO,LOBATO,MONSERRATH,1987-03-05,MUJER,credito hipotecario,483528,2506060530,Veracruz,Miacatlán,Misión del Campanario,Bosques del Prado Oriente,51
+CARLOS,GALINDO,VANIA,1987-03-15,MUJER,credito,21473,8402747313,Baja California,Purépero,La Concordia,Rinconada de La Alameda,83
+BAUTISTA,GRANDE,TADEO,1987-04-28,HOMBRE,credito departamental,6615,5573805366,Ciudad de Mexico,Chiautla,Jardines del Campestre,Palma Real,34
+VALVERDE,CORDOBA,JOCELYN,1987-05-25,MUJER,credito departamental,3713,4100424462,Tlaxcala,Xoxocotla,La Fundición,Estación Cañada Honda,48
+MANUEL,OLIVAS,ADAN,1987-06-08,HOMBRE,credito refaccionario,61360,1876052045,Michoacán,Aporo,Valle de las Trojes,Buenavista,59
+BALLESTEROS,GALICIA,MELANY GUADALUPE,1987-06-19,MUJER,credito avio,186404,0254496125,San Luis Potosí,Teoloyucan,Colinas del Poniente,Jardines de La Luz,82
+ADAME,SAENZ,JOSE SANTIAGO,1987-06-30,HOMBRE,credito hipotecario,217751,0009453598,Durango,Tultepec,Gómez,San Xavier,47
+MUÑOZ,FERNANDEZ,AITANA,1987-07-01,MUJER,credito refaccionario,77524,5944961490,Baja California Sur,Chalco,Residencial del Valle II,Residencial del Real,88
+LUIS,ROMANO,JOSE DE JESUS,1987-07-07,HOMBRE,credito avio,264036,3910441112,Querétaro,Landa de Matamoros,Industrial,Rinconada Pozo Bravo,1
+ACOSTA,RIVAS,ADRIAN,1987-07-25,HOMBRE,credito refaccionario,62334,1688516774,Michoacán,El Oro,Valle Real,Las Cumbres,SN
+RAMON,LINARES,EMILY GUADALUPE,1987-08-06,MUJER,credito departamental,6618,5479886089,Tabasco,Aguililla,Talamantes Ponce,La Estrella,77
+LUEVANO,VILLALPANDO,ANA GUADALUPE,1987-09-05,MUJER,credito refaccionario,69337,6849072113,Nayarit,Nuevo Parangaricutiro,Gremial,La Escondida (El Salero),97
+SAUCEDO,CAMACHO,ANGEL DANIEL,1987-09-15,HOMBRE,credito avio,213826,8563778653,Zacatecas,Jiquilpan,Villas del Campestre,Anexo Benito Palomino Dena (Cumbres II),SN
+GASPAR,MEDEL,EDGAR,1987-11-06,HOMBRE,credito refaccionario,91525,9341734891,Tlaxcala,Tepoztlán,Andora Residencial,Santa Anita 2a Sección,40
+REMIGIO,JAIMES,SOFIA VALERIA,1987-11-06,MUJER,credito avio,112116,3124605389,Sonora,Amecameca,Las Cavas,Nueva Rinconada,SN
+VAZQUEZ,VILLA,DIEGO,1987-12-13,HOMBRE,credito departamental,3819,1478409911,Tabasco,Querétaro,Villas de San Francisco,Villa de Nuestra Señora de La Asunción Sector Alameda,47
+MONROY,BUSTILLOS,SARAHI,1988-01-03,MUJER,prestamo personal,2019,6016739438,Nayarit,Tumbiscatío,San Marcos,Residencial del Real,47
+BERNARDINO,PERALES,MARIANA GUADALUPE,1988-01-16,MUJER,credito avio,170293,8801002709,Zacatecas,Cuernavaca,Las Misiones,Misión de Santa Lucía,18
+GALVEZ,GIL,LIA VICTORIA,1988-02-04,MUJER,debito,5862,2957223163,Oaxaca,Cuernavaca,Villa de las Trojes,C.T.M.,60
+ALVAREZ,CASIMIRO,ANGEL,1988-03-10,HOMBRE,credito avio,87781,4894063332,Colima,Apaxco,La Fe,Villas del Río,16
+BUSTAMANTE,JUSTO,MONICA,1988-03-19,MUJER,credito avio,77134,2117552750,Campeche,Coatepec Harinas,Los Vergeles,Residencial Pulgas Pandas Sur,26
+GOMEZ,LEIJA,XIMENA,1988-04-02,MUJER,credito hipotecario,384296,6971348851,Puebla,El Marqués,Buenos Aires,Villas de La Convención,67
+CONTRERAS,VITE,ELIZABETH,1988-04-06,MUJER,credito avio,273431,7116999388,Tamaulipas,Chapultepec,Club Campestre,Residencial Campestre Club de Golf,80
+ALARCON,GARRIDO,TANIA,1988-04-13,MUJER,debito,6792,6939504672,Quintana Roo,Álvaro Obregón,San Cayetano,Los Naranjos,SN
+ELIZONDO,BARRON,EVELYN GUADALUPE,1988-05-03,MUJER,credito departamental,3880,1037992500,Chiapas,Ixtapan del Oro,Misión de Santiago,Solidaridad 2a Sección,91
+HOLGUIN,SAMANIEGO,MIA YAMILETH,1988-05-19,MUJER,debito,8240,1398346300,Veracruz,Arteaga,Aguascalientes 2000,Barlovento,SN
+MARIN,ULLOA,LIA,1988-05-29,MUJER,credito nomina,1703,9618356425,Coahuila,Tlalmanalco,La Concordia,Privada Guadalupe,28
+AMBROSIO,VENTURA,IKER TADEO,1988-05-31,HOMBRE,credito departamental,9791,9666505076,Jalisco,Chiautla,Barrio de Santiago,Gámez,69
+GUZMAN,ALEJANDRO,MARIA GUADALUPE,1988-06-03,MUJER,credito hipotecario,765862,1845416998,Zacatecas,Ayapango,Moderno,El Roble,16
+PEREZ,TAMAYO,SEBASTIAN,1988-06-04,HOMBRE,credito refaccionario,64818,8142320409,Baja California,Corregidora,Colinas de San Ignacio,La Soledad,41
+MONTIEL,SALAS,LIZBETH,1988-06-06,MUJER,debito,2268,7387081114,Sinaloa,Juárez,Los Calicantos,La Florida l,SN
+JERONIMO,PLASCENCIA,JACOB,1988-06-10,HOMBRE,debito,7332,9333143689,Yucatán,Zacazonapan,Residencial del Valle I,La Rinconada,SN
+CERDA,GALAVIZ,YATZIRI,1988-06-16,MUJER,credito,15828,4038800065,Nuevo León,Otumba,Los Bosques,Colinas de Oriente,SN
+MANZO,ORDOÑEZ,ADOLFO,1988-07-17,HOMBRE,credito departamental,8941,2820598950,Tlaxcala,Nicolás Romero,Arroyo El Molino,Lic Primo Verdad INEGI,SN
+MONTERO,ENCARNACION,ANDRE,1988-08-04,HOMBRE,credito refaccionario,74169,3630996642,Querétaro,Atlacomulco,San Marcos,Palma Real,31
+OLVERA,CORNEJO,IKER,1988-08-05,HOMBRE,credito nomina,1799,7198043978,Coahuila,Tequixquiac,Villas de San Francisco,Villa de Nuestra Señora de La Asunción Sector San Marcos,76
+ESCOBEDO,OLAN,KATHERINE,1988-08-13,MUJER,credito avio,99552,8704090992,Baja California Sur,Pátzcuaro,Los Sauces,Villa de Nuestra Señora de La Asunción Sector Encino,SN
+ANAYA,COLUNGA,AITANA GUADALUPE,1988-09-08,MUJER,prestamo personal,5786,5838446531,Jalisco,Xoxocotla,Los Bosques,Lomas de Bellavista,86
+MELENDEZ,CASTAÑON,ALICIA,1988-09-23,MUJER,credito hipotecario,255761,8286169043,Quintana Roo,Amacuzac,Trojes de Oriente,La Estrella,28
+ESTRELLA,MONTAÑEZ,IVANA,1988-10-19,MUJER,credito,19679,4096658563,Ciudad de Mexico,Maravatío,San Cayetano,Rinconada de La Alameda,69
+ARAUJO,JUAN,HUGO,1988-11-18,HOMBRE,credito avio,172634,4413386993,Tamaulipas,Santo Tomás,Las Brisas,Lomas de La Asunción,51
+OCAMPO,VICTORIANO,JESUS EDUARDO,1988-12-07,HOMBRE,credito nomina,2276,7280111432,Durango,Temixco,Residencial Santa Clara,Santa Anita 4a Sección,SN
+VIDALES,CAMACHO,ISIDRO,1988-12-11,HOMBRE,credito nomina,1276,7149937783,Veracruz,Ixtapan de la Sal,Valle Real,Parras,86
+MERCADO,JUSTO,SALVADOR,1988-12-29,HOMBRE,credito refaccionario,65963,7529877483,Yucatán,Paracho,Fundición II,Lomas de La Asunción,91
+ROSAS,SANTANA,JOSE MANUEL,1989-03-02,HOMBRE,credito,23628,1020530174,Guanajuato,Malinalco,Las Trojes,El Cobano,63
+LUCIANO,DE SANTIAGO,MARIA EMILIA,1989-03-08,MUJER,credito hipotecario,576390,5801730465,Querétaro,Mexicaltzingo,Los Calicantos,Misión de Santa Fe,100
+ARGUELLES,DAMIAN,BRAULIO,1989-03-10,HOMBRE,debito,7453,8112100281,Oaxaca,Santo Tomás,Circunvalación Norte,Morelos INFONAVIT,66
+EVANGELISTA,MATEO,MARICRUZ,1989-03-17,MUJER,prestamo personal,8729,5097242654,Campeche,Queréndaro,San Pablo,La Loma de los Negritos,71
+SUAREZ,NUÑEZ,DULCE MARIA,1989-03-24,MUJER,credito hipotecario,781528,0576026893,Guerrero,Tianguistenco,Altavista,Montebello Della Stanza,2
+VALLEJO,MONTES,TERESA,1989-03-29,MUJER,credito refaccionario,84129,1871822955,Chiapas,Jiquipilco,Trojes del Sol,Santa Anita,85
+RENTERIA,CANCINO,IAN GAEL,1989-04-19,HOMBRE,credito refaccionario,80042,7179825978,Puebla,Jojutla,Santa Fe,Trojes del Cobano,SN
+DAVALOS,LIMON,ANGEL YAEL,1989-04-29,HOMBRE,credito hipotecario,212900,8512599411,Querétaro,Temascaltepec,Curtidores,S.T.E.M.A.,SN
+MORENO,MERIDA,GAEL,1989-05-01,HOMBRE,credito nomina,2177,3369721485,México,Almoloya del Río,Residencial Guadalupe,Rinconada Pozo Bravo,14
+OLAN,MENESES,JUAN DE DIOS,1989-05-08,HOMBRE,credito refaccionario,86075,1260240794,Chiapas,Temascalapa,Industrial,Misión de Santa Fe,49
+CARREON,ALFONSO,MARCOS,1989-05-19,HOMBRE,credito,16768,9425803068,Tamaulipas,Isidro Fabela,Valle de Santa Teresa,El Cobano,21
+CARRERA,CRISOSTOMO,ALBERTO,1989-05-24,HOMBRE,credito,21610,7352804896,Morelos,Tocumbo,San Marcos,San Xavier,66
+FRIAS,LOERA,MARCELO,1989-06-27,HOMBRE,prestamo personal,2361,3138947185,Sinaloa,Ixtlahuaca,Santa Fe,Alianza Ferrocarrilera,10
+SEGUNDO,CHAVEZ,HELENA,1989-07-16,MUJER,debito,9457,9213663792,México,San Joaquín,Panorama,El Puertecito,35
+ROBLES,GRANDE,CARLOS,1989-07-22,HOMBRE,prestamo personal,5296,6130552588,Michoacán,San Mateo Atenco,Arroyo El Molino,Cumbres III,7
+QUIRINO,VALTIERRA,DIANA LAURA,1989-07-29,MUJER,credito hipotecario,389802,9529678168,Baja California,Jilotepec,Lomas del Campestre 2a Sección,Alianza Ferrocarrilera,2
+MARCELINO,JULIAN,KARLA GUADALUPE,1989-08-04,MUJER,credito departamental,2445,0568216573,Yucatán,Huehuetoca,Aguascalientes 2000,Agua Clara,47
+ROCHA,ESPARZA,GABRIELA,1989-09-17,MUJER,credito refaccionario,60763,4802821490,Querétaro,Zumpahuacán,Guadalupe Posada,Primo Verdad,5
+GARNICA,PUGA,MEREDITH,1989-09-28,MUJER,credito,23096,3361702456,Sonora,Papalotla,Olivares Santana,Salto de Ojocaliente,41
+REA,GAXIOLA,GADIEL,1989-09-29,HOMBRE,credito,15194,1346590118,Tabasco,Pinal de Amoles,Bugambilias,Villa de Nuestra Señora de La Asunción Sector Encino,89
+VALERIO,PARDO,HANNA SOFIA,1989-09-29,MUJER,credito departamental,7845,8284983368,Querétaro,Xonacatlán,Modelo,Centro Distribuidor de Básicos,SN
+JULIAN,TERAN,AMAIA,1989-10-05,MUJER,credito hipotecario,541988,9643071643,San Luis Potosí,Ecatepec de Morelos,San Telmo Residencial,San Luis,83
+CHABLE,PARADA,LUIS MATEO,1989-11-16,HOMBRE,credito refaccionario,92240,6040675025,Sinaloa,San José del Rincón,Villas de Montenegro,Andrea,51
+MUÑIZ,CARREÑO,YAHIR,1989-11-19,HOMBRE,credito hipotecario,916613,5606538574,Puebla,Pedro Escobedo,Curtidores,Villa Loma Dorada,80
+DE LA CRUZ,DE JESUS,ANDREA,1989-11-25,MUJER,credito refaccionario,60965,4924735768,Ciudad de Mexico,Atlautla,Heliodoro Garcia,Lomas del Campestre 1a Sección,95
+LAZARO,TINOCO,ALEXA SOFIA,1989-11-27,MUJER,credito nomina,4659,2916819243,Morelos,Tlaquiltenango,Cerrada El Molino,Rodolfo Landeros Gallegos,78
+OLIVARES,ARROYO,ANGEL GAEL,1989-12-04,HOMBRE,credito departamental,2454,8231520596,Veracruz,Madero,Rinconada los Bosques,Cumbres III,53
+DUEÑAS,GAYOSSO,DAYLIN,1990-01-01,MUJER,credito hipotecario,329672,9290731459,Coahuila,Tequisquiapan,Heliodoro Garcia,Misión Juan Pablo II,55
+MACEDO,BARBA,AILYN,1990-02-20,MUJER,credito nomina,1401,9258727256,Hidalgo,Ixtlán,San Cayetano,Residencial Hacienda San Martín,28
+ELIZALDE,AGUERO,JESUS GABRIEL,1990-05-01,HOMBRE,credito nomina,1085,0277281938,Yucatán,Zináparo,San Telmo,Bellavista,34
+QUIROZ,MATA,CATALINA,1990-05-24,MUJER,credito refaccionario,94731,5045916010,Tlaxcala,Huetamo,Cerrada El Molino,Lic Benito Juárez,SN
+CARREÑO,JAIME,CRISTIAN GAEL,1990-06-07,HOMBRE,credito hipotecario,913592,9696274785,Jalisco,Ayala,Andora Residencial,Lomas de Nueva York,92
+BUENDIA,ASCENCION,LUIS ADRIAN,1990-06-18,HOMBRE,credito hipotecario,919011,6658362008,Ciudad de Mexico,Tepalcatepec,Ciudad Universitaria,El Cariñán,93
+HEREDIA,HARO,CRISTOFER,1990-06-18,HOMBRE,credito refaccionario,51938,5892394963,Yucatán,Tejupilco,Fundición II,Villa de Nuestra Señora de La Asunción Sector San Marcos,SN
+GODOY,ALDANA,DANILO,1990-07-04,HOMBRE,credito hipotecario,296884,1767447347,Puebla,Penjamillo,Bugambilias,El Gigante,25
+SERVIN,CALVA,NATHALIA,1990-08-06,MUJER,credito hipotecario,127358,5053040657,Veracruz,Numarán,Buenos Aires,Pintores Mexicanos,72
+ZEPEDA,ORDOÑEZ,RAUL,1990-08-31,HOMBRE,credito,16930,0023163838,Chihuahua,Puruándiro,Villas de San Francisco,Las Plazas,6
+CRISTOBAL,LICONA,KARIME,1990-09-10,MUJER,credito departamental,8769,2947219575,Morelos,Tumbiscatío,Los Vergeles,Educación Álamos,43
+BLANCAS,BRICEÑO,LUIS CARLOS,1990-09-22,HOMBRE,prestamo personal,6831,9534852828,Coahuila,Angangueo,Valle de Santa Teresa,Versalles 2a Sección,45
+ALBERTO,RUELAS,CELESTE,1990-10-29,MUJER,credito,17833,1331209762,Tamaulipas,San Joaquín,San Pablo,El Edén,46
+CASTAÑON,CANALES,ARELI,1990-10-31,MUJER,prestamo personal,9060,6585172098,Morelos,Ixtapaluca,Trojes del Sol,Ojo de Agua de Palmitas,24
+VICENTE,ESCUDERO,DANIEL ALEJANDRO,1990-11-06,HOMBRE,credito nomina,1033,3598871007,Hidalgo,Cuautitlán,Villas de Montenegro,Las Hadas,49
+ALEJANDRE,MAR,IKER ANTONIO,1990-11-11,HOMBRE,credito departamental,7497,1018371402,Chiapas,Querétaro,San Marcos,Pozo Bravo Sur,57
+ESTRADA,BAEZ,GABRIEL,1990-12-03,HOMBRE,credito hipotecario,316316,6724434661,Zacatecas,Donato Guerra,Villas de Montenegro,La Rinconada,SN
+CHACON,VILLALOBOS,JESUS EMILIANO,1990-12-12,HOMBRE,debito,5668,8162184425,Jalisco,Temascalapa,Línea de Fuego,Las Plazas,12
+BENITO,PASTRANA,MATTEO,1990-12-29,HOMBRE,credito nomina,3001,0795400009,Guanajuato,Jaltenco,Valle del Campanario,Rinconada San Antonio I,27
+BASILIO,ARANDA,PAMELA,1991-01-10,MUJER,credito refaccionario,72275,1670466954,Tamaulipas,Arroyo Seco,Altavista,Triana,4
+ANTUNEZ,HAU,LIAN,1991-01-11,HOMBRE,credito hipotecario,186975,5865200821,Nuevo León,Landa de Matamoros,Gómez,Montebello Della Stanza,12
+ALBA,ZAMUDIO,CARLOS EDUARDO,1991-01-28,HOMBRE,credito nomina,2881,7821116390,Tlaxcala,Chavinda,Residencial Santa Clara,Las Cumbres,SN
+CALVO,ARROYO,ANA REGINA,1991-03-03,MUJER,credito nomina,1417,0297714950,Sinaloa,Naucalpan de Juárez,Los Bosques,S.T.E.M.A.,6
+EUAN,ROSARIO,MAGALY,1991-03-19,MUJER,credito refaccionario,78686,4618945665,Querétaro,Tonanitla,Villas de San Nicolás,Vistas del Sur,51
+MERAZ,HERMOSILLO,MARIA INES,1991-04-29,MUJER,credito refaccionario,92939,9813632436,Querétaro,Tiquicheo de Nicolás Romero,Residencial del Valle II,Veteranos de la Revolución,43
+RUIZ,CARREÑO,ALEXANDER,1991-05-09,HOMBRE,credito nomina,4953,5911266344,Zacatecas,Acolman,Curtidores,Natura,SN
+LUCAS,POLANCO,IAN SANTIAGO,1991-06-10,HOMBRE,credito avio,261611,1122036752,Veracruz,Pinal de Amoles,Línea de Fuego,Villa de Nuestra Señora de La Asunción Sector San Marcos,18
+ARAIZA,REGALADO,NATHALY,1991-07-07,MUJER,debito,9722,7865305509,Chihuahua,Nextlalpan,La Perla Norte,Ojo de Agua FOVISSSTE 1a Sección,SN
+CAYETANO,URIAS,ALINA,1991-07-17,MUJER,credito refaccionario,95463,2209888226,Yucatán,Azcapotzalco,San Cayetano,El Dorado 1a Sección,SN
+BALBUENA,VILCHIS,ALISON GUADALUPE,1991-07-21,MUJER,credito refaccionario,62763,2491758577,Aguascalientes,Amacuzac,Trojes del Sol,Lomas de Vistabella,45
+MENDOZA,ZAMBRANO,NATALIA,1991-07-29,MUJER,credito refaccionario,90337,3212469799,Hidalgo,Aculco,La Concordia,Montebello Della Stanza,SN
+CONSTANTINO,SEBASTIAN,VIRGINIA,1991-08-23,MUJER,credito departamental,6458,0438667412,Baja California Sur,El Marqués,Moderno,Villa Notre Dame,24
+TOSCANO,HIPOLITO,AZUL,1991-09-02,MUJER,credito departamental,7008,8207250812,Jalisco,Atlautla,Trojes de Oriente,Puerta Navarra,79
+VALENTE,ELIZONDO,JOSE ELIAS,1991-09-07,HOMBRE,credito hipotecario,384886,3836273947,Baja California Sur,Chiautla,Las Trojes,Morelos,52
+TENORIO,FALCON,JOSE TADEO,1991-09-24,HOMBRE,prestamo personal,8923,5529113789,Guanajuato,Villa del Carbón,San Marcos,Palma Real,47
+RAYA,QUINTERO,LIAM SEBASTIAN,1991-10-05,HOMBRE,credito avio,244018,6449270888,Querétaro,Tetela del Volcán,Arroyo El Molino,El Gigante,SN
+FUENTES,ROBLEDO,ALONDRA,1991-10-29,MUJER,credito refaccionario,62945,2910694859,Nayarit,San Simón de Guerrero,Galerías,Lomas de Bellavista,67
+SANCHEZ,VIRGEN,LEONARDO,1991-11-30,HOMBRE,credito hipotecario,930072,5425354723,Tabasco,Huimilpan,Fundición II,Villa de Nuestra Señora de La Asunción Sector Guadalupe,78
+GATICA,ZARCO,REGINA SOFIA,1991-12-02,MUJER,prestamo personal,9796,2549796998,Tamaulipas,La Magdalena Contreras,Villas de La Universidad,Hacienda Nueva,66
+VARGAS,LAZCANO,MAXIMILIANO,1991-12-03,HOMBRE,credito departamental,8614,9212152110,Puebla,Cocotitlán,San Marcos,San José del Arenal,85
+MERIDA,LEDEZMA,SARA SOFIA,1991-12-17,MUJER,credito,18622,9328956313,Michoacán,Tetecala,La Perla Norte,El Barranco,25
+HURTADO,CAMACHO,MIA SOFIA,1991-12-27,MUJER,credito refaccionario,53831,4752741658,Colima,Tetecala,Cadaqués Residencial,El Maguey,61
+MARTINEZ,LOERA,MARIA JOSE,1992-01-17,MUJER,credito avio,103515,1644748874,Campeche,Arroyo Seco,Olivares Santana,Los Ángeles,37
+NEVAREZ,ROQUE,MELINA,1992-02-13,MUJER,credito refaccionario,76430,8759847539,Campeche,Jalpan de Serra,Colinas del Poniente,Jardines de La Cruz,50
+CID,FONSECA,ERICK SANTIAGO,1992-03-29,HOMBRE,debito,9951,1876862270,Colima,Tepetlixpa,La Fe,Parque Industrial Siglo XXI (Ampliación),58
+APARICIO,CANSECO,NAHOMI,1992-05-06,MUJER,credito departamental,7623,1104316798,Coahuila,Coatlán del Río,La Paloma,Lomas del Cobano,69
+GUADALUPE,VIRGEN,LUIS MIGUEL,1992-05-18,HOMBRE,prestamo personal,9428,9946317296,Nayarit,Tejupilco,El Sol,Jardines del Sol,SN
+OLIVA,VILCHIS,ANA LAURA,1992-05-18,MUJER,credito departamental,5871,9801364862,Tlaxcala,Pajacuarán,Las Arboledas,Santa Regina,76
+FELIX,LINO,ALISON,1992-05-24,MUJER,credito refaccionario,60529,5208845429,Campeche,Huandacareo,Las Misiones,El Maguey,96
+VILLEGAS,BAZAN,ELISA,1992-06-21,MUJER,credito refaccionario,62188,8603904826,Sinaloa,Tlatlaya,Panorama,Pozo Bravo Sur,38
+VALLADARES,BAHENA,IVANNA SOFIA,1992-07-01,MUJER,credito refaccionario,94982,9777708111,Ciudad de Mexico,Copándaro,Cadaqués Residencial,Insurgentes,SN
+DE LA O,COVARRUBIAS,JESUS SEBASTIAN,1992-07-09,HOMBRE,prestamo personal,2331,3928467399,Guanajuato,Morelia,Circunvalación Norte,Lomas de Vistabella 2a. Sección,90
+CAZAREZ,DE SANTIAGO,ALESSA,1992-07-15,MUJER,debito,1279,6165910150,Michoacán,Chapultepec,Aguascalientes 2000,Las Hadas,5
+CANCHE,CEPEDA,GERALDINE,1992-07-17,MUJER,credito departamental,7515,1870951876,Querétaro,Coyotepec,Rancho San Antonio,Cerrada San Miguel,SN
+SARABIA,SILVANO,CITLALI,1992-07-25,MUJER,credito,20043,3657054963,Veracruz,Parácuaro,Villas de La Universidad,Santa Margarita,4
+GASCA,RASCON,DEREK,1992-08-04,HOMBRE,credito hipotecario,525537,8079848550,Tabasco,Timilpan,Valle del Rio San Pedro,La Casita,83
+DE LA ROSA,PALOMINO,MIA ISABELLA,1992-08-05,MUJER,prestamo personal,7128,0542668938,Michoacán,Coeneo,Villas de San Nicolás,La Estrella,46
+ESTEBAN,BAEZA,MELISA,1992-08-14,MUJER,prestamo personal,4602,8606325347,Durango,Naucalpan de Juárez,Terzetto,Lic Benito Palomino Dena,79
+ORTA,ROBLES,NANCY,1992-08-29,MUJER,credito departamental,9734,7052672695,Veracruz,Huixquilucan,Misión del Campanario,Cielo Claro,SN
+ARVIZU,ESTRELLA,ANGEL ADRIAN,1992-09-02,HOMBRE,credito refaccionario,87186,1193705977,Chihuahua,Metepec,Villas del Campestre,La Cruz,SN
+CORDERO,OLVERA,LUIS DANIEL,1992-09-30,HOMBRE,credito refaccionario,63654,3112074675,Quintana Roo,Iztapalapa,Libertad,Capittala,86
+DOMINGUEZ,MIRELES,LUIS ANGEL,1992-10-16,HOMBRE,prestamo personal,8754,8620145030,Baja California Sur,Axapusco,Gómez,Bosques del Prado Sur,39
+BONILLA,HAU,LUIS ANTONIO,1992-10-24,HOMBRE,credito nomina,2302,5018700562,Tamaulipas,Tangancícuaro,La Fe,Sartenejo,65
+ALFARO,MANUEL,EMILY SOFIA,1992-10-25,MUJER,credito hipotecario,637683,7722141806,San Luis Potosí,Tuxpan,Modelo,Residencial Campestre Club de Golf,44
+TORRES,PALAFOX,MIGUEL ANGEL,1992-11-01,HOMBRE,prestamo personal,6383,5274242924,Chiapas,Tolimán,Industrial,Las Plazas,34
+LOZA,SARABIA,MARIA DEL ROSARIO,1992-11-12,MUJER,credito hipotecario,671553,5605796327,Sonora,Ayapango,Las Cavas,El Laurel,3
+SOLIS,MURILLO,VANESSA,1992-11-17,MUJER,credito departamental,7660,0807143943,Colima,Lerma,Aguascalientes 2000,Parras,SN
+LINO,GASTELUM,IAN GABRIEL,1992-12-18,HOMBRE,credito departamental,9725,2521465514,Sinaloa,Morelos,Libertad,Rodolfo Landeros Gallegos,67
+ZAMUDIO,AMBROSIO,MARIANO,1993-02-10,HOMBRE,credito nomina,2634,1041194557,Campeche,Jocotitlán,Residencial Santa Clara,Santa Anita 2a Sección,73
+NICOLAS,BUENDIA,DENISSE,1993-02-20,MUJER,credito departamental,4760,3462569562,Jalisco,Azcapotzalco,La Perla Norte,Colinas de Oriente,SN
+BAHENA,TAPIA,DAVID ALEJANDRO,1993-02-27,HOMBRE,credito hipotecario,347214,7004971424,Durango,José Sixto Verduzco,Valle de Santa Teresa,Vergel de la Cantera,36
+SANTOYO,ROSADO,MARTHA,1993-03-16,MUJER,credito,21581,2681071212,Sonora,Villamar,Puerto las Hadas,Canteras de San José,27
+BARRAZA,MONTAÑEZ,SOFIA VICTORIA,1993-04-05,MUJER,credito avio,246810,1886724361,Guanajuato,Ocuilan,Los Calicantos,Lomas de Bellavista,92
+FIGUEROA,ALAMILLA,ALLISON,1993-05-01,MUJER,credito departamental,4663,5492212798,Tamaulipas,Luvianos,Modelo,Residencial del Real,20
+FERRER,COBOS,MANUEL ALEJANDRO,1993-06-04,HOMBRE,credito nomina,4772,1810101753,Zacatecas,El Oro,Libertad,Agua Clara,SN
+PANIAGUA,PAREDES,BRIANA,1993-06-09,MUJER,credito refaccionario,72208,0290185068,Tamaulipas,Temoaya,La Concordia,Jardines de La Convención,SN
+SALINAS,JARA,ANA LUCIA,1993-06-19,MUJER,prestamo personal,5588,4134330010,Morelos,Teoloyucan,Los Sauces,Villas de La Convención,38
+RODRIGUEZ,COTA,VALENTINA,1993-07-04,MUJER,credito refaccionario,57998,9216710466,Veracruz,Ezequiel Montes,La Fundición,Los Naranjos,21
+AREVALO,DE LA PAZ,MARIA VALENTINA,1993-07-20,MUJER,credito,17383,8438196319,Quintana Roo,Luvianos,Rancho San Antonio,Morelos,30
+MAGDALENO,ALONSO,ELIZA,1993-11-26,MUJER,debito,4958,2398652972,Coahuila,Indaparapeo,Pozo Bravo Norte,Morelos 2a Sección,78
+PERALTA,NOH,IAN MATEO,1993-12-11,HOMBRE,credito avio,201125,9713383127,Guerrero,Huaniqueo,Los Jarales,Las Cumbres,6
+TALAVERA,LERMA,LEONARDO GAEL,1993-12-16,HOMBRE,debito,1194,5140780850,Baja California,Nuevo Urecho,Industrial,Monserrat,9
+HIDALGO,OBREGON,EVELIN,1993-12-21,MUJER,credito avio,71523,3630551106,Guanajuato,Ezequiel Montes,Villas de La Universidad,Montebello Della Stanza,6
+PIÑON,LAZCANO,ANGEL ALEXIS,1993-12-26,HOMBRE,debito,6285,5020456504,Guerrero,Jiquilpan,Las Brisas,Villas de Ajedrez,SN
+MEDINA,GUILLEN,SAMANTHA,1994-01-18,MUJER,credito refaccionario,70669,6253671347,Tlaxcala,Coyotepec,Modelo,Unidad Ganadera,SN
+UICAB,ROSADO,IKER JESUS,1994-01-26,HOMBRE,prestamo personal,1102,7259709329,Veracruz,Coalcomán de Vázquez Pallares,Residencial Santa Clara,Providencia,38
+LEON,CORONEL,ESTEFANIA,1994-01-29,MUJER,credito hipotecario,141733,2040835042,Guerrero,Melchor Ocampo,Misión del Campanario,Hacienda el Cobano,17
+BENITEZ,ARROYO,CARLOS DANIEL,1994-02-01,HOMBRE,credito nomina,3843,2175659134,México,Ario,La Enramada,Villas del Vergel,79
+FLORENTINO,FRANCISCO,ELIAN GAEL,1994-02-27,HOMBRE,credito refaccionario,75561,0034325089,Tamaulipas,Amatepec,Villas de Montenegro,Independencia de México,SN
+ROJO,ZURITA,DANNA VICTORIA,1994-03-14,MUJER,credito refaccionario,66329,9942041101,Durango,Erongarícuaro,Terzetto,La Florida l,57
+VIRGEN,OLAN,BELINDA,1994-04-04,MUJER,credito hipotecario,972234,9073839726,Guanajuato,Zitácuaro,Misión del Campanario,Reserva Villa Sur,29
+MONREAL,CORONA,XIMENA SOFIA,1994-06-12,MUJER,credito nomina,4813,0132306017,Coahuila,Ecuandureo,Los Calicantos,Lomas del Sur,66
+MIRANDA,OLMOS,IVANNA,1994-07-09,MUJER,credito departamental,8870,2366468548,Quintana Roo,Otumba,Terzetto,Lic Benito Juárez,SN
+HIGUERA,ROMANO,JULIANA,1994-08-02,MUJER,credito refaccionario,64107,8673589578,Nayarit,Tenango del Aire,Panorama,Lic Primo Verdad INEGI,38
+OLIVERA,OLIVARES,JOSE LEONARDO,1994-09-03,HOMBRE,credito refaccionario,50300,3729773741,Querétaro,Gustavo A. Madero,Las Brisas,Villa Jardín,SN
+CRUZ,BEDOLLA,EMILIANO,1994-09-14,HOMBRE,credito nomina,4872,3993660846,Colima,Landa de Matamoros,Línea de Fuego,Cartagena 1947,49
+CUAUTLE,DOMINGUEZ,JUAN ALBERTO,1994-10-07,HOMBRE,credito,24659,8088559186,Querétaro,Tolimán,Residencial del Valle I,El Puertecito,67
+AHUMADA,RUIZ,ANA CAMILA,1994-10-12,MUJER,credito hipotecario,184188,1128704066,Ciudad de Mexico,Huetamo,Constitución,Emiliano Zapata,SN
+VALENTIN,ARANA,JOSE EMILIO,1994-11-01,HOMBRE,credito nomina,2090,0643187707,Chiapas,Mazatepec,Valle del Campanario,Lic. José López Portillo,19
+LAZCANO,HIDALGO,ALEXA NICOLE,1994-11-21,MUJER,credito avio,278442,2318183391,Baja California,Otumba,Pozo Bravo Norte,Balcones de Ojocaliente,SN
+OLMEDO,HILARIO,ANGEL SEBASTIAN,1994-12-02,HOMBRE,debito,10409,4833078069,Yucatán,San Juan del Río,Guadalupe,Parque Industrial el Vergel,SN
+CABELLO,FERNANDEZ,DAYANA GUADALUPE,1995-01-06,MUJER,credito avio,120412,2079326004,Nayarit,Juárez,Ramon Romo Franco,Lomas de Vistabella,SN
+TOLEDO,BERNABE,NATALY,1995-01-13,MUJER,credito avio,106833,9383922838,Nayarit,Jalpan de Serra,Gremial,Privada Guadalupe,52
+SAMANO,MUÑOZ,ROMINA ISABELLA,1995-01-25,MUJER,prestamo personal,6680,1266529800,Guerrero,Chalco,San Telmo Residencial,Villas del Vergel,28
+CEDILLO,CHAVEZ,LIZETH,1995-01-28,MUJER,debito,11382,0328629855,Oaxaca,Xalatlaco,Aguascalientes 2000,Bosques del Prado Oriente,86
+GODINEZ,NUÑO,ANA MARIA,1995-02-20,MUJER,credito refaccionario,59299,2830270198,Michoacán,Senguio,Panorama,Jardines de Montebello,SN
+AQUINO,LEZAMA,CHRISTIAN,1995-03-21,HOMBRE,credito refaccionario,77633,8795955425,Campeche,Xochimilco,Las Brisas,Cartagena 1947,32
+BRAVO,GUZMAN,SARA,1995-03-21,MUJER,credito,17931,6212037916,Hidalgo,Angamacutiro,Los Vergeles,Centro Distribuidor de Básicos,43
+YAM,BENAVIDES,GRISELDA,1995-03-29,MUJER,credito hipotecario,782421,6489302754,San Luis Potosí,Tumbiscatío,Puerto las Hadas,Cuauhtémoc (Las Palomas),32
+VALDES,CARDONA,DANNA,1995-04-08,MUJER,debito,11260,8771571044,Chiapas,Arroyo Seco,Buenos Aires,Villa de Nuestra Señora de La Asunción Sector Estación,16
+BETANCOURT,VILLALOBOS,LUIS ALEJANDRO,1995-04-21,HOMBRE,prestamo personal,8850,9747249297,Tabasco,Gabriel Zamora,Cerrada de La Misión,La Florida ll,81
+LEZAMA,ACEVES,GLORIA,1995-05-01,MUJER,debito,6194,2510184004,Hidalgo,Otzolotepec,San Cayetano,Lomas del Chapulín,92
+CASTILLO,CALVO,DANIELA,1995-05-21,MUJER,credito departamental,3330,2509578333,Jalisco,Amecameca,Del Carmen,Jardines de Montebello,SN
+OSORIO,RESENDIZ,ALISSON,1995-06-08,MUJER,debito,4966,2910869880,Chihuahua,Aquila,Las Cavas,Residencial Pulgas Pandas Sur,27
+TINAJERO,ESCOBEDO,DAVID ALEXANDER,1995-07-10,HOMBRE,credito avio,203438,5019932172,Veracruz,Tláhuac,Industrial,Lomas del Picacho,SN
+REGALADO,BARRAGAN,EVA,1995-07-13,MUJER,credito,19920,6752856287,Zacatecas,Totolapan,Los Bosques,El Edén,61
+CELESTINO,MARCIAL,DANNA GUADALUPE,1995-07-31,MUJER,credito departamental,3671,8097636642,Yucatán,Tlazazalca,Talamantes Ponce,General José María Morelos y Pavón (Cañada Honda),SN
+BARRAGAN,VENEGAS,ARMANDO,1995-08-12,HOMBRE,debito,4164,1244227683,Baja California Sur,Ayala,San Telmo,Nueva Andalucia Coto Residencial,46
+GARFIAS,POZOS,MAYRA,1995-08-27,MUJER,credito,20646,9224735212,Tamaulipas,Tuxpan,Trojes de Oriente,El Cariñán,10
+URIAS,SEGOVIA,LORENZO,1995-09-30,HOMBRE,credito departamental,3775,6870170558,Oaxaca,Nezahualcóyotl,Rinconada los Bosques,Jardines de La Convención,SN
+CASTAÑEDA,DE LA CRUZ,CAROLINA,1995-11-16,MUJER,credito hipotecario,269164,3545510834,Jalisco,San Antonio la Isla,Los Bosques,La Florida l,56
+CATALAN,GALARZA,ALEXA FERNANDA,1995-12-13,MUJER,credito hipotecario,903677,4059908496,Veracruz,Xonacatlán,Rancho San Antonio,Rinconada Santa Mónica,SN
+VACA,VASQUEZ,JUAN MATEO,1995-12-14,HOMBRE,credito refaccionario,62182,2641472599,Oaxaca,La Piedad,La Fe,Los Negritos,SN
+SEBASTIAN,TOLENTINO,ANGEL ANTONIO,1995-12-20,HOMBRE,debito,3507,4474565858,Yucatán,Vista Hermosa,Valle del Campestre,Circunvalación Poniente,44
+LICONA,BARCENAS,IRVING,1996-01-25,HOMBRE,credito departamental,8728,2476282835,Hidalgo,Marcos Castellanos,Línea de Fuego,Lomas del Mirador,SN
+LOERA,ESPINDOLA,RENATA GUADALUPE,1996-03-27,MUJER,credito avio,164759,3032755454,Chihuahua,Texcoco,Colinas del Poniente,Lomas del Campestre 1a Sección,51
+ROMANO,TIRADO,BRIANNA,1996-03-27,MUJER,credito hipotecario,344552,2718863776,Durango,Benito Juárez,La Concordia,General José María Morelos y Pavón (Cañada Honda),86
+BARTOLO,VILLALOBOS,JOSE ADRIAN,1996-04-04,HOMBRE,credito,18630,1844404555,Veracruz,Coyoacán,Colinas del Rio,El Dorado 2a Sección,80
+VIZCARRA,LEZAMA,SOFIA LEILANY,1996-04-15,MUJER,debito,4343,8062595577,Ciudad de Mexico,Cuitzeo,Las Misiones,Emiliano Zapata,61
+ROBLEDO,ARRIETA,YULIANA,1996-04-30,MUJER,debito,8264,9484202663,Chihuahua,Melchor Ocampo,Las Misiones,Rodolfo Landeros Gallegos,33
+PEDRAZA,CHIMAL,ROSA MARIA,1996-05-02,MUJER,prestamo personal,7810,0469434670,Puebla,Atizapán de Zaragoza,San Marcos,Residencial Campestre Club de Golf,89
+DE DIOS,ARCOS,JOSE MATIAS,1996-05-16,HOMBRE,credito refaccionario,78103,4095509191,México,Malinalco,Cerrada de la Mezquitera,Ojo de Agua INFONAVIT,61
+ESCOBAR,ZAMBRANO,FRIDA SOFIA,1996-05-16,MUJER,credito departamental,8543,8932305804,Ciudad de Mexico,Apatzingán,Rancho San Antonio,El Plateado,95
+PACHECO,OLIVERA,KIMBERLY,1996-05-24,MUJER,prestamo personal,1519,5816497951,Chihuahua,Otzolotepec,Cerrada del Valle,Rodolfo Landeros Gallegos,34
+VITE,EUGENIO,AMBAR,1996-06-05,MUJER,credito departamental,7653,5742926554,Aguascalientes,Axochiapan,Misión de Santiago,Lomas del Sur,65
+BOLAÑOS,CASTAÑON,KARINA,1996-06-23,MUJER,prestamo personal,5029,3772835825,Ciudad de Mexico,Mexicaltzingo,Cerrada El Molino,Zona Militar,7
+ALEJO,CALVO,LIAM MATEO,1996-07-17,HOMBRE,prestamo personal,7317,2200832503,Hidalgo,La Paz,Residencial Altaria,Capittala,56
+HERRERA,MACEDO,FERNANDO,1996-09-27,HOMBRE,credito refaccionario,56456,6772705914,Ciudad de Mexico,Coacalco de Berriozábal,San Marcos,Nueva Rinconada,83
+JACOBO,COLUNGA,AITANA SOFIA,1996-09-28,MUJER,credito,15587,0148949104,Sinaloa,Huixquilucan,Villa de las Trojes,Parras,SN
+PICHARDO,PASCUAL,CARLOS ANTONIO,1996-10-03,HOMBRE,credito avio,99967,5576621310,Morelos,Tepoztlán,Cerrada de La Misión,Canteras de San José,59
+ROSADO,SERNA,TAMARA,1996-11-13,MUJER,credito hipotecario,283084,7402720719,Jalisco,Tlalmanalco,Guadalupe Posada,Versalles 1a Sección,14
+ZEFERINO,AMBROSIO,AXEL JESUS,1996-11-19,HOMBRE,credito nomina,1559,0280264143,Campeche,Zináparo,Santa Fe,Solidaridad 4a Sección,69
+MAR,ZACARIAS,IRENE,1996-12-04,MUJER,credito departamental,8944,1620467089,Campeche,Tlalnepantla,Galerías,El Refugio,SN
+ROQUE,LEZAMA,JESUS ADRIAN,1996-12-09,HOMBRE,credito refaccionario,88586,1860565370,Jalisco,Ocuituco,Trojes de Cristal,Francisco Guel Jimenez,SN
+ARAGON,DURAN,EMMA VICTORIA,1996-12-26,MUJER,credito hipotecario,549474,7317066474,Guanajuato,Tonatico,Heliodoro Garcia,Unidad Ganadera,SN
+CISNEROS,PADILLA,MARCO ANTONIO,1997-01-27,HOMBRE,credito,22676,4818940638,Sonora,Chilchota,Santa Fe,El Cobano,65
+CASTREJON,GUILLEN,JOSEFINA,1997-02-03,MUJER,prestamo personal,5722,9422185506,Nayarit,Luvianos,Trojes de Oriente,Villas de Santa Rosa,81
+JURADO,KU,LUIS MARIO,1997-03-01,HOMBRE,debito,2874,0399110049,Chihuahua,Jungapeo,Colinas de San Ignacio,San Sebastián,SN
+BEDOLLA,BOJORQUEZ,LIAM EDUARDO,1997-04-23,HOMBRE,prestamo personal,2016,1400736122,Aguascalientes,Gustavo A. Madero,Circunvalación Norte,La Loma de los Negritos,SN
+CALIHUA,ALVA,MATEO EMILIANO,1997-04-28,HOMBRE,prestamo personal,8000,4492534442,Nayarit,Acuitzio,San Telmo,Rinconada del Sur,17
+CALVILLO,ALBA,YAMILETH GUADALUPE,1997-05-09,MUJER,credito departamental,9024,0050431027,Baja California,Zinapécuaro,La Paloma,Loma Bonita,52
+GAYOSSO,ROJO,AITANA ISABELLA,1997-05-16,MUJER,credito refaccionario,74865,9625781579,Nayarit,Xalatlaco,Cerrada del Valle,Trojes del Cobano,54
+CARDENAS,ARROYO,MARIA,1997-05-26,MUJER,debito,11007,9724397361,Baja California,Temamatla,San Cayetano,Los Ángeles,60
+CONDE,FELICIANO,LAURA,1997-06-28,MUJER,credito departamental,8138,1230069723,Michoacán,Tlalpan,Buenos Aires,El Laurel,70
+OCAÑA,CRESPO,YESENIA,1997-06-30,MUJER,credito nomina,3805,2461576960,Sonora,San Simón de Guerrero,Buenos Aires,La Lomita,45
+CORDOVA,CANDELARIO,BRAYAN,1997-07-16,HOMBRE,credito nomina,2049,8206269716,Chiapas,Coalcomán de Vázquez Pallares,Valle de las Trojes,Industrial,64
+VERDUGO,ROMAN,BELEN,1997-07-17,MUJER,credito departamental,6632,6648199905,Tamaulipas,Charo,Trojes del Sol,El Maguey,79
+JAUREGUI,POOT,LUIS TADEO,1997-08-02,HOMBRE,prestamo personal,5469,2537908404,Colima,Cuautitlán,Valle de las Trojes,Residencial Cosío,100
+JAIME,POOL,SOFIA ELIZABETH,1997-08-15,MUJER,credito nomina,2132,6103961192,Guerrero,Aquila,Villas de San Nicolás,C.T.M.,55
+CALVARIO,BECERRA,IVAN ALEJANDRO,1997-08-29,HOMBRE,credito avio,53139,0054632405,Hidalgo,San Juan del Río,San Marcos,Jardines de Montebello,SN
+ASCENCION,URIBE,LUCIO,1997-09-29,HOMBRE,credito hipotecario,826808,9678550396,Durango,Malinalco,Arroyo El Molino,El Maguey,18
+ARELLANO,SEGURA,ABRIL,1997-10-22,MUJER,debito,2651,5808216724,Tamaulipas,Texcaltitlán,Villas de La Universidad,Villa de Nuestra Señora de La Asunción Sector Estación,92
+PARTIDA,URIBE,ALEXA YAMILETH,1997-10-29,MUJER,credito hipotecario,795277,1790886585,Chiapas,Xalatlaco,Cadaqués Residencial,Tierra Buena,76
+POOT,ALDANA,ANGEL EDUARDO,1998-02-02,HOMBRE,credito avio,170681,3886595809,Michoacán,Chapa de Mota,La Enramada,Andrea,SN
+GURROLA,CARREON,CARLA,1998-02-11,MUJER,credito departamental,4113,4566406430,Yucatán,Zumpahuacán,Talamantes Ponce,Parque Industrial Siglo XXI,35
+PALACIOS,BLANCO,PABLO,1998-04-26,HOMBRE,credito nomina,3538,7660177351,Nayarit,San José del Rincón,Residencial del Valle I,Puerta Navarra,7
+PEREA,ASCENCION,JACQUELINE,1998-05-10,MUJER,debito,3978,1451162612,Zacatecas,Temoac,Constitución,Las Américas,5
+TREVIÑO,TAPIA,MISAEL,1998-05-19,HOMBRE,debito,9236,4384506026,Zacatecas,Ocoyoacac,Villas del Campestre,Cumbres III,14
+URBINA,IBAÑEZ,ASHLEY,1998-05-23,MUJER,debito,10405,0701840844,Baja California,Atlautla,Modelo,Muralia,74
+QUIJANO,MENDEZ,LEANDRO,1998-05-25,HOMBRE,credito departamental,3013,6662472784,Morelos,Ixtlahuaca,Cerrada de La Misión,Hacienda el Cobano,15
+ZACARIAS,DUEÑAS,ANGEL MATIAS,1998-06-10,HOMBRE,credito refaccionario,88196,2759048431,Querétaro,Carácuaro,Valle de Santa Teresa,Trojes del Cobano,SN
+PUENTE,CASTAÑON,VICTOR,1998-06-17,HOMBRE,credito nomina,1141,5486160279,Oaxaca,Hueypoxtla,Barrio de Santiago,La Higuerilla,SN
+PINEDA,SEVILLA,OLIVER,1998-06-25,HOMBRE,credito refaccionario,71122,9919503026,Aguascalientes,Angangueo,Ciudad Universitaria,La Rinconada,84
+QUEVEDO,PICAZO,AXEL URIEL,1998-06-30,HOMBRE,credito departamental,8295,2961135492,Yucatán,Calimaya,La Enramada,La Luna,42
+LUJAN,GUERRA,LIAM JESUS,1998-07-14,HOMBRE,credito nomina,3840,0846290677,San Luis Potosí,Villa Victoria,Ciudad Universitaria,Providencia,SN
+MOJICA,HAU,LUCIA FERNANDA,1998-09-04,MUJER,credito avio,125302,5842197445,Baja California Sur,Texcaltitlán,San Pablo,Villas de Santa Rosa,71
+PRADO,ELIZALDE,ANAHI,1998-09-04,MUJER,debito,10025,1983402096,Baja California,Chalco,Las Cavas,Morelos,58
+ZARAGOZA,CERVANTES,LUIS ALBERTO,1998-10-01,HOMBRE,credito avio,128245,0342679729,Baja California Sur,Hueyapan,Rinconada los Bosques,Lomas de las Fuentes,22
+MARCOS,EK,MATEO ALEXANDER,1998-10-03,HOMBRE,credito avio,120511,0981513911,San Luis Potosí,Nocupétaro,Fundición II,Ojocaliente INEGI,20
+JARA,SANABRIA,ARLETTE,1998-10-08,MUJER,credito refaccionario,81624,4372380553,México,Cuautitlán Izcalli,Puerto las Hadas,La Estancia,SN
+ROSALES,GASPAR,LUCIANA,1998-11-17,MUJER,credito hipotecario,248174,5726374656,Chihuahua,Naucalpan de Juárez,Misión de Santiago,Bosques del Prado Oriente,61
+BARRERA,NAVARRETE,EMILIA,1998-11-29,MUJER,credito departamental,5553,6578841914,Tamaulipas,Tonatico,Colinas del Poniente,Jardines de Montebello,SN
+MONTEJO,NOH,ISABELA,1998-12-01,MUJER,credito,17286,4600164218,Morelos,Almoloya de Juárez,San Pablo,Independencia de México,81
+ESPINOSA,PINTO,MIGUEL,1998-12-13,HOMBRE,credito hipotecario,234970,2171916838,San Luis Potosí,Texcalyacac,El Sol,Las Plazas,84
+FELICIANO,VALLES,ROMAN,1998-12-17,HOMBRE,credito departamental,2553,2247403269,Puebla,Emiliano Zapata,Trojes de Cristal,Veteranos de la Revolución,24
+RIZO,MARISCAL,IAN DAVID,1999-01-10,HOMBRE,debito,9510,7404336208,México,Valle de Bravo,La Herradura,Abadía,SN
+GIL,AMBRIZ,YARELI,1999-02-05,MUJER,credito refaccionario,92932,7189567384,Nayarit,Tarímbaro,San Pablo,El Roble,100
+ANGELES,MENDEZ,YARETZI,1999-02-09,MUJER,credito nomina,1286,6557416824,Zacatecas,Nahuatzen,Pozo Bravo Norte,Los Ángeles,39
+CARRILLO,POLANCO,RAFAEL,1999-03-04,HOMBRE,prestamo personal,4454,5895502230,Chihuahua,Isidro Fabela,Valle del Campestre,Las Hadas,10
+NERI,BADILLO,OLIVIA,1999-03-18,MUJER,credito,19268,4584782966,Sinaloa,Jilotepec,Misión del Campanario,Las Viñas INFONAVIT,24
+ARGUELLO,RESENDIZ,VICENTE,1999-03-26,HOMBRE,credito,15092,1189476933,Michoacán,Tlaltizapán de Zapata,Villas del Campestre,Pirules INFONAVIT,53
+TRINIDAD,FAJARDO,VICTOR MANUEL,1999-05-19,HOMBRE,credito nomina,2852,7435940405,Sonora,Tzitzio,La Herradura,Agropecuario,SN
+MENDEZ,JULIAN,ISABELLA,1999-07-12,MUJER,credito,18240,8270297489,Morelos,Almoloya de Juárez,Panorama,Privada Guadalupe,58
+MACHUCA,LARIOS,ALEXA VICTORIA,1999-07-13,MUJER,credito,23980,6321443820,Guanajuato,Jiquipilco,Los Calicantos,Francisco Guel Jimenez,98
+QUINTANA,MANRIQUEZ,JORGE LUIS,1999-08-02,HOMBRE,credito nomina,4720,1757833326,Campeche,Huimilpan,El Sol,Villa Notre Dame,37
+BALAM,GALEANA,NOAH,1999-08-31,HOMBRE,credito nomina,3460,3711345390,Morelos,Jungapeo,Libertad,Luis Gómez Zepeda (ferronales),SN
+AMADO,VASQUEZ,FRANCISCO GAEL,1999-09-11,HOMBRE,prestamo personal,7132,4533559831,Baja California,Chapa de Mota,Santa Fe,Cerrada San Miguel,SN
+LAGUNA,BORJA,DYLAN ALEXIS,1999-09-19,HOMBRE,credito,15332,5793248924,Nuevo León,Ocoyoacac,Residencial Altaria,Jardines de La Luz,66
+SIMON,TUN,DANIEL ALEXANDER,1999-09-23,HOMBRE,credito refaccionario,54641,0650594332,Colima,Temixco,Valle Real,Capital City,SN
+CALDERON,BALBUENA,ANDRES,1999-10-20,HOMBRE,credito departamental,3920,5374430285,Quintana Roo,Tezoyuca,Industrial,Natura,81
+ENRIQUEZ,ALFARO,JORGE,1999-10-24,HOMBRE,credito hipotecario,777487,7158279884,Michoacán,Contepec,San Telmo,Macias Arellano,SN
+DOMINGO,AMARO,ALAN JESUS,1999-11-04,HOMBRE,credito avio,284703,6929801138,Nayarit,Salvador Escalante,San Marcos,CERESO (Para Varones y Mujeres),SN
+RAMIREZ,REA,CAMILA,1999-11-04,MUJER,credito nomina,1557,5626326326,Campeche,Jalpan de Serra,Los Sauces,Villa Teresa,24
+SILVANO,AGUILAR,ARANZA GUADALUPE,2000-02-09,MUJER,credito avio,261638,3999602084,Baja California Sur,Naucalpan de Juárez,Pozo Bravo Norte,S.T.E.M.A.,35
+GAMA,MARCELINO,ALLISON GUADALUPE,2000-03-07,MUJER,credito hipotecario,307469,7254643784,Durango,Peñamiller,Guadalupe Posada,Rinconada Pozo Bravo,SN
+ARRIAGA,NEGRETE,ALEXA GUADALUPE,2000-03-30,MUJER,debito,6243,1713947202,Tamaulipas,Pajacuarán,Ramon Romo Franco,Villa Teresa,93
+PRECIADO,OLEA,RUBI,2000-03-30,MUJER,prestamo personal,5775,1056998344,Chiapas,Senguio,San Pablo,Bellavista,SN
+CUELLAR,BRAVO,JESUS MANUEL,2000-04-12,HOMBRE,credito hipotecario,360792,5634396020,Colima,Almoloya del Río,Guadalupe,Nueva Rinconada,26
+GABRIEL,QUEVEDO,NOE,2000-04-29,HOMBRE,credito nomina,4538,8490232195,Durango,Charapan,Trojes de Cristal,Santa Anita 2a Sección,17
+FRAGOSO,VALERO,JESUS ENRIQUE,2000-05-02,HOMBRE,credito nomina,3152,7652503457,Campeche,San Felipe del Progreso,Fundición II,Cima del Chapulín,26
+ARMENTA,PUENTE,BARBARA,2000-05-07,MUJER,credito refaccionario,70998,9180575779,Nayarit,Axochiapan,Villas de San Nicolás,Trento,6
+MELO,LOZANO,ZOE GUADALUPE,2000-05-07,MUJER,debito,7948,4050670374,Tlaxcala,Soyaniquilpan de Juárez,Las Arboledas,Vista del Sol 2a Sección,SN
+DEL RIO,DE ANDA,LUIS ALEXANDER,2000-06-07,HOMBRE,credito hipotecario,141814,4939906946,México,Ario,Santa Fe,Villas del Pilar 1a Sección,95
+MARISCAL,ASCENCION,SHERLYN,2000-06-25,MUJER,debito,3999,0031193791,Nayarit,Polotitlán,Ramon Romo Franco,Solidaridad 3a Sección,42
+GERONIMO,CORNEJO,SARAH,2000-06-29,MUJER,prestamo personal,7319,6787292527,Coahuila,Tlaquiltenango,Los Calicantos,Los Eucaliptos,51
+OLIVAS,VIDALES,MIA FERNANDA,2000-07-01,MUJER,credito,20400,7572723101,Baja California,Buenavista,Villa de las Trojes,Hacienda el Cobano,65
+REYNOSO,DELGADO,SARAI,2000-07-22,MUJER,credito avio,102173,7113429339,Aguascalientes,Huehuetoca,La Paloma,C.T.M.,90
+CHAIREZ,LICONA,LUIS ARMANDO,2000-08-15,HOMBRE,credito,21180,3583138493,San Luis Potosí,Puruándiro,Primavera,Viñedos Valle Redondo,56
+PATRICIO,ROSAS,ANGEL ALEXANDER,2000-09-20,HOMBRE,debito,5805,4292343293,Guanajuato,Tláhuac,Línea de Fuego,El Encino,SN
+LECHUGA,BAUTISTA,JESUS ALEXIS,2000-10-02,HOMBRE,credito avio,184017,9184171065,Morelos,La Paz,Las Brisas,Solidaridad 2a Sección,24
+ALANIS,MORENO,KAREN,2000-11-09,MUJER,debito,4288,2472518245,Ciudad de Mexico,Texcaltitlán,Panorama,Bosques del Prado Norte,38
+CANSECO,JOSE,GERMAN,2000-12-20,HOMBRE,credito departamental,5096,3122251283,Veracruz,Álvaro Obregón,Barrio de Santiago,La Casita,100
+OVIEDO,BALDERAS,YAIR,2001-01-02,HOMBRE,credito refaccionario,79677,9608964468,Morelos,Tolimán,Gómez,Las Flores,19
+SOLORZANO,ESCAMILLA,GONZALO,2001-01-10,HOMBRE,credito hipotecario,197390,1952633877,Tabasco,Ario,San Telmo,La Higuerilla,57
+MANJARREZ,CALVA,MIA RENATA,2001-01-11,MUJER,credito refaccionario,62097,1438971163,Sinaloa,Arroyo Seco,Del Carmen,Villa de Nuestra Señora de La Asunción Sector Alameda,88
+CASIMIRO,GAMBOA,IAN SEBASTIAN,2001-01-18,HOMBRE,credito nomina,1092,5505555070,Yucatán,Tuzantla,Valle de las Trojes,Santa Cruz de la Presa,32
+ANGEL,ESCUDERO,GUILLERMO,2001-02-04,HOMBRE,prestamo personal,4736,0433704582,Ciudad de Mexico,Cuauhtémoc,Colinas de San Ignacio,Lomas de La Asunción,SN
+BARAJAS,RUBIO,OMAR,2001-02-26,HOMBRE,credito avio,150095,4136544779,Coahuila,La Huacana,Valle del Campanario,Santa Anita 2a Sección,82
+BLANCO,ENCISO,MARIO,2001-03-04,HOMBRE,prestamo personal,7240,1813618226,Sinaloa,Venustiano Carranza,Jardines del Campestre,La Rinconada,SN
+CORNEJO,GARNICA,AXEL GAEL,2001-03-11,HOMBRE,credito hipotecario,708781,5046725280,Yucatán,Texcalyacac,Residencial Guadalupe,Sartenejo,65
+QUIÑONEZ,CEBALLOS,RODOLFO,2001-04-06,HOMBRE,credito nomina,2881,8441585428,Quintana Roo,Axapusco,Villas de Montenegro,El Encino,77
+VIVEROS,ZAMARRIPA,MARIAN,2001-05-06,MUJER,credito hipotecario,749536,6350198426,Colima,Tangamandapio,Moderno,Vergel de la Cantera,85
+SILVESTRE,ESTEBAN,SAMANTHA GUADALUPE,2001-05-06,MUJER,credito refaccionario,50224,4096765501,Baja California Sur,Santa Ana Maya,Guadalupe Posada,Lomas del Picacho,27
+MOYA,MAURICIO,RIGOBERTO,2001-06-07,HOMBRE,credito avio,219270,8687147283,Nuevo León,Apaxco,La Herradura,Villa Jardín,66
+CARBALLO,VAZQUEZ,SILVIA,2001-06-22,MUJER,credito refaccionario,52162,4955792801,Chihuahua,Tanhuato,Club Campestre,Viñedos San Felipe,12
+MARTINEZ,SOTO,LUIS EMILIANO,2001-06-26,HOMBRE,credito departamental,3085,5712608069,Coahuila,Nicolás Romero,Los Bosques,Lic Benito Palomino Dena,SN
+SAAVEDRA,ALVARADO,PATRICIO,2001-06-29,HOMBRE,prestamo personal,2265,9401737336,Tamaulipas,Apaxco,Valle del Rio San Pedro,San Xavier,45
+SANTOS,ASCENCIO,EMILY,2001-06-29,MUJER,debito,6926,7728080964,Oaxaca,Xalatlaco,La Paloma,La Estrella,73
+MORALES,BAÑOS,VICTORIA,2001-07-06,MUJER,debito,8154,3807064862,Tlaxcala,Peñamiller,Las Arboledas,Villa de Nuestra Señora de La Asunción Sector Encino,SN
+EK,BAEZA,LUNA,2001-08-17,MUJER,credito refaccionario,93728,8345446154,Puebla,Uruapan,Talamantes Ponce,Capital City,SN
+SALAZAR,ESPINDOLA,YAMILETH,2001-10-15,MUJER,credito refaccionario,90727,2699218463,San Luis Potosí,Chicoloapan,Los Vergeles,Muralia,97
+CHAVARRIA,DIMAS,JOSE MATEO,2001-10-19,HOMBRE,credito hipotecario,179345,8010907008,Coahuila,Teotihuacán,Industrial,Villa Loma Dorada,SN
+NAVARRO,RIOS,ALEXIS,2001-10-31,HOMBRE,credito nomina,4875,1169521160,Guerrero,Ocoyoacac,Los Jarales,Santa Anita 2a Sección,5
+DORANTES,HERRERA,CRISTAL,2001-11-26,MUJER,credito nomina,1122,2105978199,Michoacán,Peribán,Altavista,Lomas de Santa Anita,85
+SALCIDO,AGUAYO,LIA NICOLE,2001-11-27,MUJER,credito departamental,9086,5254077970,Quintana Roo,Zamora,San Telmo Residencial,Morelos 2a Sección,SN
+PABLO,OCAMPO,GRETTEL,2002-01-16,MUJER,debito,3375,9949316878,Aguascalientes,Chapultepec,Talamantes Ponce,Los Arcos,8
+CANO,QUINTANA,ELENA,2002-03-07,MUJER,debito,6187,8445291388,Jalisco,Tonanitla,Residencial del Valle II,Residencial Campestre Club de Golf,70
+LUNA,DE LA ROSA,JOSE ANGEL,2002-03-22,HOMBRE,credito,22971,5252230213,Veracruz,Chapa de Mota,La Herradura,Puerta Navarra,SN
+ISIDRO,BARCENAS,JOSE EMMANUEL,2002-04-30,HOMBRE,credito refaccionario,84044,7558152247,México,Ocuituco,Los Jarales,Barandales de San José,SN
+ROMERO,CANCHE,ALEXA,2002-05-16,MUJER,prestamo personal,5331,1119858365,Yucatán,Atenco,México,El Puertecito,46
+CORDOBA,SERRANO,ANGEL IVAN,2002-06-04,HOMBRE,credito avio,231053,4301933967,Ciudad de Mexico,Ixtlahuaca,Andora Residencial,Solidaridad 3a Sección,73
+MARCIAL,PABLO,AMANDA,2002-06-28,MUJER,credito,18591,2705325849,Tamaulipas,Tlalmanalco,México,Independencia de México,49
+BECERRIL,CORONA,GIANNA,2002-06-28,MUJER,debito,1159,6778117088,Guerrero,Soyaniquilpan de Juárez,Ramon Romo Franco,Villa de Nuestra Señora de La Asunción Sector Encino,SN
+LIMON,AKE,JOEL,2002-07-01,HOMBRE,prestamo personal,5194,8525908870,Durango,Corregidora,Villas de San Francisco,Natura,22
+OLMOS,GAYTAN,MIA NICOLE,2002-07-08,MUJER,prestamo personal,1651,1406563296,Aguascalientes,Temascalcingo,Buenos Aires,El Rosedal,16
+OVANDO,ALCOCER,CARLOS SANTIAGO,2002-07-11,HOMBRE,credito refaccionario,89959,1013769652,Ciudad de Mexico,Venustiano Carranza,Granjas del Campestre,Rinconada San José,SN
+GERARDO,IBAÑEZ,ANGEL SAID,2002-07-13,HOMBRE,credito avio,258495,3015302912,Veracruz,Ocuituco,Villas del Campestre,San Juan,SN
+ARTEAGA,SALMERON,JESUS SANTIAGO,2002-07-24,HOMBRE,credito refaccionario,76290,0673474970,Puebla,Axapusco,Residencial del Valle I,Agropecuario,38
+MORAN,VILLEDA,JOSE GUADALUPE,2002-07-24,HOMBRE,credito refaccionario,77770,8775814852,Jalisco,Coatetelco,Jardines de la Concepción,Cumbres III,21
+JAIMES,BARRON,JOSE EMILIANO,2002-08-14,HOMBRE,credito refaccionario,99443,7388005853,Querétaro,Donato Guerra,Valle de las Trojes,Nueva Andalucia Coto Residencial,SN
+COUOH,ESTRADA,MARICELA,2002-08-24,MUJER,debito,11246,4672271548,Colima,Tequisquiapan,Modelo,Villas del Río,18
+DIMAS,BADILLO,LIA AITANA,2002-09-20,MUJER,debito,11029,6967240844,Tlaxcala,Yautepec,La Perla Norte,Misión Juan Pablo II,33
+TAMAYO,ENCARNACION,DYLAN TADEO,2002-09-30,HOMBRE,credito,16076,1808130984,Tamaulipas,Los Reyes,Bugambilias,La Mancha,SN
+COLORADO,FARIAS,MARINA,2002-10-23,MUJER,credito,20859,6239254315,Chihuahua,Cuernavaca,Misión del Campanario,Porta Canteras,16
+ANGULO,PANIAGUA,ARELY,2002-10-30,MUJER,credito departamental,5503,0216720433,Guerrero,San Simón de Guerrero,Olivares Santana,Villas de La Convención,43
+DE LOS SANTOS,DE JESUS,MONTSERRAT,2002-11-10,MUJER,prestamo personal,5388,7703255054,Nayarit,Numarán,Olivares Santana,Los Naranjos,28
+ACEVEDO,SILVANO,JESUS TADEO,2002-12-08,HOMBRE,credito,20683,6724513731,Ciudad de Mexico,Susupuato,Residencial Guadalupe,Villas del Río,90
+BARBOSA,ZARAGOZA,AMAIRANY,2003-01-05,MUJER,credito refaccionario,93222,9167172995,Chiapas,Coatlán del Río,Aguascalientes 2000,Ex Hacienda La Cantera,1
+CORREA,CANDIA,JUANA,2003-01-27,MUJER,credito,15989,4986223359,Morelos,Tepalcingo,Misión de Santiago,Santa Anita,14
+BRICEÑO,ELIZONDO,CRISTIAN DANIEL,2003-02-01,HOMBRE,credito refaccionario,83887,6007118036,Morelos,Almoloya del Río,Ciudad Universitaria,El Roble,88
+QUINTANILLA,COLORADO,ALAN TADEO,2003-02-02,HOMBRE,debito,2053,6852857572,Michoacán,Almoloya de Alquisiras,Jardines del Campestre,Lomas del Campestre 1a Sección,SN
+NAVARRETE,BECERRA,ESTEBAN,2003-03-06,HOMBRE,credito nomina,4525,2817759042,Durango,Ocampo,Las Brisas,Villa de Nuestra Señora de La Asunción Sector Guadalupe,76
+GALAVIZ,ARREDONDO,MATEO DE JESUS,2003-04-11,HOMBRE,credito departamental,7503,1724680483,Quintana Roo,Zacualpan de Amilpas,Residencial Altaria,Las Torres,90
+TUN,MONTES DE OCA,JOSE FERNANDO,2003-04-25,HOMBRE,credito nomina,1269,8739932319,Quintana Roo,San Lucas,La Fe,Ojocaliente INEGI,59
+HERMOSILLO,VENTURA,ANGEL ISAAC,2003-04-28,HOMBRE,credito avio,283615,0875882030,Coahuila,Cuautla,Valle del Campanario,Lomas del Mirador,38
+ALEMAN,ALMAZAN,ANGEL JESUS,2003-05-04,HOMBRE,credito avio,184393,7381007105,Chihuahua,Ecatzingo,San Telmo,Buenavista,49
+RASCON,CUEVAS,CARLOS DAMIAN,2003-05-13,HOMBRE,credito hipotecario,529908,3743600915,Nuevo León,Zumpango,Granjas del Campestre,Parque Industrial Siglo XXI (Ampliación),SN
+MIGUEL,JIMENEZ,DILAN,2003-06-29,HOMBRE,credito hipotecario,204140,5028601397,Quintana Roo,Tlaltizapán de Zapata,Los Jarales,Nazario Ortiz Garza,43
+MARIANO,ALARCON,JOSE GABRIEL,2003-07-04,HOMBRE,prestamo personal,1679,7353328684,Aguascalientes,Almoloya de Alquisiras,San Marcos,Obraje,SN
+CERON,LEDEZMA,SAID,2003-08-24,HOMBRE,debito,5315,9846214752,Tamaulipas,Metepec,Los Jarales,S.T.E.M.A.,SN
+CHI,VENEGAS,JOSE FRANCISCO,2003-09-05,HOMBRE,credito nomina,1893,9545751444,Guerrero,Toluca,Guadalupe,San José del Arenal,76
+DE LA PAZ,TRUJILLO,ANNA VICTORIA,2003-09-10,MUJER,credito departamental,6210,7989820961,Baja California Sur,Chimalhuacán,Trojes del Sol,Industrial,SN
+ESPARZA,ESTEBAN,ESTRELLA,2003-09-20,MUJER,credito nomina,4763,5213614086,Guanajuato,Chinicuila,Aguascalientes 2000,Hacienda el Cobano,30
+FELIPE,CALDERA,CRISTINA,2003-09-25,MUJER,credito avio,84939,7352035776,Quintana Roo,Teoloyucan,Gremial,Pozo Bravo Sur,100
+VALERO,YAÑEZ,ISABELLA GUADALUPE,2003-10-30,MUJER,credito departamental,8200,8415183172,Durango,Lerma,La Perla Norte,Santa Anita 2a Sección,SN
+FIERRO,GALINDO,MATEO ALEJANDRO,2003-11-04,HOMBRE,credito departamental,4647,1554077132,Guerrero,Tlalpujahua,La Herradura,Fuentes del Lago,73
+RUVALCABA,VELASQUEZ,JOSE GAEL,2003-11-18,HOMBRE,credito avio,296410,0559148644,Baja California Sur,Contepec,Santa Fe,Francisco Guel Jimenez,SN
+NIETO,RAMOS,MIA GUADALUPE,2003-11-18,MUJER,credito nomina,1327,5285528327,Durango,Queréndaro,Villas de La Universidad,El Rosedal,22
