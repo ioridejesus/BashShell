@@ -27,16 +27,39 @@ export ORDENARCOLUMNA=$3
 #Tipo de ordenamiento 1 Ascendente 2 Desdendente
 export TIPOORDENAMIENTO=$4
 
+#Parametro de tiempo de vida de nuestro shell
+
+declare -i Hora_Start="$(date +%H)"
+declare -i Hora_End=$5
 #########################################################################
 #Declaracion de Variables
 
 #Nombre del archivo donde se guardaran los logs
 export ERRORES="log.txt"
+echo "">$ERRORES
 
 #Linea que separa los Errores que ocurran
 separador="-______________________________________________________________________________________________________-"
 
 #########################################################################
+
+#Esta Funcion solo valida si viene o no vacio el parametro
+function ValidarNoVacio {
+
+	ParametroValidar=$1
+	ParametroNumero=$2
+	ParametroMensaje=$3
+
+	if [[ $ParametroValidar == "" ]]
+	then
+		echo "El Parametro ->$ParametroNumero<- no fue recibido">>$ERRORES
+		echo "$separador" >>$ERRORES
+		#exit 1
+	else
+		echo "El Parametro ->$ParametroNumero<- recibido"
+	fi
+
+}
 
 #Validamos la entrada de parametros y validamos que existan y tengan informacion
 
@@ -61,12 +84,17 @@ function ValidarParametros {
 			else
 				echo "El fichero ->$ArchivoAnalizar<- se encuentra vacio" >>$ERRORES
 				echo "$separador" >>$ERRORES
-				exit 1
+			#	sleep 5
+			#	ValidarParametros $ArchivoAnalizar $NumeroParametro $MensajeError
+				DormirBash 
 			fi
 		else
 			echo "El fichero ->$ArchivoAnalizar<- no existe" >>$ERRORES
 			echo "$separador" >>$ERRORES
-			exit 1
+
+			#	sleep 5
+			#	ValidarParametros $ArchivoAnalizar $NumeroParametro $MensajeError
+				DormirBash 
 		fi
 	fi
 }
@@ -86,6 +114,7 @@ function ValidarEncabezados {
 
 	#Contamos los encabezados del archivo CSV
 	export NUMENCABEZADOSESLAVE=$(head -n1 $ArchivoCSV | awk -F',' '{print NF}')
+
 
 	if [[ $NUMENCABEZADOSMASTER = $NUMENCABEZADOSESLAVE ]]; then
 		#Al confirmar que el archivo csv y el archivo txt contienen el mismo numero de encabezados
@@ -120,7 +149,7 @@ function ValidarEncabezados {
 				echo "No se puede continuar debido a: En la linea ->$ok<- los encabezados no coinciden" >>$ERRORES
 				echo "->${ARREGLO[$menosmenos]}<- VS ->$compositor<-" >>$ERRORES
 				echo "$separador" >>$ERRORES
-				exit 1
+				#exit 1
 			fi
 		done
 	else
@@ -130,7 +159,7 @@ function ValidarEncabezados {
 		echo "El Archivo a analizar ->$ArchivoCSV<- contiene ->$NUMENCABEZADOSESLAVE<- encabezados" >>$ERRORES
 		echo "$separador" >>$ERRORES
 
-		exit 1
+		#exit 1
 	fi
 }
 
@@ -146,7 +175,7 @@ function ValidarNumero {
 		else
 			echo "->$NumeroValidate<- NO es un numero" >>$ERRORES
 			echo "$separador" >>$ERRORES
-			exit 1
+			#exit 1
 		fi
 	else
 		if [[ $RangoNumero =~ ^[0-9] ]]; then
@@ -157,12 +186,12 @@ function ValidarNumero {
 				echo "->$NumeroValidate<- NO es un numero o" >>$ERRORES
 				echo "->$NumeroValidate<- Debe de contener ->$RangoNumero<- caracteres y tienes ->$NUMCARACTERES<- caracteres" >>$ERRORES
 				echo "$separador" >>$ERRORES
-				exit 1
+				#exit 1
 			fi
 		else
 			echo "->$RangoNumero<- NO es un parametro valido" >>$ERRORES
 			echo "$separador" >>$ERRORES
-			exit 1
+			#exit 1
 		fi
 	fi
 }
@@ -178,7 +207,7 @@ function ValidarCadena {
 
 		echo "->$StringValidar<- cadena no valida solo letras minusculas o mayusculas alfabeto con acento" >>$ERRORES
 		echo "$separador" >>$ERRORES
-		exit 1
+		#exit 1
 	fi
 
 }
@@ -194,7 +223,7 @@ function ValidarFecha {
 
 		echo "El formato para la fecha es: YYYY-MM-DD" >>$ERRORES
 		echo "$separador" >>$ERRORES
-		exit 1
+		#exit 1
 	fi
 }
 
@@ -203,13 +232,13 @@ function ValidarAlfanumerico {
 	#Recepcion de Parametros
 	StringAlfanumerico=$1
 
-	if [[ $StringAlfanumerico =~ ^[a-zA-Z0-9ñÑáéíóúÁÉÍÓÚitrnvf\(] ]]; then
+	if [[ $StringAlfanumerico =~ ^[a-zA-Z0-9ñÑáéíóúÁÉÍÓÚitrnvf] ]]; then
 		echo "$StringAlfanumerico es una cadena alfanumerica valida"
 	else
 
 		echo "->$StringAlfanumerico<- cadena alfanumerica  no valida" >>$ERRORES
 		echo "$separador" >>$ERRORES
-		exit 1
+		#exit 1
 	fi
 
 }
@@ -254,11 +283,17 @@ function Ordenamiento {
 	ORDENARCOLUMNA=$1
 	TIPOORDENAMIENTO=$2
 
+	#Validamos que el parametro no venga vacio
+	ValidarNoVacio "$ORDENARCOLUMNA" "3" 
+
 	#Validamos que la columna que nos indican sea un numero
 	ValidarNumero $ORDENARCOLUMNA
 
 	#Si la columna que vamos a ordenar es un numero entonces validamos el rango de las columnas
 	if (($ORDENARCOLUMNA >= 1 && $ORDENARCOLUMNA <= $NUMENCABEZADOSESLAVE)); then
+
+		#Validamos que el parametro no venga vacio
+		ValidarNoVacio "$TIPOORDENAMIENTO" "4" 
 
 		#Validamos que el parametro de ordenamiento se un numero
 		ValidarNumero $TIPOORDENAMIENTO
@@ -275,6 +310,7 @@ function Ordenamiento {
 			if (($TIPOORDENAMIENTO == 1)); then
 
 				export VALORESORDENADOS="Ascendente_$NombreColumna$Fecha_Archivo.csv"
+
 
 				#Primero enviamos al archivo los encabezados
 				Encabezado=$(head -1 $NOMBREARCHIVO >>$VALORESORDENADOS)
@@ -296,15 +332,13 @@ function Ordenamiento {
 				echo "Opcion ->1<- Ascendente" >>$ERRORES
 				echo "Opcion ->2<- Descendente" >>$ERRORES
 				echo "$separador" >>$ERRORES
-				exit 1
+				#exit 1
 			fi
 		else
 			if (($TIPOORDENAMIENTO == 1)); then
 
 				export VALORESORDENADOS="Ascendente_$NombreColumna$Fecha_Archivo.csv"
 
-				#Primero enviamos al archivo los encabezados
-				Encabezado=$(head -1 $NOMBREARCHIVO >>$VALORESORDENADOS)
 				#Leemos a partir de la segunda linea, ordenamos y enviamos el resultado al archivo
 				Salida=$(tail -$TOTALFILAS $NOMBREARCHIVO | sort -k $ORDENARCOLUMNA -t , >>$VALORESORDENADOS)
 
@@ -323,37 +357,73 @@ function Ordenamiento {
 				echo "Opcion ->1<- Ascendente" >>$ERRORES
 				echo "Opcion ->2<- Descendente" >>$ERRORES
 				echo "$separador" >>$ERRORES
-				exit 1
+				#exit 1
 			fi
 		fi
 	else
 
 		echo "No existe la columna ->$ORDENARCOLUMNA<-" >>$ERRORES
 		echo "$separador" >>$ERRORES
-		exit 1
+		#exit 1
 	fi
+}
+
+#Creamos una Funcion que manda llamar nuestras funciones
+function ConcatFunctions {
+
+	#Validamos que el ARCHIVO CSV
+	ValidarParametros "$NOMBREARCHIVO" "1" "nombre y ruta del archivo CSV"
+	echo "Archivo ->$NOMBREARCHIVO<- validado CORRECTAMENTE" >>$ERRORES
+
+	#Validamos que el ARCHIVO TXT 
+	ValidarParametros "$ENCABEZADOSARCHIVO" "2" "encabezados del archivo"
+	echo "Archivo ->$ENCABEZADOSARCHIVO<-validado CORRECTAMENTE" >>$ERRORES
+
+		
+	ValidarEncabezados "$ENCABEZADOSARCHIVO" "$NOMBREARCHIVO"
+	echo "Validar encabezados de: ->$NOMBREARCHIVO<- Y ->$ENCABEZADOSARCHIVO<- CORRECTAMENTE" >>$ERRORES
+
+	ValidarColumnasArchivo $NOMBREARCHIVO
+	echo "Validacion de Columnas del archivo ->$NOMBREARCHIVO<- CORRECTAMENTE" >>$ERRORES
+
+	Ordenamiento $ORDENARCOLUMNA $TIPOORDENAMIENTO
+	echo "Archivo ->$VALORESORDENADOS<- Generado Exitosamente" >>$ERRORES
+
+
+}
+
+
+#Verificando el comando sleep
+function DormirBash {
+
+	echo "Inicia la bitacora: $FECHA_ACTUAL" >>$ERRORES
+	echo "" >>$ERRORES
+	
+#Validamos que el parametro de la hora no venga vacio
+	ValidarNoVacio "$Hora_End" "5"
+
+	#Validamos que el Parametro de la hora que nos envian sea un numero
+	ValidarNumero $Hora_End 
+
+
+	while [[ $Hora_Start -ne "$Hora_End" ]]
+	do
+		FECHA_WHILE=$(date +"%d/%m/%Y %H:%M:%S") >>$ERRORES
+		echo "Validando Funciones: $FECHA_WHILE">>$ERRORES
+		
+		sleep 10s
+		ConcatFunctions 
+		
+
+		FECHA_SLEEP=$(date +"%d/%m/%Y %H:%M:%S") >>$ERRORES
+		echo "Fin Funciones: $FECHA_SLEEP" >>$ERRORES
+		#echo "$separador" >>$ERRORES
+	done
+
+	FECHA_FIN=$(date +"%d/%m/%Y %H:%M:%S")
+	echo "Fin Bitacora: $FECHA_FIN" >>$ERRORES
+	echo "" >>$ERRORES
 }
 #Mandamos llamar nuestras funciones
 
-echo "" >>$ERRORES
-echo "Inicia la bitacora: $FECHA_ACTUAL" >>$ERRORES
-echo "" >>$ERRORES
-
-ValidarParametros "$NOMBREARCHIVO" "1" "nombre y ruta del archivo CSV"
-echo "Archivo ->$NOMBREARCHIVO<- validado CORRECTAMENTE" >>$ERRORES
-
-ValidarParametros "$ENCABEZADOSARCHIVO" "2" "encabezados del archivo"
-echo "Archivo ->$ENCABEZADOSARCHIVO<-validado CORRECTAMENTE" >>$ERRORES
-
-ValidarEncabezados "$ENCABEZADOSARCHIVO" "$NOMBREARCHIVO"
-echo "Validar encabezados de: ->$NOMBREARCHIVO<- Y ->$ENCABEZADOSARCHIVO<- CORRECTAMENTE" >>$ERRORES
-
-ValidarColumnasArchivo $NOMBREARCHIVO
-echo "Validacion de Columnas del archivo ->$NOMBREARCHIVO<- CORRECTAMENTE" >>$ERRORES
-
-Ordenamiento $ORDENARCOLUMNA $TIPOORDENAMIENTO
-echo "Archivo ->$VALORESORDENADOS<- Generado Exitosamente" >>$ERRORES
-
-FECHA_FIN=$(date +"%d/%m/%Y %H:%M:%S")
-echo "Fin Bitacora: $FECHA_FIN" >>$ERRORES
-echo "" >>$ERRORES
+DormirBash 
