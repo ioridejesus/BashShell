@@ -1,6 +1,39 @@
 
-Inicia la bitacora: 25/03/2022 13:44:59
+Inicia la bitacora: 25/03/2022 20:12:24
 
-Validando Funciones: 25/03/2022 13:44:59
-Parametro ->1<- obligatorio ->nombre y ruta del archivo CSV<-
--______________________________________________________________________________________________________-
+Validando Funciones: 25/03/2022 20:12:24
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno25-03-2022-20-12-45.csv<- Generado Exitosamente
+Fin Funciones: 25/03/2022 20:12:45
+Validando Funciones: 25/03/2022 20:12:45
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno25-03-2022-20-13-06.csv<- Generado Exitosamente
+Fin Funciones: 25/03/2022 20:13:06
+Validando Funciones: 25/03/2022 20:13:06
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno25-03-2022-20-13-26.csv<- Generado Exitosamente
+Fin Funciones: 25/03/2022 20:13:26
+Validando Funciones: 25/03/2022 20:13:26
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno25-03-2022-20-13-46.csv<- Generado Exitosamente
+Fin Funciones: 25/03/2022 20:13:46
+Validando Funciones: 25/03/2022 20:13:46
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno25-03-2022-20-14-07.csv<- Generado Exitosamente
+Fin Funciones: 25/03/2022 20:14:07
+Validando Funciones: 25/03/2022 20:14:07
