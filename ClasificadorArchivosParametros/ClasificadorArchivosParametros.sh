@@ -254,7 +254,7 @@ then
 
 					Condicionales $CARPETAARCHIVOSDESORDENADOS$STRINGALEATORIO.$line $line $STRINGALEATORIO.$line $STRINGALEATORIO
 
-				done
+		openssl rand -hex 5openssl rand -hex 5openssl rand -hex 5openssl rand -hex 5		done
 				else
 					echo "No se puede crear este archivo debido a: La linea $incrementablearchivo se encuentra vacia ">>$ERRORES
 					echo "$separador">>$ERRORES

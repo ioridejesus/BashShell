@@ -1,37 +1,30 @@
 #!/bin/bash
-#########################################################################
-#Aplicacion:GENERADOR Y CLASIFICADOR DE ARCHIVOS                        #
-#Nombre del shell:LecturaArchivosCSV		 			#
-#Tipo de proceso (BATCH u ONLINE): BATCH                                #
-#Autor: Luis de Jesus Juan                                              #
-#########################################################################
+########################################################################################
+#Aplicacion:LECTURA DE ARCHIVOS Y SALIDA DE ARCHIVOS DE FORMA ASCENDENTE / DESCENDENTE #
+#Nombre del shell:LecturaArchivosCSV		 				       #
+#Tipo de proceso (BATCH u ONLINE): BATCH                                	       #
+#Autor: Luis de Jesus Juan                                              	       #
+########################################################################################
 
-#Fecha en la que inicia nuestro Shell
+#################### Fecha y hora en la que inicia nuestro Shell ####################
 export FECHA_ACTUAL=$(date +"%d/%m/%Y %H:%M:%S")
-#########################################################################
 
-#Recepcion de Parametros
+#################### Recepcion de Parametros ####################
 
 #Ruta y Nombre del Archivo a analizar (CSV)
-
 export NOMBREARCHIVO=$1
 
 #Ruta y Nombre de los encabezados del archivo (TXT) informacion en lista
-
 export ENCABEZADOSARCHIVO=$2
 
 #Numero de Columna para ordenar debe de ser >= 1 y <= Numero de Columnas del archivo CSV
-
 export ORDENARCOLUMNA=$3
 
 #Tipo de ordenamiento 1 Ascendente 2 Desdendente
 export TIPOORDENAMIENTO=$4
 
-iconv -f ISO-8859-1 -t UTF-8//TRANSLIT $ENCABEZADOSARCHIVO -o $ENCABEZADOSARCHIVO"TMP"
-rm $ENCABEZADOSARCHIVO
-sed -e 's/[;,()'\'']/ /g;s/  */ /g' $ENCABEZADOSARCHIVO"TMP" >>$ENCABEZADOSARCHIVO
 
-#Declaracion de Variables
+#################### Declaracion de Variables #################### 
 
 #Nombre del archivo donde se guardaran los logs
 export ERRORES="log.txt"
@@ -42,9 +35,10 @@ echo "" >>$ERRORES
 #Linea que separa los Errores que ocurran
 separador="-______________________________________________________________________________________________________-"
 
-#########################################################################
+#################### Inician las funciones #################### 
 
-#Esta Funcion solo valida si viene o no vacio el parametro
+#Valida si viene o no vacio el parametro en caso de que venga vacio se termina el programa
+
 function ValidarNoVacio {
 
 	ParametroValidar=$1
@@ -60,54 +54,64 @@ function ValidarNoVacio {
 
 }
 
+# Valida que sea un numero, en caso de contar con una longitud la valida y verifica si sale o no del programa
+
 function ValidarNumero {
 
 	#Recepcion de Parametros
 	NumeroValidate=$1
 	RangoNumero=$2
+	ValidarSalida=$3
 
 	if [[ $RangoNumero == "" || $RangoNumero == 0 ]]; then
 		if [[ $NumeroValidate =~ ^[0-9] ]]; then
 			echo "->$NumeroValidate<- es un numero"
 		else
-			echo "->$NumeroValidate<- NO es un numero" >>$ERRORES
-			echo "$separador" >>$ERRORES
-			exit 1
+			if [[ $ValidarSalida == 1 ]]
+			then
+
+				echo "->$NumeroValidate<- NO es un numero" >>$ERRORES
+				echo "$separador" >>$ERRORES
+				exit 1
+			else
+				echo "->$NumeroValidate<- NO es un numero" >>$ERRORES
+				echo "$separador" >>$ERRORES
+			fi
+
 		fi
 	else
 		if [[ $RangoNumero =~ ^[0-9] ]]; then
 			if [[ $NumeroValidate =~ ^[0-9]{$RangoNumero,$RangoNumero}$ ]]; then
 				echo "$NumeroValidate es un numero"
 			else
-				NUMCARACTERES=$(echo $NumeroValidate | awk '{print length($0)}')
-				echo "->$NumeroValidate<- NO es un numero o" >>$ERRORES
-				echo "->$NumeroValidate<- Debe de contener ->$RangoNumero<- caracteres y tienes ->$NUMCARACTERES<- caracteres" >>$ERRORES
+				if [[ $ValidarSalida == 1 ]]
+				then
+					NUMCARACTERES=$(echo $NumeroValidate | awk '{print length($0)}')
+					echo "->$NumeroValidate<- NO es un numero o" >>$ERRORES
+					echo "->$NumeroValidate<- Debe de contener ->$RangoNumero<- caracteres y tienes ->$NUMCARACTERES<- caracteres" >>$ERRORES
+					echo "$separador" >>$ERRORES
+					exit 1
+				else
+					NUMCARACTERES=$(echo $NumeroValidate | awk '{print length($0)}')
+					echo "->$NumeroValidate<- NO es un numero o" >>$ERRORES
+					echo "->$NumeroValidate<- Debe de contener ->$RangoNumero<- caracteres y tienes ->$NUMCARACTERES<- caracteres" >>$ERRORES
+					echo "$separador" >>$ERRORES
+				fi
+			fi
+		else 
+			if [[ $ValidarSalida == 1]]
+			then
+				echo "->$RangoNumero<- NO es un parametro valido" >>$ERRORES
 				echo "$separador" >>$ERRORES
 				exit 1
+			else
+				echo "->$RangoNumero<- NO es un parametro valido" >>$ERRORES
+				echo "$separador" >>$ERRORES
 			fi
-		else
-			echo "->$RangoNumero<- NO es un parametro valido" >>$ERRORES
-			echo "$separador" >>$ERRORES
-			exit 1
 		fi
 	fi
 }
 
-#########################################################################
-
-#Parametro de tiempo de vida de nuestro shell
-
-#Validamos que el parametro de la hora no venga vacio
-ValidarNoVacio "$5" "5"
-
-#Validamos que el Parametro de la hora que nos envian sea un numero
-ValidarNumero $5
-
-declare -i Hora_End=$5
-
-declare -i Hora_Start="$(date +%H)"
-
-#########################################################################
 
 #Validamos la entrada de parametros y validamos que existan y tengan informacion
 
@@ -147,15 +151,13 @@ function ValidarParametros {
 	fi
 }
 
-#Validar que el archivo CSV y el archivo con los encabezados contengan el mismo numero de encabezados
+#Valida archivo que el fichero CSV y TXT contengan el mismo numero de encabezados
 
 function ValidarEncabezados {
 
 	#Recepcion de Parametros
 	ArchivoTXT=$1
 	ArchivoCSV=$2
-
-	#Verificamos que el numero de encabezados de nuestro archivo encabezados tenga el mismo numero de encavezados del archivo a analizar
 
 	#Contamos el numero de lineas que contiene el archivo txt que contiene los encabezados
 	NUMENCABEZADOSMASTER=$(wc $ArchivoTXT | awk '{print $1}')
@@ -164,28 +166,28 @@ function ValidarEncabezados {
 	#Contamos los encabezados del archivo CSV
 	export NUMENCABEZADOSESLAVE=$(head -n1 $ArchivoCSV | awk -F',' '{print NF}')
 	echo $NUMENCABEZADOSESLAVE
-
+	
+	#Validamos que el numero de encabezados sean iguales
 	if [[ $NUMENCABEZADOSMASTER = $NUMENCABEZADOSESLAVE ]]; then
-		#Al confirmar que el archivo csv y el archivo txt contienen el mismo numero de encabezados
-		#enviamos mensaje a la bitacora donde efectivamente coinciden el numero de encabezados esto
-		#no significa que los encabezados coincidan en el nombre
 
 		echo "El Archivo donde se definen los encabezados ->$ArchivoTXT<- contiene ->$NUMENCABEZADOSMASTER<- encabezados"
 		echo "El Archivo a analizar ->$ArchivoCSV<- contiene ->$NUMENCABEZADOSESLAVE<- encabezados"
 
-		#Declaramos un array para almacenar cada linea de los encabezados en un arreglo
+		#El archivo que contiene los encabezados (txt) debe de estar en forma de lista y los almacenamos en
+		# un arreglo para poder compararlo despues con el fichero csv
+
 		ARREGLO=()
-		#Leemos el archivo que contiene el orden de los encabezados
+
+		#Leemos el archivo txt y guardamos cada linea en nuestro arreglo
 
 		while FS= read line; do
 			ARREGLO+=($line)
-			echo "Hola $line"
 		done <$ArchivoTXT
 
 		#A continuacion Leemos los encabezados de nuestro csv y aprovecharemos ese ciclo for para hacer la
 		#comparacion con nuestro array para verificar que esten en la posicion indicada
+
 		menosmenos=0
-		echo "Posicion 0: ${ARREGLO[12]}"
 
 		for ((i = 1; i <= $NUMENCABEZADOSMASTER; i++)); do
 
@@ -217,6 +219,7 @@ function ValidarEncabezados {
 	fi
 }
 
+# Validamos si la cadena contine solo letras y agregamos la excepcion de la ñ
 function ValidarCadena {
 
 	#Recepcion de Parametros
@@ -233,6 +236,7 @@ function ValidarCadena {
 
 }
 
+#Validamos el formato de la fecha YYYY-MM-DD
 function ValidarFecha {
 
 	#Recepcion de Parametros
@@ -248,6 +252,7 @@ function ValidarFecha {
 	fi
 }
 
+#Validamos que la cadena pueda contener letras y numeros
 function ValidarAlfanumerico {
 
 	#Recepcion de Parametros
@@ -264,6 +269,7 @@ function ValidarAlfanumerico {
 
 }
 
+# Leemos nuestro archivo CSV y verificamos que cada celda corresponda a un tipo de dato 
 function ValidarColumnasArchivo {
 
 	#Recepcion de Parametros
@@ -298,6 +304,7 @@ function ValidarColumnasArchivo {
 	done
 }
 
+# ordenamos en un nuevo fichero de forma ascendente o descendete de acuerdo a los parametros establecidos
 function Ordenamiento {
 
 	#Recepcion de parametros Columna a ordenar, tipo de ordenamiento (Ascendente, Descendente)
@@ -388,7 +395,7 @@ function Ordenamiento {
 	fi
 }
 
-#Creamos una Funcion que manda llamar nuestras funciones
+#Creamos una Funcion princial la cual manda llamar a otras funciones para la ejecucion del programa
 function ConcatFunctions {
 
 	#Validamos que el ARCHIVO CSV
@@ -414,7 +421,7 @@ function ConcatFunctions {
 function DormirBash {
 
 	while [[ $Hora_Start -ne "$Hora_End" ]]; do
-		FECHA_WHILE=$(date +"%d/%m/%Y %H:%M:%S") >>$ERRORES
+		FECHA_WHILE=$(date +"%d/%m/%Y %H:%M:%S")
 		echo "Validando Funciones: $FECHA_WHILE" >>$ERRORES
 
 		sleep 10s
@@ -429,10 +436,23 @@ function DormirBash {
 	echo "Fin Bitacora: $FECHA_FIN" >>$ERRORES
 	echo "" >>$ERRORES
 }
+
+#########################################################################
+
+#Parametro de tiempo de vida de nuestro shell
+
+#Validamos que el parametro de la hora no venga vacio
+ValidarNoVacio "$5" "5"
+
+#Validamos que el Parametro de la hora que nos envian sea un numero
+ValidarNumero $5
+
+declare -i Hora_End=$5
+
+declare -i Hora_Start="$(date +%H)"
+
+#########################################################################
 #Mandamos llamar nuestras funciones
 
-iconv -f ISO-8859-1 -t UTF-8//TRANSLIT $ENCABEZADOSARCHIVO -o $ENCABEZADOSARCHIVO"TMP"
-rm $ENCABEZADOSARCHIVO
-sed -e 's/[;,()'\'']/ /g;s/  */ /g' $ENCABEZADOSARCHIVO"TMP" >>$ENCABEZADOSARCHIVO
 
 DormirBash
