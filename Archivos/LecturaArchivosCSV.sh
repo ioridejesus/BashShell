@@ -1,7 +1,7 @@
 #!/bin/bash
 ########################################################################################
 #Aplicacion:LECTURA DE ARCHIVOS Y SALIDA DE ARCHIVOS DE FORMA ASCENDENTE / DESCENDENTE #
-#Nombre del shell:LecturaArchivosCSV												   #
+#Nombre del shell:LecturaArchivosCSV.sh												   #
 #Tipo de proceso (BATCH u ONLINE): BATCH                                	           #
 #Autor: Luis de Jesus Juan                                              	           #
 ########################################################################################
@@ -23,8 +23,7 @@ export ORDENARCOLUMNA=$3
 #Tipo de ordenamiento 1 Ascendente 2 Desdendente
 export TIPOORDENAMIENTO=$4
 
-
-#################### Declaracion de Variables #################### 
+#################### Declaracion de Variables ####################
 
 #Nombre del archivo donde se guardaran los logs
 export ERRORES="log.txt"
@@ -35,7 +34,7 @@ echo "" >>$ERRORES
 #Linea que separa los Errores que ocurran
 separador="-______________________________________________________________________________________________________-"
 
-#################### Inician las funciones #################### 
+#################### Inician las funciones ####################
 
 #Valida si viene o no vacio el parametro en caso de que venga vacio se termina el programa
 
@@ -43,9 +42,10 @@ function ValidarNoVacio {
 
 	ParametroValidar=$1
 	ParametroNumero=$2
+	ParametroMensaje=$3
 
 	if [[ $ParametroValidar == "" ]]; then
-		echo "El Parametro ->$ParametroNumero<- no fue recibido" >>$ERRORES
+		echo "El Parametro ->$ParametroNumero<- no fue recibido $ParametroMensaje" >>$ERRORES
 		echo "$separador" >>$ERRORES
 		exit 1
 	else
@@ -69,8 +69,7 @@ function ValidarNumero {
 		if [[ $NumeroValidate =~ ^[0-9] ]]; then
 			echo "->$NumeroValidate<- es un numero"
 		else
-			if [[ $ValidarSalida == 1 ]]
-			then
+			if [[ $ValidarSalida == 1 ]]; then
 
 				echo "->$NumeroValidate<- NO es un numero $Mensaje_Numero" >>$ERRORES
 				echo "$separador" >>$ERRORES
@@ -86,8 +85,7 @@ function ValidarNumero {
 			if [[ $NumeroValidate =~ ^[0-9]{$RangoNumero,$RangoNumero}$ ]]; then
 				echo "$NumeroValidate es un numero"
 			else
-				if [[ $ValidarSalida == 1 ]]
-				then
+				if [[ $ValidarSalida == 1 ]]; then
 					NUMCARACTERES=$(echo $NumeroValidate | awk '{print length($0)}')
 					echo "->$NumeroValidate<- NO es un numero o" >>$ERRORES
 					echo "->$NumeroValidate<- Debe de contener ->$RangoNumero<- caracteres y tienes ->$NUMCARACTERES<- caracteres $Mensaje_Numero" >>$ERRORES
@@ -100,9 +98,8 @@ function ValidarNumero {
 					echo "$separador" >>$ERRORES
 				fi
 			fi
-		else 
-			if [[ $ValidarSalida == 1 ]]
-			then
+		else
+			if [[ $ValidarSalida == 1 ]]; then
 				echo "->$RangoNumero<- NO es un parametro valido $Mensaje_Numero" >>$ERRORES
 				echo "$separador" >>$ERRORES
 				exit 1
@@ -113,7 +110,6 @@ function ValidarNumero {
 		fi
 	fi
 }
-
 
 #Validamos la entrada de parametros y validamos que existan y tengan informacion
 
@@ -138,7 +134,7 @@ function ValidarParametros {
 			else
 				echo "El fichero ->$ArchivoAnalizar<- se encuentra vacio" >>$ERRORES
 				echo "$separador" >>$ERRORES
-				
+
 				DormirBash
 			fi
 		else
@@ -165,7 +161,7 @@ function ValidarEncabezados {
 	#Contamos los encabezados del archivo CSV
 	export NUMENCABEZADOSESLAVE=$(head -n1 $ArchivoCSV | awk -F',' '{print NF}')
 	echo $NUMENCABEZADOSESLAVE
-	
+
 	#Validamos que el numero de encabezados sean iguales
 	if [[ $NUMENCABEZADOSMASTER = $NUMENCABEZADOSESLAVE ]]; then
 
@@ -223,14 +219,15 @@ function ValidarCadena {
 
 	#Recepcion de Parametros
 	StringValidar=$1
+	StringMensajeCadena=$2
 
 	if [[ $1 =~ ^[A-Za-zñÑ] ]]; then
 		echo "$StringValidar es una cadena valida"
 	else
 
-		echo "->$StringValidar<- cadena no valida solo letras minusculas o mayusculas alfabeto con acento" >>$ERRORES
+		echo "->$StringValidar<- cadena no valida solo letras minusculas o mayusculas alfabeto con acento $StringMensajeCadena" >>$ERRORES
 		echo "$separador" >>$ERRORES
-		DormirBash
+
 	fi
 
 }
@@ -240,14 +237,15 @@ function ValidarFecha {
 
 	#Recepcion de Parametros
 	FechaValidar=$1
+	FechaMensaje=$2
 
 	if [[ $FechaValidar =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
 		echo "Fecha $FechaValidar Aceptada"
 	else
 
-		echo "El formato para la fecha es: YYYY-MM-DD" >>$ERRORES
+		echo "El formato para la fecha es: YYYY-MM-DD $FechaMensaje" >>$ERRORES
 		echo "$separador" >>$ERRORES
-		DormirBash
+
 	fi
 }
 
@@ -256,19 +254,20 @@ function ValidarAlfanumerico {
 
 	#Recepcion de Parametros
 	StringAlfanumerico=$1
+	StringMensaje=$2
 
 	if [[ $StringAlfanumerico =~ ^[a-zA-Z0-9ñÑáéíóúÁÉÍÓÚitrnvf] ]]; then
 		echo "$StringAlfanumerico es una cadena alfanumerica valida"
 	else
 
-		echo "->$StringAlfanumerico<- cadena alfanumerica  no valida" >>$ERRORES
+		echo "->$StringAlfanumerico<- cadena alfanumerica  no valida $StringMensaje" >>$ERRORES
 		echo "$separador" >>$ERRORES
-		DormirBash
+
 	fi
 
 }
 
-# Leemos nuestro archivo CSV y verificamos que cada celda corresponda a un tipo de dato 
+# Leemos nuestro archivo CSV y verificamos que cada celda corresponda a un tipo de dato
 function ValidarColumnasArchivo {
 
 	#Recepcion de Parametros
@@ -282,20 +281,20 @@ function ValidarColumnasArchivo {
 
 		for i in "${OBTENERCOLUMNA[@]}"; do
 			if [[ $NUMEROCOLUMNA == 1 || $NUMEROCOLUMNA == 2 || $NUMEROCOLUMNA == 3 || $NUMEROCOLUMNA == 5 || $NUMEROCOLUMNA == 6 || $NUMEROCOLUMNA == 9 || $NUMEROCOLUMNA == 10 ]]; then
-				ValidarCadena $i
+				ValidarCadena $i "en la la columna ->$j<-"
 
 			elif [[ $NUMEROCOLUMNA == 4 ]]; then
-				ValidarFecha $i
+				ValidarFecha $i "en la la columna ->$j<-"
 
 			elif [[ $NUMEROCOLUMNA == 7 ]]; then
 
-				ValidarNumero $i "" 2 "en la la columna $j"
+				ValidarNumero $i "" 2 "en la la columna ->$j<-"
 
 			elif [[ $NUMEROCOLUMNA == 8 ]]; then
-				ValidarNumero $i 10 2 "en la columna $j"
+				ValidarNumero $i 10 2 "en la columna ->$j<-"
 
 			elif [[ $NUMEROCOLUMNA == 11 || $NUMEROCOLUMNA == 12 || $NUMEROCOLUMNA == 13 ]]; then
-				ValidarAlfanumerico $i
+				ValidarAlfanumerico $i "en la la columna ->$j<-"
 			else
 				echo "No existe la columna: ->$NUMEROCOLUMNA<-" >>$ERRORES
 				echo "$separador" >>$ERRORES
@@ -312,7 +311,7 @@ function Ordenamiento {
 	TIPOORDENAMIENTO=$2
 
 	#Validamos que el parametro no venga vacio
-	ValidarNoVacio "$ORDENARCOLUMNA" "3"
+	ValidarNoVacio "$ORDENARCOLUMNA" "3" "(Numero de columna a ordenar)"
 
 	#Validamos que la columna que nos indican sea un numero
 	ValidarNumero $ORDENARCOLUMNA "" 1 "En el parametro 3"
@@ -321,7 +320,7 @@ function Ordenamiento {
 	if (($ORDENARCOLUMNA >= 1 && $ORDENARCOLUMNA <= $NUMENCABEZADOSESLAVE)); then
 
 		#Validamos que el parametro no venga vacio
-		ValidarNoVacio "$TIPOORDENAMIENTO" "4"
+		ValidarNoVacio "$TIPOORDENAMIENTO" "4" "(Tipo de Ordenamiento 1 Ascendente | 2 Descendente)"
 
 		#Validamos que el parametro de ordenamiento se un numero
 		ValidarNumero $TIPOORDENAMIENTO "" 1 "En el parametro 4"
@@ -437,20 +436,28 @@ function DormirBash {
 	echo "" >>$ERRORES
 }
 
-#################### Validacion de Parametros Numericos #################### 
+#################### Validacion de Parametros Numericos ####################
 
 # Parametro Columna Ordenamiento que no venga vacio y que sea un numero
-ValidarNoVacio "$3" "3"
+ValidarNoVacio "$3" "3" "(Numero de columna a ordenar)"
 ValidarNumero $3 "" 1 "el parametro ->3<- indica la columna en la cual se va a ordenar"
 
 # Parametro Columna Ordenamiento que no venga vacio y que sea un numero
-ValidarNoVacio "$4" "4"
+ValidarNoVacio "$4" "4" "(Tipo de Ordenamiento 1 Ascendente | 2 Descendente)"
 ValidarNumero $4 "" 1 "el parametro ->4<- indica el ordenamiento 1 Ascendente | 2 Descendente"
 
 #Validamos que el parametro de la hora no venga vacio y la hora que nos envian sea un numero
-ValidarNoVacio "$5" "5"
+ValidarNoVacio "$5" "5" "(indica la hora en que finaliza el proceso DOS Digitos)"
 
-ValidarNumero $5 "" 1 "el parametro ->5<- indica la hora en que finaliza el proceso"
+ValidarNumero $5 2 1 "el parametro ->5<- indica la hora en que finaliza el proceso DOS Digitos"
+
+#Validamos que la hora 00 - 24 hrs
+if (($5 > 0 && $5 <= 24)); then
+	echo "Hora validada correctamente"
+else
+	echo "La hora debe de ser entre las 01 y 24 Hrs">>$ERRORES
+	exit 1
+fi
 
 declare -i Hora_End=$5
 

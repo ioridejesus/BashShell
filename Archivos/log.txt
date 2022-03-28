@@ -1,68 +1,624 @@
 
-Inicia la bitacora: 28/03/2022 00:56:51
+Inicia la bitacora: 28/03/2022 10:15:32
 
-Validando Funciones: 28/03/2022 00:56:51
-Archivo ->encabezados.txt<- validado CORRECTAMENTE
-Archivo ->Personas.csv<-validado CORRECTAMENTE
-No se puede continuar debido a:
-El Archivo donde se definen los encabezados ->Personas.csv<- contiene ->1002<- encabezados
-Y
-El Archivo a analizar ->encabezados.txt<- contiene ->1<- encabezados
+Validando Funciones: 28/03/2022 10:15:32
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
 -______________________________________________________________________________________________________-
-Validando Funciones: 28/03/2022 00:57:01
-Archivo ->encabezados.txt<- validado CORRECTAMENTE
-Archivo ->Personas.csv<-validado CORRECTAMENTE
-No se puede continuar debido a:
-El Archivo donde se definen los encabezados ->Personas.csv<- contiene ->1002<- encabezados
-Y
-El Archivo a analizar ->encabezados.txt<- contiene ->1<- encabezados
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
 -______________________________________________________________________________________________________-
-Validando Funciones: 28/03/2022 00:57:11
-Archivo ->encabezados.txt<- validado CORRECTAMENTE
-Archivo ->Personas.csv<-validado CORRECTAMENTE
-No se puede continuar debido a:
-El Archivo donde se definen los encabezados ->Personas.csv<- contiene ->1002<- encabezados
-Y
-El Archivo a analizar ->encabezados.txt<- contiene ->1<- encabezados
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
 -______________________________________________________________________________________________________-
-Validando Funciones: 28/03/2022 00:57:21
-Archivo ->encabezados.txt<- validado CORRECTAMENTE
-Archivo ->Personas.csv<-validado CORRECTAMENTE
-No se puede continuar debido a:
-El Archivo donde se definen los encabezados ->Personas.csv<- contiene ->1002<- encabezados
-Y
-El Archivo a analizar ->encabezados.txt<- contiene ->1<- encabezados
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
 -______________________________________________________________________________________________________-
-Validando Funciones: 28/03/2022 00:57:31
-Archivo ->encabezados.txt<- validado CORRECTAMENTE
-Archivo ->Personas.csv<-validado CORRECTAMENTE
-No se puede continuar debido a:
-El Archivo donde se definen los encabezados ->Personas.csv<- contiene ->1002<- encabezados
-Y
-El Archivo a analizar ->encabezados.txt<- contiene ->1<- encabezados
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
 -______________________________________________________________________________________________________-
-Validando Funciones: 28/03/2022 00:57:41
-Archivo ->encabezados.txt<- validado CORRECTAMENTE
-Archivo ->Personas.csv<-validado CORRECTAMENTE
-No se puede continuar debido a:
-El Archivo donde se definen los encabezados ->Personas.csv<- contiene ->1002<- encabezados
-Y
-El Archivo a analizar ->encabezados.txt<- contiene ->1<- encabezados
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
 -______________________________________________________________________________________________________-
-Validando Funciones: 28/03/2022 00:57:51
-Archivo ->encabezados.txt<- validado CORRECTAMENTE
-Archivo ->Personas.csv<-validado CORRECTAMENTE
-No se puede continuar debido a:
-El Archivo donde se definen los encabezados ->Personas.csv<- contiene ->1002<- encabezados
-Y
-El Archivo a analizar ->encabezados.txt<- contiene ->1<- encabezados
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
 -______________________________________________________________________________________________________-
-Validando Funciones: 28/03/2022 00:58:01
-Archivo ->encabezados.txt<- validado CORRECTAMENTE
-Archivo ->Personas.csv<-validado CORRECTAMENTE
-No se puede continuar debido a:
-El Archivo donde se definen los encabezados ->Personas.csv<- contiene ->1002<- encabezados
-Y
-El Archivo a analizar ->encabezados.txt<- contiene ->1<- encabezados
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
 -______________________________________________________________________________________________________-
-Validando Funciones: 28/03/2022 00:58:11
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno28-03-2022-10-15-47.csv<- Generado Exitosamente
+Fin Funciones: 28/03/2022 10:15:47
+Validando Funciones: 28/03/2022 10:15:47
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno28-03-2022-10-16-02.csv<- Generado Exitosamente
+Fin Funciones: 28/03/2022 10:16:02
+Validando Funciones: 28/03/2022 10:16:02
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno28-03-2022-10-16-17.csv<- Generado Exitosamente
+Fin Funciones: 28/03/2022 10:16:17
+Validando Funciones: 28/03/2022 10:16:17
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno28-03-2022-10-16-31.csv<- Generado Exitosamente
+Fin Funciones: 28/03/2022 10:16:31
+Validando Funciones: 28/03/2022 10:16:31
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno28-03-2022-10-16-46.csv<- Generado Exitosamente
+Fin Funciones: 28/03/2022 10:16:46
+Validando Funciones: 28/03/2022 10:16:46
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno28-03-2022-10-17-01.csv<- Generado Exitosamente
+Fin Funciones: 28/03/2022 10:17:01
+Validando Funciones: 28/03/2022 10:17:01
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno28-03-2022-10-17-16.csv<- Generado Exitosamente
+Fin Funciones: 28/03/2022 10:17:16
+Validando Funciones: 28/03/2022 10:17:16
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:17:26
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:17:36
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:17:46
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:17:56
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:18:06
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:18:16
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:18:26
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:18:36
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:18:46
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:18:56
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:19:06
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:19:16
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:19:26
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:19:36
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:19:46
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:19:56
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:20:06
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:20:16
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:20:26
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:20:36
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:20:46
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:20:56
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:21:06
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:21:16
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:21:26
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:21:36
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:21:46
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:21:56
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:22:06
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:22:16
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:22:26
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+El fichero ->encabezados.txt<- no existe
+-______________________________________________________________________________________________________-
+Validando Funciones: 28/03/2022 10:22:36
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cumbres<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(ferronales)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Ampliación)<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(El<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Para<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Cañada<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+->(Las<- cadena alfanumerica  no valida en la la columna ->12<-
+-______________________________________________________________________________________________________-
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
+Archivo ->Ascendente_apellido_paterno28-03-2022-10-22-52.csv<- Generado Exitosamente
+Fin Funciones: 28/03/2022 10:22:52
+Validando Funciones: 28/03/2022 10:22:52
+Archivo ->Personas.csv<- validado CORRECTAMENTE
+Archivo ->encabezados.txt<-validado CORRECTAMENTE
+Validar encabezados de: ->Personas.csv<- Y ->encabezados.txt<- CORRECTAMENTE
+Validacion de Columnas del archivo ->Personas.csv<- CORRECTAMENTE
