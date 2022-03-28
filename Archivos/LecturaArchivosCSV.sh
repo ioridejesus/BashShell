@@ -1,9 +1,9 @@
 #!/bin/bash
 ########################################################################################
 #Aplicacion:LECTURA DE ARCHIVOS Y SALIDA DE ARCHIVOS DE FORMA ASCENDENTE / DESCENDENTE #
-#Nombre del shell:LecturaArchivosCSV		 				       #
-#Tipo de proceso (BATCH u ONLINE): BATCH                                	       #
-#Autor: Luis de Jesus Juan                                              	       #
+#Nombre del shell:LecturaArchivosCSV												   #
+#Tipo de proceso (BATCH u ONLINE): BATCH                                	           #
+#Autor: Luis de Jesus Juan                                              	           #
 ########################################################################################
 
 #################### Fecha y hora en la que inicia nuestro Shell ####################
@@ -62,19 +62,21 @@ function ValidarNumero {
 	NumeroValidate=$1
 	RangoNumero=$2
 	ValidarSalida=$3
+	Mensaje_Numero=$4
 
 	if [[ $RangoNumero == "" || $RangoNumero == 0 ]]; then
+
 		if [[ $NumeroValidate =~ ^[0-9] ]]; then
 			echo "->$NumeroValidate<- es un numero"
 		else
 			if [[ $ValidarSalida == 1 ]]
 			then
 
-				echo "->$NumeroValidate<- NO es un numero" >>$ERRORES
+				echo "->$NumeroValidate<- NO es un numero $Mensaje_Numero" >>$ERRORES
 				echo "$separador" >>$ERRORES
 				exit 1
 			else
-				echo "->$NumeroValidate<- NO es un numero" >>$ERRORES
+				echo "->$NumeroValidate<- NO es un numero $Mensaje_Numero" >>$ERRORES
 				echo "$separador" >>$ERRORES
 			fi
 
@@ -88,24 +90,24 @@ function ValidarNumero {
 				then
 					NUMCARACTERES=$(echo $NumeroValidate | awk '{print length($0)}')
 					echo "->$NumeroValidate<- NO es un numero o" >>$ERRORES
-					echo "->$NumeroValidate<- Debe de contener ->$RangoNumero<- caracteres y tienes ->$NUMCARACTERES<- caracteres" >>$ERRORES
+					echo "->$NumeroValidate<- Debe de contener ->$RangoNumero<- caracteres y tienes ->$NUMCARACTERES<- caracteres $Mensaje_Numero" >>$ERRORES
 					echo "$separador" >>$ERRORES
 					exit 1
 				else
 					NUMCARACTERES=$(echo $NumeroValidate | awk '{print length($0)}')
 					echo "->$NumeroValidate<- NO es un numero o" >>$ERRORES
-					echo "->$NumeroValidate<- Debe de contener ->$RangoNumero<- caracteres y tienes ->$NUMCARACTERES<- caracteres" >>$ERRORES
+					echo "->$NumeroValidate<- Debe de contener ->$RangoNumero<- caracteres y tienes ->$NUMCARACTERES<- caracteres $Mensaje_Numero" >>$ERRORES
 					echo "$separador" >>$ERRORES
 				fi
 			fi
 		else 
-			if [[ $ValidarSalida == 1]]
+			if [[ $ValidarSalida == 1 ]]
 			then
-				echo "->$RangoNumero<- NO es un parametro valido" >>$ERRORES
+				echo "->$RangoNumero<- NO es un parametro valido $Mensaje_Numero" >>$ERRORES
 				echo "$separador" >>$ERRORES
 				exit 1
 			else
-				echo "->$RangoNumero<- NO es un parametro valido" >>$ERRORES
+				echo "->$RangoNumero<- NO es un parametro valido $Mensaje_Numero" >>$ERRORES
 				echo "$separador" >>$ERRORES
 			fi
 		fi
@@ -136,16 +138,13 @@ function ValidarParametros {
 			else
 				echo "El fichero ->$ArchivoAnalizar<- se encuentra vacio" >>$ERRORES
 				echo "$separador" >>$ERRORES
-				#	sleep 5
-				#	ValidarParametros $ArchivoAnalizar $NumeroParametro $MensajeError
+				
 				DormirBash
 			fi
 		else
 			echo "El fichero ->$ArchivoAnalizar<- no existe" >>$ERRORES
 			echo "$separador" >>$ERRORES
 
-			#	sleep 5
-			#	ValidarParametros $ArchivoAnalizar $NumeroParametro $MensajeError
 			DormirBash
 		fi
 	fi
@@ -289,10 +288,11 @@ function ValidarColumnasArchivo {
 				ValidarFecha $i
 
 			elif [[ $NUMEROCOLUMNA == 7 ]]; then
-				ValidarNumero $i
+
+				ValidarNumero $i "" 2 "en la la columna $j"
 
 			elif [[ $NUMEROCOLUMNA == 8 ]]; then
-				ValidarNumero $i 10
+				ValidarNumero $i 10 2 "en la columna $j"
 
 			elif [[ $NUMEROCOLUMNA == 11 || $NUMEROCOLUMNA == 12 || $NUMEROCOLUMNA == 13 ]]; then
 				ValidarAlfanumerico $i
@@ -315,7 +315,7 @@ function Ordenamiento {
 	ValidarNoVacio "$ORDENARCOLUMNA" "3"
 
 	#Validamos que la columna que nos indican sea un numero
-	ValidarNumero $ORDENARCOLUMNA
+	ValidarNumero $ORDENARCOLUMNA "" 1 "En el parametro 3"
 
 	#Si la columna que vamos a ordenar es un numero entonces validamos el rango de las columnas
 	if (($ORDENARCOLUMNA >= 1 && $ORDENARCOLUMNA <= $NUMENCABEZADOSESLAVE)); then
@@ -324,7 +324,7 @@ function Ordenamiento {
 		ValidarNoVacio "$TIPOORDENAMIENTO" "4"
 
 		#Validamos que el parametro de ordenamiento se un numero
-		ValidarNumero $TIPOORDENAMIENTO
+		ValidarNumero $TIPOORDENAMIENTO "" 1 "En el parametro 4"
 
 		#Contamos las lineas que vamos a ordenar excluyendo el encabezado
 		TOTALFILAS=$(wc -l $NOMBREARCHIVO | awk '{print $1}')
@@ -437,22 +437,27 @@ function DormirBash {
 	echo "" >>$ERRORES
 }
 
-#########################################################################
+#################### Validacion de Parametros Numericos #################### 
 
-#Parametro de tiempo de vida de nuestro shell
+# Parametro Columna Ordenamiento que no venga vacio y que sea un numero
+ValidarNoVacio "$3" "3"
+ValidarNumero $3 "" 1 "el parametro ->3<- indica la columna en la cual se va a ordenar"
 
-#Validamos que el parametro de la hora no venga vacio
+# Parametro Columna Ordenamiento que no venga vacio y que sea un numero
+ValidarNoVacio "$4" "4"
+ValidarNumero $4 "" 1 "el parametro ->4<- indica el ordenamiento 1 Ascendente | 2 Descendente"
+
+#Validamos que el parametro de la hora no venga vacio y la hora que nos envian sea un numero
 ValidarNoVacio "$5" "5"
 
-#Validamos que el Parametro de la hora que nos envian sea un numero
-ValidarNumero $5
+ValidarNumero $5 "" 1 "el parametro ->5<- indica la hora en que finaliza el proceso"
 
 declare -i Hora_End=$5
 
 declare -i Hora_Start="$(date +%H)"
 
-#########################################################################
-#Mandamos llamar nuestras funciones
+#################### Ejecucion ####################
 
+#Mandamos llamar nuestras funciones
 
 DormirBash
